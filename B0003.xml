@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<?xml-model href="https://www.deutschestextarchiv.de/basisformat_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -104,11 +100,11 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <encodingDesc>
+        <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><encodingDesc>
             <editorialDecl>
                 <p>
                     
-                    &lt;p&gt;Dieses Werk wurde in XML/TEI P5 nach &lt;a href="http://www.deutschestextarchiv.de/doku/basisformat"&gt;DTA-Basisformat&lt;/a&gt; kodiert.&lt;/p&gt;
+                    &amp;lt;p&amp;gt;Dieses Werk wurde in XML/TEI P5 nach &amp;lt;a href="http://www.deutschestextarchiv.de/doku/basisformat"&amp;gt;DTA-Basisformat&amp;lt;/a&amp;gt; kodiert.&amp;lt;/p&amp;gt;
                     
                 </p>
             </editorialDecl>
@@ -127,7 +123,28 @@
     <text>
         <body>
             <p>
-                +++Transkription einfügen+++
+                Weymar. Le jeudi matin, 25 Octobre/6 Novembre 1817.
+<lb/>
+<lb/>Ma bonne et chère Maman!
+<lb/>
+<lb/>On m’annonce un courier venant de Madrid et allant à Moscou et j’en
+<lb/>profite pour avoir le bonheur de Vous adresser ces lignes. Je me flatte que la journée ne se
+<lb/>passera pas sans que je ne voye arriver la lettre que j’attends avec tant
+<lb/>d’impatience sur Votre arrivée à Moscou, où je vérai le détail de Votre réception et
+<lb/>de toute la joie de ce bon peuple en voyant toute la famille réunie dans ces murs
+<lb/>antiques et fameux. Ma lettre d’hier par la poste Vous aura déja fait part chère
+<lb/>Maman de ce qui me regarde, et de ce qui répond aux desirs que depuis longtems déja
+<lb/>Vous formiez pour moi. Toutes les apparences y sont pour que l’on puisse les croire réalisés,
+<lb/>et quoique j’aurois desiré attendre plus longtems afin d’arriver jusqu’à nouvelle
+<lb/>confirmation pour Vous en parler décidément, cependant j’ai cru ne plus pouvoir tarder
+<lb/>à le faire parce que tout indique trop l’état où je me trouve; il y a déja longtems
+<lb/>que j’ai remis ce qui me concerne à Dieu, je regarde donc ceci comme l’effet de sa
+<lb/>volonté, et me répète, que sa volonté soit faite, sans aller chercher plus. Veuillez me
+<lb/>continuer Vos bénédictions, chère Maman, et ne faire encore part de ceci qu’à Aléxandre
+<lb/>et à notre chère c[om]tesse, il sera toujours assez tôt d’attendre pour le faire à d’autres y
+<lb/>voyant encore un long terme devant moi jusqu’au moment final: au reste je m’en
+<lb/>
+
             </p>
         </body>
     </text>
