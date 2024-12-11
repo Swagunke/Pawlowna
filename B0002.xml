@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<?xml-model href="https://www.deutschestextarchiv.de/basisformat_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="null"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -104,11 +103,11 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <encodingDesc>
+        <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><encodingDesc>
             <editorialDecl>
                 <p>
                     
-                    &lt;p&gt;Dieses Werk wurde in XML/TEI P5 nach &lt;a href="http://www.deutschestextarchiv.de/doku/basisformat"&gt;DTA-Basisformat&lt;/a&gt; kodiert.&lt;/p&gt;
+                    &amp;lt;p&amp;gt;Dieses Werk wurde in XML/TEI P5 nach &amp;lt;a href="http://www.deutschestextarchiv.de/doku/basisformat"&amp;gt;DTA-Basisformat&amp;lt;/a&amp;gt; kodiert.&amp;lt;/p&amp;gt;
                     
                 </p>
             </editorialDecl>
@@ -127,7 +126,65 @@
     <text>
         <body>
             <p>
-                +++Transkription einfügen+++
+                fol. 252r
+<lb/>Weymar. Le jeudi matin, 25 Octobre/6 Novembre 1817.
+<lb/>
+<lb/>Ma bonne et chère Maman!
+<lb/>
+<lb/>On m’annonce un courier venant de Madrid et allant à Moscou et j’en
+<lb/>profite pour avoir le bonheur de Vous adresser ces lignes. Je me flatte que la journée ne se
+<lb/>passera pas sans que je ne voye arriver la lettre que j’attends avec tant
+<lb/>d’impatience sur Votre arrivée à Moscou, où je vérai le détail de Votre réception et
+<lb/>de toute la joie de ce bon peuple en voyant toute la famille réunie dans ces murs
+<lb/>antiques et fameux. Ma lettre d’hier par la poste Vous aura déja fait part chère
+<lb/>Maman de ce qui me regarde, et de ce qui répond aux desirs que depuis longtems déja
+<lb/>Vous formiez pour moi. Toutes les apparences y sont pour que l’on puisse les croire réalisés,
+<lb/>et quoique j’aurois desiré attendre plus longtems afin d’arriver jusqu’à nouvelle
+<lb/>confirmation pour Vous en parler décidément, cependant j’ai cru ne plus pouvoir tarder
+<lb/>à le faire parce que tout indique trop l’état où je me trouve; il y a déja longtems
+<lb/>que j’ai remis ce qui me concerne à Dieu, je regarde donc ceci comme l’effet de sa
+<lb/>volonté, et me répète, que sa volonté soit faite, sans aller chercher plus. Veuillez me
+<lb/>continuer Vos bénédictions, chère Maman, et ne faire encore part de ceci qu’à Aléxandre
+<lb/>et à notre chère c[om]tesse, il sera toujours assez tôt d’attendre pour le faire à d’autres y
+<lb/>voyant encore un long terme devant moi jusqu’au moment final: au reste je m’en
+<lb/>
+<lb/>fol. 252v
+<lb/>remets là-dessus entièrement à ce que Vous jugerez à propos chère Maman, Vous
+<lb/>demandant mille pardons du désordre de ces lignes, mais la tête me tourne et
+<lb/>le coeur aussi, de sorte que j’ai peine à écrire. Les enfans se portent bien, et
+<lb/>se mettent à Vos pieds, le pr[ince] vouloit avoir l’honneur de Vous écrire lui-même.
+<lb/>J’embrasse mon frère et notre chère c[om]tesse, ne pouvant écrire à personne, et j’embrasse
+<lb/>de plus toute la famille que j’affectionne grandement. Je Vous baise
+<lb/>mille et mille fois les mains chère Maman étant à jamais avec ce dévouement
+<lb/>que Vous me connoissez pour Vous.
+<lb/>
+<lb/>Chère Maman,
+<lb/>
+<lb/>Votre plus soumise et 
+<lb/>obéissante fille, Marie.
+<lb/>No. 243 [1817 Nov. 6]
+<lb/>fol. 253r
+<lb/>Weymar. Jeudi matin, 25 Octobre/6 Novembre 1817.
+<lb/>
+<lb/>Ma bonne et chère Maman!
+<lb/>
+<lb/>Il y a peu d’instans que j’ai eu le bonheur de Vous adresser une lettre par un
+<lb/>feldjäger venant de Madrid; ces lignes-ci sont pour la poste du jour, et Vous daignerez m’excuser
+<lb/>si elles sont courtes et insignifiantes, mais les mêmes raisons qui m’ont forcée à abréger
+<lb/>l’autre lettre m’obligent également à raccourcir celle-ci. Le tems superbe qu’il fait
+<lb/>m’offre au moins un soulagement, par la possibilité d’aller me promener, aussi je
+<lb/>compte en profiter. Comme nous ne sommes jamais sans des étrangers, hier
+<lb/>nous avons possédé ici Mad[ame] Tatischeff, qui est repartie ce matin pour l’Espagne,
+<lb/>et aujourd’huy nous avons des figures du voisinage, de sorte que je n’échapperai
+<lb/>pas à une visite avant le dinner. On dit que cela raffraichit les idées,
+<lb/>ainsi soit-il. Je Vous baise les mains chère Maman de tout mon
+<lb/>coeur en me mettant à Vos pieds, et embrassant la famille et la c[om]tesse.
+<lb/>Je suis avec le plus respectueux dévouement,
+<lb/>
+<lb/>de ma bonne et chère Maman,
+<lb/>la plus soumise et obéissante fille,
+<lb/>Marie.
+
             </p>
         </body>
     </text>
