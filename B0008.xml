@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<?xml-model href="https://www.deutschestextarchiv.de/basisformat_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="null"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -104,11 +103,11 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <encodingDesc>
+        <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><encodingDesc>
             <editorialDecl>
                 <p>
                     
-                    &lt;p&gt;Dieses Werk wurde in XML/TEI P5 nach &lt;a href="http://www.deutschestextarchiv.de/doku/basisformat"&gt;DTA-Basisformat&lt;/a&gt; kodiert.&lt;/p&gt;
+                    &amp;lt;p&amp;gt;Dieses Werk wurde in XML/TEI P5 nach &amp;lt;a href="http://www.deutschestextarchiv.de/doku/basisformat"&amp;gt;DTA-Basisformat&amp;lt;/a&amp;gt; kodiert.&amp;lt;/p&amp;gt;
                     
                 </p>
             </editorialDecl>
@@ -127,7 +126,57 @@
     <text>
         <body>
             <p>
-                +++Transkription einfügen+++
+                <lb/>No. 248 [1817 Nov. 15-16]
+<lb/>fol. 259r
+<lb/>Weymar. Samedi, 3/15 novembre 1817.
+<lb/>
+<lb/>Ma bonne et chère Maman!
+<lb/>
+<lb/>Ayant eu le bonheur de Vous écrire hier par Berlin, celle-ci ne sera que de deux
+<lb/>jours. Quelle a été ma surprise de voir arriver ce matin chez moi Mr. Wassiltschikoff,
+<lb/>frère de la comtesse Kotschoubey; Vous juger chère Maman si je l’ai bien reçu
+<lb/>et si je me suis empressée à ouvrir Votre chère lettre du 24 sept[embre], No. 98, ainsi que
+<lb/>la boite qui l’accompagnoit, et la vue de Votre portrait m’a réjouie d’une manière
+<lb/>indisible; sans le trouver parlant, ni parfait, il a pourtant de la ressemblance,
+<lb/>et me fait un plaisir, mais un plaisir extrême; je Vous en remercie mille
+<lb/>mille fois chère Maman, comme du plus précieux cadeau que Vous ayez pu
+<lb/>me faire; je l’ai montré de suite au pr[ince] et à mes enfans, les petites ont une
+<lb/>grande joie d’avoir vu Grand-Maman de Russie, et m’ont beaucoup demandé
+<lb/>si ce portrait étoit bien, bien ressemblant? Le pr[ince] et moi pensons de même à son
+<lb/>sujet, et sommes fort heureux de l’avoir dans notre maison: j’ose encore une
+<lb/>fois Vous en exprimer chère Maman mes plus sensibles remercimens, j’attens
+<lb/>avec impatience celui qui m’arrive par mer, et auquel je tiens par mille
+<lb/>et mille souvenirs, l’ayant vu depuis que je me rappelle au monde de quelque chose,
+<lb/>toujours dans la chambre de Papa! J’ai questionné Wassiltschikof à mort,
+<lb/>
+<lb/>fol. 259v
+<lb/>
+<lb/>et l’ai forcé à passer la journée ici; je suis toujours si heureuse quand je
+<lb/>vois un compatriote, il me semble que je suis mieux portante, et que j’ai
+<lb/>plus de forces pour supporter les maux inévitables de mon état; enfin
+<lb/>c’est une heureuse journée chère Maman, et le portrait est toujours près de
+<lb/>moi. Je Vous baise les mains de tout mon coeur.
+<lb/>
+<lb/>Dimanche, 4/16 novembre.
+<lb/>
+<lb/>Chère Maman, permettez-moi de Vous féliciter du jour de nom de notre
+<lb/>chère c[om]t[e]sse, que nous aimons et respectons tous, veuille le Ciel nous la conserver
+<lb/>longues et longues années! Sûrement Vous avez déjeuné chez elle, et avez
+<lb/>peut-être accordé une petite minute au souvenir de Votre fidelle Marie, voyez
+<lb/>chère Maman comme l’on devient présomptueux dans ce monde!
+<lb/>L’on dit ici, à ce que je viens d’apprendre que la pr[ince]sse Charlotte d’Angleterre
+<lb/>est accouchée d’un fils mort, et ne lui a survécu que deux jours: ce
+<lb/>seroit terrible en vérité, et de nouveau un événement bien frappant. Notre
+<lb/>tems est tout à fait à la pluye, chère Maman, malgé cela on m’envoye
+<lb/>promener en voiture. Je baise vos chères mains, j’embrasse frères, soeurs
+<lb/>et notre bonne c[om]t[e]sse, et suis éternellement avec le plus respectueux
+<lb/>attachement,
+<lb/>
+<lb/>de ma bonne et chère Maman,
+<lb/>la plus dévouée et obéissante
+<lb/>fille Marie.
+<lb/>
+<lb/>[P. S.] Le pr[ince] et les enfans, se mettent à Vos pieds.
             </p>
         </body>
     </text>
