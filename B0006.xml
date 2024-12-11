@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<?xml-model href="https://www.deutschestextarchiv.de/basisformat_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="null"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -104,11 +103,11 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <encodingDesc>
+        <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><encodingDesc>
             <editorialDecl>
                 <p>
                     
-                    &lt;p&gt;Dieses Werk wurde in XML/TEI P5 nach &lt;a href="http://www.deutschestextarchiv.de/doku/basisformat"&gt;DTA-Basisformat&lt;/a&gt; kodiert.&lt;/p&gt;
+                    &amp;lt;p&amp;gt;Dieses Werk wurde in XML/TEI P5 nach &amp;lt;a href="http://www.deutschestextarchiv.de/doku/basisformat"&amp;gt;DTA-Basisformat&amp;lt;/a&amp;gt; kodiert.&amp;lt;/p&amp;gt;
                     
                 </p>
             </editorialDecl>
@@ -127,7 +126,50 @@
     <text>
         <body>
             <p>
-                +++Transkription einfügen+++
+                <lb/>No. 246 [1817 Nov. 13]
+<lb/>fol. 257r
+<lb/>Weymar. Jeudi, 1/13 novembre 1817.
+<lb/>
+<lb/>Ma bonne et chère Maman!
+<lb/>
+<lb/>Ce matin à mon réveil, l’on m’a remis Votre chère lettre du 16/28 et 17/29
+<lb/>oct[obre], No. 108, qu’un courier allant à Madrid avoit laissée ici a son passage
+<lb/>cette nuit: je Vous laisse à juger chère Maman, si je me suis sentie heureuse,
+<lb/>et si j’ai joui en y trouvant les expressions de Votre tendresse à laquelle
+<lb/>Vous avez daigné m’accoutumer; je Vous en remercie mille et mille fois, comme
+<lb/>pour les charmantes boucles d’oreilles pour les petites, qui en ont été enchantées, et
+<lb/>pour la bague pour moi, qui me portera sans doute bonheur, venant de Vous,
+<lb/>et étant une turquoise, pierre en réputation sous ce rapport. Combien tous les
+<lb/>détails que Vous avez bien voulu me transmettre sur Moscou, ne me
+<lb/>sont-ils pas précieux, et que je suis aise de la disposition qui règne dans
+<lb/>cette respectable cité, que nos habitudes russes ont surnommée Матушка
+<lb/>Москва à juste titre, et que cette grande et belle ville est loin d’être
+<lb/>une capitale ordinaire, sans autre intéret que celui d’une résidence et des
+<lb/>beautés que les arts ont fournies pour en parer le séjour! À Moscou,
+<lb/>le sol est beau en lui-même, il est classique pour tout russe, car tout
+<lb/>y a une signification, et les bâtimens correspondent parfaitement à
+<lb/>reproduire un tableau progressif des tems reculés et modernes: je serois
+<lb/>
+<lb/>fol. 257v
+<lb/>fort heureuse de la revoir un jour, mais voilà de ces rêves auxquels je crois
+<lb/>qu’il ne faut pas trop se livrer. En attendant, si Alexandrine est de fait
+<lb/>enceinte, la naissance d’un garçon dans Moscou, ne peut que faire
+<lb/>grand plaisir aux unes et aux autres, et je m’en réjouis sincèrement
+<lb/>par avance dans mon coin. J’aurai le bonheur de revenir sur ce que
+<lb/>Votre lettre contient un autre jour, et par une autre voye, ne voulant pas
+<lb/>d’ailleurs manquer la poste: permettez qu’en attendant je Vous
+<lb/>exprime chère Maman toute ma reconnoissance pour la description de
+<lb/>Votre appartement que Vous avez bien voulu me faire, et surtout pour celle
+<lb/>du cabinet de travail, chose à laquelle je tenois: grâces à Vous, je suis
+<lb/>parfaitement orientée, autrefois cette pièce si je ne me trompe servoit
+<lb/>aux gens. Où demeure la c[om]t[e]sse, et qui occupe nos anciennes chambres?
+<lb/>Je me mets mille fois à Vos pieds chère Maman, embrassant
+<lb/>frères, soeurs, et notre chère c[om]t[e]sse, et Vous baise mille fois les mains,
+<lb/>étant à jamais avec le plus respectueux dévouement,
+<lb/>
+<lb/>de ma bonne et chère Maman,
+<lb/>la plus soumise et obéissante
+<lb/>fille, Marie.
             </p>
         </body>
     </text>
