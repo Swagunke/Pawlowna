@@ -125,8 +125,8 @@
     </teiHeader>
     <text>
         <body>
-            <p/>
-            <lb/>No. 245 [1817 Nov. 10-12]
+            <p>
+                <lb/>No. 245 [1817 Nov. 10-12]
 <lb/>fol. 255r
 <lb/>Weymar. Lundi, 29 octobre/ 10 novembre 1817.
 <lb/>
@@ -201,6 +201,7 @@
 <lb/>de ma bonne et chère Maman,
 <lb/>la plus soumise et dévouée
 <lb/>fille, Marie.
+            </p>
         </body>
     </text>
 </TEI>
