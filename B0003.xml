@@ -258,6 +258,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0003.xml?place_annotation_20241211112655247",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-12-11T10:26:55.247Z",
+	"dcterms:modified": "2024-12-11T10:26:55.247Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/Swagunke",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Swagunke"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0003.xml?place_annotation_20241211112655247#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0003.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0003.xml?place_annotation_20241211112655247#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p/placeName[3]/placeName/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "https://www.thulb.uni-jena.de/home",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
             <editorialDecl>
                 <p>
@@ -292,7 +371,7 @@
 <lb/>de toute la joie de ce bon peuple en voyant toute la famille réunie dans ces murs
 <lb/>antiques et fameux. Ma lettre d’hier par la poste Vous aura déja fait part chère
 <lb/>Maman de ce qui me regarde, et de ce qui répond aux desirs que depuis longtems déja
-<lb/>Vous formiez pour moi. Toutes les apparences y sont <placeName><placeName cert="high">pour que</placeName></placeName> l’on puisse les croire réalisés,
+<lb/>Vous formiez pour moi. Toutes les apparences y sont <placeName><placeName cert="high"><placeName key="pour que" ref="https://www.thulb.uni-jena.de/home">pour que</placeName></placeName></placeName> l’on puisse les croire réalisés,
 <lb/>et quoique j’aurois desiré attendre plus longtems afin d’arriver jusqu’à nouvelle
 <lb/>confirmation pour Vous en parler décidément, cependant j’ai cru ne plus pouvoir tarder
 <lb/>à le faire parce que tout indique trop l’état où je me trouve; il y a déja longtems
