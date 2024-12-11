@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<?xml-model href="https://www.deutschestextarchiv.de/basisformat_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="null"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -104,11 +103,11 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <encodingDesc>
+        <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><encodingDesc>
             <editorialDecl>
                 <p>
                     
-                    &lt;p&gt;Dieses Werk wurde in XML/TEI P5 nach &lt;a href="http://www.deutschestextarchiv.de/doku/basisformat"&gt;DTA-Basisformat&lt;/a&gt; kodiert.&lt;/p&gt;
+                    &amp;lt;p&amp;gt;Dieses Werk wurde in XML/TEI P5 nach &amp;lt;a href="http://www.deutschestextarchiv.de/doku/basisformat"&amp;gt;DTA-Basisformat&amp;lt;/a&amp;gt; kodiert.&amp;lt;/p&amp;gt;
                     
                 </p>
             </editorialDecl>
@@ -127,7 +126,31 @@
     <text>
         <body>
             <p>
-                +++Transkription einfügen+++
+                <lb/>No. 250 [1817 Nov. 20]
+<lb/>fol. 262r
+<lb/>Weymar. Le jeudi, 8/20 novembre 1817.
+<lb/>
+<lb/>Ma bonne et chère Maman!
+<lb/>
+<lb/>Veuillez agréer mes très respectueuses félicitations pour la fête de notre cher
+<lb/>Don Michel, que nous aimons tout de notre coeur, et qui est une excellente créature:
+<lb/>je pense qu’il sera à Moscou vers la fin de cette année, et m’en vas lui écrire
+<lb/>la poste prochaine, pour aujourd’huy cela m’étant impossible. Je l’embrasse
+<lb/>de tout mon coeur et l’aime bien. Il fait toujours chère Maman le plus
+<lb/>détestable tems du monde, il n’y a pas moyen de faire un pas dehors, et ce
+<lb/>tems me contrarie doublement dans mes circonstances présentes parce que j’ai
+<lb/>le sang à la tête, et que pourtant on ne veut pas encore me saigner, il est
+<lb/>possible que j’aurai recours à des sangsues. Rien de nouveau dans cet univers
+<lb/>que je sâche, mais ma charmante perspective pour moi est celle que m’offre
+<lb/>l’arrivée de la poste de ce soir, qui je l’espère me favorisera d’une de Vos lettres
+<lb/>chère Maman, c’est toujours pour moi un heureux moment. J’embrasse
+<lb/>frères et soeurs et notre chère c[om]t[e]sse, et Vous baise les mains de tout mon
+<lb/>coeur, étant à jamais avec le plus respectueux et le plus parfait
+<lb/>attachement,
+<lb/>
+<lb/>de ma bonne et chère Maman,
+<lb/>la plus soumise et dévouée
+<lb/>fille, Marie.
             </p>
         </body>
     </text>
