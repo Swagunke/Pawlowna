@@ -244,7 +244,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0007.xml?person_annotation_20241216211048301#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[5]"
+			"rdf:value": "TEI/text/body/p/persName[7]"
 		}
 	},
 	"oa:hasBody": {
@@ -375,8 +375,8 @@
 <lb/>recevoir hier par la poste. Je regrette bien avec Vous chère Maman la mort de <persName>Mad[ame] Louky</persName>
 <lb/>et l’accident du <persName>vieux Kyril</persName>, et je conçois combien des nouvelles de ce genre peuvent affecter,
 <lb/>car comment ne pas s’attacher non seulement aux services, à la fidélité et à l’affection?
-<lb/>J’ai aussi eu une lettre de mes anciennes femmes de chambre de Russie, qui disent
-<lb/>m’avoir écrit au mois de juillet la mort de leur vieille mère, qui aussi m’avoit 
+<lb/>J’ai aussi eu une lettre de <persName>mes anciennes femmes de chambre de Russie</persName>, qui disent
+<lb/>m’avoir écrit au mois de juillet la mort de <persName>leur vieille mère</persName>, qui aussi m’avoit 
 <lb/>servi jadis, mais quoiqu’elles eussent remis cette lettre dont elles me parlent à Mr.
 <lb/>Willamoff, je ne l’ai jamais reçue. Elles me répètent la nouvelle de la mort
 <lb/>de leur mère, et me demandent de rappeller aux bontés de l’Emp[ereur] l’espoir qu’il
