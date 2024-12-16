@@ -244,7 +244,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0004.xml?person_annotation_20241216190722173#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[9]"
+			"rdf:value": "TEI/text/body/p/persName[10]"
 		}
 	},
 	"oa:hasBody": {
@@ -797,7 +797,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0004.xml?person_annotation_20241216192435018#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[8]"
+			"rdf:value": "TEI/text/body/p/persName[9]"
 		}
 	},
 	"oa:hasBody": {
@@ -1183,7 +1183,7 @@
 <lb/>mais dans ce monde l’on est toujours prompt à juger; et souvent il faut revenir
 <lb/>de ses opinions, je pense qu’il en sera ainsi cette fois, et que ce voïage a de bonnes
 <lb/>raisons. <persName key="Karl August, Sachsen-Weimar-Eisenach, Großherzog" ref="https://d-nb.info/gnd/11856014X">Le GrDuc</persName> part pour aller chasser pendant quelques jours aux environs; et
-<lb/>ma bonne Mad[ame] Ziegesar s’en va retourner chez son mari, mais reviendra
+<lb/>ma bonne <persName>Mad[ame] Ziegesar</persName> s’en va retourner chez son mari, mais reviendra
 <lb/>me dit-elle le mois prochain si elle le peut. <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">Les petites</persName> se portent bien,
 <lb/>chère Maman et Vous présentent leurs respects, je Vous baise les mains
 <lb/>de tout mon coeur.
