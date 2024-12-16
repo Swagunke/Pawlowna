@@ -165,7 +165,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0007.xml?person_annotation_20241216211022979#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName"
+			"rdf:value": "TEI/text/body/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -244,7 +244,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0007.xml?person_annotation_20241216211048301#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[7]"
+			"rdf:value": "TEI/text/body/persName[7]"
 		}
 	},
 	"oa:hasBody": {
@@ -323,7 +323,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0007.xml?person_annotation_20241216211217980#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[2]"
+			"rdf:value": "TEI/text/body/persName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -404,16 +404,16 @@
 			"@type": "oa:RangeSelector",
 			"oa:hasStartSelector": {
 				"@type": "oa:XPathSelector",
-				"rdf:value": "TEI/text/body/p/persName[5]"
+				"rdf:value": "TEI/text/body/persName[5]"
 			},
 			"oa:hasEndSelector": {
 				"@type": "oa:XPathSelector",
-				"rdf:value": "TEI/text/body/p"
+				"rdf:value": "TEI/text/body"
 			},
 			"oa:refinedBy": {
 				"@type": "oa:TextPositionSelector",
 				"oa:start": 35,
-				"oa:end": 725
+				"oa:end": 738
 			}
 		}
 	},
@@ -453,7 +453,7 @@
     </teiHeader>
     <text>
         <body>
-            <p>
+            
                 <lb/>No. 247 [1817 Nov. 14]
 <lb/>fol. 258r
 <lb/>Weymar. Vendredi, 2/14 novembre 1817.
@@ -490,7 +490,7 @@
 <lb/>de ma bonne et chère Maman,
 <lb/>la plus soumise et obéissante
 <lb/>fille, <persName key="Maria, Sachsen-Weimar, Großherzogin" ref="https://d-nb.info/gnd/104304219">Marie</persName>.
-            </p>
+            
         </body>
     </text>
 </TEI>
