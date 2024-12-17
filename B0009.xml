@@ -1113,12 +1113,170 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0009.xml?place_annotation_20241217141011907#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/placeName[4]"
+			"rdf:value": "TEI/text/body/p/placeName[6]"
 		}
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:RealPlace",
 		"@id": "https://d-nb.info/gnd/4044660-8",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0009.xml?place_annotation_20241217141043207",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-12-17T13:10:43.207Z",
+	"dcterms:modified": "2024-12-17T13:10:43.207Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/IIwanov",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Iwan Iwanov"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0009.xml?place_annotation_20241217141043207#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0009.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0009.xml?place_annotation_20241217141043207#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p/placeName[5]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "https://d-nb.info/gnd/4055964-6",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0009.xml?place_annotation_20241217141228487",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-12-17T13:12:28.487Z",
+	"dcterms:modified": "2024-12-17T13:12:28.487Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/IIwanov",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Iwan Iwanov"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0009.xml?place_annotation_20241217141228487#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0009.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0009.xml?place_annotation_20241217141228487#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p/placeName[4]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "https://d-nb.info/gnd/4014770-8",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1169,7 +1327,7 @@
 <lb/>qu’elle porte, et Vous concevrez avec quel intéret pour cet édifice, je sens battre <placeName key="Russland" ref="https://d-nb.info/gnd/4076899-5">mon
 <lb/>coeur patriote</placeName>, enfin et amen, sur tout cela: j’attens avec impatience la description
 <lb/>de cette grande et belle cérémonie, qui m’émeut d’ici. Malheureusement la mort
-<lb/>de <persName key="Charlotte Augusta, Großbritannien, Prinzessin" ref="https://d-nb.info/gnd/121701573">la pr[ince]sse d’Angleterre</persName> se confirme de tous cotés, c’est une perte pour sa nation qui
+<lb/>de <persName key="Charlotte Augusta, Großbritannien, Prinzessin" ref="https://d-nb.info/gnd/121701573">la pr[ince]sse d’Angleterre</persName> se confirme de tous cotés, c’est une perte <placeName key="England" ref="https://d-nb.info/gnd/4014770-8">pour sa nation</placeName> qui
 <lb/>paroissoit l’aimer: on dit qu’elle a été mal saignée et qu’ayant pris de l’opium
 <lb/>pendant le travail, il en est résulté de fâcheux incidens; ce n’est pas une consolation
 <lb/>que de se dire que c’est par l’ignorance ou la négligence des préposés qu’une personne
@@ -1194,7 +1352,7 @@
 <lb/>se mettent à Vos pieds chère Maman, ils sont d’une gaieté folle, et je continue
 <lb/>à être contente de <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">Marie</persName>. Vous me demandez ce que je lis, j’achève le 4me vol[ume] de
 <lb/><persName key="Thucydides" ref="https://d-nb.info/gnd/11862234X">Thucydide</persName>, le 3[me] de l’ouvrage de <persName key="Storch, Heinrich Friedrich von" ref="https://d-nb.info/gnd/118897756">Storch</persName> sur l’économie politique, et j’ai lu ces jours-
-<lb/>ci un traité sur la littérature espagnole qui m’a fait plaisir. Le tems est affreux
+<lb/>ci un traité sur la littérature <placeName key="Spanien" ref="https://d-nb.info/gnd/4055964-6">espagnole</placeName> qui m’a fait plaisir. Le tems est affreux
 <lb/>et je ne puis sortir qu’en voiture, ce qui est furieusement ennuyeux, mais encore
 <lb/>faut-il faire de l’exercice. Voici chère Maman une lettre que notre bon
 <lb/><persName key="Kurakin, Aleksandr Borisovič" ref="https://d-nb.info/gnd/11755524X">Kourakin</persName> m’envoye pour Vous, il est tout plongé dans <placeName key="Paris" ref="https://d-nb.info/gnd/4044660-8">Paris</placeName>, et prétend être
