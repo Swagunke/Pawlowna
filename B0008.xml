@@ -244,7 +244,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0008.xml?person_annotation_20241217125927124#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[4]"
+			"rdf:value": "TEI/text/body/p/persName[5]"
 		}
 	},
 	"oa:hasBody": {
@@ -377,7 +377,7 @@
 <lb/>indisible; sans le trouver parlant, ni parfait, il a pourtant de la ressemblance,
 <lb/>et me fait un plaisir, mais un plaisir extrême; je Vous en remercie mille
 <lb/>mille fois chère Maman, comme du plus précieux cadeau que Vous ayez pu
-<lb/>me faire; je l’ai montré de suite au pr[ince] et à mes enfans, les petites ont une
+<lb/>me faire; je l’ai montré de suite <persName>au pr[ince]</persName> et à mes enfans, les petites ont une
 <lb/>grande joie d’avoir vu Grand-Maman de Russie, et m’ont beaucoup demandé
 <lb/>si ce portrait étoit bien, bien ressemblant? Le pr[ince] et moi pensons de même à son
 <lb/>sujet, et sommes fort heureux de l’avoir dans notre maison: j’ose encore une
