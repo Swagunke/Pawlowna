@@ -244,7 +244,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0009.xml?person_annotation_20241217135541416#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[3]"
+			"rdf:value": "TEI/text/body/p/persName[4]"
 		}
 	},
 	"oa:hasBody": {
@@ -542,7 +542,7 @@
 <lb/>pendant le travail, il en est résulté de fâcheux incidens; ce n’est pas une consolation
 <lb/>que de se dire que c’est par l’ignorance ou la négligence des préposés qu’une personne
 <lb/>ait péri, il faut admettre que Dieu le vouloit ainsi, et adorer des décrets incompréhensibles.
-<lb/>Je regrette bien chère Maman, Votre pauvre Flaissières qui Vous servoit si fidèlement
+<lb/>Je regrette bien chère Maman, <persName>Votre pauvre Flaissières</persName> qui Vous servoit si fidèlement
 <lb/>et je conçois toute la peine que sa mort Vous cause, puissiez-Vous trouver un bon
 <lb/>
 <lb/>fol. 260v
