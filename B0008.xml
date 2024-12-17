@@ -244,7 +244,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0008.xml?person_annotation_20241217125927124#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[2]"
+			"rdf:value": "TEI/text/body/p/persName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -371,7 +371,7 @@
 <lb/>
 <lb/>Ayant eu le bonheur de Vous écrire hier par <placeName key="Berlin" ref="https://d-nb.info/gnd/4005728-8">Berlin</placeName>, celle-ci ne sera que de deux
 <lb/>jours. Quelle a été ma surprise de voir arriver ce matin chez moi Mr. Wassiltschikoff,
-<lb/>frère de la comtesse Kotschoubey; Vous juger chère Maman si je l’ai bien reçu
+<lb/>frère de <persName>la comtesse Kotschoubey</persName>; Vous juger chère Maman si je l’ai bien reçu
 <lb/>et si je me suis empressée à ouvrir Votre chère lettre du 24 sept[embre], No. 98, ainsi que
 <lb/>la boite qui l’accompagnoit, et la vue de Votre portrait m’a réjouie d’une manière
 <lb/>indisible; sans le trouver parlant, ni parfait, il a pourtant de la ressemblance,
