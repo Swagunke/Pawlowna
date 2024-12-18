@@ -519,6 +519,16 @@
     </teiHeader>
     <text>
         <body>
+			<pb facs="01"/>
+			<opener>
+                <dateline>
+                    Weymar. Jeudi matin, 25 octobre/ 6 novembre 1817.
+                </dateline>
+                <salute>
+                    Ma bonne et chère <persName key="Maria, Russland, Zarin" ref="https://d-nb.info/gnd/11933075X">Maman</persName>
+                </salute>
+            </opener>
+
             <p>
                 <lb/>No. 243 [1817 Nov. 6]
 <lb/>fol. 253r
