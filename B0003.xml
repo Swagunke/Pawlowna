@@ -138,7 +138,6 @@
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0003.xml?place_annotation_20241216185322304",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-16T17:53:22.304Z",
-	"dcterms:modified": "2024-12-16T17:53:22.304Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -165,7 +164,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0003.xml?place_annotation_20241216185322304#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/placeName"
+			"rdf:value": "TEI/text/body/p[2]/placeName"
 		}
 	},
 	"oa:hasBody": {
@@ -217,7 +216,6 @@
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0003.xml?person_annotation_20241216185447983",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-16T17:54:47.983Z",
-	"dcterms:modified": "2024-12-16T17:54:47.983Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -244,12 +242,12 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0003.xml?person_annotation_20241216185447983#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName"
+			"rdf:value": "TEI/text/body/p[2]/persName"
 		}
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://d-nb.info/gnd/11933075X",
+		"@id": "P_0006",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -296,7 +294,6 @@
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0003.xml?place_annotation_20241216185833017",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-16T17:58:33.017Z",
-	"dcterms:modified": "2024-12-16T17:58:33.017Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -323,7 +320,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0003.xml?place_annotation_20241216185833017#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/placeName[2]"
+			"rdf:value": "TEI/text/body/p[2]/placeName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -363,6 +360,10 @@
     <text>
         <body>
 			<pb facs="01"/>
+			<p>
+                <lb/>No. 243 [1817 Nov. 6]
+<lb/>fol. 253r
+			</p>
 			<opener>
                 <dateline>
                     Weymar. Jeudi matin, 25 octobre/ 6 novembre 1817.
