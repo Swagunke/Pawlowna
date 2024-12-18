@@ -126,7 +126,6 @@
     <text>
         <body>
 			<pb facs="01"/>
-			<div type="letter">
             <p>
                 <lb/>No. 242 [1817 Nov. 6]
 <lb/>fol. 252r
@@ -166,7 +165,6 @@
 <lb/>
 <lb/>Votre plus soumise et obéissante
 <lb/>fille, <persName key="Maria, Sachsen-Weimar, Großherzogin" ref="https://d-nb.info/gnd/104304219">Marie</persName>.</p>
-        </div>
 		</body>
     </text>
 </TEI>
