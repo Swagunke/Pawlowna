@@ -374,9 +374,6 @@
             </opener>
 
             <p>
-                <lb/>No. 243 [1817 Nov. 6]
-<lb/>fol. 253r
-<lb/>
 <lb/>Il y a peu d’instans que j’ai eu le bonheur de Vous adresser une lettre par un
 <lb/>feldjäger venant de <placeName key="Madrid" ref="https://d-nb.info/gnd/4036862-2">Madrid</placeName>; ces lignes-ci sont pour la poste du jour, et Vous daignerez m’excuser
 <lb/>si elles sont courtes et insignifiantes, mais les mêmes raisons qui m’ont forcée à abréger
@@ -389,7 +386,8 @@
 <lb/>ainsi soit-il.
 			<closer>
                 <salute>
-				Je Vous baise les mains chère Maman de tout mon coeur en me mettant à Vos pieds, et embrassant la famille et <persName key="Lieven, Charlotte Karlowna de" ref="https://d-nb.info/gnd/115603972">la c[om]t[e]sse</persName>.
+				<lb/>Je Vous baise les mains chère Maman de tout mon
+				<lb/>coeur en me mettant à Vos pieds, et embrassant la famille et <persName key="Lieven, Charlotte Karlowna de" ref="https://d-nb.info/gnd/115603972">la c[om]t[e]sse</persName>.
 				</salute>
 				<signed> Je suis avec le plus respectueux dévouement, de ma bonne et chère Maman, la plus soumise et obéissante fille, <persName key="Maria, Sachsen-Weimar, Großherzogin" ref="https://d-nb.info/gnd/104304219">Marie</persName>.
 				</signed>
