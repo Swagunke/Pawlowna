@@ -389,7 +389,11 @@
 				<lb/>Je Vous baise les mains chère Maman de tout mon
 				<lb/>coeur en me mettant à Vos pieds, et embrassant la famille et <persName key="Lieven, Charlotte Karlowna de" ref="https://d-nb.info/gnd/115603972">la c[om]t[e]sse</persName>.
 				</salute>
-				<signed> Je suis avec le plus respectueux dévouement, de ma bonne et chère Maman, la plus soumise et obéissante fille, <persName key="Maria, Sachsen-Weimar, Großherzogin" ref="https://d-nb.info/gnd/104304219">Marie</persName>.
+				<signed>
+					<lb/>Je suis avec le plus respectueux dévouement,
+					<lb/>de ma bonne et chère Maman,
+					<lb/>la plus soumise et obéissante fille,
+					<lb/><persName key="Maria, Sachsen-Weimar, Großherzogin" ref="https://d-nb.info/gnd/104304219">Marie</persName>.
 				</signed>
 			</closer>
             </p>
