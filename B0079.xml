@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="null"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main"/>
+                <author>
+                    <persName ref="http://d-nb.info/gnd/">
+                        <surname>Sachsen-Weimar</surname>
+                        <forename>Maria</forename>
+                        <addName>Maria, Sachsen-Weimar, Großherzogin</addName>
+                    </persName>
+                </author>
+                <editor>
+                    <persName>
+                        <surname>Iwanov</surname>
+                        <forename>Iwan</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <orgName>
+                        Friedrich-Schiller-Universität Jena
+                    </orgName>
+                    
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeber</note>
+                        <persName>
+                            <!-- Heraugeberschaft klären -->
+                        </persName>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    ausgewählte Briefe
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName role="project">
+                        Friedrich-Schiller-Universität Jena
+                    </orgName>
+                    <orgName role="hostingInstitution" xml:lang="deu">Thüringer Universitäts- und Landesbibliothek Jena</orgName>
+                </publisher>
+                
+                <pubPlace>Jena</pubPlace>
+                <date type="publication">2025</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                        <p>Distributed under the Creative Commons License Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</p>
+                    </licence>
+                </availability>
+                <idno>
+                    <idno type="URLWeb"/>
+                    <idno type="URLXML"/>
+                    <idno type="URN"/>
+                </idno>
+            </publicationStmt>
+            
+            <sourceDesc>
+                <bibl type="MAN"> </bibl>
+                <biblFull>
+                    <titleStmt>
+                        <title level="m" type="main">Brief: 1818 Apr. 1, Maria Pavlovna an Maria Fedorovna, Nr. 318</title>
+                        
+                    </titleStmt>
+                    <extent>
+                        <measure type="pages"><!-- Anzahl Seiten --></measure>
+                    </extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace>Weimar</pubPlace>
+                        <date type="creation">
+                            <note>start</note>
+                            1818-04-01
+                        </date>
+                        <date type="creation">
+                            <note>end</note>
+                            
+                        </date>
+                    </publicationStmt>
+                    
+                </biblFull>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Thüringisches Hauptstaatsarchiv Weimar</repository>
+                        <idno>
+                            <idno type="shelfmark">AKTUALISIEREN: LATh – HStA Weimar, GHA A XXV, Korr. R 163, Bl. 70r</idno>
+                        </idno>
+                        <idno type="URLCatalogue">
+                            Link auf Digitalisat
+                        </idno>
+                        
+                    </msIdentifier>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- Maße --></p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><encodingDesc>
+            <editorialDecl>
+                <p>
+                    
+                    &amp;lt;p&amp;gt;Dieses Werk wurde in XML/TEI P5 nach &amp;lt;a href="http://www.deutschestextarchiv.de/doku/basisformat"&amp;gt;DTA-Basisformat&amp;lt;/a&amp;gt; kodiert.&amp;lt;/p&amp;gt;
+                    
+                </p>
+            </editorialDecl>
+            <tagsDecl/>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fre">French</language>
+            </langUsage>
+            <textClass>
+                <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1main">Gebrauchsliteratur</classCode>
+                <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Brief</classCode>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                +++Transkription einfügen+++
+            </p>
+        </body>
+    </text>
+</TEI>
