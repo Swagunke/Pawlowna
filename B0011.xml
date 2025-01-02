@@ -125,9 +125,7 @@
     </teiHeader>
     <text>
         <body>
-            <p>
-                +++Transkription einfügen+++
-            </p>
+            <p/>
         </body>
     </text>
 </TEI>
