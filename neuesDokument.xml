@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<?xml-model href="https://www.deutschestextarchiv.de/basisformat_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="null"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -65,7 +64,7 @@
                 <bibl type="MAN"> </bibl>
                 <biblFull>
                     <titleStmt>
-                        <title level="m" type="main">AKTUALISIEREN: Brief: 1817 Nov. 13, Maria Pavlovna an Maria Fedorovna, Nr. 246</title>
+                        <title level="m" type="main">AKTUALISIEREN: Brief: 1818 Jan. 2-4, Maria Pavlovna an Maria Fedorovna, Nr. 272</title>
                         
                     </titleStmt>
                     <extent>
@@ -76,7 +75,7 @@
                         <pubPlace>Weimar</pubPlace>
                         <date type="creation">
                             <note>start</note>
-                            AKTUALISIEREN: 1817-11-13
+                            AKTUALISIEREN: 1818-01-02
                         </date>
                         <date type="creation">
                             <note>end</note>
@@ -89,7 +88,7 @@
                     <msIdentifier>
                         <repository>Thüringisches Hauptstaatsarchiv Weimar</repository>
                         <idno>
-                            <idno type="shelfmark">AKTUALISIEREN: LATh – HStA Weimar, GHA A XXV, Korr. R 162, Bl. 257r-v</idno>
+                            <idno type="shelfmark">AKTUALISIEREN: LATh – HStA Weimar, GHA A XXV, Korr. R 162, Bl. 302r-303r</idno>
                         </idno>
                         <idno type="URLCatalogue">
                             Link auf Digitalisat
@@ -104,11 +103,11 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <encodingDesc>
+        <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><encodingDesc>
             <editorialDecl>
                 <p>
                     
-                    &lt;p&gt;Dieses Werk wurde in XML/TEI P5 nach &lt;a href="http://www.deutschestextarchiv.de/doku/basisformat"&gt;DTA-Basisformat&lt;/a&gt; kodiert.&lt;/p&gt;
+                    &amp;lt;p&amp;gt;Dieses Werk wurde in XML/TEI P5 nach &amp;lt;a href="http://www.deutschestextarchiv.de/doku/basisformat"&amp;gt;DTA-Basisformat&amp;lt;/a&amp;gt; kodiert.&amp;lt;/p&amp;gt;
                     
                 </p>
             </editorialDecl>
