@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<?xml-model href="https://www.deutschestextarchiv.de/basisformat_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="null"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -104,11 +103,11 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <encodingDesc>
+        <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><encodingDesc>
             <editorialDecl>
                 <p>
                     
-                    &lt;p&gt;Dieses Werk wurde in XML/TEI P5 nach &lt;a href="http://www.deutschestextarchiv.de/doku/basisformat"&gt;DTA-Basisformat&lt;/a&gt; kodiert.&lt;/p&gt;
+                    &amp;lt;p&amp;gt;Dieses Werk wurde in XML/TEI P5 nach &amp;lt;a href="http://www.deutschestextarchiv.de/doku/basisformat"&amp;gt;DTA-Basisformat&amp;lt;/a&amp;gt; kodiert.&amp;lt;/p&amp;gt;
                     
                 </p>
             </editorialDecl>
@@ -127,7 +126,71 @@
     <text>
         <body>
             <p>
-                +++Transkription einfügen+++
+                <lb/>No. 270 [1817 Dez. 29-31]
+<lb/>fol. 299r
+<lb/>Weymar. Lundi, le 17/29 décembre 1817.
+<lb/>
+<lb/>Ma bonne et chère Maman!
+<lb/>
+<lb/>Voilà que ce matin l’on annonce le c[om]te Ojarowsky,  qui me remis Votre
+<lb/>chère lettre du 30 nov[embre] et 1 déc[embre], No. 125, pour laquelle je me hâte de déposer à Vos pieds
+<lb/>tous mes remercimens, je Vous baise mille fois les mains chère Maman pour m’avoir
+<lb/>instruite du mésentendu qui me prive pendant 8 jours de l’une de Vos lettres, effectivement
+<lb/>je n’en ai pas reçu par la poste d’aujourd’juy, et aurois été inquiette sans Votre bonté.
+<lb/>Votre chère lettre m’assure de Votre bonne santé, et me di[t] mille choses intéressantes, de sorte
+<lb/>que c’est du beaume(!) pour moi. Mon ami Nicodème m’écrit aussi longuement, et du
+<lb/>sein de son bonheur domestique c’est là une véritable et bien grande preuve d’amitié, aussi
+<lb/>suis-je bien sensible et lui écrirai-je très incessament, n’osant encore me fatiguer sans
+<lb/>aucun rapport, mais me réjouissant de pouvoir Vous dire chère Maman que depuis deux
+<lb/>jours j’ai moins mal au coeur, et me flatte être bientôt dans ce sens über alle
+<lb/>Berge. Constantin m’écrit aussi et tonne contre nos scandales, je ne saurois le blâmer
+<lb/>d’en désaprouver plus d’un, mais on voit aussi par sa lettre combien l’éloignement est
+<lb/>un prisme désavantageux. Tout mon monde est à Vos pieds chère Maman, pénétré
+<lb/>de reconnoissance pour Votre bon et gracieux souvenir: notre bonne c[om]t[e]sse, trouvera bon
+<lb/>j’espère que je la remercie de tout mon coeur pour sa lettre, et lui répondrai le plustôt
+<lb/>possible, je la remercie mille fois pour sa constante amitié. Je Vous baise les mains
+<lb/>
+<lb/>fol. 299v
+<lb/>chère Maman, en me mettant à Vos pieds.
+<lb/>
+<lb/>Mardi, le 18/30 décembre.
+<lb/>
+<lb/>Chère Maman, nous avons aujourd’huy ici la visite du pr[ince] Fréderic de Prusse
+<lb/>et de sa jeune épouse, veuillez le dire à Alexandrine en y ajoutant que j’ai eu le
+<lb/>plaisir de revoir son cousin bien portant, qui m’a beaucoup demandé de ses nouvelles;
+<lb/>la jeune pr[ince]sse a une figure intéressante et un joli maintien, et je suis persuadée
+<lb/>que lorsqu’elle aura été un peu plus dans le monde, elle fera une fort aimable personne:
+<lb/>ils s’adorent l’un l’autre; demain ils nous quittent pour aller à Berlin. Mr. Ojarowsky
+<lb/>a continué hier après le dinner son voyage. Voici chère Maman une
+<lb/>lettre que notre pr[ince] Kourakin m’envoye pour Vous, et de plus la réponse de
+<lb/>Cobourg à la lettre de la duchesse Alexandre que Vous m’aviez confiée par
+<lb/>le dernier courier. Ayant soupé aujourd’huy avec du monde à cause
+<lb/>de nos hôtes, je dois avouer être fatiguée, mais je suis contente de la manière
+<lb/>dont j’ai soutenu la journée, qui a commencé de bonne heure et où j’étois en
+<lb/>toilette, de sorte que j’espère que tout ira de mieux en mieux. Je me mets
+<lb/>de tout mon coeur à Vos pieds, chère chère Maman.
+<lb/>
+<lb/>Mécredi, 19/31 décembre.
+<lb/>
+<lb/>Chère et bonne Maman, nous voici à une cloture d’année, Dieu veuille
+<lb/>bien celle qui commence! Les derniers instans de celle-ci je compte les passer avec Vous
+<lb/>
+<lb/>fol. 300r
+<lb/>chère Maman, et ne dis donc rien de mes voeux dans celle-ci. Le pr[ince] et la pr[ince]sse
+<lb/>de Prusse sont partis ce matin vers neuf heures, j’ai bien regretté ne pouvoir les voir,
+<lb/>mais je ne suis pas encore présentable à présent à cette heure-là. Je viens de
+<lb/>me donner le plaisir de promener en traineaux pour la première fois, et je m’en
+<lb/>suis réjouie comme un enfans; cependant comme d’après le précepte d’Horace il faut
+<lb/>réunir l’utile à l’agréable, j’ai terminé ma promenade par marcher ¾ d’heures,
+<lb/>pour n’avoir rien à me reprocher, car cet exercice m’est fort recomandé. Le tems
+<lb/>est superbe, et le rhume des petites mieux. Elles se mettent à Vos pieds de même
+<lb/>que le pr[ince]. J’embrasse Alexandre, et mes frères et soeurs ainsi que notre chère c[om]t[e]sse,
+<lb/>je Vous baise les mains de tout mon coeur, chère Maman, et je suis à jamais
+<lb/>avec le plus respectueux et éternel dévouement,
+<lb/>
+<lb/>de ma chère Maman,
+<lb/>la plus soumise et obéissante 
+<lb/>fille, Marie.
             </p>
         </body>
     </text>
