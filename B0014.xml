@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<?xml-model href="https://www.deutschestextarchiv.de/basisformat_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="null"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -104,11 +103,11 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <encodingDesc>
+        <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><encodingDesc>
             <editorialDecl>
                 <p>
                     
-                    &lt;p&gt;Dieses Werk wurde in XML/TEI P5 nach &lt;a href="http://www.deutschestextarchiv.de/doku/basisformat"&gt;DTA-Basisformat&lt;/a&gt; kodiert.&lt;/p&gt;
+                    &amp;lt;p&amp;gt;Dieses Werk wurde in XML/TEI P5 nach &amp;lt;a href="http://www.deutschestextarchiv.de/doku/basisformat"&amp;gt;DTA-Basisformat&amp;lt;/a&amp;gt; kodiert.&amp;lt;/p&amp;gt;
                     
                 </p>
             </editorialDecl>
@@ -127,7 +126,38 @@
     <text>
         <body>
             <p>
-                +++Transkription einfügen+++
+                <lb/>No. 254 [1817 Nov. 27]
+<lb/>fol. 266r
+<lb/>Weymar, le jeudi 15/27 novembre 1817.
+<lb/>
+<lb/>Ma bonne et chère Maman!
+<lb/>
+<lb/>Je relis Votre chère lettre venue hier et je me réjouis de pouvoir
+<lb/>y répondre par la prochaine occasion, le coeur me dit qu’elle ne tardera
+<lb/>pas à se présenter, et les argus et curieux n’auront pas à repaitre leurs
+<lb/>yeux. J’ai promené hier et aujourd’huy à pied chère Maman,
+<lb/>et j’ai eu hier la douceur de revoir un peu de neige. Cette vue me cause
+<lb/>des joies comme l’arrivée d’une ancienne connoissance, et j’ouvre
+<lb/>mes fenêtres pour la saluer, pour sentir le fraix agréable qu’elle ressent,
+<lb/>enfin mon âme russe s’épanouit à la vue de ce bon tapis national.
+<lb/>J’ai quelqu’espoir que l’hyver sera plus froid que les précédens, et que
+<lb/>nous pourrons avoir quelques courses de traineaux, car l’air est vif, et l’on
+<lb/>dit que les indications sont pour le froid. En attendant, depuis des années
+<lb/>il ne s’est vu chasse pareille à celle qui vient d’avoir lieu. Le GrDuc
+<lb/>et sa société ont tiré en l’espace d’une mattinée, c’est-à-dire depuis
+<lb/>onze heures jusqu’à vers 4 heures, plus de 800 lièvres, sans compter les
+<lb/>perdrix, les renards et blairaux: il en est tout fier. On dit que ce
+<lb/>
+<lb/>fol. 266v
+<lb/>sont des bienfaits de la paix, le gibier augmente derechef. Les enfans
+<lb/>se portent bien, et la croute que la petite avoit sous le nez a passé, de sorte
+<lb/>que je puis l’embrasser à l’aise, ce qui me rend toute contente. Elles
+<lb/>se mettent avec moi à Vos pieds chère Maman, j’embrasse la famille
+<lb/>et la c[om]t[e]sse, et suis éternellement avec le plus respectueux dévouement,
+<lb/>
+<lb/>de ma très chère Maman,
+<lb/>la plus soumise et obéissante
+<lb/>fille, Marie.
             </p>
         </body>
     </text>
