@@ -801,7 +801,7 @@
 <lb/>la plus soumise et obéissante
 <lb/>fille, <persName key="Maria, Sachsen-Weimar, Großherzogin" ref="https://d-nb.info/gnd/104304219">Marie</persName>.
 <lb/>
-<lb/>[P. S.] <persName>Le pr[ince]</persName> charge chère Maman de mettre à Vos pieds l’hommage de son respect.
+<lb/>[P. S.] <persName ref="P_0012">Le pr[ince]</persName> charge chère Maman de mettre à Vos pieds l’hommage de son respect.
             </p>
         </body>
     </text>
