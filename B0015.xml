@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<?xml-model href="https://www.deutschestextarchiv.de/basisformat_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="null"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -104,11 +103,11 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <encodingDesc>
+        <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><encodingDesc>
             <editorialDecl>
                 <p>
                     
-                    &lt;p&gt;Dieses Werk wurde in XML/TEI P5 nach &lt;a href="http://www.deutschestextarchiv.de/doku/basisformat"&gt;DTA-Basisformat&lt;/a&gt; kodiert.&lt;/p&gt;
+                    &amp;lt;p&amp;gt;Dieses Werk wurde in XML/TEI P5 nach &amp;lt;a href="http://www.deutschestextarchiv.de/doku/basisformat"&amp;gt;DTA-Basisformat&amp;lt;/a&amp;gt; kodiert.&amp;lt;/p&amp;gt;
                     
                 </p>
             </editorialDecl>
@@ -127,7 +126,708 @@
     <text>
         <body>
             <p>
-                +++Transkription einfügen+++
+                <lb/>No. 255 [1817 Nov. 28 – Dez. 19]
+<lb/>fol. 269r
+<lb/>Weymar, le jeudi 16/28 novembre 1817.
+<lb/>
+<lb/>Ma bonne et chère Maman!
+<lb/>
+<lb/>Me flattant qu’il passera bientôt un courier par ici, je préparerai ces lignes
+<lb/>pour Vous être transmises par lui, mais je dois les commencer par Vous exprimer toute
+<lb/>ma reconnoissance pour Votre chère lettre du 19 au 22 octobre, No. 110, qui m’a
+<lb/>rendu fort heureuse et que j’ai reçu hier: je Vous baise les mains chère Maman pour
+<lb/>Vous [Einschub verwirrend: être] rappellée de moi avec l’Empereur, et pour avoir eu la bonté de me le dire: Vous
+<lb/>savez quel pouvoir a sur moi la tendresse et ses témoignages, Vous comprendrez donc combien
+<lb/>je sens le prix de Vos bontés. Assurément que je ne demanderois pas mieux que de me trouver
+<lb/>dans ce moment à Moscou, et de Vous accompagner ainsi que mon frère dans Vos
+<lb/>courses et promenades, mais peut-être jouirai-je de ce bonheur une autre année,
+<lb/>et peut-être ne faut-il pas même desirer ce que l’on n’a point! Enfin, la volonté
+<lb/>de Dieu soit faite, les desirs ne s’éteindront jamais dans le coeur des humains, quoique
+<lb/>l’on fasse. Je me rappelle parfaitement d’Ostankino chère Maman, et de Vous y
+<lb/>avoir accompagné; je n’ai guères vu de portrait plus ressemblant de feu l’Empereur
+<lb/>que celui qui s’y trouve, et je me retrouverai à l’instant dans la maison sans
+<lb/>me perdre. Je me rappelle avoir monté à cheval dans les jardins de l’endroit à Votre
+<lb/>suite, chère Maman. Du reste je ne connois réellement Moscou qu’en gros, et
+<lb/>bien des choses intéressantes ont dû m’échapper. Cette occasion pour laquelle je
+<lb/>
+<lb/>fol. 269v
+<lb/>prépare ma lettre, me fournit la possibilité de répondre à Votre No. 113, chère
+<lb/>Maman, arrivé récement par le courier allant en Angleterre, et il me semble
+<lb/>que c’est un devoir de le faire après des circonstances comme celles qui ont eu lieu,
+<lb/>et auxquelles l’attention générale a donné une importance majeure. Vous concevrez
+<lb/>bien, chère Maman que j’entens parler ici de la réunion de la Wartbourg, et
+<lb/>qu’il me tient à coeur de m’expliquer sur un passage de Votre lettre No. 113, où
+<lb/>Vous me marquez qu’une conversation avec l’Emp[ereur] Vous en avoit appris plus que
+<lb/>je n’avoit dit, et qu’il Vous avoit communiqué des particularités dont je ne parlois
+<lb/>pas. Voici l’exacte vérité pour ce qui me regarde: peu de jours après celui où
+<lb/>cette réunion avoit eu lieu, on apprit ici l’histoire de l’autodafé, et l’on parloit
+<lb/>confusément de l’acte du Congrés de Vienne et de celui de la S[ain]te Alliance comme
+<lb/>ayant figuré sur ce soi-disant bucher patriotique. La nouvelle au moins pour ces
+<lb/>deux derniers objets fut révoquée d’abord après avec une grande vivacité, et les
+<lb/>différentes universités se sont empressées à protester que jamais chose semblable
+<lb/>n’étoit arrivée. Je suis donc bien aise de n’avoir pas posé comme certain que la
+<lb/>chose étoit arrivée, puisqu’elle ne l’est pas [Einschub: et elle n’étoit pas assez bonne à donner pour que je m’empressasse à l’affirmer dans le doute où l’on étoit à cet égard], et quand(!) aux symboles dont j’ai
+<lb/>parlé, il y en a eu de fait et en paroles, mais dont j’avoue qu’à l’heure qu’il
+<lb/>est je ne conçois ni la finesse ni la justesse. Assez de preuves ont constaté l’extravagance
+<lb/>de cette scène, mais ce [Einschub: à] quoi l’on n’a pas voulu faire attention dans
+<lb/>l’étranger c’est à ses véritables auteurs. Les jeunes gens de Jéna ont protesté
+<lb/>hautement de leur innocence, ont assuré n’avoir pas prémédité scène pareille, et
+<lb/>
+<lb/>fol. 270r
+<lb/>même la plupart n’y ont pas assisté: ce sont des Prussiens et des habitans du
+<lb/>Rhin qui passent généralement pour être les moteurs de cette brûlerie, et l’on
+<lb/>a vu à Eisenach nombre de gens inconnus, dont l’âge et les décorations indiquoient
+<lb/>bien qu’ils n’appartenoient pas au nombre des étudians, se presser dans
+<lb/>la foule afin de passer pour être des leurs, ce sont eux que l’on accuse et dont on
+<lb/>est sûr à Jéna qu’ils sont les auteurs d’un ridicule et indigne pamphlet, intitulé
+<lb/>Das Burschenfest auf die(!) Wartburg, que l’un des professeurs de Jéna a eu la foiblesse
+<lb/>de laisser passer sans y rien changer. Ce professeur, qui jusqu’à cette époque avoit toujours
+<lb/>joui de la réputation d’un homme de bien, a été mis sous enquête pour sa conduite,
+<lb/>ayant imprimé un discours du plus mauvais genre à la même occasion, chose
+<lb/>d’autant plus choquante que l’on n’avoit eu que lieu d’en être content jusque là
+<lb/>et que son devoir l’obligeoit à guider à bien cette jeunesse et non pas à l’égarer.
+<lb/>Il est le plus coupable dans cette affaire, ses collègues le sont assez, quoique moins
+<lb/>que lui, mais tous les quatre n’ont pas agi avec la dignité ni la prudence qui leur
+<lb/>convenoient, à raison de quoi ils ont comparu [Einschub: devant leur propre Sénat à Jéna] pour rendre compte
+<lb/>de leur conduite, et comme il y a [Einschub: d’autres] tribunaux [Einschub: de justice] dans ce païs qui font aussi leur devoir,
+<lb/>l’on s’attend à quelque punition nécessaire. Au dehors on crie au meurtre et
+<lb/>l’on sonne le tocsin d’allarme contre ce païs. De toutes parts arrivent lettres
+<lb/>et injonctions sur les dangers pressans que court l’Allemagne, et l’on nous
+<lb/>annonce la venue du pr[ince] Hardenberg accompagné du c[om]te Zichy ministre d’Autriche
+<lb/>à Berlin pour venir requerir le GrDuc au nom de leurs gouvernemens sur le
+<lb/>
+<lb/>fol. 270v
+<lb/>danger des circonstances, et sur l’urgence qu’il y a à mettre ordre à l’effervescence
+<lb/>populaire. La position du GrDuc est délicate: il a permis la réunion
+<lb/>à la Wartbourg parce qu’elle n’a été présentée que sous un point de vue
+<lb/>patriotique et religieux: les états voisins n’ont pas empêchés les étudians
+<lb/>de leurs universités de s’y rendre, on comptoit que tout se passeroit en règle
+<lb/>et la confiance que le gouvernement d’ici marquoit pouvoit devenir un frein, comme
+<lb/>aussi procurer des lumières utiles au siècle sur la tendance des esprits, car
+<lb/>sous ce rapport encore valoit-il mieux laisser arriver la réunion que l’interdire
+<lb/>sur de simples soupçons. Le grand tort est celui des professeurs qui devoient par
+<lb/>état employer leurs soins à éloigner la jeunesse de toute discussion politique: l’un
+<lb/>d’eux même à ce que l’on assure étoit au fait des projets [Einschub: prussiens] de l’autodafé, et a
+<lb/>eu le tort impardonnable de ne rien dire, sans quoi on eut pu encore l’empêcher.
+<lb/>La vanité, pour le dire en passant, et le desir d’acquérir certaine popularité du
+<lb/>moment, sont de dangereux écueils, et il est inconcevable que des hommes d’âge
+<lb/>et d’expérience puissent y danser en francs étourdis. Mais tel est le monde,
+<lb/>la plupart des savans sont gens à abstraction, et n’entendent rien à la
+<lb/>vie ni à ses relations. Nos insuportables feuilles publiques, qui depuis
+<lb/>l’introduction de la liberté de la presse, ont soufflé souvent dans un sens pernicieux
+<lb/>se sont évertuées à publier partout [Einschub: que] ce qui s’étoit passé à Eisenach avoit été parfait
+<lb/>et du dernier régulier, de sorte que l’on a pu croire au dehors que le GrDuc
+<lb/>qui pendant quelque tems n’a rien dit, approuvait toutes ces choses. Ce silence a été
+<lb/>un mal, mais il n’en est pas moins vrai cependant qu’il n’a nullement approuvé 
+<lb/>
+<lb/>fol. 271r
+<lb/>semblable bagarre, et qu’il vient d’envoyer aux différentes cours copies de la
+<lb/>relation officielle qui lui a été faite dans son propre païs sur cette affaire, en annonçant
+<lb/>l’intention où il est de faire suivre telle chose en justice. On nous en veut au dehors
+<lb/>sous tant de rapports, nous nous sommes tant laissés louer aux dépens des autres, qu’il
+<lb/>est difficile de croire que nous parvenions à ramener les opinions qui nous sont contraires,
+<lb/>je crois que sous ce rapport il ne faut pas se faire d’illusion, et la manière dont parleront
+<lb/>le GrChancelier de Prusse et le ministre d’Autriche donnera un nouvel apperçu à ce
+<lb/>sujet. Mais mes forces m’interdisent d’en dire plus aujourd’huy chère Maman,
+<lb/>permettez-moi de Vous baiser les mains et de me mettre à Vos pieds. 
+<lb/>
+<lb/>Samedi, le 17/29 novembre.
+<lb/>
+<lb/>Chère Maman, je m’en vais reprendre mon sujet de hier: comme la relation
+<lb/>dont j’ai parlé parviendra sans doute en Russie, Vous la vérez et sans doute non pas
+<lb/>sans intéret. Ce qui y a donné lieu en a eu tant aux yeux de l’Allemagne qu’on ne
+<lb/>cesse encore de s’en occuper, et que l’on y revient de plus en plus avec la persuasion
+<lb/>que des dessous de cartes existent. Qu’il y a des projets de changemens dans la cervelle
+<lb/>de bien des personnes, cela n’est pas douteux, car ce qui se dit et ce qui s’imprime le fait
+<lb/>voir assez distinctement, mais il est difficile de préciser ce que l’on peut vouloir, parce que
+<lb/>d’abord la plupart de ceux qui abondent dans ce sens n’ont rien à perdre et pourroient
+<lb/>gagner au change, et en second lieu parce que des desirs d’améliorations vagues ne sauroient
+<lb/>inspirer ni grande confiance, ni grand intéret, outre qu’il me semble que par la nature même
+<lb/>
+<lb/>fol. 271v
+<lb/>des choses comme par les connoissances nécessaires des divers païs et de leur situation
+<lb/>interrieure, il ne peut pas y avoir grand nombre de bons juges sur les changemens
+<lb/>nécessaires et desirables à y introduire. En attendant il faut admettre la manie de
+<lb/>critique comme un élément principal dans les cironstances actuelles, les hommes sont
+<lb/>difficiles à contenter, et l’art de les conduire plus hérissé(!) d’épines que jamais; j’en
+<lb/>reviens à mes moutons et au vieil adage qu’il n’y a que la bonne foi et la
+<lb/>fermeté qui puissent sauver. Diverses circonstances ont d’ailleurs contribué à
+<lb/>tenir l’attente des peuples en éveil, et les écrits du jour ont tous tendus à leur
+<lb/>en rafraichir la mémoire, car du reste les bienfaits de la paix commencent à se
+<lb/>faire sentir, et si l’abondance n’a pas encore reparu, au moins beaucoup de
+<lb/>branches d’industrie recommencent-elles à fleurir. Le grand point actuellement ici est
+<lb/>d’empêcher la publication de certaines feuilles, sans dévier de la fameuse loi pour la liberté
+<lb/>de la presse, de laquelle l’on se montre fort amoureux: le problème n’est pas encore
+<lb/>résolu, et pourtant 2 gazettes supprimées, et une troisième admonisée avec menaces,
+c’est celle qui a valu assez récement ici une très forte explication de la part de la
+<lb/>France sur un bien mauvais article qui attaquoit de front la dynastie des Bourbons.
+<lb/>Il y a bien de gens experts et entendus qui assurent et soutiennent que toutes les
+<lb/>paroles et jaseries n’auront aucun mauvais résultat, qu’il faut laisser dire et
+<lb/>aller son chemin; je le crois aussi, mais pour autant que les paroles ne sont pas
+<lb/>des divagations trop positives, et tendantes à renverser l’ordre par les réclamations qu’elles
+<lb/>excitent; et que les actions ne marchent pas à l’appui de ces divagations, comme en 
+<lb/>
+<lb/>fol. 272r
+<lb/>dernier lieu. Pour le premier cas, la voye de la justice est incontestablement la
+<lb/>seule à recomander, et pour le cas où les actions s’en mêleroient, la force peut être
+<lb/>employée pour réprimer avant que la justice en puisse intervenir. Mais il me semble
+<lb/>chère Maman que je parle beaucoup, et que Vous pourriez m’adresser le reproche de raisonner
+<lb/>de ce que je n’entends pas. Je Vous assure sans contradiction et en toute verité que
+<lb/>personne n’est plus ennuyée de l’histoire de la Wartbourg que moi et de tout le train qui
+<lb/>en est resulté. Je me réjouis d’être fort peu sortie ces tems-ci, et d’avoir par là encore
+<lb/>echappé à ce que j’aurois pu entendre de plus, sur les scandals arrivés, mais je ne suis
+<lb/>pas aux regrets des reflexions que j’ai été à même de faire à cette occasion, j’espère
+<lb/>qu’elles ne seront pas perdues, et que je profiterai du jour que j’ai pu tirer par ma
+<lb/>position même sur bien des choses. J’en reste là chère Maman, et Vous baise les
+<lb/>mains de tout mon coeur.
+<lb/>
+<lb/>Dimanche, le 18/30 novembre.
+<lb/>
+<lb/>Chère Maman, j’ai eu tantôt le bonheur de Vous écrire par la poste, ces lignes
+<lb/>ne sont que pour continuer et rester dans l’ordre, et je les trace avec le plaisir que
+<lb/>me cause ce que je viens de lire dans la gazette que Catherine est enceinte: j’en
+<lb/>suis charmée, et Vous en félicite chère Maman, lui souhaitant un fils.
+<lb/>Le tems doux que nous avons occasionne bien des maladies; une dame de la
+<lb/>société que je voyois assez habituellement a été emportée en 9 jours de tems d’une
+<lb/>pleurésie, et à cette occasion il faut que je Vous conte chère Maman combien
+<lb/>ma petite Auguste a été gentille; comme elle est très vive et causante, on lui a
+<lb/>
+<lb/>fol. 272v
+<lb/>recomandé(!) de ne me rien dire pour ne pas m’affliger, elle a tenu le secret de
+<lb/>cette mort pendant près de 2 jours, quoiqu’elle m’entendit souvent parler devant
+<lb/>elle de mes inquiétudes pour cette dame qui étoit mère de famille, et que sa
+<lb/>seule pétulance habituelle auroit pu le lui faire trahir. Pour Marie, elle
+<lb/>est extrêmement discrette de son naturel, ainsi je ne lui compte pas comme
+<lb/>un sacrifice de ne m’avoir rien dit. Elles continuent toutes les deux fort
+<lb/>bien, et s’instruisent et grandissent énormément: j’ai l’espoir, si Dieu me les conserve
+<lb/>de les voir bien grandes de taille l’une et l’autre, à en juger par les apparences. Avec
+<lb/>cela Marie embellit, ses traits deviennent de plus en plus délicats. Je Vous baise
+<lb/>les mains chère et bonne Maman de tout mon coeur.
+<lb/>
+<lb/>Lundi, le 19 novembre/ 1 décembre.
+<lb/>
+<lb/>Chère Maman, des gazettes arrivées aujourd’huy ainsi que des lettres de La Haye
+<lb/>m’ont instruite de la mésintelligence du roi des Païs-Bas avec le pr[ince] d’Orange son fils; je
+<lb/>n’ai rien reçu de ma soeur depuis environ 2 mois, ce qui déja me donnoit du soupçon
+<lb/>qu’elle n’étoit pas à l’aise, ensuite le prompt et singulier voïage entrepris par le roi
+<lb/>pour Bruxelles, presqu’au moment fixé pour que son fils vint s’établir à La Haye,
+<lb/>et si peu de tems après que ce dernier y avoit fait une apparition pour l’ouverture
+<lb/>des États-Généraux, m’avoit confirmé mes soupçons; enfin j’en vois la réalité, et
+<lb/>j’en suis bien peinée, quoique je ne sois pas bien instruite de l’affaire. D’après
+<lb/>ce qui a précédé cependant je peux me rendre compte des dispositions où seront trouvées
+<lb/>les hautes parties respectives; et je m’affecte pour Guilleaume du jour où cela le met, quand
+<lb/>
+<lb/>fol. 273r
+<lb/>même il semble qu’il n’ait quitté sa place de ministre de la guerre que par la conviction
+<lb/>où il se trouvoit de n’y être pas utile. Enfin l’avenir prouvera ce qui en est, toujours est-ce
+<lb/>un mal que d’être en scission dans sa famille, et je fais mille voeux pour que Guilleaume n’ait
+<lb/>que provoqué cela; ainsi comme il l’est, ses adhérens ne manqueront pas de se prononcer pour lui;
+<lb/>et dans ce païs, neuf dans son union, il est aise de comprendre que c’est chose bien fâcheuse;
+<lb/>j’apprens que la sagesse de ma soeur ne s’est pas démentie, et je m’en réjouis bien. Puisse-t-
+<lb/>elle tout conduire à bien! Encore là les gazettes font-elles des leurs, et se mêlent-elles de publier
+<lb/>et de juger. La publicité de notre siècle est une terrible chose, et ces démêlés domestiques ébruités
+<lb/>font-ils bien du mal. Vous me demandez chère Maman dans Votre lettre No. 113, s’il est
+<lb/>vrai ce qui s’est dit de l’existence d’un lieu secret en France, dans des vues patriotiques, à l’instar
+<lb/>de celui dont la Prusse a offert l’exemple? Je n’en sais pas davantage là-dessus que les
+<lb/>bruits publics, qu’il est difficile dans le coin où je vis de vérifier, mais il n’y a pas longtems
+<lb/>que des voïageurs venant de France publioient ici que l’on comptoit déja 4 cent mille personnes
+<lb/>dans cette association, je ne sais pas en vérité si de tels propos méritent de Vous être rapportés
+<lb/>mais je n’en sais pas plus, et Vous m’avez ordonné de Vous dire chère Maman ce que j’en
+<lb/>saurois. Permettez-moi d’en rester là pour aujourd’huy, et de Vous baiser les mains de tout
+<lb/>mon coeur, il y a des jours où j’ai une peine extrême à écrire.
+<lb/>
+<lb/>Mardi, le 20 novembre/ 2 décembre.
+<lb/>
+<lb/>Chère Maman, j’ai eu hier soir le bonheur de recevoir Votre chère lettre du
+<lb/>23, 24 et 25 octobre, No. 111, et j’y ai vu avec le plus vif intéret combien Vous avez
+<lb/>lieu d’être contente de l’état dans lequel se trouvent Vos établissemens de Moscou: il
+<lb/>paroit que les personnes qui les dirigent sont tout-à-fait recomendables(!) et sûres puisqu’
+<lb/>
+<lb/>fol. 273v
+<lb/>elles ont tant de soins de ce qui leur est confié, et qu’elles entrent si bien dans Vos
+<lb/>vues; il en faut rendre grâces à Dieu comme à l’Auteur de tout bien. Ce qui
+<lb/>ne me fait pas moins de plaisir chère Maman, c’est de voir combien Vous jouissez de Vous
+<lb/>trouver à Moscou, et de l’aspect de cette bonne et respectable ville: c’est bien là que l’on
+<lb/>sent que l’on se trouve dans une patrie grande et forte; ce qui est national prévaut,
+<lb/>et tout prend une couleur positive: j’aime à penser que l’Emp[ereur] et sa famille répéteront
+<lb/>souvent, s’il plait au Ciel, les séjours dans un endroit aussi intéressant, et
+<lb/>contribueront par là à lui restituer son ancien lustre et sa splendeur. Le
+<lb/>choix de Mr. Joukoffsky pour enseigner la langue russe à la Grande-Duchesse, m’a
+<lb/>fait plaisir: il saura la lui rendre intéressante, car lui-même l’a enrichie de bien
+<lb/>beaux ouvrages. La santé d’Alexandrine me fait grand plaisir, et donne de bien
+<lb/>satisfaisantes assurances. Grâces à Dieu celle de Catherine me rassure aussi, au moins
+<lb/>par ce qu’en écrit la Drust à Miss Dilon, j’espère qu’elle se fortifiera entièrement
+<lb/>après ses couches. Je n’aime pas chère Maman à Vous parler de ce qui tient à
+<lb/>l’interrieur des autres [Einschub: et me suis tue sur son malaise]; il me semble toujours que c’est m’ingérer d’une manière ou
+<lb/>défavorable ou blessante dans ce qui regarde autrui, c’est pourquoi je ne suis pas
+<lb/>prolixe sur tout cela, m’en rapportant toujours à ce que mes soeurs pourront
+<lb/>Vous dire d’elles-mêmes, mais pour à présent il m’est assurément permis de Vous
+<lb/>dire que Catherine à ce qu’on en assure se porte bien. Quant aux affaires de Wurtemberg
+<lb/>je ne sais que ce qu’en disent les gazettes, qui font croire qu’elles sont embrouillées; mais
+<lb/>il est sûr que de nos jours il n’est pas facile de contenter; je le répète, il n’y a que la bonne
+<lb/>foi qui puisse tenir. L’enquête contre les professeurs ici se poursuit, je suis bien curieuse
+<lb/>de voir ce qu’ils pourront alléguer pour leur justification. Toute l’affaire vient de
+<lb/>
+<lb/>fol. 274r
+<lb/>Berlin, l’on connoit les moteurs et les délégués qui sont venus échauffer les têtes
+<lb/>à Jéna et gagner les professeurs. Il est inconcevable le bruit que l’on fait à Berlin
+<lb/>de cette réunion à la Wartebourg, tandis que c’est proprement de la Prusse que depuis longtems se répandent les brandons de l’incendie: peut-on s’étonner des effets quand
+<lb/>on connoit les causes, et pourquoi laisser aller pendant si longtems les choses et
+<lb/>crier si haut contre après? Enfin je crois chère Maman Vous l’avoir déja marqué,
+<lb/>d’après mon opinion il faut une extrême sagesse et une grande circonspection
+<lb/>dans ce que l’on entreprend dans ce moment de la part des gouvernemens. Il faut
+<lb/>se garder de donner plus d’intensité au parti contre lequel on veut sévir, il ne
+<lb/>faut pas amener de froissement ni forcer à quelqu’éclat, et pour cet effet il
+<lb/>semble important de ne pas tant s’occuper du mal que d’aviser aux
+<lb/>remèdes; ceux-là doivent tous pouvoir se trouver dans l’amour de l’ordre et du bien
+<lb/>public qui interdisent l’impunité aux actions condamnables. J’en reste là chère
+<lb/>Maman, et Vous baise mille fois les mains de tout mon coeur.
+<lb/>
+<lb/>Mécredi, 21 novembre/ 3 décembre.
+<lb/>
+<lb/>Chère Maman, j’ai eu tantôt le bonheur de Vous écrire par la poste du jour,
+<lb/>et comme j’ai une peine infinie à écrire le matin, cette lettre a été courte. Je
+<lb/>me promène à pied tant que je puis, et j’attens avec impatience d’être plus
+<lb/>avancée pour être débarassée de bien des incommodités, qui me dominent encore.
+<lb/>Heureusement que nous avons beau tems, l’hyver n’y est pas encore, et il y a
+<lb/>plaisir à sortir. Je suis enchantée de ce que les graines et oignons soyent arrivés
+<lb/>à bon port, j’espère avoir les livres que Vous m’avez ordonnés de Vous transmettre
+<lb/>
+<lb/>fol. 274v
+<lb/>chère Maman pour le moment du départ du courier qui se chargera de ces lignes.
+<lb/>J’ai ma robe en attendant, que j’ose mettre à Vos pieds en Vous suppliant d’en
+<lb/>faire usage, puisse-t-elle rencontrer Votre aprobation! Je Vous baise les
+<lb/>mains de tout mon coeur chère Maman, en Vous suppliant de ne me point
+<lb/>oublier.
+<lb/>
+<lb/>Jeudi, 22 novembre/ 4 décembre.
+<lb/>
+<lb/>Chère Maman! J’ai également eu ce matin le bonheur de Vous écrire
+<lb/>par la poste du jour, et je ne sais pas grand-chose. Les gazettes sont remplies des
+<lb/>regrets de la nation angloise sur la mort de la pr[ince]sse Charlotte, et on le témoigne
+<lb/>si vivement que l’on est forcé à la fois de croire que des 6 princes qui lui restent aucun
+<lb/>ne possède l’estime publique. J’ai été fort affectée hier soir par la nouvelle
+<lb/>de la perte d’un de mes serviteurs les plus affidés: j’avois fait venir et établi
+<lb/>ici un maitre de chapelle habile homme tout à fait, qui vient de mourir
+<lb/>à l’issue d’une maladie longue et douloureuse: cet homme m’a toujours marqué
+<lb/>tant de zèle et de fidélité que je le regrette sincérement; je ne le remplacerai
+<lb/>que difficilement. Je me mets à Vos pied[s] chère Maman de tout mon coeur.
+<lb/>
+<lb/>Vendredi, 23 novembre/ 5 décembre.
+<lb/>
+<lb/>J’ai eu chère Maman la satisfaction de recevoir Votre chère lettre du 26,
+<lb/>27, 28 et 29 octobre, No. 112, pour laquelle je Vous baise les mains. J’ai été bien saisie
+<lb/>en y lisant la nouvelle de la mort de Mr. Danaouroff, que rien n’annonçoit: je le
+<lb/>regrette bien, car il étoit brave homme et très attaché à feu l’Empereur comme à Vous
+<lb/>chère Maman: je plains du fond de mon âme sa veuve et sa belle-soeur, et
+<lb/>
+<lb/>fol. 275r
+<lb/>Vous supplie chère Maman, de vouloir bien le leur faire savoir dans l’occasion.
+<lb/>Ce que Vous daignez me marquer au sujet de la c[om]t[e]sse Strogonoff m’a bien ému aussi,
+<lb/>pauvre femme quel état, et que ne fait-il pas craindre! Et quelle perspective
+<lb/>pour sa famille! J’y prends la plus vive part, et comprens combien la vue de cette
+<lb/>affliction a dû chère Maman Vous toucher. Si Vous en trouvez l’occasion, veuillez
+<lb/>me rappeller à son souvenir, comme à celui de la pr[ince]sse Galitzin et de Madame Apraxin. En général, j’ai
+<lb/>un vrai besoin de rapprochement avec cette chère patrie et ceux que j’y ai connus, je sens
+<lb/>que je ne saurai vivre sans l’espoir d’y retourner, et je ne puis assez dire combien je
+<lb/>suis attachée à tout ce qui en vient. Il y a dans ce bon païs non seulement une disposition
+<lb/>dans le peuple à l’affection, mais aussi à la montrer qui repose et fait du bien à
+<lb/>l’âme: quand elle rencontre quelqu’objet aride, la mienne se raporte à cet espèce de mouvement
+<lb/>expansif qui éxiste chez nous, et dont je crois que je ne perdrai jamais l’habitude, et
+<lb/>je souhaite ardement que notre nation conserve cette qualité qui la distingue avantageusement.
+<lb/>En Allemagne, le peuple est fidèle et bon, et marque à sa manière son affection:
+<lb/>jamais par exemple je ne me promène dans la campagne que les paysans et paysannes
+<lb/>ne me disent bonjour, quelquesfois même ils viennent me serrer la main, et leur
+<lb/>simplicité me touche, elle est cordiale et vraie. Mais c’est les classes supérieures qui
+<lb/>sont bien moins agréables à rencontrer dans son chemin; là une inhabitude de
+<lb/>procédés rend l’impolitesse assez fréquente, ils n’y pensent pas et vont leur train,
+<lb/>outre que chez certaines(!) gens c’est devenu un calcul que de ne pas lever son chapeau,
+<lb/>ou de ne pas saluer. Il est fâcheux de voir la jeunesse spartianiser de la sorte, et s’éloigner
+<lb/>des bons usages, comme il est fâcheux de voir dans les écrits de quelques chefs d’école se servir
+<lb/>
+<lb/>fol. 275v
+<lb/>de la langue dans une acception qu’eux seuls et les leurs entendent, car pour des laïcs
+<lb/>le sens est si diffus qu’on ne l’entend pas, et dernièrement il m’est arrivé de lire un
+<lb/>morceau de la façon du fameux Jahn de Berlin que ni moi ni ceux qui étoient avec
+<lb/>moi n’ont compris, et nous avons fini par penser qu’à dessein on avoit placé les
+<lb/>mots [Einschub: dans un autre sens que celui que l’usage leur donne habituellement] afin de dérouter. Jahn et Arndt, également à Berlin, sont ceux qui soufflent
+<lb/>le plus le feu dans leurs écrits, et même le premier a envoyé un sien délégué nommé
+<lb/>Massmann à Jéna, qui a été celui qui a brûlé les titres des livres à la Wartbourg
+<lb/>en les accompagnant d’injures, et qui a écrit cette ridicule description de la réunion
+<lb/>qui y a eu lieu: et cependant c’est à Berlin que le plus de voix s’élèvent contre
+<lb/>cette même réunion, qui [Einschub: sie elle n’] a pris naissance dans cette ville, y a au moins été dévaluée
+<lb/>par l’égarement dont elle a pris les marques et qui venoit bien de son sein.
+<lb/>On dit qu’une inquisition personelle a été mise en activité [Einschub: à Berlin] contre tous les étudians
+<lb/>qui ont participé à cette réunion, ce qui fait grande sensation et pourroit je crois
+<lb/>aigrir, car il est dangereux de montrer des craintes si l’on ne se [Einschub: croit] la force de réprimer,
+<lb/>d’ailleurs ce n’est pas la masse des jeunes gens qui sûrement avoit de bonne
+<lb/>foi à cette fête comémorative(!) et qui a été abusée par quelques malintentionnés,
+<lb/>qui est coupable des excès commis, la plupart même les ont ignorés: ce seroit aux
+<lb/>moteurs de la chose qu’il faudroit se tenir comme gens coupables d’actions
+<lb/>repréhensibles et subversives de tout ordre. Enfin, il est bien possible que je
+<lb/>me trompe, mais il me semble que ce qui se passe est gauche, et qu’il faudroit bien
+<lb/>soigneusement éviter de faire entrevoir des apréhensions(!) là où fort heureusement
+<lb/>il y a déja des actions contre lesquelles l’on peut et l’on doit sévir. J’ignore encore
+<lb/>l’issues des enquêtes faites ici contre un professeur, la marche des affaires de cette espèce étant
+<lb/>
+<lb/>fol. 276r
+<lb/>lente par sa nature, mais je Vous en informerai chère Maman comme d’un point
+<lb/>intéressant. Pour changer de discours, ce matin l’on m’a annoncé le GrChambellan
+<lb/>Narischkin, et je Vous avoue que j’ai eu une vraie joie à le revoir, tout étourdi
+<lb/>qu’il est. Il s’est mis en tête de partir demain, mais ce sont des contes, il faut
+<lb/>qu’il reste plus longtems, d’ailleurs le GrDuc a résolu de le mener à la chasse.
+<lb/>Je me mets de tout mon coeur à Vos pieds chère et bonne Maman.
+<lb/>
+<lb/>Samedi, 24 novembre/ 6 décembre.
+<lb/>
+<lb/>Chère et bonne Maman, permettez-moi de Vous adresser mes très humbles
+<lb/>félicitations pour la fête de Catherine, à qui sans doute tous et toutes nous souhaitons
+<lb/>un fils l’année qui vient. Dieu la conserve heureuse et en bonne santé: mes
+<lb/>deux soeurs sont grandement paresseuses et me laissent languir sans de leurs
+<lb/>nouvelles. On écrit de Berlin qu’un courier de Bruxelles a passé par cette ville
+<lb/>se rendant à Moscou; sans doute c’est pour parler des nouvelles de la désagréable
+<lb/>affaire du pr[ince] d’Orange; les gazettes en sont remplies, et les lettres que je reçois de La Haye
+<lb/>le blâment beaucoup, cependant j’ai bien peine à me persuader qu’il ait tort tout
+<lb/>seul dans cette histoire: je crains qu’il n’ait manqué dans les formes à son père,
+<lb/>et sans doute c’est déja beaucoup comme fils et sujet, mais que le fond soit tout à
+<lb/>fait mauvais, j’avoue ne pouvoir m’en convaincre, et attends avec impatience
+<lb/>des nouvelles ultérieures, ne pouvant le désaprouver d’avoir renoncé à un poste où il
+<lb/>étoit hors d’état de faire du bien, et se trouvoit en butte à des contradictions perpétuelles.
+<lb/>La famille rend justice à la conduite de ma soeur, et quelqu’aise que j’en sois,
+<lb/>
+<lb/>fol. 276v
+<lb/>je suis peinée de la lui voir acquérir par semblables circonstances, si épineuses et
+<lb/>affligeantes. Enfin le 27 novembre ils étoient encore à Bruxelles. Je Vous demande
+<lb/>mille excuses chère Maman, si j’interrompe déja ma narration, mais il est des
+<lb/>jours où je suis si souffrante que j’ai peine à écrire, et c’est le cas; je n’ai
+<lb/>pu aller à la messe et suis maussade au dernier degré. Permettez-moi d’en 
+<lb/>rester là, et de Vous baiser la main de tout mon coeur.
+<lb/>
+<lb/>Dimanche, 25 novembre/ 7 décembre.
+<lb/>
+<lb/>Chère Maman, j’ai eu le bonheur de Vous écrire par la poste du jour, et je suis
+<lb/>encore confinée chez moi pour cause de malaises, mais cela n’est d’aucune conséquence
+<lb/>et doit bientôt me passer, si cette grossesse-ci suit la norme des précédentes. Je me promène
+<lb/>à pied le plus que je puis, le tems est superbe, et je m’en trouve fort bien. Je marche
+<lb/>avec mes enfans qui m’amusent et m’intéressent et aiment à se promener
+<lb/>avec moi. Je suis frappée de les voir si fort grandir, avec cela l’intelligence
+<lb/>ne reste par en arrière, et ils vont bien tout doucement, avec la bénédiction divine.
+<lb/>Ils se mettent avec moi à Vos pieds chère Maman, et nous Vous baisons les
+<lb/>mains.
+<lb/>
+<lb/>Lundi, 26 novembre/ 8 décembre.
+<lb/>
+<lb/>Chère Maman, j’ai pensé avec un vif intéret aujourd’huy à la fête
+<lb/>qui sans doute aura été célébrée avec pompe aujourd’huy à Moscou, je n’ai
+<lb/>pu sans doute en suivre l’ordonance comme je l’aurois fait à Pétersbourg,
+<lb/>mais toujours sais-je me dire que si elle a eu lieu, elle aura été célébrée avec
+<lb/>
+<lb/>fol. 277r
+<lb/>une véritable effusion. C’est une belle idée que de rassembler les braves autour de
+<lb/>soi. Je m’étois flattée chère Maman d’un jour à l’autre de l’arrivée
+<lb/>d’un courier allant à Moscou, mais il me semble que je devrai attendre jusqu’à
+<lb/>la fin du mois, tems habituel où il passe. Au reste, peut-être que pour le
+<lb/>contenu de cette lettre il n’y a pas de mal de la chose, et qu’alors il me
+<lb/>sera possible de Vous présenter l’apperçu complet de l’affaire qui nous occupe
+<lb/>encore actuellement; les nouvelles de Berlin disent que l’on y a suspendu
+<lb/>les interrogatoires infligés aux étudians, parce qu’ils y disoient de si fortes choses contre
+<lb/>l’état des choses en Prusse, que l’on n’a pas voulu les entendre: mais je doute
+<lb/>que cela soit vrai, tant cela seroit singulier que d’en agir ainsi. En attendant
+<lb/>l’on dit que l’Empereur d’Autriche a donné ordre à ses sujets hongrois étudiant à
+<lb/>Jéna de se disposer à quitter cette université, et l’on attend pour la fin de la
+<lb/>semaine les ministres autrichiens et prussiens qui sans doute s’expliqueront à ce
+<lb/>sujet. Le bruit commence à se répandre qu’il a été présenté à la diette de Francfort
+<lb/>une pétition de la part d’un conseiller je ne sais quel ni à qui, signée d’une quantité
+<lb/>de personnes, pour demander que la diette voulut bien se mettre en peine de faire
+<lb/>observer l’article 13 de l’Acte du Congrès de Vienne, qui introduit des constitutions, dans
+<lb/>tous les païs de la fédération allemande: on ajoute que le président de la diette n’a
+<lb/>pas voulu recevoir cette pétition, en ajoutant qu’elle n’étoit pas du ressort de la diette, et
+<lb/>que quand(!) à l’article 13, il avoit été passé entre égaux, c’est-à-dire entre souverains,
+<lb/>et non par de souverains à sujets. Est-ce vrai que cela, pour moi j’ai peine à croire
+<lb/>
+<lb/>fol. 277v
+<lb/>à la réponse, car elle seroit maladroite et prêteroit peut-être à de fâcheuses interprétations;
+<lb/>la suite fera voir ce qui en est, mais en tout cas que la chose soit ou ne soit pas,
+<lb/>l’on s’en occupe beaucoup moins que de l’histoire de la Wartbourg, dont le 19 de ce mois
+<lb/>il y aura 2 mois révolus que j’entends parler, à mon plus grand ennui et mécontentement,
+<lb/>car dans le nombre il y en a d’assez fous pour soutenir la pureté
+<lb/>d’intention des professeurs: enfin, le monde est tel, et ne sauroit être changé: je
+<lb/>me mets de tout mon coeur à Vos pieds chère Maman, en Vous baisant les
+<lb/>mains.
+<lb/>
+<lb/>Mardi, 27 novembre/ 9 décembre.
+<lb/>
+<lb/>Chère Maman, la poste d’hier soir m’a apporté Votre lettre du 1 nov[embre],
+<lb/>No. 114, pour laquelle j’ose Vous remercier de tout mon coeur. Quel tems la poste
+<lb/>ne met-elle pas à franchir l’espace qui existe entre Moscou et ici, puisque
+<lb/>voici bien 15 bons jours que le No. 113, que le dernier courier m’a porté est entre
+<lb/>mes mains! Quel plaisir n’aurai-je pas eu chère Maman à Vous accompagner
+<lb/>à cette belle promenade que Vous avez faite en traineaux autour des
+<lb/>boulevards et d’après la direction de l’Emp[ereur]. J’aurois vu avec Vous le couvent
+<lb/>Андронев, et je me serois identifiée à Vos souvenirs de Rome, où il me
+<lb/>semble que j’ai été, tant j’en ai entendu parler, vu des dessins et gravures
+<lb/>et lu des descriptions; que je serai heureuse si je pouvois un jour voir Moscou
+<lb/>à Vos cotés, chère Maman! En attendant je jouis bien de Vous y voir si
+<lb/>satisfaite de Votre séjour, et de Votre habitation dont j’ai bien étudié le plan,
+<lb/>
+<lb/>fol. 278r
+<lb/>c’est un charmant appartement, et qui surtout vers le printems sera des plus
+<lb/>agréables: j’espère toujours que les couches d’Alexandrine auront lieu à
+<lb/>Moscou. Une lettre que j’ai reçue ces jours-ci de l’Impératrice m’apprend
+<lb/>aussi combien elle est contente de son séjour de Moscou et de tout ce qu’elle
+<lb/>voit, ce qui me fait bien plaisir. Je pense que Michel n’aura pas tardé à y
+<lb/>arriver, je suis charmée de savoir combien l’on a été content de lui en province,
+<lb/>nos gazettes le prônent, et les feuilles étrangères retentissent des mêmes éloges.
+<lb/>Voici chère Maman une lettre de Marie de Mecklembourg que j’ai reçue,
+<lb/>et qui Vous prouvera quel bonheur lui a causé la réception de la Vôtre.
+<lb/>Je me mets de tout mon coeur à Vos pieds, en Vous baisant les mains
+<lb/>mille fois.
+<lb/>
+<lb/>Mécredi, 28 novembre/ 10 décembre.
+<lb/>
+<lb/>Chère et bonne Maman, j’ai eu tantôt le bonheur de Vous écrire par la
+<lb/>poste du jour; ma journée n’a rien offert d’intéressant, sinon que j’ai dit adieu
+<lb/>au grand courier, qui part demain pour Dresde, où il attend ses lettres de Russie:
+<lb/>je ne lui en ai pas remis pour Vous chère Maman, parce qu’il m’a dit
+<lb/>lui-même être fort peu sûr de rentrer dans ce moment encore. Il a beaucoup
+<lb/>chassé ici, et même plusieurs lièvres ont eu la complaisance de se laisser tirer
+<lb/>par lui. Ce soir on donne pour l’amuser un opéra italien. Notre
+<lb/>tems va toujours de même, et c’est une belle saison à tout prendre, je promène
+<lb/>ou à pied ou en voiture, mais toujours le plus que je peux. Je Vous baise
+<lb/>
+<lb/>fol. 278v
+<lb/>les mains chère Maman de tout mon coeur.
+<lb/>
+<lb/>Jeudi, 29 novembre/ 11 décembre.
+<lb/>
+<lb/>Chère Maman, j’ai remis tantôt ma lettre à la poste du jour, et
+<lb/>n’ai rien ni vu ni entendu d’intéressant; la soirée je l’ai passée chez ma belle-mère
+<lb/>en société, mais je me suis retirée de bonne heure, me sentant fatiguée, suite
+<lb/>de mes incommodités habituelles, auxquelles je cherche pourtant à céder le moins
+<lb/>possible, et je me flatte que bientôt j’en serai quitte. Les enfans et moi
+<lb/>nous nous mettons aux pieds de ma chère Maman.
+<lb/>
+<lb/>Vendredi, 30 novembre/ 12 décembre.
+<lb/>
+<lb/>Votre lettre chère Maman du 2 au 5 décembre, No. 115, est entre
+<lb/>mes mains, et j’en dépose mes remercimens à Vos pieds. Je Vous baise les mains
+<lb/>pour avoir embrassée notre bonne c[om]t[e]sse, à sa fête en mon nom, je l’avois espéré
+<lb/>et me suis bien occupée d’elle à ce jour: grâces à Dieu, sa santé est bonne, et son
+<lb/>humeur aussi, elle vient de m’écrire toute enchantée de l’Emp[ereur] et a écrit aussi
+<lb/>aux enfans des lettres tout-à-fait aimables, j’espère pouvoir lui répondre par
+<lb/>cette même occasion. Je me rappelle très bien chère Maman du pr[ince] Feodor Galitzin
+<lb/>et du pr[ince] Massalsky, mais je ne me souviens plus seulement de la charge que
+<lb/>ce dernier avoit occupée à la cour: quant à la lotterie que nous jouions avec le c[om]te
+<lb/>Georges Galowkin et feu le pr[ince] Bélosselsky elle étoit divertissante, et ces hyvers-là
+<lb/>sont marqués en rose dans mes souvenirs: les détails des présentations m’ont
+<lb/>fait un plaisir infini chère Maman, et je Vous en remercie de tout mon coeur;
+<lb/>
+<lb/>fol. 279r
+<lb/>cela me redonne comme un intéret de jeunesse de savoir le nom des belles de Moscou.
+<lb/>Notre hyver ici est jusqu’à présent fort tranquile(!); je n’ai pu encore reprendre toute
+<lb/>mon activité et suis trop souvent souffrante pour me charger du soin d’animer la
+<lb/>société, mais j’espère qu’en avançant vers mi-terme tout reprendra son vieux
+<lb/>train. Cependant la société ne sera pas aussi nombreuse que l’année dernière,
+<lb/>parce que la réunion des états pour clore cette séance ne peut avoir lieu que
+<lb/>dans un an, vu la difficulté qu’il y a eu de terminer les travaux nécessaires,
+<lb/>et notament le plan des finances qu’on croyoit avoir fini plustôt. En attendant,
+<lb/>l’activité des langues et des cervelles va-t-elle son train; l’on est occupé à lire la
+<lb/>défence qu’a faite le pr[ofesseur] Fries, celui qui est le plus condamnable; à mon sens, c’est un
+<lb/>morceau impertinent par sa fausseté et par sa nullité, mais d’autres l’admirent
+<lb/>et c’est chose curieuse: mais il y a des gens qui sont à prendre par des paroles
+<lb/>comme les mouches avec le miel; en attendant le cher auteur de cet écrit
+<lb/>n’a-t-il pas voulu jusqu’ici comparoitre devant la régence d’ici pour y être
+<lb/>interrogé, prétendant qu’elle étoit incompétente, il en a appellé au tribunal de
+<lb/>dernière instance, nous vérons(!) ce que celui-là fera, s’il acceptera cette cause
+<lb/>ou la fera rétrograde à la régence: je crois que si même il est démontré que la régence
+<lb/>soit incompétente pour juger affaire semblable, le personnage auroit dû s’y présenter,
+<lb/>pour donner cette preuve de sa bonne volonté; enfin ce sont des pour et des contre
+<lb/>dans ce moment dont on a la tête rompue. Pour me dédomager de tout cet ennui
+<lb/>je relis le théatre de Molière et je ris à me tenir les cotés. Il s’y trouve des
+<lb/>
+<lb/>fol. 279v
+<lb/>vérités à jamais vérités, et des peintures de caractères de tous les tems et de tous
+<lb/>lieux, enfin c’est un puits de sagesse où chacun peut chercher ce qui est à
+<lb/>son usage, et où je me délecte à me moquer des sottises. J’ai lu quelques
+<lb/>scènes du Médecin malgré lui à ma fille Marie, qui a pensé tomber de sa chaise
+<lb/>à cette lecture, et j’ai cru qu’elle étouffroit de rire lorsque je lui ai lu l’Avocat
+<lb/>Patelin que j’ai aussi revu afin de rassérénir(!) mes esprits. Je Vous baise les
+<lb/>mains de tout mon coeur, et me mets à Vos pieds.
+<lb/>
+<lb/>Samedi, 1/13 décembre.
+<lb/>
+<lb/>Chère Maman, c’est ce soir que les étrangers nous arrivent chargés d’une épitre
+<lb/>autrichienne, dont on ne croit pas le contenu fort plaisant, car des nouvelles de
+<lb/>Munich viennent d’entrer qui disent que la cour de Vienne a prié le roi de Bavière 
+<lb/>de se joindre à elle pour porter le GrDuc à d’autres dispositions, sur quoi le roi a
+<lb/>répondu qu’il n’en feroit rien, et que le GrDuc sauroit déja ce qu’il auroit à faire
+<lb/>et qu’il véroit(!) lui-même de fort mauvais oeil que quelqu’un vint s’ingérer dans
+<lb/>les affaires de son royaume. C’est ainsi qu’il a éconduit Metternich: comme je crois ces détails
+<lb/>intéressans parce qu’ils tiennent à tout l’ensemble du moment, je Vous les transmets.
+<lb/>Chère Maman, Vous ne me ferez par le chagrin à ce que j’espère de m’accuser d’un
+<lb/>trop grand amour de babil, et j’en viens à présent à répondre à ce que Vous avez daigné
+<lb/>me dire sur l’article de l’argent à déposer pour mes enfans [Einschub: et sous leur nom]: je commence par Vous
+<lb/>remercier très humblement de permettre qu’on le reçoive. À vue de païs ce sera sur
+<lb/>mon tiersal du mois de may, que j’autoriserai Mr. Willamoff à toucher 6 mille roubles
+<lb/>
+<lb/>fol. 280r
+<lb/>car je crois bien que les sommes économisées pour mes enfans se monteront à cela pour
+<lb/>cette année et demi. En les prélevant ainsi, l’on épargnera les fraix de commission, mais
+<lb/>j’avoue chère Maman que je préfère pour l’intéret de mes enfans qu’ils soyent
+<lb/>déposés en argent blanc, car un jour viendra où ils peuvent avoir besoin de les
+<lb/>retirer, et de cette sorte ils ne perdront jamais rien, l’argent ayant toujours
+<lb/>une valeur réelle. Je me propose d’en écrire vers cette époque encore, car il ne m’est
+<lb/>pas possible de les faire déposer plustôt, ayant besoin de mon argent. Pour
+<lb/>aujourd’huy chère Maman, permettez-moi d’en rester là, et de Vous baiser les
+<lb/>mains de tout mon coeur.
+<lb/>
+<lb/>Dimanche, 2/14 décembre.
+<lb/>
+<lb/>Chère Maman, voici que la montagne accouchée d’une souris, et que toutes
+<lb/>les nouvelles de Berlin se sont trouvées exagérées, elles annonçoient je ne sais quel courroux
+<lb/>et quel éclat fâcheux de la part de l’Autriche et de la Prusse, et les choses sont telles qu’il
+<lb/>suit: hier soir sont arrivés les deux plénipotentiaires et ils ont remis ce matin leurs
+<lb/>lettres, qui n’étoient que des simples lettres de créances de la part des deux souverains mais
+<lb/>simplement signées par eux, comme quoi le GrDuc étoit prié de prêter l’oreille à ce que diroient
+<lb/>les envoyés verbalement pour s’entendre dans les mesures à prendre dans ce moment critique. La lettre
+<lb/>du roi de Prusse marquoit plus d’inquiétude que celle de l’Emp[ereur] d’Au[triche] et la commission
+<lb/>des deux envoyés consistoit dans une ouverture sur la nécessité que l’on trouvoit de mettre
+<lb/>des bornes à la liberté de la presse, motion qui alloit être faite en commun à la
+<lb/>diette de Francfort: il n’a pas même été question d’éloigner les professeurs pécheurs,
+<lb/>chose que l’on avoit mandée comme certaine au GrDuc depuis Berlin et qui lui étoit
+<lb/>
+<lb/>fol. 280v
+<lb/>désagréable puisqu’il auroit aimé décider de cela lui-même, par son seul mot, et ces
+<lb/>messieurs lui témoignant de grands égards, si bien qu’il me paroit qu’il en est flatté.
+<lb/>Lorsqu’il a représenté au pr[ince] Hardenberg le mal que certains crieurs et écrivailleurs font
+<lb/>depuis Berlin, ce dernier lui a paru le sentir mais sans s’expliquer sur les mesures
+<lb/>qu’il comptoit prendre pour y remédier. Je les ai reçus un moment avant
+<lb/>le dinner, mais souffrant habituellement à cette heure et ne dinnant pas en
+<lb/>public, je suis restée en capotte, et comme je suis habituée à traiter avec toutes
+<lb/>sortes d’égards le pr[ince] Hardenberg, je les ai faits asseoir. Ce soir, j’ai paru
+<lb/>chez ma belle-mère, et j’ai joué pendant quelque tems, et me suis ensuite retirée
+<lb/>en silence et n’ai pas soupé. Demain le pr[ince] Hardenberg part pour aller sur
+<lb/>le Rhin, le c[om]te Zichy restera pendant quelques jours. C’est tout ce que je puis
+<lb/>avoir le bonheur de Vous dire chère Maman, en me mettant à Vos pieds.
+<lb/>
+<lb/>Lundi, 3/15 décembre.
+<lb/>
+<lb/>Chère Maman, le GrDuc et le pr[ince] et le c[om]te Zichy sont allés chasser; que pensez-Vous de cet envoi si solemnel(!) et de ses résultats, je ne saurois m’empêcher de regretter
+<lb/>que l’on y ait mis tant d’apparat, ce qui éveille l’attention, et puis elle est déroutée
+<lb/>quand elle ne voit pas derrière de grandes mesures, et qu’est-ce qu’on peut faire de si éclatant,
+<lb/>il ne s’agit que d’être sage, de ne pas se contredire et de contenir pour autant qu’on le peut,
+<lb/>car les froissemens seroient bien dangereux et pourroient donner plus de force au mal, [Einschub: et
+<lb/>je suis bien loin d’opiner pour être mou ou peu ferme dans des circonstances de pareille nature.]
+<lb/>Il paroit que l’alarme a été répandue à Vienne par le c[om]te Bombelles, ministre à
+<lb/>Dresde et ici, qui à la première nouvelle de la réunion a envoyé un courier, et auroit pu
+<lb/>
+<lb/>fol. 281r
+<lb/>prendre quelqu’informations plus exactes ici avant de sonner le tocsin: mais il est vrai
+<lb/>de dire d’un autre coté que la réunion a fait un bruit prodigieux et qui n’a dû
+<lb/>que s’accroitre à mesure que la distance augmentoit. Tous ces détails sont pour
+<lb/>Vous chère Maman, comme pour l’Empereur, auquel je Vous supplie de les lire [Einschub: s’il en étoit curieux par avanture] pour qu’il
+<lb/>ne s’effraye pas d’une lettre de 7 feuilles, qui, écrite en forme de journal
+<lb/>doit nécessairement contenir des objets étrangers au sujet intéressant pour lui: mais
+<lb/>du reste, Vous sentirez bien chère Maman que les particularités qui s’y trouvent ne sont
+<lb/>pas de nature à pouvoir être redites. La façon dont on voit faire peut inquiéter, car connoitre
+<lb/>ou s’exagérer les dangers, sont deux choses, et la fermeté doit toujours être de saison: et
+<lb/>il semble que l’on craigne en Prusse de mettre une fin là où il y a longtems que l’on
+<lb/>devroit l’y avoir mise. Je Vous baise les mains de tout mon coeur chère Maman,
+<lb/>en me mettant à Vos pieds.
+<lb/>
+<lb/>Mardi, 4/16 décembre.
+<lb/>
+<lb/>Chère Maman, Votre chère lettre No. 116, du 6 à 8 nov[embre], est entre
+<lb/>mes mains, et j’en dépose à Vos pieds tous mes remercimens; cette vue de Симонов
+<lb/>монастырь m’a fait venir l’eau à la bouche, et je me réjouis déja de la description
+<lb/>du grand bal donné par la noblesse de Moscou: sans doute que, le deuil étant fini,
+<lb/>il va y en avoir plusieurs à la cour par réciprocité de politesse. Ma fille
+<lb/>Marie Vous baise les mains chère Maman pour la bonté que Vous lui avez témoignée
+<lb/>à l’occasion de sa première sortie à l’église, elle en est fière et touchée; elle se porte bien
+<lb/>ainsi que sa soeur, et vont doucement fort bien. Aujourd’huy le c[om]te Zichy est
+<lb/>allé à Jéna, qu’il a demandé à voir, il s’y trouve plusieurs Hongrois étudians
+<lb/>
+<lb/>fol. 281v
+<lb/>que l’Emp[ereur] d’Au[triche] veut qu’ils quittent, à ce que leurs parens leur ont écrit; eux
+<lb/>voudroient rester, et le c[om]te Zichy espère leur en obtenir la permission, c’est ce qu’il
+<lb/>faudra voir si l’on reviendra en arrière à Vienne, en général je suis curieuse
+<lb/>comment l’on y prendra le rapport que va faire le c[om]te à son retour à Berlin;
+<lb/>il a paru de fort bonne volonté jusqu’ici, il faut croire que c’est sincère. J’ai
+<lb/>été fort peinée d’apprendre que le pr[ince] Hardenberg ait parlé au GrDuc de l’éclat arrivé en
+<lb/>Hollande et de savoir qu’il a beaucoup blâmé Guilleaume. Il paroissoit croire que des
+<lb/>intrigues pareilles à celles du printems dernier l’avoient excité dans cette affaire: j’en
+<lb/>pense que Vous aurez là-dessus de plus exactes données: je tiens la chose de la bouche
+<lb/>même du GrDuc, et je crois que tout répond de ma discrétion personelle: je n’ai toujours
+<lb/>pas un mot de ma soeur. Je me mets de tout mon coeur à Vos pieds chère et
+<lb/>bonne Maman.
+<lb/>
+<lb/>Mécredi, 5/17 décembre.
+<lb/>
+<lb/>Pour aujourd’huy chère Maman, je ne sais rien au monde de neuf,
+<lb/>et je ne m’afflige pas, il y a de nouveau une grande chasse, et je suis excédée de
+<lb/>besogne ayant été paresseuse à écrire tout ce tems-ci, il faut réparer mes torts,
+<lb/>veuillez me pardonner chère Maman de ne tracer que quelques lignes, mais j’ai eu
+<lb/>le bonheur de Vous écrire tantôt par la poste du jour. Je Vous baise les mains
+<lb/>de toute mon âme.
+<lb/>
+<lb/>Jeudi, 6/18 décembre.
+<lb/>
+<lb/>Chère Maman, Votre chère lettre du 9, 10, 11 et 12 nov[embre], No. 117, est
+<lb/>entre mes mains, et je me hâte de Vous en adresser mes plus tendres remercimens, me
+<lb/>sentant heureuse et bien heureuse de l’affection que Vous me marquez et de la bénédiction
+<lb/>
+<lb/>fol. 282r
+<lb/>que Vous m’envoyez relativement à mon état, elle me portera bonheur, du reste je
+<lb/>suis toute aux décrets de la Providence et mon dévouement est aussi entier qu’il m’est
+<lb/>possible. Je Vous baise les mains d’en avoir fait part à mes frères, ils savent que je
+<lb/>les aime bien, et je suis bien touchée de leur intéret. Mon âme est résignée en silence
+<lb/>et je remercie Dieu d’accorder non pas seulement ce que je puis avoir parfois desiré mais
+<lb/>d’avoir par là satisfait à l’attente des autres, qui commençoit à me devenir bien
+<lb/>pénible puisqu’elle ressembloit à un reproche, Vous savez chère Maman que ces
+<lb/>choses-là ont cette mine-là, à force de desirer autrement. Ma santé va bien à tout
+<lb/>prendre, le désagrément des incommodités à part et je les ai toujours abondament,
+<lb/>mais encore depuis quelques jours c’est mieux, et au moins mes soirées sont-elles
+<lb/>sûres à présent, mais pas encore les mattinées. Mon troisième terme marqué expire
+<lb/>après-demain [Einschub: c’est-à-dire le 8/20 décembre], de sorte que me voici à trois mois ou bien près, mais je suis si
+<lb/>énorme cette fois-ci que l’on pourroit m’en donner cinq; avec cela d’après le dire
+<lb/>des médecins je n’accoucherai qu’à la fin de juin ou au commencement de juillet, ce
+<lb/>qui est furieusement long. Les gazettes m’ont fait le chagrin d’en parler, ce sont de vilaines
+<lb/>bavardes: je ne sais rien de Catherine, et n’y comprends plus rien. Je renouvelle chère
+<lb/>Maman à Vos pieds mes félicitations faites tantôt par la poste, pour la fête d’aujourd’huy,
+<lb/>puisse Nicolas être toujours aussi heureux qu’à présent! Le retour de
+<lb/>mon chère Michel m’a fait le plus grand plaisir, et l’arrivée de ma lettre
+<lb/>d’annonce dans ce même instant dans Vos mains m’est aussi d’heureuse
+<lb/>augure; bien des indices me rappellant d’ailleurs ma première grossesse, j’ai l’espoir
+<lb/>que le résultat sera pareil, mais encore comme Dieu voudra et ne veux rien desirer.
+<lb/>La fête du 8 nov[embre] a dû être magnifique, et je Vous remercie mille fois chère Maman
+<lb/>
+<lb/>fol. 282v
+<lb/>de m’avoir communiqué les détails y relatif. Ce soir le c[om]te Zichy part, il est venu
+<lb/>me dire adieu, après quoi il a passé la soirée chez ma belle-mère, et moi aussi; il a été
+<lb/>fort content de Jéna, et du pied sur lequel y vivent ses compatriotes: il a encore
+<lb/>répété qu’il espère qu’ils y resteront [Einschub: il s’est parfaitement montré pendant tout son séjour ici]. Je me mets à Vos pieds chère Maman en
+<lb/>Vous baisant la main.
+<lb/>
+<lb/>Vendredi, 7/19 décembre.
+<lb/>
+<lb/>Il m’arrive un courier de Paris chère Maman, et je me hâte d’aller
+<lb/>écrire à l’Empereur, c’est pour moi une si fatiguante chose dans ce moment-ci
+<lb/>que je n’y comprends rien, ainsi ma bonne Maman pardonnera si j’abrège
+<lb/>aujourd’huy, aussi bien il me semble que celle-ci est longue. Le courier tout
+<lb/>chargé qu’il est comme un cheval de bât, m’a fait pourtant le plaisir
+<lb/>de se charger de la petite robe que j’ose mettre à Vos pieds chère Maman;
+<lb/>je desire qu’elle soit digne de Vous servir aux occasions de fêtes qui vont
+<lb/>avoir lieu à la fin de mois. Pour celle du 12/24 de ce mois chère Maman permettez
+<lb/>que d’avance je Vous adresse ici mes félicitations les plus sincères. J’embrasse l’Imp[ératrice]
+<lb/>et Vous supplie de me rappeller au souvenir de tout ce qui pense à moi et s’en rappelle.
+<lb/>Le pr[ince] et sa famille se mettent à Vos pieds chère Maman, ainsi font les
+<lb/>enfans, qui sont bons et gentils, et moi-même chère et bonne Maman
+<lb/>je Vous baise mille et mille fois les mains Vous suppliant de ne point m’oublier
+<lb/>et de conserver Votre bénédiction à celle qui est à jamais avec le plus entier
+<lb/>dévouement,
+<lb/>
+<lb/>Votre plus soumise et obéissante fille, 
+<lb/>Marie.
             </p>
         </body>
     </text>
