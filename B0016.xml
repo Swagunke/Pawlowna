@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<?xml-model href="https://www.deutschestextarchiv.de/basisformat_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="null"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -104,11 +103,11 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <encodingDesc>
+        <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><encodingDesc>
             <editorialDecl>
                 <p>
                     
-                    &lt;p&gt;Dieses Werk wurde in XML/TEI P5 nach &lt;a href="http://www.deutschestextarchiv.de/doku/basisformat"&gt;DTA-Basisformat&lt;/a&gt; kodiert.&lt;/p&gt;
+                    &amp;lt;p&amp;gt;Dieses Werk wurde in XML/TEI P5 nach &amp;lt;a href="http://www.deutschestextarchiv.de/doku/basisformat"&amp;gt;DTA-Basisformat&amp;lt;/a&amp;gt; kodiert.&amp;lt;/p&amp;gt;
                     
                 </p>
             </editorialDecl>
@@ -127,7 +126,36 @@
     <text>
         <body>
             <p>
-                +++Transkription einfügen+++
+                <lb/>No. 256 [1817 Nov. 30]
+<lb/>fol. 283r
+<lb/>Weymar, le Dimanche 18/30 novembre 1817.
+<lb/>
+<lb/>Ma bonne et chère Maman!
+<lb/>
+<lb/>Ma lettre n’est que d’un jour, ayant le bonheur de Vous écrire par une meilleure
+<lb/>occasion que ne l’est celle-ci; notre tems est si beau, en attendant que j’ai pu
+<lb/>me promener 2 fois hier dans la journée, et que la 2de je ne suis rentrée qu’à 4
+<lb/>heures et demies de l’après-midi, parce que le jour tomboit: aujourd’huy il y a du vent,
+<lb/>mais cela ne m’a pas empêché de me donner de l’exercice à pied, pendant plus d’une
+<lb/>heure. Les enfans sont bien, et se mettent à Vos pieds; chère Maman: la
+<lb/>chose qui m’occupe le plus, aujourd’huy, c’est le souvenir d’il y a 2 ans, car c’est à
+<lb/>pareille date que je suis arrivée à Pétersbourg, et que j’ai eu le bonheur de Vous
+<lb/>revoir chère Maman: ce sont des momens que l’on n’oublie pas, et auxquels
+<lb/>la pensée retourne avec le même intéret. Plut à Dieu qu’il en soit de même
+<lb/>à ce jour l’année prochaine! J’ai reçu chère Maman l’incluse de la gouvernante
+<lb/>de ma nièce Marie, qui ne sera sans doute pas sans quelqu’intéret pour Vous;
+<lb/>de même je prens la liberté d’insérer ici une lettre de Mme Boisséron, ancienne
+<lb/>élève de la comunauté(!); daignez me dire chère Maman ce que je lui dois répondre:
+<lb/>au fond je trouve que la résolution adoptée par l’Emp[ereur] vis-à-vis des anciens émigrés
+<lb/>français, est parfaitement juste. J’embrasse la famille et notre chère c[om]t[e]sse,
+<lb/>
+<lb/>fol. 283v
+<lb/>et Vous baise les mains de tout mon coeur chère Maman, étant à jamais avec
+<lb/>le plus parfait dévouement,
+<lb/>
+<lb/>de ma très chère Maman,
+<lb/>la plus soumise et obéissante
+<lb/>fille, Marie.
             </p>
         </body>
     </text>
