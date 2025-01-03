@@ -243,7 +243,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0011.xml?person_annotation_20250103180619169#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[14]"
+			"rdf:value": "TEI/text/body/p/persName[15]"
 		}
 	},
 	"oa:hasBody": {
@@ -1627,7 +1627,7 @@ d’Autriche</persName>, c’est tout ce que je sais. J’embrasse frères, soeu
 <lb/>fol. 264v
 <lb/>de <placeName key="Sankt Petersburg" ref="https://d-nb.info/gnd/4267026-3">Pétersbourg</placeName> et <placeName key="Moskau" ref="https://d-nb.info/gnd/4074987-3">Moscou</placeName> qui pourroient se souvenir de moi, entr’autres <persName>le c[om]te
 <lb/>
-Pierre Tolstoy</persName> et son épouse, et enfin de recevoir l’expression du plus tendre
+Pierre Tolstoy</persName> et <persName>son épouse</persName>, et enfin de recevoir l’expression du plus tendre
 <lb/>et respectueux dévouement avec lequel je suis,
 <lb/>
 <lb/>de ma très chère Maman,
