@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<?xml-model href="https://www.deutschestextarchiv.de/basisformat_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="null"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -104,11 +103,11 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <encodingDesc>
+        <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><encodingDesc>
             <editorialDecl>
                 <p>
                     
-                    &lt;p&gt;Dieses Werk wurde in XML/TEI P5 nach &lt;a href="http://www.deutschestextarchiv.de/doku/basisformat"&gt;DTA-Basisformat&lt;/a&gt; kodiert.&lt;/p&gt;
+                    &amp;lt;p&amp;gt;Dieses Werk wurde in XML/TEI P5 nach &amp;lt;a href="http://www.deutschestextarchiv.de/doku/basisformat"&amp;gt;DTA-Basisformat&amp;lt;/a&amp;gt; kodiert.&amp;lt;/p&amp;gt;
                     
                 </p>
             </editorialDecl>
@@ -127,7 +126,43 @@
     <text>
         <body>
             <p>
-                +++Transkription einfügen+++
+                <lb/>No. 265 [1817 Dez. 20-21]
+<lb/>fol. 292r
+<lb/>Weymar. Samedi, le 8/20 décembre 1817.
+<lb/>
+<lb/>Ma bonne et chère Maman!
+<lb/>
+<lb/>Ma lettre par le courier est partie hier soir, et je prépare celle-ci pour la poste
+<lb/>de demain: mais cette nuit, un feldjäger venant de Moscou a passé par ici, et n’a remis
+<lb/>chez moi, car je dormois, qu’une caisse de thé, dont j’ai reconnu l’adresse pour être de Votre
+<lb/>chancellerie chère Maman, et je suis donc autorisée à croire que ce thé est un
+<lb/>bienfait de Votre main, et Vous en remerciant de tout mon coeur: mais j’ai eu beau
+<lb/>chercher des lettres, il n’y en avoit pas dans la caisse, ni le courier n’en avoit remis; je
+<lb/>pense donc qu’il aura été expédié en toute diligence depuis Moscou, et j’attens que
+<lb/>le sort me favorise bientôt peut-être d’un dédomagement à cette privation. Le
+<lb/>tems est affreux, une humidité, un vent qui empêchent de sortir même en voiture; aussi mes
+<lb/>enfans commencent-ils à être enrhumés, et je reste chez moi souffrant de la tête: j’aime
+<lb/>bien mieux nos bons hyvers de Russie, il fait froid, et l’on sait à quoi s’en tenir.
+<lb/>Je ne sais rien au monde de nouveau chère Maman, et me mets de tout mon
+<lb/>coeur à Vos pieds.
+<lb/>
+<lb/>Dimanche, 9/21 décembre.
+<lb/>
+<lb/>Chère Maman, le tems est tout aussi affreux qu’hier, il est tombé une grande
+<lb/>quantité de neige, qui s’est de suite tournée en eau, il fait un froid pénétrant par toute
+<lb/>cette humidité, enfin désagréable au dernier degré, aussi on me défend de sortir de la
+<lb/>
+<lb/>fol. 292v
+<lb/>maison; les petites sont fortement enrhumées toutes les deux, et Marie ne peut pas respirer,
+<lb/>par le nez mais jusqu’ici elles sont sans fièvre, et j’espère que tout cela passera heureusement.
+<lb/>Il doit y avoir de l’autre côté un grand concert ce soir; si je suis présentable j’irai,
+<lb/>mais je ne saurois encore en répondre, à l’heure qu’il est. J’embrasse frères, soeurs
+<lb/>et notre chère c[om]t[e]sse; le pr[ince] et les enfans se mettent à Vos pieds chère Maman
+<lb/>et je Vous baise les mains de tout mon coeur, étant avec le plus respectueux
+<lb/>comme le plus profond attachement,
+<lb/>
+<lb/>de ma très chère Maman,
+<lb/>la plus dévouée fille, Marie.
             </p>
         </body>
     </text>
