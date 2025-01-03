@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<?xml-model href="https://www.deutschestextarchiv.de/basisformat_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="null"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -104,11 +103,11 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <encodingDesc>
+        <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><encodingDesc>
             <editorialDecl>
                 <p>
                     
-                    &lt;p&gt;Dieses Werk wurde in XML/TEI P5 nach &lt;a href="http://www.deutschestextarchiv.de/doku/basisformat"&gt;DTA-Basisformat&lt;/a&gt; kodiert.&lt;/p&gt;
+                    &amp;lt;p&amp;gt;Dieses Werk wurde in XML/TEI P5 nach &amp;lt;a href="http://www.deutschestextarchiv.de/doku/basisformat"&amp;gt;DTA-Basisformat&amp;lt;/a&amp;gt; kodiert.&amp;lt;/p&amp;gt;
                     
                 </p>
             </editorialDecl>
@@ -127,7 +126,50 @@
     <text>
         <body>
             <p>
-                +++Transkription einfügen+++
+                <lb/>No. 252 [1817 Nov. 23]
+<lb/>fol. 265r
+<lb/>Weymar, le dimanche 11/23 novembre 1817.
+<lb/>
+<lb/>Ma bonne et chère Maman!
+<lb/>
+<lb/>À peine ma poste terminée, que l’on m’annonce l’arrivée d’un courier allant
+<lb/>à Moscou, je me hâte d’en profiter. Ma lettre de ce jour que la poste a déja
+<lb/>reçue Vous exprime chère Maman ma vive et profonde gratitude pour Votre lettre
+<lb/>comprenant du 12 au 15 oct[obre], sans No.; je l’ai lue en versant des larmes
+<lb/>d’attendrissement et de plaisir. Jamais, non jamais je ne cesserai de partager les
+<lb/>sentimens qui animent ma nation, et mon vieux coeur bat à la russe pour tout
+<lb/>ce qui intéresse la prospérité de mon païs. Jugez après cela chère Maman si j’ai
+<lb/>été touchée en lisant que Vous m’aviez desirée à cette belle fête, et que Vous aviez souvent
+<lb/>pensé à moi! Je Vous en rens mille fois grâces, et je m’estime fort heureuse d’avoir
+<lb/>pu trouver place dans Vos pensées à un moment comme celui-là. Je partage Vos
+<lb/>actions de grâces à Dieu chère Maman pour la faveur qu’il a accordée à l’Emp[ereur]
+<lb/>et à Vous d’avoir pu voir commencer cet édifice auguste et majestueux, et mes
+<lb/>voeux se joignent encore aux Vôtres pour que Vous le voyez dignement terminer ainsi
+<lb/>qu’il a été commencé. Votre lettre m’a tellement remuée chère Maman que
+<lb/>je l’ai montrée à diverses personnes, parce que j’avois besoin que l’on partageât
+<lb/>mon émotion, et j’ai eu la satisfaction de voir en plein qu’elle ne faisoit pas
+<lb/>un autre effet. Ce courier me prend au reste au dépourvu de toutes façons, les
+<lb/>
+<lb/>fol. 265v
+<lb/>malaises qui me tourmentent toujours dans les commencemens de mes grossesses, ne
+<lb/>m’ont pas encore quittée, et me mettent avec la meilleure volonté hors d’état d’écrire
+<lb/>ni de rien faire de suite, c’est ce qui me prive aujourd’huy de féliciter mon
+<lb/>cher Michel pour sa fête, qu’il ne le prenne pas pour un manque de ma
+<lb/>part, je l’aime trop pour que cela puisse jamais être, mais réellement je suis dans
+<lb/>une incapacité bien positive d’écrire de suite. Bien des questions que Vous m’aviez
+<lb/>adressées chère Maman devront rester jusqu’à la prochaine occasion, je Vous en
+<lb/>demande mille pardons, mais ma bêtise en est cause. Les enfans se portent grâce
+<lb/>à Dieu fort bien chère Maman, et sont gai[e]s et contentes, elles se mettent à
+<lb/>Vos pieds, j’embrasse mes frères et soeurs et notre chère c[om]t[e]sse, en Vous
+<lb/>suppliant de m’accorder toujours Votre bénédiction et d’aimer toujours un peu
+<lb/>celle dont le dévouement sans bornes n’est égalé que par le profond et
+<lb/>respectueux attachement.
+<lb/>
+<lb/>De ma chère Maman,
+<lb/>la plus soumise et obéissante
+<lb/>fille, Marie.
+<lb/>
+<lb/>[P. S.] Le pr[ince] charge chère Maman de mettre à Vos pieds l’hommage de son respect.
             </p>
         </body>
     </text>
