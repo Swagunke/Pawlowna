@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<?xml-model href="https://www.deutschestextarchiv.de/basisformat_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="null"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -104,11 +103,11 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <encodingDesc>
+        <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><encodingDesc>
             <editorialDecl>
                 <p>
                     
-                    &lt;p&gt;Dieses Werk wurde in XML/TEI P5 nach &lt;a href="http://www.deutschestextarchiv.de/doku/basisformat"&gt;DTA-Basisformat&lt;/a&gt; kodiert.&lt;/p&gt;
+                    &amp;lt;p&amp;gt;Dieses Werk wurde in XML/TEI P5 nach &amp;lt;a href="http://www.deutschestextarchiv.de/doku/basisformat"&amp;gt;DTA-Basisformat&amp;lt;/a&amp;gt; kodiert.&amp;lt;/p&amp;gt;
                     
                 </p>
             </editorialDecl>
@@ -127,7 +126,31 @@
     <text>
         <body>
             <p>
-                +++Transkription einfügen+++
+                <lb/>No. 260 [1817 Dez. 10]
+<lb/>fol. 287r
+<lb/>Weymar. Mécredi, le 28 novembre/ 10 décembre 1817.
+<lb/>
+<lb/>Ma bonne et chère Maman!
+<lb/>
+<lb/>Ma lettre n’est de nouveau que d’un jour, pour la même raison, le
+<lb/>tems est fort beau et j’irai me promener avec ma petite famille: j’ai commencé
+<lb/>ma mattinée par aller visiter un objet relatif à l’Institut de bienfaisance:
+<lb/>ces messieurs chassent derechef aujourd’huy, cette année elles sont très abondantes,
+<lb/>il n’y a pas de jour que l’on ne tire plusieurs centaines de lièvres. Je ne sais
+<lb/>rien au monde de nouveau chère Maman, et me tiens dans mon petit coin, où je
+<lb/>suis la plupart du tems seule, mais j’ai peine à m’occuper de suite actuellement;
+<lb/>cela reviendra bientôt je pense, et je l’espère de tout mon coeur, car cette
+<lb/>inaction gagne l’âme et l’esprit. Les enfans se portent bien et se mettent
+<lb/>à Vos pieds chère Maman, j’ai apperçu ce matin un domestique russe à Narischkin
+<lb/>avec la livrée de la cour, ce qui m’a causé une joie extrême.
+<lb/>J’embrasse frères et soeurs de même que notre chère c[om]t[e]sse, et Vous baise mille
+<lb/>fois les mains chère Maman, étant avec le plus respectueux dévouement,
+<lb/>
+<lb/>de ma bonne et chère Maman,
+<lb/>la plus soumise et obéissante
+<lb/>fille, Marie.
+<lb/>
+<lb/>[P. S.] Le pr[ince] me charge de le mettre à Vos pieds.
             </p>
         </body>
     </text>
