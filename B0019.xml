@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<?xml-model href="https://www.deutschestextarchiv.de/basisformat_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="null"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -104,11 +103,11 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <encodingDesc>
+        <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><encodingDesc>
             <editorialDecl>
                 <p>
                     
-                    &lt;p&gt;Dieses Werk wurde in XML/TEI P5 nach &lt;a href="http://www.deutschestextarchiv.de/doku/basisformat"&gt;DTA-Basisformat&lt;/a&gt; kodiert.&lt;/p&gt;
+                    &amp;lt;p&amp;gt;Dieses Werk wurde in XML/TEI P5 nach &amp;lt;a href="http://www.deutschestextarchiv.de/doku/basisformat"&amp;gt;DTA-Basisformat&amp;lt;/a&amp;gt; kodiert.&amp;lt;/p&amp;gt;
                     
                 </p>
             </editorialDecl>
@@ -127,7 +126,33 @@
     <text>
         <body>
             <p>
-                +++Transkription einfügen+++
+                <lb/>No. 259 [1817 Dez. 7]
+<lb/>fol. 286r
+<lb/>Weymar. Dimanche matin, le 25 novembre/ 7 décembre 1817.
+<lb/>
+<lb/>Ma bonne et chère Maman!
+<lb/>
+<lb/>Ma lettre n’est derechef que d’un jour, et toujours pour la même chose, mais
+<lb/>je me flatte que celle que je prépare dévancera celle-ci. Nous avons
+<lb/>aujourd’huy chère et bonne Maman un vrai tems d’hyver délicieux, il gèle, il y
+<lb/>a même un peu de neige et il fait un beau soleil; j’ai marché pendant
+<lb/>plus d’une heure, et ma petite famille aussi; ce tems, qui me rappelle la	
+<lb/>Russie, me fait du bien, je respire plus librement, et je me sens plus légère.
+<lb/>J’ai reçu hier des nouvelles d’Hollande, Anne n’étoit pas à La Haye encore
+<lb/>le 27 nov[embre] n.st., on ne savoit même au juste quand elle arriveroit avec le
+<lb/>pr[ince] d’Orange; les pr[ince]sses douairières m’ont écrit avec la dernière amitié sur
+<lb/>mon état, et se montrent en toute occasion, excessivement obligeantes pour moi.
+<lb/>Du reste rien de nouveau chère Maman, sinon l’arrivée du pr[ince] Hardenberg
+<lb/>que l’on attend après-demain pour sûr ici, mais cela a déja si souvent été
+<lb/>changé, que je ne sais si l’on peut y croire. J’embrasse la famille, et
+<lb/>Vous baise les mains de tout mon coeur chère Maman, et me mets à Vos pieds
+<lb/>avec les sentimens de l’éternel et respectueux attachement avec lequel je suis,
+<lb/>
+<lb/>de ma bonne et chère Maman,
+<lb/>la plus soumise et dévouée fille,
+<lb/>Marie.
+<lb/>
+<lb/>[P. S.] J’embrasse notre chère c[om]t[e]sse.
             </p>
         </body>
     </text>
