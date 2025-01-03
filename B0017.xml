@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<?xml-model href="https://www.deutschestextarchiv.de/basisformat_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="null"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -104,11 +103,11 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <encodingDesc>
+        <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><encodingDesc>
             <editorialDecl>
                 <p>
                     
-                    &lt;p&gt;Dieses Werk wurde in XML/TEI P5 nach &lt;a href="http://www.deutschestextarchiv.de/doku/basisformat"&gt;DTA-Basisformat&lt;/a&gt; kodiert.&lt;/p&gt;
+                    &amp;lt;p&amp;gt;Dieses Werk wurde in XML/TEI P5 nach &amp;lt;a href="http://www.deutschestextarchiv.de/doku/basisformat"&amp;gt;DTA-Basisformat&amp;lt;/a&amp;gt; kodiert.&amp;lt;/p&amp;gt;
                     
                 </p>
             </editorialDecl>
@@ -127,7 +126,27 @@
     <text>
         <body>
             <p>
-                +++Transkription einfügen+++
+                <lb/>No. 257 [1817 Dez. 3]
+<lb/>fol. 284r
+<lb/>Weymar. Mécredi, le 21 novembre/ 3 décembre 1817.
+<lb/>
+<lb/>Ma bonne et chère Maman!
+<lb/>
+<lb/>Ma lettre n’est de nouveau que d’un jour, mais c’est que je laboure et confectionne,
+<lb/>et suis encore dans l’attente d’une occasion favorable. Je n’ai du reste rien au monde
+<lb/>d’intéressant à Vous tracer chère Maman, ne sachant rien, et ayant occupé une partie
+<lb/>de ma matinée à voir de fort belles gravures que le marchand Artaria de Manheim
+<lb/>a portées avec lui ici. Notre tems est toujours assez doux, de sorte que le nombre des
+<lb/>malades augmente chaque jour. Grâces à Dieu les petites sont bien: j’ai eu le bonheur
+<lb/>de Vous tracer dernièrement chère Maman que je relisois le théatre de Molière pour
+<lb/>m’égayer l’esprit, je l’ai fini et hier j’ai relu l’Avocat Patelin, et j’ai ri
+<lb/>comme aux jours de ma jeunesse, cette pièce étant du plus parfait comique.
+<lb/>J’embrasse frères et soeurs ainsi que notre chère c[om]t[e]sse, et Vous baise les mains chère et
+<lb/>bonne Maman de tout mon coeur, étant à jamais avec le plus parfait attachement,
+<lb/>
+<lb/>de ma bonne et chère Maman,
+<lb/>la plus soumise et obéissante
+<lb/>fille, Marie.
             </p>
         </body>
     </text>
