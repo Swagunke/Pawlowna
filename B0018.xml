@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<?xml-model href="https://www.deutschestextarchiv.de/basisformat_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="null"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -104,11 +103,11 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <encodingDesc>
+        <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><encodingDesc>
             <editorialDecl>
                 <p>
                     
-                    &lt;p&gt;Dieses Werk wurde in XML/TEI P5 nach &lt;a href="http://www.deutschestextarchiv.de/doku/basisformat"&gt;DTA-Basisformat&lt;/a&gt; kodiert.&lt;/p&gt;
+                    &amp;lt;p&amp;gt;Dieses Werk wurde in XML/TEI P5 nach &amp;lt;a href="http://www.deutschestextarchiv.de/doku/basisformat"&amp;gt;DTA-Basisformat&amp;lt;/a&amp;gt; kodiert.&amp;lt;/p&amp;gt;
                     
                 </p>
             </editorialDecl>
@@ -127,7 +126,31 @@
     <text>
         <body>
             <p>
-                +++Transkription einfügen+++
+                <lb/>No. 258 [1817 Dez. 4]
+<lb/>fol. 285r
+<lb/>Weymar. Jeudi, le 22 novembre/ 4 décembre 1817.
+<lb/>
+<lb/>Ma bonne et chère Maman!
+<lb/>
+<lb/>La journée et si sombre que j’ai eu des lumières jusqu’à vers 9 heures, il a
+<lb/>gelé, et il est tombé beaucoup de neige, puisse-t-elle rester sur la terre, et non pas
+<lb/>se dissiper! Ces saisons variables sont bien peu satisfaisantes. J’ai été fort
+<lb/>affligée hier par la mort d’un de mes zélés serviteurs, le maitre de chapelle que j’avois
+<lb/>fait venir et fixé ici. Hier matin il étoit mieux, je me suis livrée derechef à l’espoir
+<lb/>de le conserver, et hier après-midi il a rendu le dernier soupir, c’est une vraie perte
+<lb/>sous tous les rapports, qui sera difficilement remplacée. D’un autre coté, les
+<lb/>détails sur la mort de la pr[ince]sse d’Angleterre que renferment les gazettes, font-ils
+<lb/>bien mal à lire: elle est vivement regrettée, et la sincérité avec laquelle on le
+<lb/>montre, le prouve bien. Son époux est bien à plaindre sans doute, et cette mort d’autant
+<lb/>plus frappante que tout annonçoit des couches heureuses, la santé de la pr[ince]sse ayant été
+<lb/>fort bonne pendant sa grossesse. Rien de nouveau, du reste, chère Maman, je m’en
+<lb/>vais retourner à mon poste, et Vous baise les mains de tout mon coeur, en embrassant
+<lb/>frères, soeurs et la c[om]t[e]sse. Ma petite famille et moi nous nous mettons à Vos pieds, et
+<lb/>je suis éternellement avec le plus respectueux et le plus tendre attachement,
+<lb/>
+<lb/>de ma bonne et chère Maman,
+<lb/>la plus soumise et dévouée
+<lb/>fille, Marie.
             </p>
         </body>
     </text>
