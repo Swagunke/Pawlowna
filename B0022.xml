@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<?xml-model href="https://www.deutschestextarchiv.de/basisformat_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="null"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -104,11 +103,11 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <encodingDesc>
+        <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><encodingDesc>
             <editorialDecl>
                 <p>
                     
-                    &lt;p&gt;Dieses Werk wurde in XML/TEI P5 nach &lt;a href="http://www.deutschestextarchiv.de/doku/basisformat"&gt;DTA-Basisformat&lt;/a&gt; kodiert.&lt;/p&gt;
+                    &amp;lt;p&amp;gt;Dieses Werk wurde in XML/TEI P5 nach &amp;lt;a href="http://www.deutschestextarchiv.de/doku/basisformat"&amp;gt;DTA-Basisformat&amp;lt;/a&amp;gt; kodiert.&amp;lt;/p&amp;gt;
                     
                 </p>
             </editorialDecl>
@@ -127,7 +126,29 @@
     <text>
         <body>
             <p>
-                +++Transkription einfügen+++
+                <lb/>No. 262 [1817 Dez. 14]
+<lb/>fol. 289r
+<lb/>Weymar. Dimanche, le 2/14 décembre 1817.
+<lb/>
+<lb/>Ma bonne et chère Maman!
+<lb/>
+<lb/>C’est hier soir que le pr[ince] Hardenberg et le c[om]te Zichy sont arrivés ici,
+<lb/>et c’est aujourd’huy que je dois les voir. Mon état ne me permettant pas de dinner
+<lb/>en public, je recevrai ces messieurs d’une manière privée dans ma chambre, car ce
+<lb/>n’est que vers le soir que je suis plus sûre de ma conduite. L’exercice m’est fort recomandé
+<lb/>et fort sain, j’y suis au reste si habituée que rien de tel ne me
+<lb/>fatigue, et je m’en trouve bien. Il fait le plus beau tems du monde, chère
+<lb/>Maman, un peu froid, de sorte que ce bon air me rappelle la Russie et mon
+<lb/>frère, il me semble que je marche avec lui: Vous voyez que mes idées comme
+<lb/>mes affections sont continuellement tournées vers le Nord, et que je me sens bien
+<lb/>de m’en occuper; je Vous baise les mains de tout mon coeur chère Maman,
+<lb/>embrassant la famille et notre chère c[om]t[e]sse, les enfans et le pr[ince] se mettent
+<lb/>à Vos pieds, et je suis à jamais avec le plus respectueux comme avec le
+<lb/>plus parfait attachement,
+<lb/>
+<lb/>de ma bonne et chère Maman,
+<lb/>la plus soumise et obéissante
+<lb/>fille, Marie.
             </p>
         </body>
     </text>
