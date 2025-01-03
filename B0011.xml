@@ -243,7 +243,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0011.xml?person_annotation_20250103180619169#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[6]"
+			"rdf:value": "TEI/text/body/p/persName[7]"
 		}
 	},
 	"oa:hasBody": {
@@ -804,7 +804,7 @@
 <lb/>
 <lb/>Chère Maman! Nous avons [Einschub: eu hier et] aujourd’huy du monde sur les bras, <persName ref="P_0039">la c[om]t[e]sse
 <lb/>
-de la Lippe</persName>, dont le frère <persName key="Georg Wilhelm, Schaumburg-Lippe, Fürst" ref="https://d-nb.info/gnd/132526255">le prince de Bückebourg</persName> et son épouse sont attendus demain;
+de la Lippe</persName>, dont le frère <persName key="Georg Wilhelm, Schaumburg-Lippe, Fürst" ref="https://d-nb.info/gnd/132526255">le prince de Bückebourg</persName> et <persName>son épouse</persName> sont attendus demain;
 <lb/>il a fallu hier soir arranger une soirée chez nous, et quoiqu’elle n’ait commencé
 <lb/>qu’à 8 heures, j’ai eu peine à tenir jusqu’à neuf heures où l’on est allé souper sans
 <lb/>
