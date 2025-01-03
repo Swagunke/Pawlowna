@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<?xml-model href="https://www.deutschestextarchiv.de/basisformat_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="null"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -104,11 +103,11 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <encodingDesc>
+        <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><encodingDesc>
             <editorialDecl>
                 <p>
                     
-                    &lt;p&gt;Dieses Werk wurde in XML/TEI P5 nach &lt;a href="http://www.deutschestextarchiv.de/doku/basisformat"&gt;DTA-Basisformat&lt;/a&gt; kodiert.&lt;/p&gt;
+                    &amp;lt;p&amp;gt;Dieses Werk wurde in XML/TEI P5 nach &amp;lt;a href="http://www.deutschestextarchiv.de/doku/basisformat"&amp;gt;DTA-Basisformat&amp;lt;/a&amp;gt; kodiert.&amp;lt;/p&amp;gt;
                     
                 </p>
             </editorialDecl>
@@ -127,7 +126,28 @@
     <text>
         <body>
             <p>
-                +++Transkription einfügen+++
+                <lb/>No. 264 [1817 Dez. 18]
+<lb/>fol. 291r
+<lb/>Weymar. Jeudi, le 6/18 décembre 1817.
+<lb/>
+<lb/>Ma bonne et chère Maman!
+<lb/>
+<lb/>Permettez-moi de Vous offrir mes plus tendres félicitations pour la fête
+<lb/>de notre cher Nicolas, à laquelle je prends la plus vive part; puissiez-Vous
+<lb/>toujours chère Maman ne trouver en lui et dans tout ce qui le concerne qu’une
+<lb/>source de jouissances et de satisfactions comme c’est le cas actuellement;
+<lb/>j’écris à ce cher frère mais par occasion, et me hâte d’envoyer cette lettre à la
+<lb/>poste. Le c[om]te Zichy part ce soir chère Maman. Notre tems est redevenu
+<lb/>humide et désagréable, je ne peux pas me promener à pied, ce qui me contrarie
+<lb/>toujours beaucoup: en attendant je me propose de charier mes enfans en voiture:
+<lb/>ils chantent pendant tout le tems, et sont d’une gaieté distinguée. Je Vous
+<lb/>baise les mains chère Maman de tout mon coeur, ils en font autant aussi
+<lb/>bien que le pr[ince]. J’embrasse frères, soeurs, et notre chère c[om]t[e]sse, et suis
+<lb/>éternellement avec le plus parfait et le plus respectueux attachement,
+<lb/>
+<lb/>de ma bonne et chère Maman,
+<lb/>la plus soumise et dévouée
+<lb/>fille, Marie.
             </p>
         </body>
     </text>
