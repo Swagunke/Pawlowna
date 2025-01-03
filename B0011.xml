@@ -244,7 +244,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0011.xml?person_annotation_20250103180619169#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[4]"
+			"rdf:value": "TEI/text/body/p/persName[5]"
 		}
 	},
 	"oa:hasBody": {
@@ -724,8 +724,9 @@
 <lb/>
 <lb/>Samedi, 10/22 novembre.
 <lb/>
-<lb/>Chère Maman! Nous avons [Einschub: eu hier et] aujourd’huy du monde sur les bras, la c[om]t[e]sse
-<lb/>de la Lippe, dont le frère le prince de Bückebourg et son épouse sont attendus demain;
+<lb/>Chère Maman! Nous avons [Einschub: eu hier et] aujourd’huy du monde sur les bras, <persName>la c[om]t[e]sse
+<lb/>
+de la Lippe</persName>, dont le frère le prince de Bückebourg et son épouse sont attendus demain;
 <lb/>il a fallu hier soir arranger une soirée chez nous, et quoiqu’elle n’ait commencé
 <lb/>qu’à 8 heures, j’ai eu peine à tenir jusqu’à neuf heures où l’on est allé souper sans
 <lb/>
