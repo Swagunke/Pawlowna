@@ -217,7 +217,6 @@
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0011.xml?person_annotation_20250103180619169",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-03T17:06:19.169Z",
-	"dcterms:modified": "2025-01-03T17:06:19.169Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -244,7 +243,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0011.xml?person_annotation_20250103180619169#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[8]"
+			"rdf:value": "TEI/text/body/p/persName[9]"
 		}
 	},
 	"oa:hasBody": {
@@ -1051,6 +1050,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0011.xml?person_annotation_20250103205054651",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-03T19:50:54.651Z",
+	"dcterms:modified": "2025-01-03T19:50:54.651Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/IIwanov",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Iwan Iwanov"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0011.xml?person_annotation_20250103205054651#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0011.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0011.xml?person_annotation_20250103205054651#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p/persName[8]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://d-nb.info/gnd/118545906",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
             <editorialDecl>
                 <p>
@@ -1130,7 +1208,7 @@ de la Lippe</persName>, dont le frère <persName key="Georg Wilhelm, Schaumburg-
 <lb/>en liberté, mais cela passera, et il ne faut pas se plaindre. Il y avoit ici également
 <lb/>hier <placeName key="England" ref="https://d-nb.info/gnd/4014770-8">un Anglois</placeName> <persName ref="P_0041">Lord Belgrave</persName> qui a l’air comme il faut, qui retourne pour le
 <lb/>moment en <placeName key="England" ref="https://d-nb.info/gnd/4014770-8">Angleterre</placeName> et se propose de passer vers le printems en <placeName key="Russland" ref="https://d-nb.info/gnd/4076899-5">Russie</placeName> et
-<lb/>d’aller jusqu’à <placeName key="Moskau" ref="https://d-nb.info/gnd/4074987-3">Moscou</placeName>, je lui ai dit qu’il avoit raison. Le pr[ince] de Hardenberg
+<lb/>d’aller jusqu’à <placeName key="Moskau" ref="https://d-nb.info/gnd/4074987-3">Moscou</placeName>, je lui ai dit qu’il avoit raison. <persName key="Hardenberg, Karl August von" ref="https://d-nb.info/gnd/118545906">Le pr[ince] de Hardenberg</persName>
 <lb/>ne viendra pas dit-on à présent, mais je n’en sais pas la raison. Le tems
 <lb/>tout un peu meilleur je promène à pied, d’office, tous les jours. Les petites
 <lb/>sont à merveilles et se mettent à Vos pieds chère Maman. Je lis et relis Vos
