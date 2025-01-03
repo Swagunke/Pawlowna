@@ -243,7 +243,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0011.xml?person_annotation_20250103180619169#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[11]"
+			"rdf:value": "TEI/text/body/p/persName[12]"
 		}
 	},
 	"oa:hasBody": {
@@ -1381,8 +1381,9 @@ de la Lippe</persName>, dont le frère <persName key="Georg Wilhelm, Schaumburg-
 <lb/>tâcher de paroitre mais je ne répons pas du succès, l’écriture surtout m’est
 <lb/>si contraire qu’il faut que je Vous demande d’avance pardon chère
 <lb/>Maman pour la brièveté de mes lettres. Je ne sais rien au monde de nouveau,
-<lb/>étant d’ailleurs peu curieuse, on nous annonce la venue de Mr. de Bombelles ministre
-<lb/>d’Autriche, c’est tout ce que je sais. J’embrasse frères, soeurs, et notre
+<lb/>étant d’ailleurs peu curieuse, on nous annonce la venue de <persName>Mr. de Bombelles ministre
+<lb/>
+d’Autriche</persName>, c’est tout ce que je sais. J’embrasse frères, soeurs, et notre
 <lb/>c[om]t[e]sse, et Vous supplie de ne me point oublier chère Maman, de me rappeller
 <lb/>au souvenir des personnes qui Vous entourent, et de celles de mes connoissances
 <lb/>
