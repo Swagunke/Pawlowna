@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<?xml-model href="https://www.deutschestextarchiv.de/basisformat_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="null"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -104,11 +103,11 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <encodingDesc>
+        <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><encodingDesc>
             <editorialDecl>
                 <p>
                     
-                    &lt;p&gt;Dieses Werk wurde in XML/TEI P5 nach &lt;a href="http://www.deutschestextarchiv.de/doku/basisformat"&gt;DTA-Basisformat&lt;/a&gt; kodiert.&lt;/p&gt;
+                    &amp;lt;p&amp;gt;Dieses Werk wurde in XML/TEI P5 nach &amp;lt;a href="http://www.deutschestextarchiv.de/doku/basisformat"&amp;gt;DTA-Basisformat&amp;lt;/a&amp;gt; kodiert.&amp;lt;/p&amp;gt;
                     
                 </p>
             </editorialDecl>
@@ -127,7 +126,71 @@
     <text>
         <body>
             <p>
-                +++Transkription einfügen+++
+                <lb/>No. 266 [1817 Dez. 22-23]
+<lb/>fol. 293r
+<lb/>Weymar. Lundi, le 10/22 décembre 1817.
+<lb/>
+<lb/>Ma bonne et chère Maman!
+<lb/>
+<lb/>Je viens de recevoir Votre chère lettre du 13, 14 et 15 novembre, No. 118,
+<lb/>pour laquelle je me hâte de déposer mes remercimens à Vos pieds, me trouvant
+<lb/>fort heureuse de Vous avoir occupée chère Maman. Ce que Vous daignez me marquer
+<lb/>de la conversation que Vous avez eu à mon sujet avec la c[om]t[e]sse Strogonoff m’a bien
+<lb/>touchée et je Vous en remercie chère Maman comme d’une preuve manifeste de
+<lb/>Votre souvenir comme de Votre bonté pour moi: j’ose Vous demander d’assurer la
+<lb/>c[om]t[e]sse de mon amitié, et que je partageois par conviction comme par devoir les sentimens
+<lb/>qu’elle Vous a marqués sur les compensations de cette vie, et sur la nécessité d’une
+<lb/>conscience pure: je me réjouis bien d’apprendre que Vous avez trouvé la c[om]t[e]sse, mieux
+<lb/>portante, je m’étois bien allarmée du tableau précédent de son état, qui indiquoit un
+<lb/>dépérissement déplorable; il seroit cruel que ses enfans la perdissent, enfin espérons dans la
+<lb/>bonté divine! Je suis toute accablée aujourd’huy chère Maman de mes
+<lb/>malaises qui par certains jours redoublent et m’affadissent jusqu’à l’esprit:
+<lb/>je n’aime pas à en parler, mais y suis forcé pour expliquer la brièveté de mes
+<lb/>lettres, il y a des jours où il m’est presqu’impossible d’écrire. J’ose donc me
+<lb/>flatter que Vous daignerez me pardonner chère Maman si j’en reste déja
+<lb/>là, et Vous baise les mains de tout mon coeur.
+<lb/>
+<lb/>fol. 293v
+<lb/>Mardi soir, le 11/23 décembre.
+<lb/>
+<lb/>Ma bonne et chère Maman, avant toutes choses permettez-moi de Vous féliciter
+<lb/>de la fête de demain dont nous pouvons nous dire avec joie qu’elle est chère à
+<lb/>la nation comme elle l’est à nos coeurs. Veuille le Ciel conserver et protéger
+<lb/>toujours celui que nous aimons! Je profite du passage d’un aide de camp du c[om]te
+<lb/>Worontzoff pour Vous adresser ces lignes chère Maman et Vous remercier mille fois
+<lb/>pour celles sous No. 121 reçues ce matin par le courier allant à Paris: étant plus
+<lb/>que sensible aux marques d’affection que Vous voulez bien me prodiguer. J’ai fait
+<lb/>remettre la lettre à Schwabe, mais comme il n’est pas au logis et qu’on ne sait
+<lb/>où il est dans le moment où le courier arrive, j’ai fait courir après le
+<lb/>premier médecin que l’on rencontreroit pour dresser un apperçu de mon état,
+<lb/>et le sort m’a poussé son collègue qui vient de tracer ce qui suit; [Einschub: l’autre écrira dès demain et régulièrement]. Je suis désolée
+<lb/>chère Maman si ma main tremblante Vous a causé quelqu’inquiétude, il n’y a
+<lb/>réellement pas de quoi en avoir, mais il est certain que je suis persécutée de malaises,
+<lb/>et que voici plusieurs jours où ils n’ont pas désemparé et où j’ai bien de
+<lb/>la peine à m’occuper de quoi que ce soit, et surtout à écrire. Aussi je m’étois
+<lb/>proposée d’écrire à notre chère c[om]t[e]sse, et je ne le puis, j’en donc Vous supplie chère
+<lb/>Maman de lui remettre les bonnets ci-joints, qui sont un cadeau arrivé
+<lb/>pour sa fête passée. Je voulois écrire à l’Imp[ératrice] pour la remercier de sa
+<lb/>lettre, et j’en suis aussi incapable, je Vous supplie de lui en faire agréer mes
+<lb/>excuses, mais j’ai peine à tracer ceci, aussi me permetterez-Vous chère Maman
+<lb/>
+<lb/>fol. 294r
+<lb/>de répondre les détails de Votre lettre une autre fois, pour y pouvoir répondre avec
+<lb/>un peu plus de bon sens. J’ai été peinée de l’état du pauvre Léwaschoff, et je doute
+<lb/>que les eaux soufrées de Baden [Einschub: près Vienne] lui fassent du bien, ou celles de l’autre Baden qui
+<lb/>sont utiles pour les blessures. Ems est un fameux endroit pour la poitrine, j’y
+<lb/>ai laissé le fils de la c[om]t[e]sse Zouboff bien mieux qu’à son arrivée; Selters est d’ailleurs
+<lb/>tout près, et si même au loin ces eaux sont recomandables pour ce mal, à combien
+<lb/>plus forte raison ne le sont-elles pas à la source même? Mes petites sont
+<lb/>toujours fortement enrhumées, mais grâces à Dieu sans aucun danger de maladie.
+<lb/>Enfin nous avons l’hyver puisse-t-il durer! J’embrasse Alexandre, frères et
+<lb/>soeurs et notre chère c[om]t[e]sse, et Vous baise les mains de coeur et d’âme chère
+<lb/>et bonne Maman, désolée de n’en pouvoir dire plus, et me mets à Vos pieds
+<lb/>avec les miens, étant avec le plus éternel dévouement,
+<lb/>
+<lb/>de ma chère Maman,
+<lb/>la plus soumise et obéissante
+<lb/>fille, Marie.
             </p>
         </body>
     </text>
