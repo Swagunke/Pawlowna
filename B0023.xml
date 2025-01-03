@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<?xml-model href="https://www.deutschestextarchiv.de/basisformat_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="null"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -104,11 +103,11 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <encodingDesc>
+        <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><encodingDesc>
             <editorialDecl>
                 <p>
                     
-                    &lt;p&gt;Dieses Werk wurde in XML/TEI P5 nach &lt;a href="http://www.deutschestextarchiv.de/doku/basisformat"&gt;DTA-Basisformat&lt;/a&gt; kodiert.&lt;/p&gt;
+                    &amp;lt;p&amp;gt;Dieses Werk wurde in XML/TEI P5 nach &amp;lt;a href="http://www.deutschestextarchiv.de/doku/basisformat"&amp;gt;DTA-Basisformat&amp;lt;/a&amp;gt; kodiert.&amp;lt;/p&amp;gt;
                     
                 </p>
             </editorialDecl>
@@ -127,7 +126,28 @@
     <text>
         <body>
             <p>
-                +++Transkription einfügen+++
+                <lb/>No. 263 [1817 Dez. 17]
+<lb/>fol. 290r
+<lb/>Weymar. Mécredi, le 5/17 décembre 1817.
+<lb/>
+<lb/>Ma bonne et chère Maman!
+<lb/>
+<lb/>L’apparence d’hyver que nous avions et toute la masse de neige tombée depuis 2
+<lb/>jours a disparu, et Vous jugez bien de tous les regrets que j’en éprouve, vu ma tendresse pour les
+<lb/>frimats(!): c’est une cruelle chose que ces climats changeans. En attendant mes enfans se
+<lb/>portent bien, et la petite n’a qu’un peu mauvaise mine parce qu’elle fait des dents.
+<lb/>Rien de nouveau ici chère Maman, le GrDuc chasse beaucoup et le c[om]te Zichy en fait
+<lb/>autant. C’est demain qu’il part pour retourner à Berlin, le pr[ince] Hardenberg a continué
+<lb/>son voyage dès lundi. Je vis dans l’espoir de voir arriver bientôt quelque courier de Moscou,
+<lb/>il y a longtems qu’il n’en a passé, ce sont pour moi de bons et d’heureux jours que ceux
+<lb/>où ils arrivent, car je ne sais pourquoi depuis Moscou la poste met plus de tems
+<lb/>que depuis Pétersbourg. J’embrasse frères, soeurs et notre chère c[om]t[e]sse, et Vous baise mille
+<lb/>et mille fois les mains chère Maman en me recomandant à Votre bénédiction,
+<lb/>et en Vous demandant la continuation de Votre tendresse; je suis avec le plus respectueux et le plus éternel dévouement,
+<lb/>
+<lb/>de ma bonne et chère Maman,
+<lb/>la plus soumise et obéissante
+<lb/>fille, Marie.
             </p>
         </body>
     </text>
