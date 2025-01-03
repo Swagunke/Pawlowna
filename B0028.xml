@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<?xml-model href="https://www.deutschestextarchiv.de/basisformat_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="null"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -104,11 +103,11 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <encodingDesc>
+        <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><encodingDesc>
             <editorialDecl>
                 <p>
                     
-                    &lt;p&gt;Dieses Werk wurde in XML/TEI P5 nach &lt;a href="http://www.deutschestextarchiv.de/doku/basisformat"&gt;DTA-Basisformat&lt;/a&gt; kodiert.&lt;/p&gt;
+                    &amp;lt;p&amp;gt;Dieses Werk wurde in XML/TEI P5 nach &amp;lt;a href="http://www.deutschestextarchiv.de/doku/basisformat"&amp;gt;DTA-Basisformat&amp;lt;/a&amp;gt; kodiert.&amp;lt;/p&amp;gt;
                     
                 </p>
             </editorialDecl>
@@ -127,7 +126,32 @@
     <text>
         <body>
             <p>
-                +++Transkription einfügen+++
+                <lb/>No. 268 [1817 Dez. 25]
+<lb/>fol. 296r
+<lb/>Weymar. Jeudi, le 13/25 décembre 1817 (1ier jour de Noël)
+<lb/>
+<lb/>Ma bonne et chère Maman!
+<lb/>
+<lb/>J’ai pu assister à la messe aujourd’huy mais en m’asseyant plusieurs fois, et
+<lb/>mon grand diner de hier a bien passé, ce dont je suis toute émerveillée, m’étant ressentie ces
+<lb/>jours derniers des incommodités de mon état. Schwabe m’a dit qu’il desiroit remettre à dimanche
+<lb/>à Vous faire chère Maman un rapport circonstancié sur ma personne, et comme de fait
+<lb/>il n’a rien à Vous apprendre de fâcheux et que j’espère en la bonté divine que cela durera
+<lb/>ainsi jusqu’à dimanche, alors je lui ai permis de se taire encore 2 jours. Mes enfans
+<lb/>ont été les plus heureux hier soir, et gais autant que possible les premiers instans passés,
+<lb/>où ils étoient ébaubis et ne savoient où ils en étoient: le GrDuc et la GrDuchesse les ont
+<lb/>accablés de cadeaux, et de très jolies choses, de sorte qu’ils étoient tous enchantés et le pr[ince] et moi comme
+<lb/>de raison très reconnoissans. Ce matin nombre de Grecs ont communiés à ma chapelle, ils
+<lb/>étudient à Jéna, et je leur ai comme de raison abandonné la jouissance de mon
+<lb/>église: ils ont l’air fort bien, la plupart des physionomies très marquées. J’embrasse
+<lb/>toute la famille et notre chère c[om]t[e]sse, attendant avec impatience des détails sur la
+<lb/>manière dont on aura marqué à Moscou son intéret à la journée d’hier. Je Vous
+<lb/>baise les mains de tout mon coeur chère Maman, autant en font les miens,
+<lb/>et je suis à jamais avec le plus tendre et le plus respectueux attachement,
+<lb/>
+<lb/>de ma bonne et chère Maman,
+<lb/>la plus dévouée et obéissante fille
+<lb/>Marie.
             </p>
         </body>
     </text>
