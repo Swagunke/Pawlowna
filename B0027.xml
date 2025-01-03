@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<?xml-model href="https://www.deutschestextarchiv.de/basisformat_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="null"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -104,11 +103,11 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <encodingDesc>
+        <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><encodingDesc>
             <editorialDecl>
                 <p>
                     
-                    &lt;p&gt;Dieses Werk wurde in XML/TEI P5 nach &lt;a href="http://www.deutschestextarchiv.de/doku/basisformat"&gt;DTA-Basisformat&lt;/a&gt; kodiert.&lt;/p&gt;
+                    &amp;lt;p&amp;gt;Dieses Werk wurde in XML/TEI P5 nach &amp;lt;a href="http://www.deutschestextarchiv.de/doku/basisformat"&amp;gt;DTA-Basisformat&amp;lt;/a&amp;gt; kodiert.&amp;lt;/p&amp;gt;
                     
                 </p>
             </editorialDecl>
@@ -127,7 +126,31 @@
     <text>
         <body>
             <p>
-                +++Transkription einfügen+++
+                <lb/>No. 267 [1817 Dez. 24]
+<lb/>fol. 295r
+<lb/>Weymar. Mécredi, le 12/24 décembre 1817.
+<lb/>
+<lb/>Ma bonne et chère Maman!
+<lb/>
+<lb/>Daignez recevoir mes voeux et mes félicitations pour la journée d’aujourd’huy
+<lb/>et pour celui qui en est l’objet! Puisse notre cher Empereur être toujours
+<lb/>aussi heureux que nous le lui souhaitons tous, et l’objet des bénédictions célestes.
+<lb/>Je me représente l’entousiasme avec lequel cette journée sera célébrée à Moscou,
+<lb/>et me réjouis en y pensant. Combien je donnerois pour en être le témoin!
+<lb/>C’est aujourd’huy que je compte me lancer à table, pour être d’un grand dinner qui se
+<lb/>donne pour la fête, je suis curieuse de voir comment je m’en tirerai, n’ayant pas été à
+<lb/>mon aise ces derniers jours. Notre neige se soutient, et du reste il fait assez doux, de sorte
+<lb/>que je pourrois envier les 25 degrés de froid de Moscou, vu mon goût pour un bon hyver glacial.
+<lb/>Je me garde de dire de ces choses là-haut, car l’on m’assassineroit et me diroit que
+<lb/>je desire la ruine de la patrie, chose fort éloignée de ma pensée assurément. Ce soir,
+<lb/>il y a grand jour de fête pour les enfans, ils s’en font une joie qui fait plaisir à voir:
+<lb/>eux et moi chère Maman, nous nous mettons à Vos pieds en Vous baisant les mains,
+<lb/>j’embrasse notre Alexandre et mes frères et soeurs ainsi que notre chère c[om]t[e]sse, et suis
+<lb/>éternellement avec le plus respectueux dévouement,
+<lb/>
+<lb/>de ma bonne et chère Maman,
+<lb/>la plus soumise et obéissante
+<lb/>fille, Marie.
             </p>
         </body>
     </text>
