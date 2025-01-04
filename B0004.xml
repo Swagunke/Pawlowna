@@ -375,7 +375,6 @@
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0004.xml?person_annotation_20241216191753996",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-16T18:17:53.996Z",
-	"dcterms:modified": "2024-12-16T18:17:53.996Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -402,12 +401,12 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0004.xml?person_annotation_20241216191753996#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[3]"
+			"rdf:value": "TEI/text/body/p/persName[4]"
 		}
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://d-nb.info/gnd/118713124",
+		"@id": "https://d-nb.info/gnd/1232245070",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -454,7 +453,6 @@
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0004.xml?person_annotation_20241216192022329",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-16T18:20:22.329Z",
-	"dcterms:modified": "2024-12-16T18:20:22.329Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -481,12 +479,12 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0004.xml?person_annotation_20241216192022329#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[4]"
+			"rdf:value": "TEI/text/body/p/persName[5]"
 		}
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://d-nb.info/gnd/1232245070",
+		"@id": "https://d-nb.info/gnd/123774721",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -612,7 +610,6 @@
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0004.xml?person_annotation_20241216192320690",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-16T18:23:20.690Z",
-	"dcterms:modified": "2024-12-16T18:23:20.690Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -639,12 +636,12 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0004.xml?person_annotation_20241216192320690#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[5]"
+			"rdf:value": "TEI/text/body/p/persName[6]"
 		}
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://d-nb.info/gnd/123774721",
+		"@id": "https://d-nb.info/gnd/118545906",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -691,7 +688,6 @@
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0004.xml?person_annotation_20241216192435018",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-16T18:24:35.018Z",
-	"dcterms:modified": "2024-12-16T18:24:35.018Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -718,12 +714,12 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0004.xml?person_annotation_20241216192435018#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[9]"
+			"rdf:value": "TEI/text/body/p/persName[10]"
 		}
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://d-nb.info/gnd/123774721",
+		"@id": "https://d-nb.info/gnd/104304219",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -770,7 +766,6 @@
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0004.xml?person_annotation_20241216192602571",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-16T18:26:02.571Z",
-	"dcterms:modified": "2024-12-16T18:26:02.571Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -797,12 +792,12 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0004.xml?person_annotation_20241216192602571#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[6]"
+			"rdf:value": "TEI/text/body/p/persName[7]"
 		}
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://d-nb.info/gnd/118545906",
+		"@id": "https://d-nb.info/gnd/11856014X",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1007,7 +1002,6 @@
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0004.xml?person_annotation_20241216192923901",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-16T18:29:23.901Z",
-	"dcterms:modified": "2024-12-16T18:29:23.901Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -1034,12 +1028,91 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0004.xml?person_annotation_20241216192923901#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[7]"
+			"rdf:value": "TEI/text/body/p/persName[8]"
 		}
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://d-nb.info/gnd/11856014X",
+		"@id": "P_0005",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0004.xml?person_annotation_20250104210833388",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-04T20:08:33.388Z",
+	"dcterms:modified": "2025-01-04T20:08:33.388Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/IIwanov",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Iwan Iwanov"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0004.xml?person_annotation_20250104210833388#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0004.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0004.xml?person_annotation_20250104210833388#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p/persName[3]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://d-nb.info/gnd/118713132",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1084,7 +1157,7 @@
 <lb/>m’en suis bien réjouie; mais en la lisant j’ai vu avec peine que Votre arrivée a été
 <lb/>troublée par la nouvelle de la mort de <persName key="Hermine, Anhalt-Bernburg-Schaumburg, Fürstin" ref="https://d-nb.info/gnd/104140062">l’Archiduchesse</persName>, et que ce triste événement Vous
 <lb/>a fait une douloureuse impression. Mais il m’étoit aussi tout-à-fait digne, car jamais
-<lb/>l’on ne vit de fin plus tragique: une lettre que je viens de recevoir du pauvre Joseph
+<lb/>l’on ne vit de fin plus tragique: une lettre que je viens de recevoir du <persName key="Joseph, Österreich, Erzherzog" ref="https://d-nb.info/gnd/118713132">pauvre Joseph</persName>
 <lb/>en réponse aux miennes, m’a fondu le coeur; son état est désolant; heureusement
 <lb/>que <persName key="Amalie, Anhalt-Bernburg-Schaumburg-Hoym, Fürstin" ref="https://d-nb.info/gnd/1232245070">sa belle-mère</persName> reste avec lui et lui est vraiment de secours. J’espère que Votre
 <lb/>prochaine lettre me parlera chère Maman, de la satisfaction que le séjour de <placeName key="Moskau" ref="https://d-nb.info/gnd/4074987-3">Moscou</placeName>
