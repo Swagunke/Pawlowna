@@ -323,7 +323,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0013.xml?person_annotation_20250104202940016#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[4]"
+			"rdf:value": "TEI/text/body/p/persName[5]"
 		}
 	},
 	"oa:hasBody": {
@@ -419,6 +419,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0013.xml?person_annotation_20250104204253469",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-04T19:42:53.469Z",
+	"dcterms:modified": "2025-01-04T19:42:53.469Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/IIwanov",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Iwan Iwanov"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0013.xml?person_annotation_20250104204253469#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0013.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0013.xml?person_annotation_20250104204253469#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p/persName[4]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://d-nb.info/gnd/1083833707",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
             <editorialDecl>
                 <p>
@@ -451,8 +530,8 @@
 <lb/>Je m’étois flattée que la poste m’apporteroit aujourd’huy de Vos lettres,
 <lb/>mais cet espoir a été desçu, et il faudra vivre d’espérance jusqu’à jeudi.
 <lb/>En attendant nous avons ici bien du monde chère Maman, <persName key="Georg Wilhelm, Schaumburg-Lippe, Fürst" ref="https://d-nb.info/gnd/132526255">le pr[ince] de la Lippe</persName>
-<lb/>est avec <persName>sa jeune épouse qui est pr[ince]sse de Waldeck</persName> et soeur à la femme
-<lb/>de mon cousin Eugène. Sans être jolie, la pr[ince]sse de la Lippe a eu heureuse physionomie
+<lb/>est avec <persName>sa jeune épouse qui est pr[ince]sse de Waldeck</persName> et soeur à la <persName key="Mathilde, Württemberg, Prinzessin" ref="https://d-nb.info/gnd/1083833707">femme
+<lb/>de mon cousin Eugène</persName>. Sans être jolie, la pr[ince]sse de la Lippe a eu heureuse physionomie
 <lb/>ouverte et gaie, elle a l’air tout-à-fait bonne personne, et quelque chose de
 <lb/>fort simple. Je suis toute accablée de ma journée, ayant eu en visites
 <lb/>matin et soir; je n’ai pu sortir qu’en voiture tant il faisoit mauvois,
