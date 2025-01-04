@@ -323,7 +323,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0013.xml?person_annotation_20250104202940016#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[3]"
+			"rdf:value": "TEI/text/body/p/persName[4]"
 		}
 	},
 	"oa:hasBody": {
@@ -451,7 +451,7 @@
 <lb/>Je m’étois flattée que la poste m’apporteroit aujourd’huy de Vos lettres,
 <lb/>mais cet espoir a été desçu, et il faudra vivre d’espérance jusqu’à jeudi.
 <lb/>En attendant nous avons ici bien du monde chère Maman, <persName key="Georg Wilhelm, Schaumburg-Lippe, Fürst" ref="https://d-nb.info/gnd/132526255">le pr[ince] de la Lippe</persName>
-<lb/>est avec sa jeune épouse qui est pr[ince]sse de Waldeck et soeur à la femme
+<lb/>est avec <persName>sa jeune épouse qui est pr[ince]sse de Waldeck</persName> et soeur à la femme
 <lb/>de mon cousin Eugène. Sans être jolie, la pr[ince]sse de la Lippe a eu heureuse physionomie
 <lb/>ouverte et gaie, elle a l’air tout-à-fait bonne personne, et quelque chose de
 <lb/>fort simple. Je suis toute accablée de ma journée, ayant eu en visites
