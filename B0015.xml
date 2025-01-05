@@ -322,7 +322,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?person_annotation_20250104214148534#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[14]"
+			"rdf:value": "TEI/text/body/p/persName[15]"
 		}
 	},
 	"oa:hasBody": {
@@ -3262,6 +3262,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?place_annotation_20250105152607762",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-05T14:26:07.762Z",
+	"dcterms:modified": "2025-01-05T14:26:07.762Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/IIwanov",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Iwan Iwanov"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?place_annotation_20250105152607762#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?place_annotation_20250105152607762#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p/placeName[20]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "https://d-nb.info/gnd/4076899-5",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
             <editorialDecl>
                 <p>
@@ -3392,14 +3471,14 @@ d’eux</persName> même à ce que l’on assure étoit au fait des projets [Ein
 <lb/>sous tant de rapports, nous nous sommes tant laissés louer aux dépens des autres, qu’il
 <lb/>est difficile de croire que nous parvenions à ramener les opinions qui nous sont contraires,
 <lb/>je crois que sous ce rapport il ne faut pas se faire d’illusion, et la manière dont parleront
-<lb/><persName key="Hardenberg, Karl August von" ref="https://d-nb.info/gnd/118545906">le GrChancelier de Prusse</persName> et le ministre d’Autriche donnera un nouvel apperçu à ce
+<lb/><persName key="Hardenberg, Karl August von" ref="https://d-nb.info/gnd/118545906">le GrChancelier de Prusse</persName> et <persName>le ministre d’Autriche</persName> donnera un nouvel apperçu à ce
 <lb/>sujet. Mais mes forces m’interdisent d’en dire plus aujourd’huy chère Maman,
 <lb/>permettez-moi de Vous baiser les mains et de me mettre à Vos pieds. 
 <lb/>
 <lb/>Samedi, le 17/29 novembre.
 <lb/>
 <lb/>Chère Maman, je m’en vais reprendre mon sujet de hier: comme la relation
-<lb/>dont j’ai parlé parviendra sans doute en Russie, Vous la vérez et sans doute non pas
+<lb/>dont j’ai parlé parviendra sans doute en <placeName key="Russland" ref="https://d-nb.info/gnd/4076899-5">Russie</placeName>, Vous la vérez et sans doute non pas
 <lb/>sans intéret. Ce qui y a donné lieu en a eu tant aux yeux de l’Allemagne qu’on ne
 <lb/>cesse encore de s’en occuper, et que l’on y revient de plus en plus avec la persuasion
 <lb/>que des dessous de cartes existent. Qu’il y a des projets de changemens dans la cervelle
