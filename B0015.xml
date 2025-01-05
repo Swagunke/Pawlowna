@@ -4194,7 +4194,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?person_annotation_20250105155630542#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[40]"
+			"rdf:value": "TEI/text/body/p/persName[42]"
 		}
 	},
 	"oa:hasBody": {
@@ -7385,7 +7385,7 @@ d’eux</persName> même à ce que l’on assure étoit au fait des projets [Ein
 <lb/>27, 28 et 29 octobre, No. 112, pour laquelle je Vous baise les mains. J’ai été bien saisie
 <lb/>en y lisant la nouvelle de la mort de <persName>Mr. Danaouroff</persName>, que rien n’annonçoit: je le
 <lb/>regrette bien, car il étoit brave homme et très attaché à <persName key="Paul I., Russland, Zar" ref="https://d-nb.info/gnd/118739549">feu l’Empereur</persName> comme à Vous
-<lb/>chère Maman: je plains du fond de mon âme sa veuve et sa belle-soeur, et
+<lb/>chère Maman: je plains du fond de mon âme <persName>sa veuve</persName> et <persName>sa belle-soeur</persName>, et
 <lb/>
 <pb facs="13"/>
 <lb/>fol. 275r
