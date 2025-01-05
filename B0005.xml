@@ -1067,7 +1067,8 @@
     </teiHeader>
     <text>
         <body>
-            <p>
+            <pb facs="01"/>
+			<p>
                 <lb/>No. 245 [1817 Nov. 10-12]
 <lb/>fol. 255r
 <lb/><placeName key="Weimar" ref="https://d-nb.info/gnd/4065105-8">Weymar</placeName>. Lundi, 29 octobre/ 10 novembre 1817.
@@ -1091,6 +1092,7 @@
 <lb/>de <placeName key="Russland" ref="https://d-nb.info/gnd/4076899-5">notre bon peuple</placeName>, m’est bien présent: mille fois j’ai été à même
 <lb/>de me répéter qu’il n’y avoit que là que l’on retrouvoit cette affection
 <lb/>
+<pb facs="02"/>
 <lb/>fol. 255v
 <lb/>de tendresse et de respect, toujours renaissante à chaque occasion, et toujours
 <lb/>marquée avec empressement. Ailleurs l’accueil est froid, les démonstrations nulles
@@ -1113,6 +1115,7 @@
 <lb/>l’enfance de <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">Marie</persName> qui est allée chercher ses poupées et s’en est
 <lb/>entourée pour qu’aussi elles vissent ce spectacle, avec la bonne foi
 <lb/>
+<pb facs="03"/>
 <lb/>fol. 256r
 <lb/>d’un enfant de trois ans; je l’ai laissée faire, étant au fond charmée de
 <lb/>ce penchant vers l’enfance, il ne nuit pas à son caractère, il lui prolonge
@@ -1135,6 +1138,7 @@
 <lb/>terre y gagnent tous infiniment. Toute la petite famille se met à Vos
 <lb/>pieds chère et bonne Maman, j’en fait autant de tout mon coeur,
 <lb/>
+<pb facs="04"/>
 <lb/>fol. 256v
 <lb/>et embrasse frères, soeurs, et <persName key="Lieven, Charlotte Karlowna de" ref="https://d-nb.info/gnd/115603972">la c[om]t[e]sse</persName>. Je vous baise mille fois les mains,
 <lb/>en Vous demandant Votre bénédiction, étant avec le plus tendre et le plus
