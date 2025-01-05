@@ -7748,7 +7748,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?person_annotation_20250105214414615#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[48]"
+			"rdf:value": "TEI/text/body/p/persName[49]"
 		}
 	},
 	"oa:hasBody": {
@@ -7991,6 +7991,85 @@
 	"oa:hasBody": {
 		"@type": "cwrc:RealPlace",
 		"@id": "https://d-nb.info/gnd/4028557-1",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?person_annotation_20250105214750642",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-05T20:47:50.642Z",
+	"dcterms:modified": "2025-01-05T20:47:50.642Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/IIwanov",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Iwan Iwanov"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?person_annotation_20250105214750642#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?person_annotation_20250105214750642#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p/persName[48]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://d-nb.info/gnd/119059193",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -8367,7 +8446,7 @@ d’eux</persName> même à ce que l’on assure étoit au fait des projets [Ein
 <lb/>moi n’ont compris, et nous avons fini par penser qu’à dessein on avoit placé les
 <lb/>mots [Einschub: dans un autre sens que celui que l’usage leur donne habituellement] afin de dérouter. <persName key="Jahn, Friedrich Ludwig" ref="https://d-nb.info/gnd/118556622">Jahn</persName> et <persName key="Arndt, Ernst Moritz" ref="https://d-nb.info/gnd/118504118">Arndt</persName>, également à <placeName key="Berlin" ref="https://d-nb.info/gnd/4005728-8">Berlin</placeName>, sont ceux qui soufflent
 <lb/>le plus le feu dans leurs écrits, et même le premier a envoyé un sien délégué nommé
-<lb/>Massmann à <placeName key="Jena" ref="https://d-nb.info/gnd/4028557-1">Jéna</placeName>, qui a été celui qui a brûlé les titres des livres à la Wartbourg
+<lb/><persName key="Massmann, Hans F." ref="https://d-nb.info/gnd/119059193">Massmann</persName> à <placeName key="Jena" ref="https://d-nb.info/gnd/4028557-1">Jéna</placeName>, qui a été celui qui a brûlé les titres des livres à la Wartbourg
 <lb/>en les accompagnant d’injures, et qui a écrit cette ridicule description de la réunion
 <lb/>qui y a eu lieu: et cependant c’est à Berlin que le plus de voix s’élèvent contre
 <lb/>cette même réunion, qui [Einschub: sie elle n’] a pris naissance dans cette ville, y a au moins été dévaluée
