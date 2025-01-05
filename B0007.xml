@@ -1387,7 +1387,8 @@
     </teiHeader>
     <text>
         <body>
-            <p>
+            <pb facs="01"/>
+			<p>
                 <lb/>No. 247 [1817 Nov. 14]
 <lb/>fol. 258r
 <lb/><placeName key="Weimar" ref="https://d-nb.info/gnd/4065105-8">Weymar</placeName>. Vendredi, 2/14 novembre 1817.
@@ -1412,6 +1413,7 @@ de Bauer</placeName>, au cas qu’il y en ait un de vacant, ce qui est, disent-e
 <lb/>Vous prier de montrer cette lettre-ci à <persName key="Aleksandr I., Russland, Zar" ref="https://d-nb.info/gnd/118501852">l’Emp[ereur]</persName> ce qui lui rappellera la chose, et
 <lb/>permettez-moi d’insérer ici une lettre ouverte à <persName ref="P_0026">Mr. de Sabloukoff</persName> que je Vous
 <lb/>
+<pb facs="02"/>
 <lb/>fol. 258v
 <lb/>supplie de lire, en approuvant que j’augmente à ces deux bonnes personnes la pension annuelle
 <lb/>que je leur fais, pour que la mort de leur mère ne les mette pas dans le besoin, à
