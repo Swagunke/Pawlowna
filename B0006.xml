@@ -1224,7 +1224,8 @@
     </teiHeader>
     <text>
         <body>
-            <p>
+            <pb facs="01"/>
+			<p>
                 <lb/>No. 246 [1817 Nov. 13]
 <lb/>fol. 257r
 <lb/><placeName key="Weimar" ref="https://d-nb.info/gnd/4065105-8">Weymar</placeName>. Jeudi, 1/13 novembre 1817.
@@ -1249,6 +1250,7 @@
 <lb/>y a une signification, et les bâtimens correspondent parfaitement à
 <lb/>reproduire un tableau progressif des tems reculés et modernes: je serois
 <lb/>
+<pb facs="02"/>
 <lb/>fol. 257v
 <lb/>fort heureuse de la revoir un jour, mais voilà de ces rêves auxquels je crois
 <lb/>qu’il ne faut pas trop se livrer. En attendant, si <persName key="Alexandra, Russland, Zarin" ref="https://d-nb.info/gnd/119092085">Alexandrine</persName> est de fait
