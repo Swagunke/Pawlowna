@@ -1146,7 +1146,8 @@
     </teiHeader>
     <text>
         <body>
-            <p>
+            <pb facs="01"/>
+			<p>
                 <lb/>No. 244 [1817 Nov. 7-9]
 <lb/>fol. 254r
 <lb/>Weymar. Vendredi, 26 octobre/ 7 novembre 1817.
@@ -1170,7 +1171,7 @@
 <lb/>
 <lb/>Chère Maman, notre beau tems se soutient si bien, que j’ai pu
 <lb/>faire une promenade en calèche et qu’il faisoit très doux. Rien de nouveau
-<lb/>
+<pb facs="02"/>
 <lb/>fol. 254v
 <lb/>ici, sinon que l’on y attend sous peu <persName key="Hardenberg, Karl August von" ref="https://d-nb.info/gnd/118545906">le pr[ince] Hardenberg</persName> qui à peine de retour[ner]
 <lb/>à <placeName key="Berlin" ref="https://d-nb.info/gnd/4005728-8">Berlin</placeName>, s’en va visiter <placeName key="Rheinprovinz" ref="https://d-nb.info/gnd/4211235-7">les provinces du Rhin</placeName>, ce qui cause quelqu’étonnement
