@@ -914,7 +914,8 @@
     </teiHeader>
     <text>
         <body>
-            <p>
+            <pb facs="01"/>
+			<p>
                 <lb/>No. 253 [1817 Nov. 24-26]
 <lb/>fol. 267r
 <lb/><placeName key="Weimar" ref="https://d-nb.info/gnd/4065105-8">Weymar</placeName>. Lundi 12/24 novembre 1817.
@@ -939,6 +940,7 @@
 <lb/>Chère Maman, nos visiteurs sont loin, mais il nous en arrive d’autres
 <lb/>dit-on, et d’un autre genre. De tout cela j’ai peu de récréation car je ne peux
 <lb/>
+<pb facs="02"/>
 <lb/>fol. 267v
 <lb/>participer à aucun dinner ni à aucune soirée que tout au plus pendant une
 <lb/>heure et demi de tems, ainsi je ne vois les arrivans que chez moi quand comme
@@ -963,6 +965,7 @@
 <lb/>et je n’entreprends par cette voye rien de pareil chère Maman, n’aimant
 <lb/>parler choses incomplettes. Veuillez me continuer toujours Vos précieuses
 <lb/>
+<pb facs="03"/>
 <lb/>fol. 268r
 <lb/>bontés qui embelissent mon existence, et ne pas m’effacer de Votre mémoire.
 <lb/>J’embrasse frères et soeurs ainsi que <persName key="Lieven, Charlotte Karlowna de" ref="https://d-nb.info/gnd/115603972">notre chère c[om]t[e]sse</persName>, et suis à jamais
