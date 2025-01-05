@@ -322,7 +322,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?person_annotation_20250104214148534#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[15]"
+			"rdf:value": "TEI/text/body/p/persName[16]"
 		}
 	},
 	"oa:hasBody": {
@@ -3742,7 +3742,7 @@ d’eux</persName> même à ce que l’on assure étoit au fait des projets [Ein
 <lb/>de la presse<seg type="keyword"><term>Pressefreiheit</term></seg>, de laquelle l’on se montre fort amoureux: le problème n’est pas encore
 <lb/>résolu, et pourtant 2 gazettes supprimées, et une troisième admonisée avec menaces,
 <lb/>c’est celle qui a valu assez récement ici une très forte explication de la part de <placeName key="Frankreich" ref="https://d-nb.info/gnd/4018145-5">la
-<lb/>France</placeName> sur un bien mauvais article qui attaquoit de front la dynastie des Bourbons.
+<lb/>France</placeName> sur un bien mauvais article qui attaquoit de front <persName>la dynastie des Bourbons</persName>.
 <lb/>Il y a bien de gens experts et entendus qui assurent et soutiennent que toutes les
 <lb/>paroles et jaseries n’auront aucun mauvais résultat, qu’il faut laisser dire et
 <lb/>aller son chemin; je le crois aussi, mais pour autant que les paroles ne sont pas
