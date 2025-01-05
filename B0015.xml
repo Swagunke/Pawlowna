@@ -7748,7 +7748,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?person_annotation_20250105214414615#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[49]"
+			"rdf:value": "TEI/text/body/p/persName[50]"
 		}
 	},
 	"oa:hasBody": {
@@ -8857,7 +8857,7 @@ d’eux</persName> même à ce que l’on assure étoit au fait des projets [Ein
 <lb/>me trompe, mais il me semble que ce qui se passe est gauche, et qu’il faudroit bien
 <lb/>soigneusement éviter de faire entrevoir des apréhensions(!) là où fort heureusement
 <lb/>il y a déja des actions contre lesquelles l’on peut et l’on doit sévir. J’ignore encore
-<lb/>l’issues des enquêtes faites ici contre un professeur, la marche des affaires de cette espèce étant
+<lb/>l’issues des enquêtes faites ici contre <persName>un professeur</persName>, la marche des affaires de cette espèce étant
 <lb/>
 <pb facs="15"/>
 <lb/>fol. 276r
