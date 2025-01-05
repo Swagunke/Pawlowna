@@ -296,7 +296,6 @@
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?person_annotation_20250104214148534",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-04T20:41:48.534Z",
-	"dcterms:modified": "2025-01-04T20:41:48.534Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -323,7 +322,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?person_annotation_20250104214148534#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[6]"
+			"rdf:value": "TEI/text/body/p/persName[7]"
 		}
 	},
 	"oa:hasBody": {
@@ -1921,7 +1920,7 @@
 <lb/>bien qu’ils n’appartenoient pas au nombre des étudians, se presser dans
 <lb/>la foule afin de passer pour être des leurs, ce sont eux que l’on accuse et dont on
 <lb/>est sûr à <placeName key="Jena" ref="https://d-nb.info/gnd/4028557-1">Jéna</placeName> qu’ils sont les auteurs d’un ridicule et indigne pamphlet, intitulé
-<lb/>Das Burschenfest auf die(!) Wartburg<seg type="keyword"><term>Flugschrift</term></seg>, que l’un des professeurs de Jéna a eu la foiblesse
+<lb/>Das Burschenfest auf die(!) Wartburg<seg type="keyword"><term>Flugschrift</term></seg>, que <persName>l’un des professeurs de Jéna</persName> a eu la foiblesse
 <lb/>de laisser passer sans y rien changer. Ce professeur, qui jusqu’à cette époque avoit toujours
 <lb/>joui de la réputation d’un homme de bien, a été mis sous enquête pour sa conduite,
 <lb/>ayant imprimé un discours du plus mauvais genre à la même occasion, chose
