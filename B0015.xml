@@ -4194,7 +4194,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?person_annotation_20250105155630542#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[44]"
+			"rdf:value": "TEI/text/body/p/persName[45]"
 		}
 	},
 	"oa:hasBody": {
@@ -7473,7 +7473,7 @@ d’eux</persName> même à ce que l’on assure étoit au fait des projets [Ein
 <lb/>pauvre femme quel état, et que ne fait-il pas craindre! Et quelle perspective
 <lb/>pour sa famille! J’y prends la plus vive part, et comprens combien la vue de cette
 <lb/>affliction a dû chère Maman Vous toucher. Si Vous en trouvez l’occasion, veuillez
-<lb/>me rappeller à son souvenir, comme à celui de <persName>la pr[ince]sse Galitzin</persName> et de Madame Apraxin. En général, j’ai
+<lb/>me rappeller à son souvenir, comme à celui de <persName>la pr[ince]sse Galitzin</persName> et de <persName>Madame Apraxin</persName>. En général, j’ai
 <lb/>un vrai besoin de rapprochement avec cette chère patrie et ceux que j’y ai connus, je sens
 <lb/>que je ne saurai vivre sans l’espoir d’y retourner, et je ne puis assez dire combien je
 <lb/>suis attachée à tout ce qui en vient. Il y a dans ce bon païs non seulement une disposition
