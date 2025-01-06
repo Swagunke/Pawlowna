@@ -7722,6 +7722,7 @@
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?person_annotation_20250105214414615",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-05T20:44:14.615Z",
+	"dcterms:modified": "2025-01-05T20:44:14.615Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -7748,7 +7749,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?person_annotation_20250105214414615#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[50]"
+			"rdf:value": "TEI/text/body/p/persName[51]"
 		}
 	},
 	"oa:hasBody": {
@@ -8862,8 +8863,9 @@ d’eux</persName> même à ce que l’on assure étoit au fait des projets [Ein
 <pb facs="15"/>
 <lb/>fol. 276r
 <lb/>lente par sa nature, mais je Vous en informerai chère Maman comme d’un point
-<lb/>intéressant. Pour changer de discours, ce matin l’on m’a annoncé le GrChambellan
-<lb/>Narischkin, et je Vous avoue que j’ai eu une vraie joie à le revoir, tout étourdi
+<lb/>intéressant. Pour changer de discours, ce matin l’on m’a annoncé <persName>le GrChambellan
+<lb/>
+Narischkin</persName>, et je Vous avoue que j’ai eu une vraie joie à le revoir, tout étourdi
 <lb/>qu’il est. Il s’est mis en tête de partir demain, mais ce sont des contes, il faut
 <lb/>qu’il reste plus longtems, d’ailleurs le GrDuc a résolu de le mener à la chasse.
 <lb/>Je me mets de tout mon coeur à Vos pieds chère et bonne Maman.
