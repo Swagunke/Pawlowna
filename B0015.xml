@@ -16686,6 +16686,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?place_annotation_20250106153343458",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-06T14:33:43.458Z",
+	"dcterms:modified": "2025-01-06T14:33:43.458Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/IIwanov",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Iwan Iwanov"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?place_annotation_20250106153343458#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?place_annotation_20250106153343458#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p/placeName[89]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "https://d-nb.info/gnd/4042203-3",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
             <editorialDecl>
                 <p>
@@ -17369,7 +17448,7 @@ Dresde et ici</persName>, qui à la première nouvelle de la réunion a envoyé 
 <lb/>comment l’on y prendra le rapport que va faire le c[om]te à son retour à <placeName key="Berlin" ref="https://d-nb.info/gnd/4005728-8">Berlin</placeName>;
 <lb/>il a paru de fort bonne volonté jusqu’ici, il faut croire que c’est sincère. J’ai
 <lb/>été fort peinée d’apprendre que <persName key="Hardenberg, Karl August von" ref="https://d-nb.info/gnd/118545906">le pr[ince] Hardenberg</persName> ait parlé au <persName key="Karl August, Sachsen-Weimar-Eisenach, Großherzog" ref="https://d-nb.info/gnd/11856014X">GrDuc</persName> de l’éclat arrivé en
-<lb/>Hollande et de savoir qu’il a beaucoup blâmé Guilleaume. Il paroissoit croire que des
+<lb/><placeName key="Niederlande" ref="https://d-nb.info/gnd/4042203-3">Hollande</placeName> et de savoir qu’il a beaucoup blâmé Guilleaume. Il paroissoit croire que des
 <lb/>intrigues pareilles à celles du printems dernier l’avoient excité dans cette affaire: j’en
 <lb/>pense que Vous aurez là-dessus de plus exactes données: je tiens la chose de la bouche
 <lb/>même du GrDuc, et je crois que tout répond de ma discrétion personelle: je n’ai toujours
