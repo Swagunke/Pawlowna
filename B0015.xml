@@ -7748,7 +7748,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?person_annotation_20250105214414615#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[71]"
+			"rdf:value": "TEI/text/body/p/persName[72]"
 		}
 	},
 	"oa:hasBody": {
@@ -12727,8 +12727,9 @@ Narischkin</persName>, et je Vous avoue que j’ai eu une vraie joie à le revoi
 <lb/>aux <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">enfans</persName> des lettres tout-à-fait aimables, j’espère pouvoir lui répondre par
 <lb/>cette même occasion. Je me rappelle très bien chère Maman du <persName>pr[ince] Feodor Galitzin</persName>
 <lb/>et du <persName>pr[ince] Massalsky</persName>, mais je ne me souviens plus seulement de la charge que
-<lb/>ce dernier avoit occupée à la cour: quant à la lotterie que nous jouions avec le c[om]te
-<lb/>Georges Galowkin et feu le pr[ince] Bélosselsky elle étoit divertissante, et ces hyvers-là
+<lb/>ce dernier avoit occupée à la cour: quant à la lotterie que nous jouions avec <persName>le c[om]te
+<lb/>
+Georges Galowkin</persName> et feu le pr[ince] Bélosselsky elle étoit divertissante, et ces hyvers-là
 <lb/>sont marqués en rose dans mes souvenirs: les détails des présentations m’ont
 <lb/>fait un plaisir infini chère Maman, et je Vous en remercie de tout mon coeur;
 <lb/>
