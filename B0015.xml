@@ -9188,6 +9188,164 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250106131835384",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-06T12:18:35.384Z",
+	"dcterms:modified": "2025-01-06T12:18:35.384Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/IIwanov",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Iwan Iwanov"
+	},
+	"oa:motivatedBy": "oa:tagging",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250106131835384#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250106131835384#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p/seg[20]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "fabio:UncontrolledVocabulary",
+		"dc:format": "text/xml",
+		"rdf:value": "Zeitungswesen"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?place_annotation_20250106131900714",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-06T12:19:00.714Z",
+	"dcterms:modified": "2025-01-06T12:19:00.714Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/IIwanov",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Iwan Iwanov"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?place_annotation_20250106131900714#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?place_annotation_20250106131900714#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p/placeName[53]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "https://d-nb.info/gnd/4008460-7",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
             <editorialDecl>
                 <p>
@@ -9589,7 +9747,7 @@ Narischkin</persName>, et je Vous avoue que j’ai eu une vraie joie à le revoi
 <lb/>deux soeurs sont grandement paresseuses et me laissent languir sans de leurs
 <lb/>nouvelles. On écrit de <placeName key="Berlin" ref="https://d-nb.info/gnd/4005728-8">Berlin</placeName> qu’un courier de <placeName key="Brüssel" ref="https://d-nb.info/gnd/4008460-7">Bruxelles</placeName> a passé par cette ville
 <lb/>se rendant à <placeName key="Moskau" ref="https://d-nb.info/gnd/4074987-3">Moscou</placeName>; sans doute c’est pour parler des nouvelles de la désagréable
-<lb/>affaire du <persName key="Wilhelm II., Niederlande, König" ref="https://d-nb.info/gnd/100718337">pr[ince] d’Orange</persName>; les gazettes en sont remplies, et les lettres que je reçois de <placeName key="Den Haag" ref="https://d-nb.info/gnd/4011446-6">La Haye</placeName>
+<lb/>affaire du <persName key="Wilhelm II., Niederlande, König" ref="https://d-nb.info/gnd/100718337">pr[ince] d’Orange</persName>; les gazettes<seg type="keyword"><term>Zeitungswesen</term></seg> en sont remplies, et les lettres que je reçois de <placeName key="Den Haag" ref="https://d-nb.info/gnd/4011446-6">La Haye</placeName>
 <lb/>le blâment beaucoup, cependant j’ai bien peine à me persuader qu’il ait tort tout
 <lb/>seul dans cette histoire: je crains qu’il n’ait manqué dans les formes à <persName key="Wilhelm I., Niederlande, König" ref="https://d-nb.info/gnd/119312700">son père</persName>,
 <lb/>et sans doute c’est déja beaucoup comme fils et sujet, mais que le fond soit tout à
@@ -9601,7 +9759,7 @@ Narischkin</persName>, et je Vous avoue que j’ai eu une vraie joie à le revoi
 <pb facs="16"/>
 <lb/>fol. 276v
 <lb/>je suis peinée de la lui voir acquérir par semblables circonstances, si épineuses et
-<lb/>affligeantes. Enfin le 27 novembre ils étoient encore à Bruxelles. Je Vous demande
+<lb/>affligeantes. Enfin le 27 novembre ils étoient encore à <placeName key="Brüssel" ref="https://d-nb.info/gnd/4008460-7">Bruxelles</placeName>. Je Vous demande
 <lb/>mille excuses chère Maman, si j’interrompe déja ma narration, mais il est des
 <lb/>jours où je suis si souffrante que j’ai peine à écrire, et c’est le cas; je n’ai
 <lb/>pu aller à la messe et suis maussade au dernier degré. Permettez-moi d’en 
