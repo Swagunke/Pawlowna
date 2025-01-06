@@ -7748,7 +7748,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?person_annotation_20250105214414615#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[72]"
+			"rdf:value": "TEI/text/body/p/persName[73]"
 		}
 	},
 	"oa:hasBody": {
@@ -12729,7 +12729,7 @@ Narischkin</persName>, et je Vous avoue que j’ai eu une vraie joie à le revoi
 <lb/>et du <persName>pr[ince] Massalsky</persName>, mais je ne me souviens plus seulement de la charge que
 <lb/>ce dernier avoit occupée à la cour: quant à la lotterie que nous jouions avec <persName>le c[om]te
 <lb/>
-Georges Galowkin</persName> et feu le pr[ince] Bélosselsky elle étoit divertissante, et ces hyvers-là
+Georges Galowkin</persName> et <persName>feu le pr[ince] Bélosselsky</persName> elle étoit divertissante, et ces hyvers-là
 <lb/>sont marqués en rose dans mes souvenirs: les détails des présentations m’ont
 <lb/>fait un plaisir infini chère Maman, et je Vous en remercie de tout mon coeur;
 <lb/>
