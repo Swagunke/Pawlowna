@@ -7748,7 +7748,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?person_annotation_20250105214414615#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[69]"
+			"rdf:value": "TEI/text/body/p/persName[70]"
 		}
 	},
 	"oa:hasBody": {
@@ -12725,7 +12725,7 @@ Narischkin</persName>, et je Vous avoue que j’ai eu une vraie joie à le revoi
 <lb/>et me suis bien occupée d’elle à ce jour: grâces à Dieu, sa santé est bonne, et son
 <lb/>humeur aussi, elle vient de m’écrire toute enchantée de <persName key="Aleksandr I., Russland, Zar" ref="https://d-nb.info/gnd/118501852">l’Emp[ereur]</persName> et a écrit aussi
 <lb/>aux <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">enfans</persName> des lettres tout-à-fait aimables, j’espère pouvoir lui répondre par
-<lb/>cette même occasion. Je me rappelle très bien chère Maman du pr[ince] Feodor Galitzin
+<lb/>cette même occasion. Je me rappelle très bien chère Maman du <persName>pr[ince] Feodor Galitzin</persName>
 <lb/>et du pr[ince] Massalsky, mais je ne me souviens plus seulement de la charge que
 <lb/>ce dernier avoit occupée à la cour: quant à la lotterie que nous jouions avec le c[om]te
 <lb/>Georges Galowkin et feu le pr[ince] Bélosselsky elle étoit divertissante, et ces hyvers-là
