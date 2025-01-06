@@ -7748,7 +7748,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?person_annotation_20250105214414615#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[99]"
+			"rdf:value": "TEI/text/body/p/persName[100]"
 		}
 	},
 	"oa:hasBody": {
@@ -16380,8 +16380,9 @@ Narischkin</persName>, et je Vous avoue que j’ai eu une vraie joie à le revoi
 <lb/>il ne s’agit que d’être sage, de ne pas se contredire et de contenir pour autant qu’on le peut,
 <lb/>car les froissemens seroient bien dangereux et pourroient donner plus de force au mal, [Einschub: et
 <lb/>je suis bien loin d’opiner pour être mou ou peu ferme dans des circonstances de pareille nature.]
-<lb/>Il paroit que l’alarme a été répandue à <placeName key="Wien" ref="https://d-nb.info/gnd/4066009-6">Vienne</placeName> par le c[om]te Bombelles, ministre à
-<lb/>Dresde et ici, qui à la première nouvelle de la réunion a envoyé un courier, et auroit pu
+<lb/>Il paroit que l’alarme a été répandue à <placeName key="Wien" ref="https://d-nb.info/gnd/4066009-6">Vienne</placeName> par <persName>le c[om]te Bombelles, ministre à
+<lb/>
+Dresde et ici</persName>, qui à la première nouvelle de la réunion a envoyé un courier, et auroit pu
 <lb/>
 <pb facs="25"/>
 <lb/>fol. 281r
