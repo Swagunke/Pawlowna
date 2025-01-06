@@ -244,7 +244,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0016.xml?person_annotation_20250106162354520#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[2]"
+			"rdf:value": "TEI/text/body/p/persName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -459,7 +459,7 @@
 <lb/>revoir chère Maman: ce sont des momens que l’on n’oublie pas, et auxquels
 <lb/>la pensée retourne avec le même intéret. Plut à Dieu qu’il en soit de même
 <lb/>à ce jour l’année prochaine! J’ai reçu chère Maman l’incluse de la gouvernante
-<lb/>de ma nièce Marie, qui ne sera sans doute pas sans quelqu’intéret pour Vous;
+<lb/>de <persName>ma nièce Marie</persName>, qui ne sera sans doute pas sans quelqu’intéret pour Vous;
 <lb/>de même je prens la liberté d’insérer ici une lettre de Mme Boisséron, ancienne
 <lb/>élève de la comunauté(!); daignez me dire chère Maman ce que je lui dois répondre:
 <lb/>au fond je trouve que la résolution adoptée par l’Emp[ereur] vis-à-vis des anciens émigrés
