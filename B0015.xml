@@ -10591,7 +10591,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250106133824004#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/seg[25]"
+			"rdf:value": "TEI/text/body/p/seg[26]"
 		}
 	},
 	"oa:hasBody": {
@@ -10669,7 +10669,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250106133850193#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/seg[26]"
+			"rdf:value": "TEI/text/body/p/seg[27]"
 		}
 	},
 	"oa:hasBody": {
@@ -11774,7 +11774,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250106140013365#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/seg[27]"
+			"rdf:value": "TEI/text/body/p/seg[28]"
 		}
 	},
 	"oa:hasBody": {
@@ -12642,7 +12642,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250106142756759#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/seg[28]"
+			"rdf:value": "TEI/text/body/p/seg[29]"
 		}
 	},
 	"oa:hasBody": {
@@ -12957,7 +12957,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250106143241569#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/seg[29]"
+			"rdf:value": "TEI/text/body/p/seg[30]"
 		}
 	},
 	"oa:hasBody": {
@@ -14615,7 +14615,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250106145413069#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/seg[30]"
+			"rdf:value": "TEI/text/body/p/seg[31]"
 		}
 	},
 	"oa:hasBody": {
@@ -14774,6 +14774,164 @@
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250106150601061#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/p/seg[23]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "fabio:UncontrolledVocabulary",
+		"dc:format": "text/xml",
+		"rdf:value": "Bundesversammlung in Frankfurt am Main"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250106150716281",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-06T14:07:16.281Z",
+	"dcterms:modified": "2025-01-06T14:07:16.281Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/IIwanov",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Iwan Iwanov"
+	},
+	"oa:motivatedBy": "oa:tagging",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250106150716281#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250106150716281#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p/seg[25]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "fabio:UncontrolledVocabulary",
+		"dc:format": "text/xml",
+		"rdf:value": "Bundesversammlung in Frankfurt am Main"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250106150738960",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-06T14:07:38.960Z",
+	"dcterms:modified": "2025-01-06T14:07:38.960Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/IIwanov",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Iwan Iwanov"
+	},
+	"oa:motivatedBy": "oa:tagging",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250106150738960#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250106150738960#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p/seg[32]"
 		}
 	},
 	"oa:hasBody": {
@@ -15247,7 +15405,7 @@ Narischkin</persName>, et je Vous avoue que j’ai eu une vraie joie à le revoi
 <lb/>une pétition de la part d’un conseiller je ne sais quel ni à qui, signée d’une quantité
 <lb/>de personnes, pour demander que la diette voulut bien se mettre en peine de faire
 <lb/>observer l’article 13 de l’Acte du Congrès de Vienne<seg type="keyword"><term>Wiener Kongress</term></seg>, qui introduit des constitutions, dans
-<lb/>tous les païs de la fédération <placeName key="Deutschland" ref="https://d-nb.info/gnd/4011882-4">allemande</placeName>: on ajoute que le président de la diette n’a
+<lb/>tous les païs de la fédération <placeName key="Deutschland" ref="https://d-nb.info/gnd/4011882-4">allemande</placeName>: on ajoute que le président de la diette<seg type="keyword"><term>Bundesversammlung in Frankfurt am Main</term></seg> n’a
 <lb/>pas voulu recevoir cette pétition, en ajoutant qu’elle n’étoit pas du ressort de la diette, et
 <lb/>que quand(!) à l’article 13, il avoit été passé entre égaux, c’est-à-dire entre souverains,
 <lb/>et non par de souverains à sujets. Est-ce vrai que cela, pour moi j’ai peine à croire
@@ -15407,7 +15565,7 @@ Narischkin</persName>, et je Vous avoue que j’ai eu une vraie joie à le revoi
 <lb/>du <persName key="Friedrich Wilhelm III., Preußen, König" ref="https://d-nb.info/gnd/118535986">roi de Prusse</persName> marquoit plus d’inquiétude que celle de <persName key="Franz II., Heiliges Römisches Reich, Kaiser" ref="https://d-nb.info/gnd/118534955">l’Emp[ereur] d’Au[triche]</persName> et la commission
 <lb/>des <persName key="Hardenberg, Karl August von" ref="https://d-nb.info/gnd/118545906">deux envoyés</persName> consistoit dans une ouverture sur la nécessité que l’on trouvoit de mettre
 <lb/>des bornes à la liberté de la presse<seg type="keyword"><term>Pressefreiheit</term></seg>, motion qui alloit être faite en commun à la
-<lb/>diette de Francfort: il n’a pas même été question d’éloigner les professeurs pécheurs,
+<lb/>diette de Francfort<seg type="keyword"><term>Bundesversammlung in Frankfurt am Main</term></seg>: il n’a pas même été question d’éloigner les professeurs pécheurs,
 <lb/>chose que l’on avoit mandée comme certaine au <persName key="Karl August, Sachsen-Weimar-Eisenach, Großherzog" ref="https://d-nb.info/gnd/11856014X">GrDuc</persName> depuis <placeName key="Berlin" ref="https://d-nb.info/gnd/4005728-8">Berlin</placeName> et qui lui étoit
 <lb/>
 <pb facs="24"/>
