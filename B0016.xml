@@ -599,6 +599,7 @@
     </teiHeader>
     <text>
         <body>
+			<pb facs="01"/>
             <p>
                 <lb/>No. 256 [1817 Nov. 30]
 <lb/>fol. 283r
@@ -616,13 +617,14 @@
 <lb/>pareille date que je suis arrivée à <placeName key="Sankt Petersburg" ref="https://d-nb.info/gnd/4267026-3">Pétersbourg</placeName>, et que j’ai eu le bonheur de Vous
 <lb/>revoir chère Maman: ce sont des momens que l’on n’oublie pas, et auxquels
 <lb/>la pensée retourne avec le même intéret. Plut à Dieu qu’il en soit de même
-<lb/>à ce jour l’année prochaine! J’ai reçu chère Maman l’incluse de la gouvernante
-<lb/>de <persName>ma nièce Marie</persName>, qui ne sera sans doute pas sans quelqu’intéret pour Vous;
-<lb/>de même je prens la liberté d’insérer ici une lettre de <persName>Mme Boisséron</persName>, ancienne
+<lb/>à ce jour l’année prochaine! J’ai reçu chère Maman l’incluse de <persName ref="P_0158">la gouvernante</persName>
+<lb/>de <persName ref="P_0072">ma nièce Marie</persName>, qui ne sera sans doute pas sans quelqu’intéret pour Vous;
+<lb/>de même je prens la liberté d’insérer ici une lettre de <persName ref="P_0084">Mme Boisséron</persName>, ancienne
 <lb/>élève de la comunauté(!); daignez me dire chère Maman ce que je lui dois répondre:
 <lb/>au fond je trouve que la résolution adoptée par <persName key="Aleksandr I., Russland, Zar" ref="https://d-nb.info/gnd/118501852">l’Emp[ereur]</persName> vis-à-vis des anciens émigrés
 <lb/>français, est parfaitement juste. J’embrasse la famille et <persName key="Lieven, Charlotte Karlowna de" ref="https://d-nb.info/gnd/115603972">notre chère c[om]t[e]sse</persName>,
 <lb/>
+<pb facs="02"/>
 <lb/>fol. 283v
 <lb/>et Vous baise les mains de tout mon coeur chère Maman, étant à jamais avec
 <lb/>le plus parfait dévouement,
