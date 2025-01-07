@@ -678,6 +678,7 @@
     </teiHeader>
     <text>
         <body>
+			<pb facs="01"/>
             <p>
                 <lb/>No. 264 [1817 Dez. 18]
 <lb/>fol. 291r
@@ -690,12 +691,12 @@
 <lb/>toujours chère Maman ne trouver en lui et dans tout ce qui le concerne qu’une
 <lb/>source de jouissances et de satisfactions comme c’est le cas actuellement;
 <lb/>j’écris à <persName key="Nikolaj I., Russland, Zar" ref="https://d-nb.info/gnd/118588079">ce cher frère</persName> mais par occasion, et me hâte d’envoyer cette lettre à la
-<lb/>poste. <persName>Le c[om]te Zichy</persName> part ce soir chère Maman. Notre tems est redevenu
+<lb/>poste. <persName ref="0048">Le c[om]te Zichy</persName> part ce soir chère Maman. Notre tems est redevenu
 <lb/>humide et désagréable, je ne peux pas me promener à pied, ce qui me contrarie
 <lb/>toujours beaucoup: en attendant je me propose de charier <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">mes enfans</persName> en voiture:
 <lb/>ils chantent pendant tout le tems, et sont d’une gaieté distinguée. Je Vous
 <lb/>baise les mains chère Maman de tout mon coeur, ils en font autant aussi
-<lb/>bien que <persName>le pr[ince]</persName>. J’embrasse frères, soeurs, et <persName key="Lieven, Charlotte Karlowna de" ref="https://d-nb.info/gnd/115603972">notre chère c[om]t[e]sse</persName>, et suis
+<lb/>bien que <persName ref="0012">le pr[ince]</persName>. J’embrasse frères, soeurs, et <persName key="Lieven, Charlotte Karlowna de" ref="https://d-nb.info/gnd/115603972">notre chère c[om]t[e]sse</persName>, et suis
 <lb/>éternellement avec le plus parfait et le plus respectueux attachement,
 <lb/>
 <lb/>de ma bonne et chère Maman,
