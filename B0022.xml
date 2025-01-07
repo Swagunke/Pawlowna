@@ -323,7 +323,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0022.xml?person_annotation_20250107194606975#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[8]"
+			"rdf:value": "TEI/text/body/p/persName[7]"
 		}
 	},
 	"oa:hasBody": {
@@ -639,7 +639,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0022.xml?person_annotation_20250107194840408#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[6]"
+			"rdf:value": "TEI/text/body/p/persName[5]"
 		}
 	},
 	"oa:hasBody": {
@@ -717,7 +717,8 @@
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0022.xml?person_annotation_20250107194931034#Selector",
-			"@type": "oa:XPathSelector"
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p/persName[6]"
 		}
 	},
 	"oa:hasBody": {
@@ -772,7 +773,7 @@
 <lb/>Maman, un peu froid, de sorte que ce bon air me rappelle <placeName key="Russland" ref="https://d-nb.info/gnd/4076899-5">la Russie</placeName> et <persName key="Aleksandr I., Russland, Zar" ref="https://d-nb.info/gnd/118501852">mon
 <lb/>frère</persName>, il me semble que je marche avec lui: Vous voyez que mes idées comme
 <lb/>mes affections sont continuellement tournées vers le Nord, et que je me sens bien
-<lb/>de m’en occuper; je Vous baise les mains de tout mon coeur <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">les enfans</persName>chère Maman,
+<lb/>de m’en occuper; je Vous baise les mains de tout mon coeur chère Maman,
 <lb/>embrassant la famille et <persName key="Lieven, Charlotte Karlowna de" ref="https://d-nb.info/gnd/115603972">notre chère c[om]t[e]sse</persName>, <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">les enfans</persName> et le pr[ince] se mettent
 <lb/>à Vos pieds, et je suis à jamais avec le plus respectueux comme avec le
 <lb/>plus parfait attachement,
