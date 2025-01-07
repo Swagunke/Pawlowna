@@ -323,7 +323,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0022.xml?person_annotation_20250107194606975#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[7]"
+			"rdf:value": "TEI/text/body/p/persName[8]"
 		}
 	},
 	"oa:hasBody": {
@@ -774,7 +774,7 @@
 <lb/>frère</persName>, il me semble que je marche avec lui: Vous voyez que mes idées comme
 <lb/>mes affections sont continuellement tournées vers le Nord, et que je me sens bien
 <lb/>de m’en occuper; je Vous baise les mains de tout mon coeur chère Maman,
-<lb/>embrassant la famille et <persName key="Lieven, Charlotte Karlowna de" ref="https://d-nb.info/gnd/115603972">notre chère c[om]t[e]sse</persName>, <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">les enfans</persName> et le pr[ince] se mettent
+<lb/>embrassant la famille et <persName key="Lieven, Charlotte Karlowna de" ref="https://d-nb.info/gnd/115603972">notre chère c[om]t[e]sse</persName>, <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">les enfans</persName> et <persName>le pr[ince]</persName> se mettent
 <lb/>à Vos pieds, et je suis à jamais avec le plus respectueux comme avec le
 <lb/>plus parfait attachement,
 <lb/>
