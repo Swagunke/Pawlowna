@@ -994,6 +994,7 @@
     </teiHeader>
     <text>
         <body>
+			<pb facs="01"/>
             <p>
                 <lb/>No. 265 [1817 Dez. 20-21]
 <lb/>fol. 292r
@@ -1021,12 +1022,13 @@
 <lb/>quantité de neige, qui s’est de suite tournée en eau, il fait un froid pénétrant par toute
 <lb/>cette humidité, enfin désagréable au dernier degré, aussi on me défend de sortir de la
 <lb/>
+<pb facs="02"/>
 <lb/>fol. 292v
 <lb/>maison; <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">les petites</persName> sont fortement enrhumées toutes les deux, et <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">Marie</persName> ne peut pas respirer,
 <lb/>par le nez mais jusqu’ici elles sont sans fièvre, et j’espère que tout cela passera heureusement.
 <lb/>Il doit y avoir de l’autre côté un grand concert ce soir; si je suis présentable j’irai,
 <lb/>mais je ne saurois encore en répondre, à l’heure qu’il est. J’embrasse frères, soeurs
-<lb/>et <persName key="Lieven, Charlotte Karlowna de" ref="https://d-nb.info/gnd/115603972">notre chère c[om]t[e]sse</persName>; <persName>le pr[ince]</persName> et <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">les enfans</persName> se mettent à Vos pieds chère Maman
+<lb/>et <persName key="Lieven, Charlotte Karlowna de" ref="https://d-nb.info/gnd/115603972">notre chère c[om]t[e]sse</persName>; <persName ref="P_0012">le pr[ince]</persName> et <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">les enfans</persName> se mettent à Vos pieds chère Maman
 <lb/>et je Vous baise les mains de tout mon coeur, étant avec le plus respectueux
 <lb/>comme le plus profond attachement,
 <lb/>
