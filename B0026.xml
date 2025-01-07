@@ -1705,6 +1705,7 @@
     </teiHeader>
     <text>
         <body>
+			<pb facs="01"/>
             <p>
                 <lb/>No. 266 [1817 Dez. 22-23]
 <lb/>fol. 293r
@@ -1730,6 +1731,7 @@
 <lb/>flatter que Vous daignerez me pardonner chère Maman si j’en reste déja
 <lb/>là, et Vous baise les mains de tout mon coeur.
 <lb/>
+<pb facs="02"/>
 <lb/>fol. 293v
 <lb/>Mardi soir, le 11/23 décembre.
 <lb/>
@@ -1754,12 +1756,13 @@
 <lb/>lettre, et j’en suis aussi incapable, je Vous supplie de lui en faire agréer mes
 <lb/>excuses, mais j’ai peine à tracer ceci, aussi me permetterez-Vous chère Maman
 <lb/>
+<pb facs="03"/>
 <lb/>fol. 294r
 <lb/>de répondre les détails de Votre lettre une autre fois, pour y pouvoir répondre avec
-<lb/>un peu plus de bon sens. J’ai été peinée de l’état du <persName>pauvre Léwaschoff</persName>, et je doute
+<lb/>un peu plus de bon sens. J’ai été peinée de l’état du <persName ref="P_0091">pauvre Léwaschoff</persName>, et je doute
 <lb/>que les eaux soufrées de <placeName key="Baden (Niederösterreich, Region)" ref="https://d-nb.info/gnd/4475028-6">Baden</placeName> [Einschub: près <placeName key="Wien" ref="https://d-nb.info/gnd/4066009-6">Vienne</placeName>] lui fassent du bien, ou celles de <placeName key="Baden-Baden" ref="https://d-nb.info/gnd/4004169-4">l’autre Baden</placeName> qui
 <lb/>sont utiles pour les blessures. <placeName key="Bad Ems" ref="https://d-nb.info/gnd/4014614-5">Ems</placeName> est un fameux endroit pour la poitrine, j’y
-<lb/>ai laissé le fils de <persName>la c[om]t[e]sse Zouboff</persName> bien mieux qu’à son arrivée; <placeName key="Selters (Taunus)" ref="https://d-nb.info/gnd/4054482-5">Selters</placeName> est d’ailleurs
+<lb/>ai laissé le fils de <persName ref="P_0092">la c[om]t[e]sse Zouboff</persName> bien mieux qu’à son arrivée; <placeName key="Selters (Taunus)" ref="https://d-nb.info/gnd/4054482-5">Selters</placeName> est d’ailleurs
 <lb/>tout près, et si même au loin ces eaux sont recomandables pour ce mal, à combien
 <lb/>plus forte raison ne le sont-elles pas à la source même? <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">Mes petites</persName> sont
 <lb/>toujours fortement enrhumées, mais grâces à Dieu sans aucun danger de maladie.
