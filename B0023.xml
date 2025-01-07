@@ -1073,6 +1073,7 @@
     </teiHeader>
     <text>
         <body>
+			<pb facs="01"/>
             <p>
                 <lb/>No. 263 [1817 Dez. 17]
 <lb/>fol. 290r
@@ -1084,7 +1085,7 @@
 <lb/>jours a disparu, et Vous jugez bien de tous les regrets que j’en éprouve, vu ma tendresse pour les
 <lb/>frimats(!): c’est une cruelle chose que ces climats changeans. En attendant <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">mes enfans</persName> se
 <lb/>portent bien, et <persName key="Augusta, Deutsches Reich, Kaiserin" ref="https://d-nb.info/gnd/118651102">la petite</persName> n’a qu’un peu mauvaise mine parce qu’elle fait des dents.
-<lb/>Rien de nouveau ici chère Maman, <persName key="Karl August, Sachsen-Weimar-Eisenach, Großherzog" ref="https://d-nb.info/gnd/11856014X">le GrDuc</persName> chasse beaucoup et <persName>le c[om]te Zichy</persName> en fait
+<lb/>Rien de nouveau ici chère Maman, <persName key="Karl August, Sachsen-Weimar-Eisenach, Großherzog" ref="https://d-nb.info/gnd/11856014X">le GrDuc</persName> chasse beaucoup et <persName ref="P_0048">le c[om]te Zichy</persName> en fait
 <lb/>autant. C’est demain qu’il part pour retourner à <placeName key="Berlin" ref="https://d-nb.info/gnd/4005728-8">Berlin</placeName>, <persName key="Hardenberg, Karl August von" ref="https://d-nb.info/gnd/118545906">le pr[ince] Hardenberg</persName> a continué
 <lb/>son voyage dès lundi. Je vis dans l’espoir de voir arriver bientôt quelque courier de <placeName key="Moskau" ref="https://d-nb.info/gnd/4074987-3">Moscou</placeName>,
 <lb/>il y a longtems qu’il n’en a passé, ce sont pour moi de bons et d’heureux jours que ceux
