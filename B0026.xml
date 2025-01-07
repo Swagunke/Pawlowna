@@ -323,7 +323,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0026.xml?person_annotation_20250107202613048#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[9]"
+			"rdf:value": "TEI/text/body/p/persName[11]"
 		}
 	},
 	"oa:hasBody": {
@@ -1124,10 +1124,10 @@
 <lb/>
 <lb/>fol. 294r
 <lb/>de répondre les détails de Votre lettre une autre fois, pour y pouvoir répondre avec
-<lb/>un peu plus de bon sens. J’ai été peinée de l’état du pauvre Léwaschoff, et je doute
+<lb/>un peu plus de bon sens. J’ai été peinée de l’état du <persName>pauvre Léwaschoff</persName>, et je doute
 <lb/>que les eaux soufrées de Baden [Einschub: près Vienne] lui fassent du bien, ou celles de l’autre Baden qui
 <lb/>sont utiles pour les blessures. Ems est un fameux endroit pour la poitrine, j’y
-<lb/>ai laissé le fils de la c[om]t[e]sse Zouboff bien mieux qu’à son arrivée; Selters est d’ailleurs
+<lb/>ai laissé le fils de <persName>la c[om]t[e]sse Zouboff</persName> bien mieux qu’à son arrivée; Selters est d’ailleurs
 <lb/>tout près, et si même au loin ces eaux sont recomandables pour ce mal, à combien
 <lb/>plus forte raison ne le sont-elles pas à la source même? Mes petites sont
 <lb/>toujours fortement enrhumées, mais grâces à Dieu sans aucun danger de maladie.
