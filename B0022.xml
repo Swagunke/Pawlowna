@@ -323,7 +323,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0022.xml?person_annotation_20250107194606975#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[4]"
+			"rdf:value": "TEI/text/body/p/persName[6]"
 		}
 	},
 	"oa:hasBody": {
@@ -419,6 +419,243 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0022.xml?place_annotation_20250107194726720",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-07T18:47:26.720Z",
+	"dcterms:modified": "2025-01-07T18:47:26.720Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/IIwanov",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Iwan Iwanov"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0022.xml?place_annotation_20250107194726720#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0022.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0022.xml?place_annotation_20250107194726720#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p/placeName[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "https://d-nb.info/gnd/4076899-5",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0022.xml?person_annotation_20250107194813329",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-07T18:48:13.329Z",
+	"dcterms:modified": "2025-01-07T18:48:13.329Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/IIwanov",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Iwan Iwanov"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0022.xml?person_annotation_20250107194813329#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0022.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0022.xml?person_annotation_20250107194813329#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p/persName[4]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://d-nb.info/gnd/118501852",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0022.xml?person_annotation_20250107194840408",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-07T18:48:40.408Z",
+	"dcterms:modified": "2025-01-07T18:48:40.408Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/IIwanov",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Iwan Iwanov"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0022.xml?person_annotation_20250107194840408#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0022.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0022.xml?person_annotation_20250107194840408#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p/persName[5]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://d-nb.info/gnd/115603972",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
             <editorialDecl>
                 <p>
@@ -454,11 +691,11 @@
 <lb/>n’est que vers le soir que je suis plus sûre de ma conduite. L’exercice m’est fort recomandé
 <lb/>et fort sain, j’y suis au reste si habituée que rien de tel ne me
 <lb/>fatigue, et je m’en trouve bien. Il fait le plus beau tems du monde, chère
-<lb/>Maman, un peu froid, de sorte que ce bon air me rappelle la Russie et mon
-<lb/>frère, il me semble que je marche avec lui: Vous voyez que mes idées comme
+<lb/>Maman, un peu froid, de sorte que ce bon air me rappelle <placeName key="Russland" ref="https://d-nb.info/gnd/4076899-5">la Russie</placeName> et <persName key="Aleksandr I., Russland, Zar" ref="https://d-nb.info/gnd/118501852">mon
+<lb/>frère</persName>, il me semble que je marche avec lui: Vous voyez que mes idées comme
 <lb/>mes affections sont continuellement tournées vers le Nord, et que je me sens bien
 <lb/>de m’en occuper; je Vous baise les mains de tout mon coeur chère Maman,
-<lb/>embrassant la famille et notre chère c[om]t[e]sse, les enfans et le pr[ince] se mettent
+<lb/>embrassant la famille et <persName key="Lieven, Charlotte Karlowna de" ref="https://d-nb.info/gnd/115603972">notre chère c[om]t[e]sse</persName>, les enfans et le pr[ince] se mettent
 <lb/>à Vos pieds, et je suis à jamais avec le plus respectueux comme avec le
 <lb/>plus parfait attachement,
 <lb/>
