@@ -757,6 +757,7 @@
     </teiHeader>
     <text>
         <body>
+			<pb facs="01"/>
             <p>
                 <lb/>No. 262 [1817 Dez. 14]
 <lb/>fol. 289r
@@ -764,7 +765,7 @@
 <lb/>
 <lb/>Ma bonne et chère <persName key="Maria, Russland, Zarin" ref="https://d-nb.info/gnd/11933075X">Maman</persName>!
 <lb/>
-<lb/>C’est hier soir que <persName key="Hardenberg, Karl August von" ref="https://d-nb.info/gnd/118545906">le pr[ince] Hardenberg</persName> et <persName>le c[om]te Zichy</persName> sont arrivés ici,
+<lb/>C’est hier soir que <persName key="Hardenberg, Karl August von" ref="https://d-nb.info/gnd/118545906">le pr[ince] Hardenberg</persName> et <persName ref="P_0048">le c[om]te Zichy</persName> sont arrivés ici,
 <lb/>et c’est aujourd’huy que je dois les voir. Mon état ne me permettant pas de dinner
 <lb/>en public, je recevrai ces messieurs d’une manière privée dans ma chambre, car ce
 <lb/>n’est que vers le soir que je suis plus sûre de ma conduite. L’exercice m’est fort recomandé
@@ -774,7 +775,7 @@
 <lb/>frère</persName>, il me semble que je marche avec lui: Vous voyez que mes idées comme
 <lb/>mes affections sont continuellement tournées vers le Nord, et que je me sens bien
 <lb/>de m’en occuper; je Vous baise les mains de tout mon coeur chère Maman,
-<lb/>embrassant la famille et <persName key="Lieven, Charlotte Karlowna de" ref="https://d-nb.info/gnd/115603972">notre chère c[om]t[e]sse</persName>, <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">les enfans</persName> et <persName>le pr[ince]</persName> se mettent
+<lb/>embrassant la famille et <persName key="Lieven, Charlotte Karlowna de" ref="https://d-nb.info/gnd/115603972">notre chère c[om]t[e]sse</persName>, <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">les enfans</persName> et <persName ref="P_0012">le pr[ince]</persName> se mettent
 <lb/>à Vos pieds, et je suis à jamais avec le plus respectueux comme avec le
 <lb/>plus parfait attachement,
 <lb/>
