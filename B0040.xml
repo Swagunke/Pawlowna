@@ -323,7 +323,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0040.xml?person_annotation_20250108213932550#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[4]"
+			"rdf:value": "TEI/text/body/p/persName[5]"
 		}
 	},
 	"oa:hasBody": {
@@ -454,7 +454,7 @@
 <lb/>après la messe m’en aller promener à pied, et cette seule perspective me fait déja du
 <lb/>bien. Du reste rien de nouveau chère Maman: la semaine qui suit celle
 <lb/>où nous entrons, est celle des jours de naissance de <persName key="Luise, Sachsen-Weimar-Eisenach, Großherzogin" ref="https://d-nb.info/gnd/115363688">la GrDuchesse</persName> et du <persName>prince</persName>; je suis
-<lb/>dans les arrangemens y relatifs, et prépare une petite surprise au prince, qui si
+<lb/>dans les arrangemens y relatifs, et prépare une petite surprise au <persName>prince</persName>, qui si
 <lb/>elle réussit je l’espère ne lui déplaira pas. Les enfans se portent bien, et se
 <lb/>mettent à Vos pieds chère Maman; j’en fais autant de tout mon coeur, et retourne
 <lb/>à mon poste, après avoir embrassé la famille et notre chère c[om]t[e]sse. Je Vous
