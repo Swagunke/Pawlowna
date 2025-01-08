@@ -323,7 +323,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0032.xml?person_annotation_20250108141720314#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[10]"
+			"rdf:value": "TEI/text/body/p/persName[11]"
 		}
 	},
 	"oa:hasBody": {
@@ -1034,12 +1034,91 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0032.xml?person_annotation_20250108150612126#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[9]"
+			"rdf:value": "TEI/text/body/p/persName[10]"
 		}
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
 		"@id": "https://d-nb.info/gnd/119330857",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0032.xml?person_annotation_20250108150715792",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-08T14:07:15.792Z",
+	"dcterms:modified": "2025-01-08T14:07:15.792Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/IIwanov",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Iwan Iwanov"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0032.xml?person_annotation_20250108150715792#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0032.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0032.xml?person_annotation_20250108150715792#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p/persName[9]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://d-nb.info/gnd/119312700",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1114,7 +1193,7 @@
 <lb/>joie de pouvoir Vous dire chère Maman que j’ai reçu des lettres de <placeName key="Den Haag" ref="https://d-nb.info/gnd/4011446-6">La Haye</placeName>, de <persName key="Wilhelmine, Preußen, Prinzessin" ref="https://d-nb.info/gnd/122629825">la
 <lb/>pr[ince]sse d’Orange</persName> et de <persName key="Friederike Luise, Braunschweig-Lüneburg, Prinzessin" ref="https://d-nb.info/gnd/136421288">sa fille</persName>, qui me mandent que le 12/24 décembre, jour de
 <lb/>naissance de notre <persName key="Aleksandr I., Russland, Zar" ref="https://d-nb.info/gnd/118501852">Empereur</persName>, <persName key="Wilhelm II., Niederlande, König" ref="https://d-nb.info/gnd/100718337">Guilleaume</persName> avoit reparu à un grand dinner donné
-<lb/>par le roi en plein uniforme, et qu’il étoit rentré dans ses emplois militaires, s’étant
+<lb/>par <persName key="Wilhelm I., Niederlande, König" ref="https://d-nb.info/gnd/119312700">le roi</persName> en plein uniforme, et qu’il étoit rentré dans ses emplois militaires, s’étant
 <lb/>rapproché de son père; grâces en soit rendues à Dieu, et puisse cette leçon prévenir
 <lb/>de possibles infractions à l’avenir: le jour du raccomodement étoit bien choisi, ce me
 <lb/>semble, et je partage de tout mon coeur le plaisir que Vous aurez chère Maman
