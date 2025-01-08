@@ -1468,6 +1468,7 @@
     </teiHeader>
     <text>
         <body>
+			<pb facs="01"/>
             <p>
                 <lb/>No. 269 [1817 Dez. 26-28]
 <lb/>fol. 297r
@@ -1492,6 +1493,7 @@
 <lb/>je suis mieux; à mon grand chagrin la neige ne me craquoit pas assez sous
 <lb/>les pieds comme chez nous en hyver, mais enfin c’étoit de la neige pourtant.
 <lb/>
+<pb facs="02"/>
 <lb/>fol. 297v
 <lb/>Mes enfans se préparant à donner des étrennes à d’autres enfans chère Maman,
 <lb/>je suis occupée à les arranger, et me vois forcée à en rester là, voici en attendant
@@ -1519,11 +1521,12 @@
 <lb/>Chère Maman, pour aujourd’huy il y a un grand ouragan, cependant
 <lb/>je veux essayer de me promener à pied, et veux continuer ainsi jusqu’à extiration.
 <lb/>
+<pb facs="03"/>
 <lb/>fol. 298r	
 <lb/><persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">Les petites</persName> sont toujours fortement enrhumées, mais sans être malades pour cela, même
 <lb/>elles sont très gaies. Elles me chargent de les mettre à Vos pieds chère Maman, <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">Marie</persName>
 <lb/>a rêvé la nuit passée de Vous, elle est accourue pour me le dire dès qu’elle m’a
-<lb/>apperçue, elle étoit toute joyeuse, et moi aussi de la voir dans cette disposition. <persName>Le
+<lb/>apperçue, elle étoit toute joyeuse, et moi aussi de la voir dans cette disposition. <persName ref="P_0012">Le
 <lb/>
 pr[ince]</persName> Vous baise les mains chère Maman, Votre lettre l’a rendu fort heureux, et
 <lb/>m’a extrêmement touchée, et certainement je pense comme Vous que ce que la
