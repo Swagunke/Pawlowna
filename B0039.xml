@@ -103,7 +103,86 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><encodingDesc>
+        <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?place_annotation_20250108182245648",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-08T17:22:45.648Z",
+	"dcterms:modified": "2025-01-08T17:22:45.648Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/IIwanov",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Iwan Iwanov"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?place_annotation_20250108182245648#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?place_annotation_20250108182245648#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "https://d-nb.info/gnd/4065105-8",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      </rdf:RDF></xenoData><encodingDesc>
             <editorialDecl>
                 <p>
                     
@@ -125,10 +204,11 @@
     </teiHeader>
     <text>
         <body>
+            <pb facs="01"/>
             <p>
                 <lb/>No. 279 [1818 Jan. 16-28]
 <lb/>fol. 5r
-<lb/>Weymar. Ce vendredi 4/16 juillet(!) 1818.
+<lb/><placeName key="Weimar" ref="https://d-nb.info/gnd/4065105-8">Weymar</placeName>. Ce vendredi 4/16 juillet(!) 1818.
 <lb/>
 <lb/>Ma bonne et chère Maman!
 <lb/>
@@ -150,6 +230,7 @@
 <lb/>titre de grand maitre de la cour, m’a fait grand plaisir aussi, et le rendra sans doute
 <lb/>fort heureux. Y a-t-il quelqu’une des nouvelles d[emoise]lles d’honneur chère Maman
 <lb/>
+<pb facs="02"/>
 <lb/>fol. 5v
 <lb/>dont Vous ayez idée de Vous entourer particulièrement en tant que personne de mérite,
 <lb/>veuillez me le dire, car Vous savez combien je tiens à connoitre toujours ceux qui
@@ -173,6 +254,7 @@
 <lb/>Francfort pour réprimer les excès de la liberté de la presse, rien n’a encore percé
 <lb/>jusqu’ici. Voilà pour les choses extérieures, il me reste à Vous parler des interieures
 <lb/>
+<pb facs="03"/>
 <lb/>fol. 6r
 <lb/>qui me regardent, et ce n’est pas chose facile, en tant qu’il est question de réclamer
 <lb/>Votre attention sur des objets désagréables et qui me peinent à dire. Vous m’avez
@@ -195,6 +277,7 @@
 <lb/>1817, mais encore une somme prête à couvrir quelque dépense extraordinaire ou
 <lb/>imprévue [Einschub: pouvant survenir], ce que j’avois eu par le passé et ce qui n’est plus le cas depuis
 <lb/>
+<pb facs="04"/>
 <lb/>fol. 6v
 <lb/>l’année 1813, où les dépenses excessives de mon déplacement d’alors (malgré les 40 {mille?}
 <lb/>roubles que l’Emp[ereur] voulut bien me donner dans le [Einschub: tems] avec les différens secours que V{ous}
@@ -220,6 +303,7 @@
 <lb/>que je préfère m’attacher à cette manière d’envisager la chose que d’en appeller autrement
 <lb/>à un frère qui plus il m’est cher, plus je me garderai [Einschub: de] chercher à surprendre sa bonté envers {moi}
 <lb/>
+<pb facs="05"/>
 <lb/>fol. 7r
 <lb/>et Vous concevez chère Maman qu’en déposant mes embarras dans Votre sein, je ne me
 <lb/>suis préalablement permis aucune démarche vis-à-vis de lui, parce qu’avant d’en
@@ -245,6 +329,7 @@
 <lb/>{la} retenir, et de me faire savoir alors de combien de mes capitaux je peux disposer
 <lb/>sans toucher aux pensions fixées sur leurs intérets. Vous pourriez m’objecter chère Maman
 <lb/>
+<pb facs="06"/>
 <lb/>fol. 7v
 <lb/>que m’adressant à Vous pour connoitre Votre opinion sur cette affaire, je pouvois Vous
 <lb/>abandonner d’en instruire Vous-même l’Emp[ereur] sans lui en écrire; mais je dois dire
@@ -272,6 +357,7 @@
 <lb/>réjouis beaucoup tant parce que je l’estime personellement, que parce que
 <lb/>je suis ravie de le voir apparoitre dans ce moment où l’aigreur se fait sentir
 <lb/>
+<pb facs="07"/>
 <lb/>fol. 8r
 <lb/>et que je crois sa présence utile à mettre de l’eau dans le vice, en jugeant sainement
 <lb/>toutes choses. C’est une vraie guerre de plumes, et il est étrange de voir
@@ -300,6 +386,7 @@
 <lb/>dépose tous mes remercimens à Vos pieds; je soupirois après, car ces derniers tems
 <lb/>la poste a été bien peu exacte, et quoiqu’elle soit plus ancienne que celle 
 <lb/>
+<pb facs="08"/>
 <lb/>fol. 8v
 <lb/>venue par le dernier courier, je me trouve infiniment heureuse de l’avoir,
 <lb/>d’y trouver des détails qui m’étoient inconnus, et pour lesquels je Vous remerc{ie}
@@ -323,6 +410,7 @@
 <lb/>Je Vous envie tout de bon les 20 degrés de froid, où l’on peut {au}
 <lb/>moins marcher. Je Vous baise les mains de tout mon coeur chère Maman.
 <lb/>
+<pb facs="09"/>
 <lb/>fol. 9r
 <lb/>Mardi, le 8/20 janvier.
 <lb/>
@@ -348,6 +436,7 @@
 <lb/>{to}ut autre objet [Einschub: et par là éclairant l’affaire sans l’outrer et lui accorder plus de latitude qu’elle ne mérite]: et moi chère Maman, de me taire et de ne pas manifester d’humeur,
 <lb/>{p}our ne pas nuire au bien. Voilà le tableau du moment, la vie a partout dans ce
 <lb/>
+<pb facs="10"/>
 <lb/>fol. 9v
 <lb/>monde un côté sérieux, c’est à le bien reconnoitre qu’il faut s’attacher; je Vous supplie
 <lb/>toutesfois de ne pas croire que je me figure y avoir réussi, d’après ce que je viens de dire.
@@ -376,6 +465,7 @@
 <lb/>bien faire les honneurs, il y a des jours de pesanteur qui me dominent, c’est honteux
 <lb/>mais vrai à dire. Du reste je vais doucement mon train, et me voici à mes quatre
 <lb/>
+<pb facs="11"/>
 <lb/>fol. 10r
 <lb/>mois bien sonnés. Je me mets à Vos pieds chère Maman, il est onze heures, et je crois
 <lb/>devoir aller me coucher, je Vous baise les mains de tout mon coeur.
@@ -401,6 +491,7 @@
 <lb/>pour n’y pas tomber, même à son insçu? Si l’on vouloit s’arrêter aux principes
 <lb/>moraux des actions, il n’y auroit [Einschub: que trop souvent] de quoi ne pas sortir de colère, heureusement que les loix
 <lb/>
+<pb facs="12"/>
 <lb/>fol. 10v
 <lb/>qui ne s’occupent pas des motifs seuls, atteignent les frauduleuses et perverses actions
 <lb/>qui en dérivent, et offrent une juste consolation. Il me semble que voilà du
@@ -427,6 +518,7 @@
 <lb/>Marie commence à m’entendre sur bien des sujets, et m’a amusée dernièrement où il {a}
 <lb/>été question en sa présence d’une querelle de ménage devenue publique parce que la da{me}
 <lb/>
+<pb facs="13"/>
 <lb/>fol. 11r
 <lb/>avoit été gommée disoit-on par le mari jaloux en présence de ses gens, scandale complet
 <lb/>enfin, et dont malgré moi il a été fait mention devant la petite, en y ajoutant que la dame
@@ -452,6 +544,7 @@
 <lb/>des nouvelles ultérieures et je me flatte que la poste de demain m’en donnera.
 <lb/>Adieu chère et bonne Maman, j’avoue avoir été saisie de la nouvelle, et Vous baise les mains.
 <lb/>
+<pb facs="14"/>
 <lb/>fol. 11v
 <lb/>Lundi, 14/26 janvier.
 <lb/>
@@ -478,6 +571,7 @@
 <lb/>de mon état; il y a déja plusieurs jours que je m’en doutois, mais il me
 <lb/>semble pouvoir y compter actuellement, car Vous savez chère Maman qu’il est
 <lb/>
+<pb facs="15"/>
 <lb/>fol. 12r
 <lb/>assez facile de s’y tromper. Je réclame donc derechef Votre précieuse bénédiction, chère Maman, pour le présens et pour cet avenir duquel je dis sans cesse,
 <lb/>Seigneur que ta volonté se fasse, tout en le priant de répandre sa miséricorde
@@ -503,6 +597,7 @@
 <lb/>comme elle me marque Vous avoir écrit par cette même occasion en
 <lb/>détail ainsi qu’à l’Empereur, je crois inutile de revenir sur les particularités
 <lb/>
+<pb facs="16"/>
 <lb/>fol. 12v
 <lb/>de cette triste lettre. La pauvre Anne a eu de fières épreuves à subir, et je suis bien aise
 <lb/>pour ma part de voir [Einschub: clairement] que tous les torts ne sont pas du côté de Guilleaume: sa
