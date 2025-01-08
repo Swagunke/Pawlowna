@@ -1705,6 +1705,7 @@
     </teiHeader>
     <text>
         <body>
+			<pb facs="01"/>
             <p>
                 <lb/>No. 270 [1817 Dez. 29-31]
 <lb/>fol. 299r
@@ -1712,7 +1713,7 @@
 <lb/>
 <lb/>Ma bonne et chère <persName key="Maria, Russland, Zarin" ref="https://d-nb.info/gnd/11933075X">Maman</persName>!
 <lb/>
-<lb/>Voilà que ce matin l’on annonce <persName>le c[om]te Ojarowsky</persName>,  qui me remis Votre
+<lb/>Voilà que ce matin l’on annonce <persName ref="P0093">le c[om]te Ojarowsky</persName>,  qui me remis Votre
 <lb/>chère lettre du 30 nov[embre] et 1 déc[embre], No. 125, pour laquelle je me hâte de déposer à Vos pieds
 <lb/>tous mes remercimens, je Vous baise mille fois les mains chère Maman pour m’avoir
 <lb/>instruite du mésentendu qui me prive pendant 8 jours de l’une de Vos lettres, effectivement
@@ -1730,6 +1731,7 @@
 <lb/>j’espère que je la remercie de tout mon coeur pour sa lettre, et lui répondrai le plustôt
 <lb/>possible, je la remercie mille fois pour sa constante amitié. Je Vous baise les mains
 <lb/>
+<pb facs="02"/>
 <lb/>fol. 299v
 <lb/>chère Maman, en me mettant à Vos pieds.
 <lb/>
@@ -1740,7 +1742,7 @@
 <lb/>plaisir de revoir son cousin bien portant, qui m’a beaucoup demandé de ses nouvelles;
 <lb/><persName key="Luise, Anhalt-Bernburg, Prinzessin" ref="https://d-nb.info/gnd/132421070">la jeune pr[ince]sse</persName> a une figure intéressante et un joli maintien, et je suis persuadée
 <lb/>que lorsqu’elle aura été un peu plus dans le monde, elle fera une fort aimable personne:
-<lb/>ils s’adorent l’un l’autre; demain ils nous quittent pour aller à <placeName key="Berlin" ref="https://d-nb.info/gnd/4005728-8">Berlin</placeName>. <persName>Mr. Ojarowsky</persName>
+<lb/>ils s’adorent l’un l’autre; demain ils nous quittent pour aller à <placeName key="Berlin" ref="https://d-nb.info/gnd/4005728-8">Berlin</placeName>. <persName ref="P0093">Mr. Ojarowsky</persName>
 <lb/>a continué hier après le dinner son voyage. Voici chère Maman une
 <lb/>lettre que <persName key="Kurakin, Aleksandr Borisovič" ref="https://d-nb.info/gnd/11755524X">notre pr[ince] Kourakin</persName> m’envoye pour Vous, et de plus la réponse de
 <lb/><placeName key="Coburg" ref="https://d-nb.info/gnd/4010325-0">Cobourg</placeName> à la lettre de <persName key="Antoinette, Württemberg, Herzogin" ref="https://d-nb.info/gnd/117375764">la duchesse Alexandre</persName> que Vous m’aviez confiée par
@@ -1755,6 +1757,7 @@
 <lb/>Chère et bonne Maman, nous voici à une cloture d’année, Dieu veuille
 <lb/>bien celle qui commence! Les derniers instans de celle-ci je compte les passer avec Vous
 <lb/>
+<pb facs="03"/>
 <lb/>fol. 300r
 <lb/>chère Maman, et ne dis donc rien de mes voeux dans celle-ci. <persName key="Friedrich, Preußen, Prinz" ref="https://d-nb.info/gnd/117742589">Le pr[ince] et la pr[ince]sse
 <lb/>de Prusse</persName> sont partis ce matin vers neuf heures, j’ai bien regretté ne pouvoir les voir,
@@ -1764,7 +1767,7 @@
 <lb/>réunir l’utile à l’agréable, j’ai terminé ma promenade par marcher ¾ d’heures,
 <lb/>pour n’avoir rien à me reprocher, car cet exercice m’est fort recomandé. Le tems
 <lb/>est superbe, et le rhume des <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">petites</persName> mieux. <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">Elles</persName> se mettent à Vos pieds de même
-<lb/>que <persName>le pr[ince]</persName>. J’embrasse <persName key="Aleksandr I., Russland, Zar" ref="https://d-nb.info/gnd/118501852">Alexandre</persName>, et mes frères et soeurs ainsi que <persName key="Lieven, Charlotte Karlowna de" ref="https://d-nb.info/gnd/115603972">notre chère c[om]t[e]sse</persName>,
+<lb/>que <persName ref="P0012">le pr[ince]</persName>. J’embrasse <persName key="Aleksandr I., Russland, Zar" ref="https://d-nb.info/gnd/118501852">Alexandre</persName>, et mes frères et soeurs ainsi que <persName key="Lieven, Charlotte Karlowna de" ref="https://d-nb.info/gnd/115603972">notre chère c[om]t[e]sse</persName>,
 <lb/>je Vous baise les mains de tout mon coeur, chère Maman, et je suis à jamais
 <lb/>avec le plus respectueux et éternel dévouement,
 <lb/>
