@@ -323,7 +323,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0031.xml?person_annotation_20250108140519289#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[2]"
+			"rdf:value": "TEI/text/body/p/persName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -378,7 +378,7 @@
 <lb/>peuvent que Vous tracer; veuillez agréer ces expressions d’un dévouement non douteux, et me
 <lb/>permettre de réclamer auprès de Vous pour ma famille et pour moi la continuation de
 <lb/>Votre tendresse et de Votre affection, source si précieuse et si vraie de bonheur, et puis
-<lb/>chère Maman souffrez que je Vous demande d’étendre vers le pr[ince], vers les chers enfans
+<lb/>chère Maman souffrez que je Vous demande d’étendre vers <persName>le pr[ince]</persName>, vers les chers enfans
 <lb/>et vers moi toujours Votre bénédiction, qui nous portera sans cesse bonheur, et
 <lb/>qui est un si beau stimulant pour s’en rendre digne. C’est dans ces sentimens,
 <lb/>que je Vous supplie chère Maman de nous recevoir à Vos pieds, où je suis de tout mon
