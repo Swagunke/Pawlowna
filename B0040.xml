@@ -441,6 +441,7 @@
     </teiHeader>
     <text>
         <body>
+			<pb facs="01"/>
             <p>
                 <lb/>No. 280 [1818 Jan. 18]
 <lb/>fol. 13r
@@ -453,8 +454,8 @@
 <lb/>que moi, car d’être enfermée en chambre devient à la longue très pénible; je compte
 <lb/>après la messe m’en aller promener à pied, et cette seule perspective me fait déja du
 <lb/>bien. Du reste rien de nouveau chère Maman: la semaine qui suit celle
-<lb/>où nous entrons, est celle des jours de naissance de <persName key="Luise, Sachsen-Weimar-Eisenach, Großherzogin" ref="https://d-nb.info/gnd/115363688">la GrDuchesse</persName> et du <persName>prince</persName>; je suis
-<lb/>dans les arrangemens y relatifs, et prépare une petite surprise au <persName>prince</persName>, qui si
+<lb/>où nous entrons, est celle des jours de naissance de <persName key="Luise, Sachsen-Weimar-Eisenach, Großherzogin" ref="https://d-nb.info/gnd/115363688">la GrDuchesse</persName> et du <persName ref="P_0012">prince</persName>; je suis
+<lb/>dans les arrangemens y relatifs, et prépare une petite surprise au <persName ref="P_0012">prince</persName>, qui si
 <lb/>elle réussit je l’espère ne lui déplaira pas. Les enfans se portent bien, et se
 <lb/>mettent à Vos pieds chère Maman; j’en fais autant de tout mon coeur, et retourne
 <lb/>à mon poste, après avoir embrassé la famille et notre chère c[om]t[e]sse. Je Vous
