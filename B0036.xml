@@ -323,7 +323,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0036.xml?person_annotation_20250108173234221#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[14]"
+			"rdf:value": "TEI/text/body/p/persName[15]"
 		}
 	},
 	"oa:hasBody": {
@@ -402,7 +402,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0036.xml?person_annotation_20250108173300902#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[15]"
+			"rdf:value": "TEI/text/body/p/persName[16]"
 		}
 	},
 	"oa:hasBody": {
@@ -1932,7 +1932,7 @@
 <lb/>dernières semaines de quelqu’espèce d’application que ce soit, à peine
 <lb/>je suffisois à mes devoirs vis-à-vis de Vous chère Maman, et je n’ai
 <lb/>pas voulu ne lui écrire que quelques lignes par ce courier qui est pressé, je m’en
-<lb/>dédomagerai par le prochain. Le pr[ince] et la petite famille et moi nous
+<lb/>dédomagerai par le prochain. <persName>Le pr[ince]</persName> et la petite famille et moi nous
 <lb/>nous mettons tous ensemble à Vos pieds chère Maman, Vous suppliant
 <lb/>de ne pas nous oublier, de nous accorder toujours Votre bénédiction, et de
 <lb/>nous croire à toujours avec le plus profond et le plus respectueux
