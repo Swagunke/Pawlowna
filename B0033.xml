@@ -2021,6 +2021,7 @@
     </teiHeader>
     <text>
         <body>
+			<pb facs="01"/>
             <p>
                 <lb/>No. 273 [1818 Jan. 5-7]
 <lb/>fol. 304r
@@ -2038,7 +2039,7 @@
 <lb/>nouveau chère Maman, sinon que je suis mieux que ces derniers jours, et recomence à
 <lb/>me promener bravement à pied sur la belle neige que nous avons, que j’aimerois
 <lb/>voir accompagnée d’un bon froid sec, mais on les ignore ici, car il y a toujours
-<lb/>quelque chose d’humide dans l’air. <persName key="Karl August, Sachsen-Weimar-Eisenach, Großherzog" ref="https://d-nb.info/gnd/11856014X">Le GrDuc</persName> et <persName>le pr[ince]</persName> sont allés passer quelques
+<lb/>quelque chose d’humide dans l’air. <persName key="Karl August, Sachsen-Weimar-Eisenach, Großherzog" ref="https://d-nb.info/gnd/11856014X">Le GrDuc</persName> et <persName ref="P_0012">le pr[ince]</persName> sont allés passer quelques
 <lb/>jours à <placeName key="Allstedt" ref="https://d-nb.info/gnd/4079709-0">Allstedt</placeName> pour la chasse au sanglier. <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">Les petites</persName> vont bien et tout
 <lb/>est rentré pour les leçons dans l’ordre habituel, ce que je regarde comme très essentiel.
 <lb/>Elles et moi nous nous mettons à Vos pieds, en Vous baisant les mains chère Maman.
@@ -2047,6 +2048,7 @@
 <lb/>
 <lb/>J’ai bien pensé chère Maman, à la cérémonie du jour, et à tout ce
 <lb/>
+<pb facs="02"/>
 <lb/>fol. 304v
 <lb/>qui se passeroit à <placeName key="Moskau" ref="https://d-nb.info/gnd/4074987-3">Moscou</placeName>: les prières du jour sont superbes, et élèvent l’âme; enfin
 <lb/>chère et bonne Maman, c’est du fond de mon coeur que je prends la liberté de
@@ -2072,6 +2074,7 @@
 <lb/>Chère Maman, Vous serez sans doute dans les fêtes aussi bien aujourd’huy
 <lb/>que hier, et peut-être y a-t-il un bal chez Vous ce soir, car je ne puis
 <lb/>
+<pb facs="03"/>
 <lb/>fol. 305r
 <lb/>penser que la société de <placeName key="Moskau" ref="https://d-nb.info/gnd/4074987-3">Moscou</placeName> ne soit pas un peu fêtée au <placeName key="Kreml Moskau (Moskau)" ref="https://d-nb.info/gnd/4074990-3">château</placeName>. Je
 <lb/>suis très passablement aujourd’huy, et vais me promener à pied; ma soirée
