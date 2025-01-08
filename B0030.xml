@@ -323,7 +323,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0030.xml?person_annotation_20250108131207282#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[2]"
+			"rdf:value": "TEI/text/body/p/persName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -369,7 +369,7 @@
 <lb/>
 <lb/>Ma bonne et chère <persName key="Maria, Russland, Zarin" ref="https://d-nb.info/gnd/11933075X">Maman</persName>!
 <lb/>
-<lb/>Voilà que ce matin l’on annonce le c[om]te Ojarowsky,  qui me remis Votre
+<lb/>Voilà que ce matin l’on annonce <persName>le c[om]te Ojarowsky</persName>,  qui me remis Votre
 <lb/>chère lettre du 30 nov[embre] et 1 déc[embre], No. 125, pour laquelle je me hâte de déposer à Vos pieds
 <lb/>tous mes remercimens, je Vous baise mille fois les mains chère Maman pour m’avoir
 <lb/>instruite du mésentendu qui me prive pendant 8 jours de l’une de Vos lettres, effectivement
