@@ -323,7 +323,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0042.xml?person_annotation_20250108215251970#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[3]"
+			"rdf:value": "TEI/text/body/p/persName[4]"
 		}
 	},
 	"oa:hasBody": {
@@ -530,7 +530,7 @@
 <lb/>Notre tems a de nouveau changé, il dégèle, et pas moyen de sortir à pied.
 <lb/>En attendant <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">mes enfans</persName> verront cet après-midi une comédie de singes, à laquelle je
 <lb/>me dispenserai comme de raison d’assister, mais dont la perspective leur fait grand plaisir.
-<lb/>Nous aurons ce soir du monde chère Maman, et hier soir pendant que le prince
+<lb/>Nous aurons ce soir du monde chère Maman, et hier soir pendant que <persName>le prince</persName>
 <lb/>étoit au spectacle<seg type="keyword"><term>Theater</term></seg>, je me suis occupée de la répétition d’une petite fête que je prépare
 <lb/>pour son jour de naissance, et qui, s’il en faut croire les augures réussira bien; je
 <lb/>crois même qu’elle lui sera une surprise complette. Les petites sont à
