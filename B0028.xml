@@ -323,7 +323,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0028.xml?person_annotation_20250108122309714#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[6]"
+			"rdf:value": "TEI/text/body/p/persName[7]"
 		}
 	},
 	"oa:hasBody": {
@@ -693,7 +693,7 @@
 <lb/>ainsi jusqu’à dimanche, alors je lui ai permis de se taire encore 2 jours. <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">Mes enfans</persName>
 <lb/>ont été les plus heureux hier soir, et gais autant que possible les premiers instans passés,
 <lb/>où ils étoient ébaubis et ne savoient où ils en étoient: <persName key="Karl August, Sachsen-Weimar-Eisenach, Großherzog" ref="https://d-nb.info/gnd/11856014X">le GrDuc</persName> et <persName key="Luise, Sachsen-Weimar-Eisenach, Großherzogin" ref="https://d-nb.info/gnd/115363688">la GrDuchesse</persName> les ont
-<lb/>accablés de cadeaux, et de très jolies choses, de sorte qu’ils étoient tous enchantés et le pr[ince] et moi comme
+<lb/>accablés de cadeaux, et de très jolies choses, de sorte qu’ils étoient tous enchantés et <persName>le pr[ince]</persName> et moi comme
 <lb/>de raison très reconnoissans. Ce matin nombre de Grecs ont communiés à ma chapelle, ils
 <lb/>étudient à Jéna, et je leur ai comme de raison abandonné la jouissance de mon
 <lb/>église: ils ont l’air fort bien, la plupart des physionomies très marquées. J’embrasse
