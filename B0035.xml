@@ -994,6 +994,7 @@
     </teiHeader>
     <text>
         <body>
+			<pb facs="01"/>
             <p>
                 <lb/>No. 275 [1818 Jan. 9-11]
 <lb/>fol. 307r
@@ -1018,7 +1019,8 @@
 <lb/>pas inquiétant, mais je ne puis continuer et me mets mille fois
 <lb/>à Vos pieds.
 <lb/>
-<lb/>fol. 307v
+<pb facs="02"/>
+lb/&amp;gt;fol. 307v
 <lb/>Samedi, le 29 décembre 1817/ 10 janvier 1818.
 <lb/>
 <lb/>Chère Maman! Quoique je sois mieux aujourd’huy, je ne suis
@@ -1043,13 +1045,14 @@
 <lb/>m’a fait grand plaisir, <persName key="Yasnowsky, Nikita" ref="https://d-nb.info/gnd/100001831">mon prêtre</persName> avoit été malade ces derniers 8 jours,
 <lb/>encore je pense suite du tems affreux que nous avons. Le dernier feldjäger
 <lb/>
+<pb facs="03"/>
 <lb/>fol. 308r
 <lb/>
 <lb/>m’a fait l’amitié de m’apporter en cadeau trois sterlets gelés, que j’ai
 <lb/>reçus à bras ouverts comme des amis, et presqu’avec des cris de joie:
 <lb/>je m’en délecte, et toute la famille en est enchantée, c’est vraiment une
 <lb/>joie pure, et j’en Vous ne parle chère Maman car Vous saurez
-<lb/>si j’aime <placeName key="Russland" ref="https://d-nb.info/gnd/4076899-5">notre païs</placeName> et ses productions. <persName>Le pr[ince]</persName>, <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">les petites</persName> et moi,
+<lb/>si j’aime <placeName key="Russland" ref="https://d-nb.info/gnd/4076899-5">notre païs</placeName> et ses productions. <persName ref="P_0012">Le pr[ince]</persName>, <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">les petites</persName> et moi,
 <lb/>nous nous mettons à Vos pieds, j’embrasse frères, soeurs et <persName key="Lieven, Charlotte Karlowna de" ref="https://d-nb.info/gnd/115603972">notre chère
 <lb/>c[om]t[e]sse</persName>, et suis à jamais avec le plus respectueux et éternel dévouement,
 <lb/>
