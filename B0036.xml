@@ -1320,85 +1320,6 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0036.xml?place_annotation_20250108174902224",
-	"type": "oa:Annotation",
-	"dcterms:created": "2025-01-08T16:49:02.224Z",
-	"dcterms:modified": "2025-01-08T16:49:02.224Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/IIwanov",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Iwan Iwanov"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0036.xml?place_annotation_20250108174902224#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0036.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0036.xml?place_annotation_20250108174902224#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/placeName[8]"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:RealPlace",
-		"@id": "https://d-nb.info/gnd/4072922-9",
-		"dc:format": "text/plain"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0036.xml?place_annotation_20250108175157065",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-08T16:51:57.065Z",
@@ -1863,6 +1784,7 @@
     </teiHeader>
     <text>
         <body>
+			<pb facs="01"/>
             <p>
                 <lb/>No. 276 [1818 Jan. 12-13]
 <lb/>fol. 1r
@@ -1879,7 +1801,7 @@
 <lb/>encore de cet attachement pour Vous, qui fait le bonheur de nos jours. Je me
 <lb/>crois à <placeName key="Moskau" ref="https://d-nb.info/gnd/4074987-3">Moscou</placeName>, et certes je suppose que l’on s’empressera bien d’y célébrer les
 <lb/>objets de l’affection publique. Je Vous baise les mains de tout mon coeur chère
-<lb/>Maman, autant en font <persName>le prince</persName> et <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">les petites</persName>. Ma santé est meilleure hier
+<lb/>Maman, autant en font <persName ref="P_0012">le prince</persName> et <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">les petites</persName>. Ma santé est meilleure hier
 <lb/>et aujourd’huy, aussi je rêvais, mais je n’ai pas eu le bonheur de recevoir de
 <lb/>Vos lettres par la poste du jour, ce qui m’est toujours un crève-coeur, et ce qui
 <lb/>provient certainement de la plus forte distance, en attendant chère Maman en
@@ -1889,6 +1811,7 @@
 <lb/><placeName key="Russland" ref="https://d-nb.info/gnd/4076899-5">Russie</placeName>. Je me mets encore une fois à Vos pieds chère Maman en Vous demandant
 <lb/>Votre bénédiction.
 <lb/>
+<pb facs="02"/>
 <lb/>fol. 1v
 <lb/>Mardi matin, le 1/13 janvier 1818.
 <lb/>
@@ -1915,6 +1838,7 @@
 <lb/>passe; <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">les enfans</persName> se portent à merveilles, et sont bons et aimables sans fond
 <lb/>à leur manière; je vois avec plaisir que <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">Marie</persName> persévère dans son goût
 <lb/>
+<pb facs="03"/>
 <lb/>fol. 4r
 <lb/>pour l’application: nous lisons beaucoup ensemble, et j’ai grand plaisir à lui voir
 <lb/>un sens droit et juste; elle est sensible au bien et prend vivement intéret aux
@@ -1932,7 +1856,7 @@
 <lb/>dernières semaines de quelqu’espèce d’application que ce soit, à peine
 <lb/>je suffisois à mes devoirs vis-à-vis de Vous chère Maman, et je n’ai
 <lb/>pas voulu ne lui écrire que quelques lignes par ce courier qui est pressé, je m’en
-<lb/>dédomagerai par le prochain. <persName>Le pr[ince]</persName> et la petite famille et moi nous
+<lb/>dédomagerai par le prochain. <persName ref="P_0012">Le pr[ince]</persName> et la petite famille et moi nous
 <lb/>nous mettons tous ensemble à Vos pieds chère Maman, Vous suppliant
 <lb/>de ne pas nous oublier, de nous accorder toujours Votre bénédiction, et de
 <lb/>nous croire à toujours avec le plus profond et le plus respectueux
