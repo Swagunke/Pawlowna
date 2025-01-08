@@ -836,6 +836,7 @@
     </teiHeader>
     <text>
         <body>
+			<pb facs="01"/>
             <p>
                 <lb/>No. 283 [1818 Jan. 25]
 <lb/>fol. 16r
@@ -850,7 +851,7 @@
 <lb/>horrible et la neige tombée cette nuit tourne déja en boue. Voilà un vilain hyver
 <lb/>chère Maman, et suivant les apparences il ne deviendra pas plus stable; grâces à
 <lb/>Dieu <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">mes chères petites</persName> se portent bien et font ma consolation. <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">Elles</persName> se mettent
-<lb/>à Vos pieds chère Maman de même que <persName>le prince</persName>; j’ai assisté hier soir à la
+<lb/>à Vos pieds chère Maman de même que <persName ref="P_0012">le prince</persName>; j’ai assisté hier soir à la
 <lb/>représentation de la Clémence de Titus<seg type="keyword"><term>Oper</term></seg>, musique de <persName key="Mozart, Wolfgang Amadeus" ref="https://d-nb.info/gnd/118584596">Mozart</persName>, qui a été fort
 <lb/>bien rendue, et qui m’a fait un vrai plaisir, elle est superbe, et il y avoit
 <lb/>longtems que je ne l’avois vue représentée. J’embrasse la famille et
