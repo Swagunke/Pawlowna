@@ -599,6 +599,7 @@
     </teiHeader>
     <text>
         <body>
+			<pb facs="01"/>
             <p>
                 <lb/>No. 281 [1818 Jan. 21]
 <lb/>fol. 14r
@@ -609,7 +610,7 @@
 <lb/>Il fait aujourd’huy le plus beau tems du monde, aussi vais-je profiter pour
 <lb/>faire usage de mes jambes. Ma lettre n’est de nouveau que d’un jour chère Maman,
 <lb/>pour la même raison que dernièrement. Je suis occupée des préparatifs des jours de
-<lb/>naissance de <persName key="Luise, Sachsen-Weimar-Eisenach, Großherzogin" ref="https://d-nb.info/gnd/115363688">la GrDuchesse</persName> et du <persName>prince</persName>, et cela prend [Einschub: quelque peu de] mon tems, mais au reste
+<lb/>naissance de <persName key="Luise, Sachsen-Weimar-Eisenach, Großherzogin" ref="https://d-nb.info/gnd/115363688">la GrDuchesse</persName> et du <persName ref="P_0012">prince</persName>, et cela prend [Einschub: quelque peu de] mon tems, mais au reste
 <lb/>nous sommes déja parfaitement au clair sous ce rapport; je suis beaucoup avec <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">mes
 <lb/>enfans</persName>, c’est un devoir et c’est aussi la société qui me convient le plus. Ils se
 <lb/>portent bien, et se mettent à Vos pieds, où je suis aussi de tout mon coeur
