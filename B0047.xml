@@ -323,7 +323,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0047.xml?person_annotation_20250109143302643#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[2]"
+			"rdf:value": "TEI/text/body/p/persName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -369,7 +369,7 @@
 <lb/>
 <lb/>Ma bonne et chère <persName key="Maria, Russland, Zarin" ref="https://d-nb.info/gnd/11933075X">Maman</persName>!
 <lb/>
-<lb/>Ayant eu le bonheur de Vous écrire hier par le c[om]te Ojarowsky, cette lettre n’est
+<lb/>Ayant eu le bonheur de Vous écrire hier par <persName>le c[om]te Ojarowsky</persName>, cette lettre n’est
 <lb/>que d’un jour, et je n’ai rien de nouveau à Vous apprendre. Le Duc de Gotha est
 <lb/>toujours encore ici, et ce qui est chose merveilleuse il est encore toujours de bonne
 <lb/>humeur; je l’ai mené ce matin à ma chapelle, où il a assisté à la messe,
