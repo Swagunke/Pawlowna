@@ -323,7 +323,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0050.xml?person_annotation_20250109152136696#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[2]"
+			"rdf:value": "TEI/text/body/p/persName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -451,7 +451,7 @@
 <lb/>Nous sommes retombés en hyver; il est tombé une quantité considérable de neige
 <lb/>pendant la nuit d’hier, de sorte que si la gelée s’en mêle on pourra aller en traineaux:
 <lb/>la neige est si profonde et si molle que je ne peux sortir à pied, pour ne pas
-<lb/>m’exposer à l’humidité. Hier soir, en l’honneur de la fête du prince, j’ai été
+<lb/>m’exposer à l’humidité. Hier soir, en l’honneur de la fête du <persName>prince</persName>, j’ai été
 <lb/>au théatre<seg type="keyword"><term>Theater</term></seg>, mais n’ai assisté qu’à la représentation d’un acte, me sentant mal
 <lb/>à mon aise. Le Duc de Gotha est parti ce matin, avec le projet de revenir
 <lb/>bientôt, nos étrangers nous ont quittés, mais comme nous ne pouvons jamais être entièrement
