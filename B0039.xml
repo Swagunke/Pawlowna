@@ -322,7 +322,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?person_annotation_20250108182327444#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[12]"
+			"rdf:value": "TEI/text/body/p/persName[13]"
 		}
 	},
 	"oa:hasBody": {
@@ -2524,7 +2524,7 @@
 <lb/>établi pour des revenus qui ont été repartis entre <persName key="Katharina, Württemberg, Königin" ref="https://d-nb.info/gnd/118560603">mes soeurs</persName> et moi, me font
 <lb/>{u}ne loi d’éviter le reproche d’avidité ou bien de chercher à l’emporter sur elles. Si l’on
 <lb/>{v}eut se rapprocher de la vérité, il n’est pas difficile de voir que leur position est différente
-<lb/>{de} la mienne par fortune de leurs époux, si un jour le prince vient à la régence,
+<lb/>{de} la mienne par fortune de leurs époux, si un jour <persName>le prince</persName> vient à la régence,
 <lb/>je n’aurai plus sur les bras les dépenses qu’exige toute notre maison et serai
 <lb/>{n}on plus à l’aise, mais il est loin de moi de chercher à désigner un terme pareil
 <lb/>{c}omme celui où finiroit l’augmentation que pourroit m’accorder l’Empereur; j’ai
