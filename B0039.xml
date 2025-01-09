@@ -322,7 +322,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?person_annotation_20250108182327444#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[26]"
+			"rdf:value": "TEI/text/body/p/persName[27]"
 		}
 	},
 	"oa:hasBody": {
@@ -3866,7 +3866,7 @@
 <lb/>venue par le dernier courier, je me trouve infiniment heureuse de l’avoir,
 <lb/>d’y trouver des détails qui m’étoient inconnus, et pour lesquels je Vous remerc{ie}
 <lb/>de tout mon coeur. Je penserai chère Maman à ce qu’il y a à faire pour faire
-<lb/>connoitre Votre opinion sur la confirmation de ma nièce Marie, et je
+<lb/>connoitre Votre opinion sur la confirmation de <persName>ma nièce Marie</persName>, et je
 <lb/>crois devoir le marquer moi-même à son père, comme une observation
 <lb/>que Vous m’aviez faite, toutesfois(!) je me réserve de Vous en parler enco{re}
 <lb/>auparavent(!): il est très certain qu’à l’âge où elle est, si le --- dé{…}
