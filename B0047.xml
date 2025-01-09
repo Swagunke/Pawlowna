@@ -686,7 +686,7 @@
 <lb/>
 <lb/>Ma bonne et chère <persName key="Maria, Russland, Zarin" ref="https://d-nb.info/gnd/11933075X">Maman</persName>!
 <lb/>
-<lb/>Ayant eu le bonheur de Vous écrire hier par <persName>le c[om]te Ojarowsky</persName>, cette lettre n’est
+<lb/>Ayant eu le bonheur de Vous écrire hier par <persName ref="P_0093">le c[om]te Ojarowsky</persName>, cette lettre n’est
 <lb/>que d’un jour, et je n’ai rien de nouveau à Vous apprendre. <persName key="August, Sachsen-Gotha-Altenburg, Herzog" ref="https://d-nb.info/gnd/100289614">Le Duc de Gotha</persName> est
 <lb/>toujours encore ici, et ce qui est chose merveilleuse il est encore toujours de bonne
 <lb/>humeur; je l’ai mené ce matin à ma chapelle, où il a assisté à la messe,
