@@ -1310,6 +1310,7 @@
     </teiHeader>
     <text>
         <body>
+			<pb facs="01"/>
             <p>
                 <lb/>No. 288 [1818 Feb. 2-3]
 <lb/>fol. 21r
@@ -1328,13 +1329,14 @@
 <lb/>Vous plait, c’est une grande bagatelle que Vous m’avez permis de Vous offrir
 <lb/>là, et nullement de prix: je suis ravie de savoir le dessin de Votre goût, je
 <lb/>n’ai pas voulu la déballer, et n’ai pas vu autre chose que les manches.
-<lb/>Je suis dans le tourbillon des fêtes, aujourd’huy c’est celle du <persName>prince</persName>, et
+<lb/>Je suis dans le tourbillon des fêtes, aujourd’huy c’est celle du <persName ref="P_0012">prince</persName>, et
 <lb/>je [an der Stelle von: j’ai] lui arrangé une surprise, puisse-t-elle réussir: je desire de tout
 <lb/>mon coeur me bien porter ce soir, mais la mattinée n’est pas brillante jusqu’à
-<lb/>présent. Le prince se met à Vos pieds chère Maman, en se
+<lb/>présent. <persName ref="P_0012">Le prince</persName> se met à Vos pieds chère Maman, en se
 <lb/>recommandant à Vos bontés, et moi aussi, étant à chaqu’instant détournée par
 <lb/>des visites, nous avons furieusement de monde ici.
 <lb/>
+<pb facs="02"/>
 <lb/>fol. 21v
 <lb/>Mardi, le 22 janvier/ 3 février.
 <lb/>
@@ -1345,13 +1347,13 @@
 <lb/>étrangers de marque qui sont ici viennent souper chez nous; j’ai le plaisir
 <lb/>de voir des compatriotes ici, <persName key="Barjatinskij, Ivan Ivanovič, Fürst" ref="https://d-nb.info/gnd/1331553482">les Barätinsky</persName>, et je m’en donne pour parler
 <lb/>des objets qui m’intéressent. La soirée d’hier a bien réussi dit-on, et le
-<lb/>bal a été très animé, <persName>le prince</persName> a été dans l’ignorance jusqu’au dernier
+<lb/>bal a été très animé, <persName ref="P_0012">le prince</persName> a été dans l’ignorance jusqu’au dernier
 <lb/>moment, et la charade n’étoit pas entrée dans le nombre des suppositions
 <lb/>qu’il avoit faites, ne me voyant occupée de quelques petites préparatifs.
 <lb/><persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">Mes enfans</persName> y ont pris part fort simplement et naturellement et sans apprêts,
 <lb/>ce qui m’a fait plaisir, la foule n’ayant pas agi sur eux de manière à influer
 <lb/>le moins du monde sur ce qu’ils avoient à faire comme personnages muets,
-<lb/>j’ai été aise de les avoir vus comme ils se sont montrés: <persName>le prince</persName> étoit
+<lb/>j’ai été aise de les avoir vus comme ils se sont montrés: <persName ref="P_0012">le prince</persName> étoit
 <lb/>content, je l’étois aussi, et la soirée a été couronné par un bal très nombreux
 <lb/>et fort animé, qu’a coupé en deux le souper, après lequel il a recomencé
 <lb/>et s’est prolongé jusqu’à vers 4 heures: je me suis retirée à une heure
@@ -1361,14 +1363,15 @@
 <lb/>qu’il expédiera sous son couvert. J’ai été passablement bien hier soir, et
 <lb/>ce matin comme de coutûme, je vais aller me promener en voiture. Tout va
 <lb/>
+<pb facs="03"/>
 <lb/>fol. 22r
 <lb/>fort bien ici chère Maman, et je suis très aise de pouvoir Vous le dire, en ayant
 <lb/>la preuve, l’affaire dont je Vous ai parlé en dernier lieu se mène dûement, et
 <lb/>l’on ne peut qu’approuver la tenue qu’a prise la chose. Oserai-je insérer
-<lb/>ici l’incluse que m’a envoyé <persName key="Sturtza, Rōxandra" ref="https://d-nb.info/gnd/1011179423">la c[om]t[e]sse Edling</persName> pour <persName>sa mère</persName>, et Vous supplier
+<lb/>ici l’incluse que m’a envoyé <persName key="Sturtza, Rōxandra" ref="https://d-nb.info/gnd/1011179423">la c[om]t[e]sse Edling</persName> pour <persName ref="P_0115">sa mère</persName>, et Vous supplier
 <lb/>de saluer mes connoissances et ceux qui se rappellent encore de moi.
 <lb/>J’embrasse mes frères et soeurs, ainsi que <persName key="Lieven, Charlotte Karlowna de" ref="https://d-nb.info/gnd/115603972">notre chère c[om]t[e]sse</persName>, je Vous
-<lb/>baise mille fois les mains chère Maman, autant en font le prince
+<lb/>baise mille fois les mains chère Maman, autant en font <persName ref="P_0012">le prince</persName>
 <lb/>et <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">les enfans</persName>, et Vous supplie de conserver Votre tendresse à celle
 <lb/>qui est avec le plus respectueux et le plus tendre attachement,
 <lb/>
