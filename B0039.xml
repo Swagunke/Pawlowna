@@ -322,7 +322,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?person_annotation_20250108182327444#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[56]"
+			"rdf:value": "TEI/text/body/p/persName[57]"
 		}
 	},
 	"oa:hasBody": {
@@ -8664,7 +8664,7 @@
 <lb/>douloureuses; elle est heureuse dans son ménage et c’est un point si essentiel que dans
 <lb/>le fait le reste peut paroitre secondaire. Cette lecture m’a fort avancée dans la
 <lb/>soirée chère Maman est m’a ôté la faculté d’écrire à <persName key="Lieven, Charlotte Karlowna de" ref="https://d-nb.info/gnd/115603972">notre chère c[om]t[e]sse</persName>, ce
-<lb/>sera pour Ojarowsky qui doit passer un de ces jours, elle me le pardonnera sûrement,
+<lb/>sera pour <persName>Ojarowsky</persName> qui doit passer un de ces jours, elle me le pardonnera sûrement,
 <lb/>je l’embrasse de toute la tendresse de mon âme en me recomandant
 <lb/>à sa tendresse. Voici chère Maman de vieilles lettres pour
 <lb/>mes frères cadets, et pour Mr. Willamoff pour affaires. J’embrasse
