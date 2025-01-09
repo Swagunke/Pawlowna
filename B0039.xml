@@ -4921,6 +4921,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?keyword_annotation_20250109183418570",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-09T17:34:18.570Z",
+	"dcterms:modified": "2025-01-09T17:34:18.570Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/IIwanov",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Iwan Iwanov"
+	},
+	"oa:motivatedBy": "oa:tagging",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?keyword_annotation_20250109183418570#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?keyword_annotation_20250109183418570#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p/seg[13]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "fabio:UncontrolledVocabulary",
+		"dc:format": "text/xml",
+		"rdf:value": "Pressefreiheit"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
             <editorialDecl>
                 <p>
@@ -5167,7 +5246,7 @@
 <lb/>est mon état aujourd’huy, où j’apprécie avec vivacité les belles intentions qui le guident:
 <lb/>Veuille Dieu constamment le bénir! Rien de nouveau chère Maman, l’on a
 <lb/>reçu seulement la nouvelle de <placeName key="Frankfurt am Main" ref="https://d-nb.info/gnd/4018118-2">Francfort s.M.</placeName>, que la discussion demandée à la diète<seg type="keyword"><term>Bundesversammlung in Frankfurt am Main</term></seg>
-<lb/>[Einschub: par <placeName key="Österreich" ref="https://d-nb.info/gnd/4043271-3">l’Autriche</placeName> et <placeName key="Preußen" ref="https://d-nb.info/gnd/4047194-9">la Prusse</placeName>] au sujet de la liberté de la presse, a été ajournée, parce que les opinions paroissoient
+<lb/>[Einschub: par <placeName key="Österreich" ref="https://d-nb.info/gnd/4043271-3">l’Autriche</placeName> et <placeName key="Preußen" ref="https://d-nb.info/gnd/4047194-9">la Prusse</placeName>] au sujet de la liberté de la presse<seg type="keyword"><term>Pressefreiheit</term></seg>, a été ajournée, parce que les opinions paroissoient
 <lb/>trop prononcées contre dans ce moment. Voilà donc tout arrangement pour la régler
 <lb/>{est} également suspendu, et en attendant les journalistes s’en donnent. Le général
 <lb/>{se} montre extrêmement bien dans toute cette affaire, et agit avec la sagesse que
