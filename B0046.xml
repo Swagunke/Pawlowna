@@ -994,6 +994,7 @@
     </teiHeader>
     <text>
         <body>
+			<pb facs="01"/>
             <p>
                 <lb/>No. 286 [1818 Jan. 30-31]
 <lb/>fol. 19r
@@ -1007,7 +1008,7 @@
 <lb/>moi, me trouvant mal; lorsque j’ai été remise l’on m’a engagée à prendre
 <lb/>un peu l’air, et j’ai fait une tour en voiture avec <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">mes enfans</persName>, et me suis d’abord
 <lb/>habillée en grand costume pour le dinner, immense que nous avons eu; au
-<lb/>moment de le commencer on m’annonce l’arrivée d’<persName>Ojarowsky</persName>, il viendra
+<lb/>moment de le commencer on m’annonce l’arrivée d’<persName ref="P_0093">Ojarowsky</persName>, il viendra
 <lb/>ce soir au bal, et j’écris en attendant il est près de 6 heures, le bal
 <lb/>commence avant 7, et j’ai encore toilette à faire, ainsi juger chère Maman, 
 <lb/>si j’en peux dire davantage, et malheureusement je ne suis pas en état de
@@ -1016,10 +1017,11 @@
 <lb/>
 <lb/>Samedi, à 9 heures du matin.
 <lb/>
-<lb/>Chère Maman, <persName>Mr. Ojarowsky</persName> a eu la politesse de me dire qu’il viendroit
+<lb/>Chère Maman, <persName ref="P_0093">Mr. Ojarowsky</persName> a eu la politesse de me dire qu’il viendroit
 <lb/>prendre ma lettre ce matin, et j’en profite volontiers comme de raison pour tracer ces
 <lb/>lignes. Notre bal a été nombreux et animé: l’on a soupé vers minuit, et je ne
 <lb/>
+<pb facs="02"/>
 <lb/>fol. 19v
 <lb/>me suis retirée qu’à 2 heures du matin, <persName key="Luise, Sachsen-Weimar-Eisenach, Großherzogin" ref="https://d-nb.info/gnd/115363688">ma belle-mère</persName> étant restée jusque-
 <lb/>là: j’ai très bien soutenu la soirée, après avoir eu une mattinée orageuse,
@@ -1028,7 +1030,7 @@
 <lb/>ma bonne volonté; tout va heureusement dans mon état, et les incommodités
 <lb/>inévitables se supportent en pensant au but. J’ai été bien aise de voir que
 <lb/><persName key="Luise, Sachsen-Weimar-Eisenach, Großherzogin" ref="https://d-nb.info/gnd/115363688">ma belle-mère</persName> ait paru contente de sa soirée d’hier, et que nous ayons réussi
-<lb/>à lui faire plaisir; <persName>Ojarowsky</persName> pourra Vous dire chère Maman qu’il a vu
+<lb/>à lui faire plaisir; <persName ref="P_0093">Ojarowsky</persName> pourra Vous dire chère Maman qu’il a vu
 <lb/><persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">mes enfans</persName> en bonne santé; nous avons ici <persName key="Barjatinskij, Ivan Ivanovič, Fürst" ref="https://d-nb.info/gnd/1331553482">le pr[ince] Barätinsky</persName> avec sa
 <lb/>famille, ils me chargent de les mettre à Vos pieds chère Maman, j’embrasse
 <lb/>la famille et <persName key="Lieven, Charlotte Karlowna de" ref="https://d-nb.info/gnd/115603972">notre chère c[om]t[e]sse</persName>, et Vous baise mille fois les
