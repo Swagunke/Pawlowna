@@ -880,8 +880,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "fabio:Correction",
-		"dc:format": "text/xml",
-		"rdf:value": "unsichere Attribuirung"
+		"dc:format": "text/xml"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -8520,7 +8519,7 @@
 <lb/>vouloir bien lui dire un mot de ma part à ce sujet, en ancienne connoissance. Je
 <lb/>me représente vivement combien toutes ces promotions ont du répandre de mouvement
 <lb/>dans la société de <placeName key="Moskau" ref="https://d-nb.info/gnd/4074987-3">Moscou</placeName>, en retombant avantageusement sur les diverses familles
-<lb/>auxquelles appartiennent les personnes favorisées. La nomination du <persName>c[om]te Galowkin<corr/></persName> au
+<lb/>auxquelles appartiennent les personnes favorisées. La nomination du <persName ref="P_0076">c[om]te Galowkin<corr/></persName> au
 <lb/>titre de grand maitre de la cour, m’a fait grand plaisir aussi, et le rendra sans doute
 <lb/>fort heureux. Y a-t-il quelqu’une des nouvelles d[emoise]lles d’honneur chère Maman
 <lb/>
@@ -8590,7 +8589,7 @@
 <lb/>ne leur parviendra que par débris; les revenus obtenus enfin pour eux se consacrent
 <lb/>à leur entretien, éducation, et épargnes s’il y a moyen. Il ne me reste donc pa{s}
 <lb/>d’autre parti à prendre que de retirer successivement mes capitaux, jusqu’à ce que
-<lb/>la position du <persName>prince</persName> change s’il avoit le malheur de perdre <persName key="Karl August, Sachsen-Weimar-Eisenach, Großherzog" ref="https://d-nb.info/gnd/11856014X">son père</persName>, ou bien
+<lb/>la position du <persName ref="P_0012">prince</persName> change s’il avoit le malheur de perdre <persName key="Karl August, Sachsen-Weimar-Eisenach, Großherzog" ref="https://d-nb.info/gnd/11856014X">son père</persName>, ou bien
 <lb/>de revenir à la générosité de <persName key="Aleksandr I., Russland, Zar" ref="https://d-nb.info/gnd/118501852">l’Emp[ereur]</persName> pour une augmentation annuelle de
 <lb/>mes revenus. Cette demande qui me peine beaucoup sous bien [Einschub: des] rapports, ne saurois-je la
 <lb/>reposer que sur une amélioration de mon sort pour quelques années déterminées, et j’avoue
@@ -8607,7 +8606,7 @@
 <lb/>établi pour des revenus qui ont été repartis entre <persName key="Katharina, Württemberg, Königin" ref="https://d-nb.info/gnd/118560603">mes soeurs</persName> et moi, me font
 <lb/>{u}ne loi d’éviter le reproche d’avidité ou bien de chercher à l’emporter sur elles. Si l’on
 <lb/>{v}eut se rapprocher de la vérité, il n’est pas difficile de voir que leur position est différente
-<lb/>{de} la mienne par fortune de leurs époux, si un jour <persName>le prince</persName> vient à la régence,
+<lb/>{de} la mienne par fortune de leurs époux, si un jour <persName ref="P_0012">le prince</persName> vient à la régence,
 <lb/>je n’aurai plus sur les bras les dépenses qu’exige toute notre maison et serai
 <lb/>{n}on plus à l’aise, mais il est loin de moi de chercher à désigner un terme pareil
 <lb/>{c}omme celui où finiroit l’augmentation que pourroit m’accorder <persName key="Aleksandr I., Russland, Zar" ref="https://d-nb.info/gnd/118501852">l’Empereur</persName>; j’ai
@@ -8685,7 +8684,7 @@
 <lb/>venue par le dernier courier, je me trouve infiniment heureuse de l’avoir,
 <lb/>d’y trouver des détails qui m’étoient inconnus, et pour lesquels je Vous remerc{ie}
 <lb/>de tout mon coeur. Je penserai chère Maman à ce qu’il y a à faire pour faire
-<lb/>connoitre Votre opinion sur la confirmation de <persName>ma nièce Marie</persName>, et je
+<lb/>connoitre Votre opinion sur la confirmation de <persName ref="P_0072">ma nièce Marie</persName>, et je
 <lb/>crois devoir le marquer moi-même à <persName key="Friedrich Ludwig, Mecklenburg-Schwerin, Erbgroßherzog" ref="https://d-nb.info/gnd/120438712">son père</persName>, comme une observation
 <lb/>que Vous m’aviez faite, toutesfois(!) je me réserve de Vous en parler enco{re}
 <lb/>auparavent(!): il est très certain qu’à l’âge où elle est, si le --- dé{…}
@@ -8745,7 +8744,7 @@
 <lb/>ce que leur intelligence se développe si bien, ils avancent moralement et <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">mon
 <lb/>ainée</persName> est aussi enfant pour les goûts qu’il est possible de l’être, ce que je
 <lb/>regarde comme un avantage: je me suis occupée d’une répétition pour une espèce
-<lb/>de quadrille qui se prépare pour la fête du <persName>pr[ince]</persName>. Elle m’a fatiguée parce que j’ai
+<lb/>de quadrille qui se prépare pour la fête du <persName ref="P_0012">pr[ince]</persName>. Elle m’a fatiguée parce que j’ai
 <lb/>été longtems sur mes jambes, chose qui vu mon poids actuel me lasse beaucoup:
 <lb/>je suis donc obligée de m’aller reposer chère Maman, et me mets à Vos pieds
 <lb/>de coeur et d’âme.
@@ -8901,11 +8900,11 @@
 <lb/>douloureuses; elle est heureuse dans son ménage et c’est un point si essentiel que dans
 <lb/>le fait le reste peut paroitre secondaire. Cette lecture m’a fort avancée dans la
 <lb/>soirée chère Maman est m’a ôté la faculté d’écrire à <persName key="Lieven, Charlotte Karlowna de" ref="https://d-nb.info/gnd/115603972">notre chère c[om]t[e]sse</persName>, ce
-<lb/>sera pour <persName>Ojarowsky</persName> qui doit passer un de ces jours, elle me le pardonnera sûrement,
+<lb/>sera pour <persName ref="P_0093">Ojarowsky</persName> qui doit passer un de ces jours, elle me le pardonnera sûrement,
 <lb/>je l’embrasse de toute la tendresse de mon âme en me recomandant
 <lb/>à sa tendresse. Voici chère Maman de vieilles lettres pour
 <lb/><persName key="Nikolaj I., Russland, Zar" ref="https://d-nb.info/gnd/118588079">mes frères cadets</persName>, et pour <persName key="Villamov, Grigorij Ivanovic" ref="https://d-nb.info/gnd/1077870728">Mr. Willamoff</persName> pour affaires. J’embrasse
-<lb/>toute la famille, et salue tout ce qui se rappelle de moi; <persName>le pr[ince]</persName> et
+<lb/>toute la famille, et salue tout ce qui se rappelle de moi; <persName ref="P_0012">le pr[ince]</persName> et
 <lb/><persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">les petites</persName> Vous baisent les mains chère Maman, j’en fais autant,
 <lb/>étant avec le plus éternel et le plus respectueux dévouement,
 <lb/>
