@@ -323,7 +323,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0048.xml?person_annotation_20250109144031368#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[12]"
+			"rdf:value": "TEI/text/body/p/persName[13]"
 		}
 	},
 	"oa:hasBody": {
@@ -1207,7 +1207,7 @@
 <lb/>fort bien ici chère Maman, et je suis très aise de pouvoir Vous le dire, en ayant
 <lb/>la preuve, l’affaire dont je Vous ai parlé en dernier lieu se mène dûement, et
 <lb/>l’on ne peut qu’approuver la tenue qu’a prise la chose. Oserai-je insérer
-<lb/>ici l’incluse que m’a envoyé <persName key="Sturtza, Rōxandra" ref="https://d-nb.info/gnd/1011179423">la c[om]t[e]sse Edling</persName> pour sa mère, et Vous supplier
+<lb/>ici l’incluse que m’a envoyé <persName key="Sturtza, Rōxandra" ref="https://d-nb.info/gnd/1011179423">la c[om]t[e]sse Edling</persName> pour <persName>sa mère</persName>, et Vous supplier
 <lb/>de saluer mes connoissances et ceux qui se rappellent encore de moi.
 <lb/>J’embrasse mes frères et soeurs, ainsi que notre chère c[om]t[e]sse, je Vous
 <lb/>baise mille fois les mains chère Maman, autant en font le prince
