@@ -481,7 +481,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0052.xml?person_annotation_20250129183141338#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[3]/p/persName[3]"
+			"rdf:value": "TEI/text/body/div[3]/p/persName[5]"
 		}
 	},
 	"oa:hasBody": {
@@ -1192,7 +1192,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0052.xml?person_annotation_20250129183733767#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[3]/p/persName[2]"
+			"rdf:value": "TEI/text/body/div[3]/p/persName[4]"
 		}
 	},
 	"oa:hasBody": {
@@ -1287,8 +1287,8 @@
 <lb/>sentant lasse: le vent de dégel venu hier soir bouleverse l’atmosphère, et ces insuportables
 <lb/>variations des hyvers d’<placeName key="Deutschland" ref="https://d-nb.info/gnd/4011882-4">Allemagne</placeName> influent toujours sur la santé;
 <lb/>je regrette tous les jours la saison que j’aime le mieux en <placeName key="Russland" ref="https://d-nb.info/gnd/4076899-5">Russie</placeName>, et sa
-<lb/>constance, elle est bien préférable à ces changemens perpétuels. Les petites se
-<lb/>portent bien et Vous baisent les mains, de même que le prince et moi chère
+<lb/>constance, elle est bien préférable à ces changemens perpétuels. <persName>Les petites</persName> se
+<lb/>portent bien et Vous baisent les mains, de même que <persName>le prince</persName> et moi chère
 <lb/>Maman, j’embrasse la famille et <persName key="Lieven, Charlotte Karlowna de" ref="https://d-nb.info/gnd/115603972">notre chère c[om]t[e]sse</persName>, que je suis charmée
 <lb/>de savoir contente de mes bonnets, et suis éternellement chère Maman, avec le
 <lb/>
