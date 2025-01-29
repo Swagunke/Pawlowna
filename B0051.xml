@@ -129,6 +129,9 @@
             <pb facs="01"/>    
                 <lb/>No. 291 [1818 Feb. 6-8]
 <lb/>fol. 25r
+            </p>
+            <div type="letter" n="01">
+            <p>
 <lb/>Weymar. Vendredi, 25 janvier/ 6 février 1818.
 <lb/>
 <lb/>Ma bonne et chère Maman!
@@ -190,6 +193,7 @@
 <lb/>la plus soumise et obéissante
 <lb/>fille, Marie.
             </p>
+            </div>
         </body>
     </text>
 </TEI>
