@@ -130,15 +130,14 @@
                 <lb/>No. 242 [1817 Nov. 6]
 <lb/>fol. 252r
             </p>
-            <opener>
-                    <dateline>
+           
+                <dateline>
 Weymar. Le jeudi matin, 25 octobre/ 6 novembre 1817.
-                    </dateline>
-                    <salute>
+                </dateline>
+                <salute>
 Ma bonne et chère <persName key="Maria, Russland, Zarin" ref="https://d-nb.info/gnd/11933075X">Maman</persName>!
-                    </salute>
-            </opener>
-                <p>
+                </salute>
+            <p>
 <lb/>On m’annonce un courier venant de <placeName key="Madrid" ref="https://d-nb.info/gnd/4036862-2">Madrid</placeName> et allant à <placeName key="Moskau" ref="https://d-nb.info/gnd/4074987-3">Moscou</placeName> et j’en
 <lb/>profite pour avoir le bonheur de Vous adresser ces lignes. Je me flatte que la journée ne se
 <lb/>passera pas sans que je ne voye arriver la lettre que j’attends avec tant
