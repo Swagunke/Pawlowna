@@ -126,8 +126,12 @@
     <text>
         <body>
             <p>
+            <pb facs="01"/>
                 <lb/>No. 292 [1818 Feb. 9-11]
 <lb/>fol. 27r
+            </p>
+            <div type="letter" n="01">
+            <p>
 <lb/>Weymar. Lundi matin, le 28 janvier/ 9 février 1818.
 <lb/>
 <lb/>Ma bonne et chère Maman!
@@ -144,13 +148,17 @@
 <lb/>et le reste du tems je l’employe ou bien aux soins inévitables auxquelles je suis
 <lb/>obligée de prendre part, ou à me reposer de mes fatigues. Cette jeunesse et moi
 <lb/>nous nous mettons à Vos pieds chère Maman en Vous baisant les mains.
-<lb/>
+            </p>
+            </div>
+            <div type="letter" n="02">
+            <p>
 <lb/>Mardi, le 29 janvier/ 10 février.
 <lb/>
 <lb/>Chère Maman, la poste d’hier soir m’a mise en possession de Votre chère
 <lb/>lettre du 1/13, 2/14 et 3/15 janvier, No. 1, pour laquelle je Vous baise mille fois les
 <lb/>mains, ayant été vivement touchée de tout ce que Vous avez eu la bonté de
 <lb/>
+            <pb facs="02"/>
 <lb/>fol. 27v
 <lb/>me dire au sujet du renouvellement de l’année, et qui doit me porter bonheur,
 <lb/>j’en ai la conviction. La description de la manière dont le jour de l’An a
@@ -162,7 +170,10 @@
 <lb/>quelqu’occasion plus solide, et n’en ai rien appris depuis sa dernière lettre.
 <lb/>Notre tems se soutient et je promène pieusement à pied, me portant fort
 <lb/>joliment. Je Vous baise les mains de tout mon coeur en me mettant à Vos pieds.
-<lb/>
+            </p>
+            </div>
+            <div type="letter" n="03">
+            <p>
 <lb/>Mécredi matin, le 30 janvier/ 11 février.
 <lb/>
 <lb/>Chère et bonne Maman, notre soirée d’hier s’est passée avec quelques personnes
@@ -175,6 +186,7 @@
 <lb/>Maman, j’embrasse la famille et notre chère c[om]t[e]sse, que je suis charmée
 <lb/>de savoir contente de mes bonnets, et suis éternellement chère Maman, avec le
 <lb/>
+            <pb facs="03"/>
 <lb/>fol. 28r
 <lb/>plus respectueux dévouement,
 <lb/>
@@ -182,6 +194,7 @@
 <lb/>la plus soumise et obéissante
 <lb/>fille, Marie.
             </p>
+            </div>
         </body>
     </text>
 </TEI>
