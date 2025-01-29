@@ -125,6 +125,7 @@
     </teiHeader>
     <text>
         <body>
+            <div type="letter">
             <p>
                 <lb/>No. 293 [1818 Feb. 12]
 <lb/>fol. 29r
@@ -150,6 +151,7 @@
 <lb/>la plus soumise et obéissante
 <lb/>fille, Marie.
             </p>
+            </div>
         </body>
     </text>
 </TEI>
