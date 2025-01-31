@@ -3026,6 +3026,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0061.xml?place_annotation_20250131224421168",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-31T21:44:21.168Z",
+	"dcterms:modified": "2025-01-31T21:44:21.168Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/IIwanov",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Iwan Iwanov"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0061.xml?place_annotation_20250131224421168#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0061.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0061.xml?place_annotation_20250131224421168#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[2]/p/placeName[5]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "https://d-nb.info/gnd/4018145-5",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
             <editorialDecl>
                 <p>
@@ -3130,7 +3209,7 @@
 <lb/><persName key="Wilhelm II., Niederlande, König" ref="https://d-nb.info/gnd/100718337">Guilleaume</persName> s’étoit entièrement rapproché de Mr. de Goltz, et lui avoit rendu justice; en effet,
 <lb/>il n’étoit dans tout cela que l’instrument des volontés du <persName key="Wilhelm I., Niederlande, König" ref="https://d-nb.info/gnd/119312700">roi</persName>, et il paroit que <persName key="Wilhelm II., Niederlande, König" ref="https://d-nb.info/gnd/100718337">Guilleaume</persName>
 <lb/>assez imprudement avoit promis ce qu’il n’étoit pas en état d’obtenir du <persName key="Wilhelm I., Niederlande, König" ref="https://d-nb.info/gnd/119312700">père</persName>: d’ailleurs
-<lb/>les officiers [Einschub: en question] avoient la plupart servi la France encore à l’époque de la bataille de
+<lb/>les officiers [Einschub: en question] avoient la plupart servi <placeName key="Frankreich" ref="https://d-nb.info/gnd/4018145-5">la France</placeName> encore à l’époque de la bataille de
 <lb/>Waterloo, au moins voilà ce qui se conte à ce sujet. J’en viens à nous actuellement
 <lb/>chère Maman, et je me féliciterois tout de bon si en Vous exposant la vérité sur
 <lb/>ce qui s’est passé à la Wartbourg cette automne et depuis, j’avois réussi à fixer Votre
