@@ -322,7 +322,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0054.xml?person_annotation_20250131153719523#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[3]/p/persName[3]"
+			"rdf:value": "TEI/text/body/div[3]/p/persName[4]"
 		}
 	},
 	"oa:hasBody": {
@@ -1286,7 +1286,7 @@
 <lb/>santé me fait grand plaisir. Nous avons un tems superbe, et je reviens
 <lb/>d’une promenade à pied, qui n’a pas été longue, ménageant mes forces pour ce
 <lb/>qui m’attend demain, <persName key="Barjatinskij, Ivan Ivanovič, Fürst" ref="https://d-nb.info/gnd/1331553482">les Barätinsky</persName> sont déja ici, ce qui me fait toujours
-<lb/>plaisir, la pr[ince]sse a beaucoup embelli depuis qu’elle nourrit l’enfant dont elle
+<lb/>plaisir, <persName>la pr[ince]sse</persName> a beaucoup embelli depuis qu’elle nourrit l’enfant dont elle
 <lb/>est accouchée cet été, de sorte qu’elle est vraiment belle personne actuellement,
 <lb/>avec cela toujours son air modeste et distingué. Le prince et moi chère
 <lb/>Maman de même que nos enfans se mettent à Vos pieds, j’embrasse
