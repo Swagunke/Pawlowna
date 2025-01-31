@@ -126,8 +126,12 @@
     <text>
         <body>
             <p>
+            <pb facs="01"/>
                 <lb/>No. 301 [1818 Feb. 27-28]
 <lb/>fol. 39r
+            </p>
+            <div type="letter" n="01">
+            <p>
 <lb/>Weymar. Ce jeudi, 15/27 février 1818.
 <lb/>
 <lb/>Ma bonne et chère Maman!
@@ -153,7 +157,12 @@
 <lb/>pour mes enfans et pour moi, et j’ose Vous en offrir l’hommage d’une reconnoissance
 <lb/>aussi vive que sincère, en Vous baisant les mains en idée, de tout mon coeur.
 <lb/>
+            <pb facs="02"/>
 <lb/>fol. 39v
+            </p>
+            </div>
+            <div type="letter" n="02">
+            <p>
 <lb/>Samedi, à 10 heures du soir, le 16/28 février.
 <lb/>
 <lb/>Dans ce moment chère et bonne Maman, le feldjäger Friedberg (le même qui
@@ -181,6 +190,7 @@
 <lb/>peines [Einschub: où ses avis diffèrent toujours de ceux du père], et où jusqu’ici il n’avoit pu par la défiance que l’on lui montroit, rendre le moindre
 <lb/>service: d’un autre coté puisqu’il est rentré dans la carrière des armes, à la grande satisfaction
 <lb/>
+            <pb facs="03"/>
 <lb/>fol. 40r
 <lb/>des uns et des autres, au moins y est-il d’une manière plus digne d’un homme de bien,
 <lb/>puisqu’on met à sa charge la juste responsabilité qui doit accompagner tout emploi,
@@ -209,6 +219,7 @@
 <lb/>de GrDuc pour réclamer son attention sur les abus qui naissèrent de cette licence; ils
 <lb/>ont dans un mémoire fort sagement conçu et rédigé et qui a été imprimé, exprimé
 <lb/>
+            <pb facs="04"/>
 <lb/>fol. 40v
 <lb/>leur opinion comme qui la liberté de la presse, qui naissoit de la liberté individuelle,
 <lb/>devoit aussi peu que cette dernière porter atteinte à la sûreté publique, et que si une
@@ -237,6 +248,7 @@
 <lb/>à celle de Francfort: l’on me dit que les dernières feuilles de Hambourg renferment mille et
 <lb/>un contes sur ici, entr’autres que la Saxe avoit demandé la suppression de la liberté de la presse,
 <lb/>
+            <pb facs="05"/>
 <lb/>fol. 41r
 <lb/>chose entièrement controuvée: les cours qui se plaintes ici sont celles de Prusse, de France, d’Autriche
 <lb/>et de Dannemarck, et cela il y a déja plusieurs mois. Voilà à peu près tout ce qui pourroit
@@ -268,6 +280,7 @@
 <lb/>la plus soumise et obéissante
 <lb/>fille, Marie.
             </p>
+            </div>
         </body>
     </text>
 </TEI>
