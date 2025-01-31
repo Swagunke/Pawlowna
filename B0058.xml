@@ -402,7 +402,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0058.xml?person_annotation_20250131182914227#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p/persName[6]"
+			"rdf:value": "TEI/text/body/div[2]/p/persName[7]"
 		}
 	},
 	"oa:hasBody": {
@@ -1833,7 +1833,7 @@
 <lb/><persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">les enfans</persName> se portent à merveilles, et <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">Marie</persName> m’a encore chargée ce matin
 <lb/>sachant que je Vous écrivois, de Vous présenter ses respects, chère Maman.
 <lb/>J’embrasse frères, soeurs, et <persName key="Lieven, Charlotte Karlowna de" ref="https://d-nb.info/gnd/115603972">notre c[om]t[e]sse</persName>, et Vous baise mille fois les mains,
-<lb/>ainsi que le prince, étant à jamais avec le plus éternel et respectueux
+<lb/>ainsi que <persName>le prince</persName>, étant à jamais avec le plus éternel et respectueux
 <lb/>attachement, de ma bonne et chère Maman,
 <lb/>
 <lb/>la plus soumise
