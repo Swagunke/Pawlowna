@@ -126,8 +126,12 @@
     <text>
         <body>
             <p>
+            <pb facs="01"/>
                 <lb/>No. 294 [1818 Feb. 13-15]
 <lb/>fol. 30r
+            </p>
+            <div type="letter" n="01">
+            <p>
 <lb/>Weymar. Ce vendredi, 1/13 février 1818.
 <lb/>
 <lb/>Ma bonne et chère Maman!
@@ -145,13 +149,17 @@
 <lb/>de nouvelles que jusqu’ici, et ne sais rien au monde à Vous conter; j’ai passé ma
 <lb/>soirée très tranquilement chez soi avec la Berg, le prince étoit sorti, je ne sais
 <lb/>rien de rien. Je me mets à Vos pieds en Vous baisant les mains de tout mon coeur.
-<lb/>
+            </p>
+            </div>
+            <div type="letter" n="02">
+            <p>
 <lb/>Samedi, le 2/14 février.
 <lb/>
 <lb/>Chère Maman, j’ai été ce soir au spectacle où je n’avois mis les pieds de
 <lb/>toute la semaine, et je me suis plue à la représentation de Giséla, pièce de Kotzeboue,
 <lb/>je n’ose pas dire que ce soit là une bonne pièce, mais elle a beaucoup d’intéret de situation.
 <lb/>
+            <pb facs="02"/>
 <lb/>fol. 30v
 <lb/>J’ai reçu en rentrant chez moi une lettre de ma soeur Anne; elle est plus contente
 <lb/>de sa santé, mais du reste elle ne voit pas rose, et l’avenir ne lui rit pas: je la
@@ -162,7 +170,10 @@
 <lb/>demain ici, c’est une aimable attention de sa part. Je desire de tout mon coeur
 <lb/>qu’il soit aussi bien disposé que lors de son dernier séjour. Je Vous baise les mains 
 <lb/>chère Maman.
-<lb/>
+            </p>
+            </div>
+            <div type="letter" n="03">
+            <p>
 <lb/>Dimanche, le 3/15 février.
 <lb/>
 <lb/>Permettez-moi chère Maman d’avoir le bonheur de Vous offrir mes félicitations
@@ -181,6 +192,7 @@
 <lb/>la plus soumise et dévouée
 <lb/>fille, Marie.
             </p>
+            </div>
         </body>
     </text>
 </TEI>
