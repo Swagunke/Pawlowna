@@ -402,7 +402,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0061.xml?person_annotation_20250131222234064#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p/persName[30]"
+			"rdf:value": "TEI/text/body/div[2]/p/persName[31]"
 		}
 	},
 	"oa:hasBody": {
@@ -4053,6 +4053,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0061.xml?person_annotation_20250131225606534",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-31T21:56:06.534Z",
+	"dcterms:modified": "2025-01-31T21:56:06.534Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/IIwanov",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Iwan Iwanov"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0061.xml?person_annotation_20250131225606534#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0061.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0061.xml?person_annotation_20250131225606534#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[2]/p/persName[30]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://d-nb.info/gnd/11856014X",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
             <editorialDecl>
                 <p>
@@ -4173,7 +4252,7 @@
 <lb/>leur opinion comme qui la liberté de la presse<seg type="keyword"><term>Pressefreiheit</term></seg>, qui naissoit de la liberté individuelle,
 <lb/>devoit aussi peu que cette dernière porter atteinte à la sûreté publique<seg type="keyword"><term>öffentliche Sicherheit</term></seg>, et que si une
 <lb/>nouvelle loi à cet égard devoit être portée à la connoissance des états<seg type="keyword"><term>Versammlung der Landstände</term></seg> à leur prochaine
-<lb/>réunion, ils prioient en attendant le GrDuc de ne pas souffrir que provisoirement et
+<lb/>réunion, ils prioient en attendant <persName key="Karl August, Sachsen-Weimar-Eisenach, Großherzog" ref="https://d-nb.info/gnd/11856014X">le GrDuc</persName> de ne pas souffrir que provisoirement et
 <lb/>jusqu’à cette réunion le désordre s’augmentât par le manque de réglemens temporaires.
 <lb/>Cette belle et noble conduite a fortement touché mon coeur, et Vous concevez chère
 <lb/>Maman de quel prix sont des dispositions pareilles, qui n’on en vue que le bien
