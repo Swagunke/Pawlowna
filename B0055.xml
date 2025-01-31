@@ -481,7 +481,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0055.xml?person_annotation_20250131164253696#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[3]/p/persName[2]"
+			"rdf:value": "TEI/text/body/div[3]/p/persName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -1299,8 +1299,9 @@
 <lb/>
             <pb facs="03"/>
 <lb/>fol. 32r
-<lb/>sur ce sujet si intéressant pour moi, et que je ne puis traiter aujourd’huy. Le
-<lb/>prince se met à Vos pieds chère Maman; je m’apperçois qu’il se cer---
+<lb/>sur ce sujet si intéressant pour moi, et que je ne puis traiter aujourd’huy. <persName>Le
+<lb/>
+prince</persName> se met à Vos pieds chère Maman; je m’apperçois qu’il se cer---
 <lb/>en russe, mais je ne fais semblant de rien, et ne Vous en parle que pour Vous
 <lb/>dire combien je suis sensible à ses procédés et à son amitié. J’embrasse
 <lb/>la famille et notre chère c[om]t[e]sse, et lui enverrai les vers que j’ai reçus qui
