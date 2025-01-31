@@ -323,7 +323,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0056.xml?person_annotation_20250131173435152#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/persName[3]"
+			"rdf:value": "TEI/text/body/div/p/persName[6]"
 		}
 	},
 	"oa:hasBody": {
@@ -772,8 +772,8 @@
 <lb/>décorée et éclairée, et remplie d’une foule de personnes toutes en masques. Peu d’instans
 <lb/>après notre entrée, les quadrilles ont commencé à défiler, et le premier qui s’est offert
 <lb/>à mes yeux étoit celui de Xénie et <persName key="Dmitri, Moskau, Großfürst" ref="https://d-nb.info/gnd/118677721">Dmitri Donskoy<seg type="keyword"><term>Lektüre: Literarische Werke/ Sachbücher</term></seg></persName>, formé par tous <placeName key="Russland" ref="https://d-nb.info/gnd/4076899-5">les Russes</placeName> qui
-<lb/>se trouvent ici, et le prince y jouoit son rôle, de sorte que j’ai été toute charmée
-<lb/>de cette représentation: la pr[ince]sse Mestschersky représentoit Xénie, la pr[ince]sse Barätinsky l’accompagnoit,
+<lb/>se trouvent ici, et <persName>le prince</persName> y jouoit son rôle, de sorte que j’ai été toute charmée
+<lb/>de cette représentation: <persName>la pr[ince]sse Mestschersky</persName> représentoit Xénie, <persName>la pr[ince]sse Barätinsky</persName> l’accompagnoit,
 <lb/>et leurs habils étoient superbes, et me faisoient du bien à voir. Venoient ensuite
 <lb/>les quadrilles tirés de toutes les pièces de Göthe, qui formoient un ensemble charmant,
 <lb/>ensuite venoient des représentations emblématiques du passé, du présent, et de
