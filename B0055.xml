@@ -103,7 +103,86 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><encodingDesc>
+        <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0055.xml?place_annotation_20250131164059951",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-31T15:40:59.951Z",
+	"dcterms:modified": "2025-01-31T15:40:59.951Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/IIwanov",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Iwan Iwanov"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0055.xml?place_annotation_20250131164059951#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0055.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0055.xml?place_annotation_20250131164059951#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "https://d-nb.info/gnd/4065105-8",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      </rdf:RDF></xenoData><encodingDesc>
             <editorialDecl>
                 <p>
                     
@@ -126,9 +205,13 @@
     <text>
         <body>
             <p>
+            <pb facs="01"/>
                 <lb/>No. 295 [1818 Feb. 16-18]
 <lb/>fol. 31r
-<lb/>Weymar. Lundi, 4/16 février 1818.
+            </p>
+            <div type="letter" n="01">
+            <p>
+<lb/><placeName key="Weimar" ref="https://d-nb.info/gnd/4065105-8">Weymar</placeName>. Lundi, 4/16 février 1818.
 <lb/>
 <lb/>Ma bonne et chère Maman!
 <lb/>
@@ -139,7 +222,10 @@
 <lb/>touchée: j’ai bien du monde à recevoir ce matin chère Maman, et même le Duc
 <lb/>de Gotha arrive me dit-on, ce qui est une politesse bien grande: je Vous baise donc les mains
 <lb/>tout(!) mon coeur, et reprendrai tantôt si je le peux, ces lignes.
-<lb/>
+            </p>
+            </div>
+            <div type="letter" n="02">
+            <p>
 <lb/>Mardi matin, 5/17 février.
 <lb/>
 <lb/>La journée d’hier chère Maman, où je n’ai pu ressaisir la plume, a
@@ -153,6 +239,7 @@
 <lb/>salle de bal, moi qui ne me doutois de rien, j’entendis en y entrant une fanfare si
 <lb/>violente de tymballes et trompètes que j’ai cru que les genoux me manqueroient, il
 <lb/>
+            <pb facs="02"/>
 <lb/>fol. 31v
 <lb/>me dit „ce n’est rien, ce n’est rien, c’est un tremblement de terre que j’ai voulu
 <lb/>Vous offrir“. Le bal a été charmant, et quoique ne me portant guères bien depuis
@@ -170,7 +257,10 @@
 <lb/>Vous baise les mains de tout mon coeur, chère Maman, en Vous suppliant de
 <lb/>dire à la bonne pr[ince]sse Prosorowsky que je réjouissois pour elle que son
 <lb/>bal eut si bien réussi: je suis fâchée seulement qu’elle ne m’ait pas invitée.
-<lb/>
+            </p>
+            </div>
+            <div type="letter" n="03">
+            <p>
 <lb/>Mécredi matin, 6/18 février.
 <lb/>
 <lb/>Chère Maman, je viens d’avoir été invitée de la part du club d’ici à
@@ -180,6 +270,7 @@
 <lb/>de justifier les espérances que je vois que l’on cherche si fort à nourrir, ce qui me
 <lb/>remplit de la plus profonde humilité quand j’en vois les marques; je reviendrai une autre fois
 <lb/>
+            <pb facs="03"/>
 <lb/>fol. 32r
 <lb/>sur ce sujet si intéressant pour moi, et que je ne puis traiter aujourd’huy. Le
 <lb/>prince se met à Vos pieds chère Maman; je m’apperçois qu’il se cer---
@@ -193,6 +284,7 @@
 <lb/>la plus soumise et obéissante 
 <lb/>fille, Marie.
             </p>
+            </div>
         </body>
     </text>
 </TEI>
