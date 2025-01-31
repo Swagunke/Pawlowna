@@ -846,85 +846,6 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0056.xml?correction_annotation_20250131175318465",
-	"type": "oa:Annotation",
-	"dcterms:created": "2025-01-31T16:53:18.465Z",
-	"dcterms:modified": "2025-01-31T16:53:18.465Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/IIwanov",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Iwan Iwanov"
-	},
-	"oa:motivatedBy": "oa:editing",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0056.xml?correction_annotation_20250131175318465#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0056.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0056.xml?correction_annotation_20250131175318465#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/persName[5]/corr"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "fabio:Correction",
-		"dc:format": "text/xml",
-		"rdf:value": "Unsichere Attribuierung"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0056.xml?keyword_annotation_20250131175402120",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-31T16:54:02.120Z",
@@ -1404,8 +1325,8 @@
 <lb/>décorée et éclairée, et remplie d’une foule de personnes toutes en masques. Peu d’instans
 <lb/>après notre entrée, les quadrilles ont commencé à défiler, et le premier qui s’est offert
 <lb/>à mes yeux étoit celui de Xénie et <persName key="Dmitri, Moskau, Großfürst" ref="https://d-nb.info/gnd/118677721">Dmitri Donskoy<seg type="keyword"><term>Lektüre: Literarische Werke/ Sachbücher</term></seg></persName>, formé par tous <placeName key="Russland" ref="https://d-nb.info/gnd/4076899-5">les Russes</placeName> qui
-<lb/>se trouvent ici, et <persName>le prince</persName> y jouoit son rôle, de sorte que j’ai été toute charmée
-<lb/>de cette représentation: <persName>la pr[ince]sse Mestschersky</persName> représentoit Xénie, <persName>la pr[ince]sse Barätinsky<corr/></persName> l’accompagnoit,
+<lb/>se trouvent ici, et <persName ref="P_0012">le prince</persName> y jouoit son rôle, de sorte que j’ai été toute charmée
+<lb/>de cette représentation: <persName ref="P_0125">la pr[ince]sse Mestschersky</persName> représentoit Xénie, <persName ref="P_0120">la pr[ince]sse Barätinsky</persName><corr/> l’accompagnoit,
 <lb/>et leurs habils étoient superbes, et me faisoient du bien à voir. Venoient ensuite
 <lb/>les quadrilles tirés de toutes les pièces de <persName key="Goethe, Johann Wolfgang" ref="https://d-nb.info/gnd/121488624">Göthe</persName>, qui formoient un ensemble charmant,
 <lb/>ensuite venoient des représentations emblématiques du passé, du présent, et de
@@ -1423,10 +1344,10 @@
 <lb/>été impossible de n’en pas aprécier l’intention et le motif. La soirée étoit fort
 <lb/>gaye, l’on a beaucoup dansé, et pour une réunion de passé 500 personnes, il ne faisoit
 <lb/>pas aussi chaud que je l’avois craint, de sorte que je n’ai eu aucune angoisse;
-<lb/><persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">les petites</persName> ont assisté pendant une heure à ce bal, et ont été charmées de le pouvoir
+<lb/><persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721"><persName key="Augusta, Deutsches Reich, Kaiserin" ref="https://d-nb.info/gnd/118651102">les petites</persName></persName> ont assisté pendant une heure à ce bal, et ont été charmées de le pouvoir
 <lb/>faire: <persName key="Karl August, Sachsen-Weimar-Eisenach, Großherzog" ref="https://d-nb.info/gnd/11856014X">leur grand-père</persName> s’est emparé d’elles, les a prises dans sa voiture toutes
 <lb/>seules avec lui, et les a introduites dans la salle, ce qui a fait événement.
-<lb/><persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">Elles</persName> se mettent à Vos pieds chère Maman, item <persName>le prince</persName> et ma personne;
+<lb/><persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721"><persName key="Augusta, Deutsches Reich, Kaiserin" ref="https://d-nb.info/gnd/118651102">Elles</persName></persName> se mettent à Vos pieds chère Maman, item <persName ref="P_0012">le prince</persName> et ma personne;
 <lb/>j’embrasse frères, soeurs et <persName key="Lieven, Charlotte Karlowna de" ref="https://d-nb.info/gnd/115603972">la c[om]t[e]sse</persName>, et Vous baise les mains mille et mille
 <lb/>fois chère Maman, étant à jamais avec le plus respectueux
 <lb/>dévouement,
