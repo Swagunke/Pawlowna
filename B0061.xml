@@ -402,7 +402,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0061.xml?person_annotation_20250131222234064#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p/persName[27]"
+			"rdf:value": "TEI/text/body/div[2]/p/persName[28]"
 		}
 	},
 	"oa:hasBody": {
@@ -3500,6 +3500,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0061.xml?person_annotation_20250131225106332",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-31T21:51:06.332Z",
+	"dcterms:modified": "2025-01-31T21:51:06.332Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/IIwanov",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Iwan Iwanov"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0061.xml?person_annotation_20250131225106332#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0061.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0061.xml?person_annotation_20250131225106332#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[2]/p/persName[27]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://d-nb.info/gnd/13918631X",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
             <editorialDecl>
                 <p>
@@ -3609,7 +3688,7 @@
 <lb/>chère Maman, et je me féliciterois tout de bon si en Vous exposant la vérité sur
 <lb/>ce qui s’est passé à la Wartbourg<seg type="keyword"><term>Wartburgfest</term></seg> cette automne et depuis, j’avois réussi à fixer Votre
 <lb/>opinion à ce sujet. Les désordres des écrivailleurs<seg type="keyword"><term>Publizisten</term></seg>, et leurs véritables provocations ont
-<lb/>causé tant de désagrémens et d’affaires au GrDuc que les états<seg type="keyword"><term>Versammlung der Landstände</term></seg>, dont le maréchal
+<lb/>causé tant de désagrémens et d’affaires au GrDuc que les états<seg type="keyword"><term>Versammlung der Landstände</term></seg>, dont <persName key="Riedesel, Georg" ref="https://d-nb.info/gnd/13918631X">le maréchal</persName>
 <lb/>ainsi que 2 membres [Einschub: sous le nom de Vorstand], se comptent toujours comme présens sur les lieux [Einschub: pour soigner les affaires de leur ressort], tandis que
 <lb/>les autres membres sont absens, ont regardé comme leur devoir d’intervenir vis-à-vis
 <lb/>de GrDuc pour réclamer son attention sur les abus qui naissèrent de cette licence; ils
