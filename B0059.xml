@@ -126,8 +126,12 @@
     <text>
         <body>
             <p>
+            <pb facs="01"/>
                 <lb/>No. 299 [1818 Feb. 23-25]
 <lb/>fol. 37r
+            </p>
+            <div type="letter" n="01">
+            <p>
 <lb/>Weymar. Ce lundi, 11/23 février 1818.
 <lb/>
 <lb/>Ma bonne et chère Maman!
@@ -151,6 +155,7 @@
 <lb/>j’aurai(!) bien quelque plaisir à Vous revoir? m’a fait battre le coeur d’une
 <lb/>étrange façon, en me confirmant tout ce qui se dit à ce sujet, et dont jusqu’ici chère
 <lb/>
+            <pb facs="02"/>
 <lb/>fol. 37v
 <lb/>Maman Vous n’aviez pas encore parlé, de sorte que c’étoit me fermer la bouche,
 <lb/>c’est me montrer en perspective l’une des plus grandes félicités dont je puisse jouir, et
@@ -160,7 +165,10 @@
 <lb/>mes enfans, j’avois besoin de repos et de calme, quoique je me porte fort bien,
 <lb/>mais je dois éviter l’échauffement. Je Vous baise les mains de tout mon coeur
 <lb/>chère Maman, en me mettant à Vos pieds.
-<lb/>
+            </p>
+            </div>
+            <div type="letter" n="02">
+            <p>
 <lb/>Mardi, le 12/24 février.
 <lb/>
 <lb/>Chère Maman, la poste d’hier ne m’a pas apporté de Vos chères lettres,
@@ -175,7 +183,12 @@
 <lb/>Il dinne souvent chez elles, et les instruit toujours, de sorte qu’elles le chérissent:
 <lb/>je Vous baise les mains chère Maman, en me mettant à Vos pieds.
 <lb/>
+            <pb facs="03"/>
 <lb/>fol. 38r
+            </p>
+            </div>
+            <div type="letter" n="03">
+            <p>
 <lb/>Mécredi, le 13/25 février.
 <lb/>
 <lb/>Chère Maman, les quadrilles d’hier soir ne perdoient rien à
@@ -193,6 +206,7 @@
 <lb/>la plus dévouée et obéissante
 <lb/>fille, Marie.
             </p>
+            </div>
         </body>
     </text>
 </TEI>
