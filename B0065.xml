@@ -129,6 +129,9 @@
             <pb facs="01"/>
                 <lb/>No. 305 [1818 März 6-8]
 <lb/>fol. 48r
+            </p>
+            <div type="letter" n="01">
+            <p>
 <lb/>Weymar. Vendredi, 22 février/ 6 mars 1818.
 <lb/>
 <lb/>Ma bonne et chère Maman!
@@ -146,7 +149,10 @@
 <lb/>Il conserve une grande tendresse dans son coeur pour ma fille Auguste: je suis
 <lb/>curieuse de voir comment elle lui plaira à présent. Je me mets de tout mon
 <lb/>coeur à Vos pieds ma bonne et chère Maman, et Vous baise les mains.
-<lb/>
+            </p>
+            </div>
+            <div type="letter" n="02">
+            <p>
 <lb/>Samedi, 23 février/ 7 mars.
 <lb/>
 <lb/>Chère Maman! J’ai été réjouie ce matin par une lettre de Constantin,
@@ -167,7 +173,10 @@
 <lb/>les troupes. Je suis au moins fort aise qu’il n’y ait pas eu de nouveaux mésentendus.
 <lb/>De ma soeur, je n’ai rien eu. Mes enfans se mettent à Vos pieds chère
 <lb/>Maman, et je Vous baise les mains de coeur et d’âme.
-<lb/>
+            </p>
+            </div>
+            <div type="letter" n="03">
+            <p>
 <lb/>Dimanche, le 24 février/ 8 mars.
 <lb/>
 <lb/>Chère Maman, de par la faculté, je dois sortir en voiture, puis descendre
@@ -182,6 +191,7 @@
 <lb/>la plus soumise et 
 <lb/>obéissante fille, Marie.
             </p>
+            </div>
         </body>
     </text>
 </TEI>
