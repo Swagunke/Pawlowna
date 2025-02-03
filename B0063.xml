@@ -129,6 +129,9 @@
             <pb facs="01"/>
                 <lb/>No. 303 [1818 März 2-4]
 <lb/>fol. 43r
+            </p>
+            <div type="letter" n="01">
+            <p>
 <lb/>Weymar. Ce lundi, 18 février/ 2 mars 1818.
 <lb/>
 <lb/>Ma bonne et chère Maman!
@@ -191,6 +194,7 @@
 <lb/>la plus soumise et dévouée
 <lb/>fille, Marie.
             </p>
+            </div>
         </body>
     </text>
 </TEI>
