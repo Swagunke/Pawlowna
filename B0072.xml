@@ -323,7 +323,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0072.xml?person_annotation_20250203220239078#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/persName[2]"
+			"rdf:value": "TEI/text/body/div/p/persName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -531,7 +531,7 @@
 <lb/>
 <lb/>Je reviens de <placeName key="Russisch-orthodoxe Kapelle (Weimar)" ref="https://d-nb.info/gnd/7544255-3">l’église</placeName>, et m’empresse de déposer à Vos pieds mes hommages, heureuse
 <lb/>que je suis comme on l’est et le doit être après avoir accompli l’acte sacré que je viens
-<lb/>de terminer, et dont je remercie Dieu; le prince a communié de son coté avec sa
+<lb/>de terminer, et dont je remercie Dieu; <persName>le prince</persName> a communié de son coté avec sa
 <lb/>mère, et se met également à Vos pieds chère Maman: le tems est bien mauvais
 <lb/>et bien humide, et ne me laisse aucun regret de rester chez moi; d’ailleurs allant
 <lb/>journellement deux fois à <placeName key="Russisch-orthodoxe Kapelle (Weimar)" ref="https://d-nb.info/gnd/7544255-3">l’église</placeName>, c’est déja de l’exercice. Puisse l’enfant que
