@@ -767,10 +767,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0066.xml?person_annotation_20250203160420177",
+	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0066.xml?person_annotation_20250203160525332",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-02-03T15:04:20.177Z",
-	"dcterms:modified": "2025-02-03T15:04:20.177Z",
+	"dcterms:created": "2025-02-03T15:05:25.332Z",
+	"dcterms:modified": "2025-02-03T15:05:25.332Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -781,7 +781,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0066.xml?person_annotation_20250203160420177#Target",
+		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0066.xml?person_annotation_20250203160525332#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0066.xml",
@@ -795,14 +795,14 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0066.xml?person_annotation_20250203160420177#Selector",
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0066.xml?person_annotation_20250203160525332#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[3]/p/persName[3]"
 		}
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q1088626",
+		"@id": "https://d-nb.info/gnd/123774721",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -926,7 +926,7 @@
 <lb/>allées couvertes du parc, mais l’air étoit bien désagréable, enfin me voici sur
 <lb/>le point de devoir faire ma toilette, et je n’ai plus que le tems de me mettre à
 <lb/>Vos pieds chère Maman, en Vous baisant mille fois les mains, autant en fait(!)
-<lb/><persName>le pr[ince]</persName> et les petites<persName key="Les Petites-Armoises" ref="http://www.wikidata.org/entity/Q1088626"></persName> j’embrasse frères, soeurs et notre chère c[om]t[e]sse, et suis avec
+<lb/><persName>le pr[ince]</persName> et <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">les petites</persName>; j’embrasse frères, soeurs et notre chère c[om]t[e]sse, et suis avec
 <lb/>le plus éternel dévouement,
 <lb/>
 <lb/>de ma bonne et chère Maman,
