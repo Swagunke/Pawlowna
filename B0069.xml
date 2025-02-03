@@ -125,11 +125,13 @@
     </teiHeader>
     <text>
         <body>
-            <div>
             <p>
             <pb facs="01"/>
                 <lb/>No. 309 [1818 März 16-18]
 <lb/>fol. 54r
+            </p>
+            <div type="letter" n="01">
+            <p>
 <lb/>Weymar. Lundi, 4/16 mars 1818.
 <lb/>
 <lb/>Ma bonne et chère Maman!
@@ -143,7 +145,10 @@
 <lb/>et entre ces jours-ci dans mon 7me mois, ce que je sens au poids que je porte,
 <lb/>et dont j’ai réellement perdu l’habitude. Je Vous baise les mains de tout mon
 <lb/>coeur, chère et bonne Maman, en me mettant à Vos pieds.
-<lb/>
+            </p>
+            </div>
+            <div type="letter" n="02">
+            <p>
 <lb/>Mardi, le 5/17 mars.
 <lb/>
 <lb/>Chère Maman, voici une lettre de Kourakin que je viens de recevoir
@@ -158,7 +163,10 @@
 <lb/>à Dieu passée en retraite, ce qui est un grand avantage: je vois moins les enfans
 <lb/>étant longtems à mon église, mais ils vont bien et ne perdent pas leur tems.
 <lb/>Ils se mettent à Vos pieds chère Maman, moi de même et cela de tout coeur.
-<lb/>
+            </p>
+            </div>
+            <div type="letter" n="03">
+            <p>
 <lb/>Mécredi, le 6/18 mars.
 <lb/>
 <lb/>Chère et bonne Maman, j’aurais le bonheur de Vous écrire tantôt
