@@ -129,6 +129,9 @@
             <pb facs="01"/>
                 <lb/>No. 308 [1818 März 13-15]
 <lb/>fol. 52r
+            </p>
+            <div type="letter" n="01">
+            <p>
 <lb/>Weymar. Le vendredi, 1/13 mars 1818.
 <lb/>
 <lb/>Ma bonne et chère Maman!
@@ -158,7 +161,10 @@
 <lb/>grand goût pour la musique: cependant la voix de Marie promet de devenir jolie.
 <lb/>Elle se mettent avec moi à Vos pieds chère Maman, et je Vous baise les mains de
 <lb/>tout mon coeur.
-<lb/>
+            </p>
+            </div>
+            <div type="letter" n="02">
+            <p>
 <lb/>Samedi des rameaux ici, le 2/14 mars.
 <lb/>
 <lb/>Chère Maman, pour aujourd’huy le tems fait mine de se mettre sérieusement
@@ -175,7 +181,10 @@
 <lb/>Moscou que notre chère c[om]t[e]sse m’a envoyé, me fait le plus grand plaisir, et je l’en
 <lb/>remercie encore de tout mon coeur, bientôt je connoitrai Moscou à fond. Je Vous
 <lb/>baise les mains mille fois chère Maman.
-<lb/>
+            </p>
+            </div>
+            <div type="letter" n="02">
+            <p>
 <lb/>Dimanche des rameaux, le 3/15 mars.
 <lb/>
 <lb/>Chère Maman, le soleil luit sur notre horrizon(!), et ma joye en est grande; mes
@@ -194,6 +203,7 @@
 <lb/>la plus soumise et 
 <lb/>dévouée fille, Marie.
             </p>
+            </div>
         </body>
     </text>
 </TEI>
