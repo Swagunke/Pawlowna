@@ -296,7 +296,6 @@
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0070.xml?person_annotation_20250203214225604",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-02-03T20:42:25.604Z",
-	"dcterms:modified": "2025-02-03T20:42:25.604Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -323,7 +322,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0070.xml?person_annotation_20250203214225604#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/persName[11]"
+			"rdf:value": "TEI/text/body/div/p/persName[12]"
 		}
 	},
 	"oa:hasBody": {
@@ -1007,7 +1006,6 @@
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0070.xml?person_annotation_20250203214640362",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-02-03T20:46:40.362Z",
-	"dcterms:modified": "2025-02-03T20:46:40.362Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -1034,12 +1032,91 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0070.xml?person_annotation_20250203214640362#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/persName[10]"
+			"rdf:value": "TEI/text/body/div/p/persName[11]"
 		}
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
 		"@id": "https://d-nb.info/gnd/115603972",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0070.xml?person_annotation_20250203214841510",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-02-03T20:48:41.510Z",
+	"dcterms:modified": "2025-02-03T20:48:41.510Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/IIwanov",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Iwan Iwanov"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0070.xml?person_annotation_20250203214841510#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0070.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0070.xml?person_annotation_20250203214841510#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/persName[10]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://d-nb.info/gnd/119092085",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1101,7 +1178,7 @@
 <lb/>
             <pb facs="02"/>
 <lb/>fol. 55v
-<lb/>embrasse <persName key="Nikolaj I., Russland, Zar" ref="https://d-nb.info/gnd/118588079">Nicolas</persName>, <persName key="Elisabeth, Russland, Zarin" ref="https://d-nb.info/gnd/118529919">l’Imp[ératrice]</persName> et Alexandrine, ainsi que <persName key="Lieven, Charlotte Karlowna de" ref="https://d-nb.info/gnd/115603972">notre chère c[om]t[e]sse</persName>
+<lb/>embrasse <persName key="Nikolaj I., Russland, Zar" ref="https://d-nb.info/gnd/118588079">Nicolas</persName>, <persName key="Elisabeth, Russland, Zarin" ref="https://d-nb.info/gnd/118529919">l’Imp[ératrice]</persName> et <persName key="Alexandra, Russland, Zarin" ref="https://d-nb.info/gnd/119092085">Alexandrine</persName>, ainsi que <persName key="Lieven, Charlotte Karlowna de" ref="https://d-nb.info/gnd/115603972">notre chère c[om]t[e]sse</persName>
 <lb/>de tout mon coeur. Je Vous baise les mains mille et mille fois ma
 <lb/>bonne et chère Maman, en me recommandant à Vos bénédictions, et
 <lb/>suis à jamais avec le plus éternel et respectueux attachement,
