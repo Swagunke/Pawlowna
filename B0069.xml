@@ -125,7 +125,9 @@
     </teiHeader>
     <text>
         <body>
+            <div>
             <p>
+            <pb facs="01"/>
                 <lb/>No. 309 [1818 März 16-18]
 <lb/>fol. 54r
 <lb/>Weymar. Lundi, 4/16 mars 1818.
@@ -151,6 +153,7 @@
 <lb/>Je continue mes dévotions chère Maman, et compte communier après-demain
 <lb/>jeudi, jour où le prince communiera de son coté: cette semaine est grâces
 <lb/>
+            <pb facs="02"/>
 <lb/>fol. 54v
 <lb/>à Dieu passée en retraite, ce qui est un grand avantage: je vois moins les enfans
 <lb/>étant longtems à mon église, mais ils vont bien et ne perdent pas leur tems.
@@ -173,6 +176,7 @@
 <lb/>la plus soumise et obéissante
 <lb/>fille, Marie.
             </p>
+            </div>
         </body>
     </text>
 </TEI>
