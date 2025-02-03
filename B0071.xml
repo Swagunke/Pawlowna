@@ -724,7 +724,7 @@
 	"oa:hasBody": {
 		"@type": "fabio:UncontrolledVocabulary",
 		"dc:format": "text/xml",
-		"rdf:value": "#B_0070"
+		"rdf:value": "B_0070"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -856,8 +856,8 @@
 <lb/>qui nous rapproche de tout bien, et je prie Dieu de fortifier dans mon coeur tout ce
 <lb/>qui peut y conduire, j’en serai alors plus digne de Votre affection, de celle de ma
 <lb/>famille et de mes proches. J’embrasse frères, soeurs et <persName key="Lieven, Charlotte Karlowna de" ref="https://d-nb.info/gnd/115603972">notre chère c[om]t[e]sse</persName>; j’ai eu tantôt
-<lb/>le bonheur de Vous écrire par <persName key="Orlov, Grigorij Vladimirovič" ref="https://d-nb.info/gnd/121666298">le c[om]te Orloff<seg type="keyword"><term>#B_0070</term></seg></persName>, et suis obligée de m’arrêter ici: je me
-<lb/>mets à Vos pieds ainsi que <persName>le prince</persName> et <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">les enfans</persName>, et Vous supplie chère Maman
+<lb/>le bonheur de Vous écrire par <persName key="Orlov, Grigorij Vladimirovič" ref="https://d-nb.info/gnd/121666298">le c[om]te Orloff<seg type="keyword"><term>B_0070</term></seg></persName>, et suis obligée de m’arrêter ici: je me
+<lb/>mets à Vos pieds ainsi que <persName ref="P_0012">le prince</persName> et <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721"><persName key="Augusta, Deutsches Reich, Kaiserin" ref="https://d-nb.info/gnd/118651102">les enfans</persName></persName>, et Vous supplie chère Maman
 <lb/>de ne pas oublier celle qui est à jamais avec la plus vive reconnoissance pour
 <lb/>Vos bontés, comme avec le plus parfait dévouement,
 <lb/>
