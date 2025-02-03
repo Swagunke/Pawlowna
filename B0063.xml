@@ -656,6 +656,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0063.xml?keyword_annotation_20250203132215913",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-02-03T12:22:15.913Z",
+	"dcterms:modified": "2025-02-03T12:22:15.913Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/IIwanov",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Iwan Iwanov"
+	},
+	"oa:motivatedBy": "oa:tagging",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0063.xml?keyword_annotation_20250203132215913#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0063.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0063.xml?keyword_annotation_20250203132215913#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/seg"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "fabio:UncontrolledVocabulary",
+		"dc:format": "text/xml",
+		"rdf:value": "Mildtätigkeit"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
             <editorialDecl>
                 <p>
@@ -694,7 +773,7 @@
 <lb/>de ma reconnoissance, étant fort heureuse d’y avoir trouvée des détails d’un grand intéret
 <lb/>pour moi, entr’autres sur les occupations de notre chère <persName key="Aleksandr I., Russland, Zar" ref="https://d-nb.info/gnd/118501852">Emp[ereur]</persName> pendant son
 <lb/>séjour de <placeName key="Sankt Petersburg" ref="https://d-nb.info/gnd/4267026-3">Pétersbourg</placeName>, et j’ai été fort touchée de voir qu’il y a visité toutes les constitutions
-<lb/>et établissemens publics; je me réjouis en pensant au bonheur que Vous
+<lb/>et établissemens publics<seg type="keyword"><term>Mildtätigkeit</term></seg>; je me réjouis en pensant au bonheur que Vous
 <lb/>aurez eu à revoir cet honnête homme; le dinner chez Alexandrine et le plat
 <lb/>qu’elle avoit reçu de Berlin et dont Vous avez été si contente chère Maman,
 <lb/>m’a donné l’idée d’en mettre un pareil à Vos pieds par le premier courier,
