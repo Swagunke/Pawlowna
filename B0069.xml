@@ -1405,7 +1405,7 @@
 <lb/>l’année sans un saisissement inexplicable. Le tems est mauvais chère
 <lb/>Maman, je n’ai de ressource que dans la voiture, mais au reste <placeName key="Russisch-orthodoxe Kapelle (Weimar)" ref="https://d-nb.info/gnd/7544255-3">ma chapelle</placeName>
 <lb/>étant loin du <placeName key="Stadtschloss Weimar (Weimar)" ref="https://d-nb.info/gnd/4425544-5">château</placeName>, et y allant 2 fois par jour, c’est déja ce que les
-<lb/>médecins appellent Motion machen. Je me porte à tout prendre assez bien,
+<lb/>médecins appellent <hi rend="italic">Motion machen</hi>. Je me porte à tout prendre assez bien,
 <lb/>et entre ces jours-ci dans mon 7me mois, ce que je sens au poids que je porte,
 <lb/>et dont j’ai réellement perdu l’habitude. Je Vous baise les mains de tout mon
 <lb/>coeur, chère et bonne Maman, en me mettant à Vos pieds.
@@ -1420,11 +1420,11 @@
 <lb/>fin du mois de may, et je suis seulement fâchée de pouvoir aller si peu
 <lb/>contribuer à l’agrément de son séjour, mais il voudra bien être indulgent.
 <lb/>Je continue mes dévotions chère Maman, et compte communier après-demain
-<lb/>jeudi, jour où <persName>le prince</persName> communiera de son coté: cette semaine est grâces
+<lb/>jeudi, jour où <persName ref="P_0012">le prince</persName> communiera de son coté: cette semaine est grâces
 <lb/>
             <pb facs="02"/>
 <lb/>fol. 54v
-<lb/>à Dieu passée en retraite, ce qui est un grand avantage: je vois moins <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">les enfans</persName>
+<lb/>à Dieu passée en retraite, ce qui est un grand avantage: je vois moins <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721"><persName key="Augusta, Deutsches Reich, Kaiserin" ref="https://d-nb.info/gnd/118651102">les enfans</persName></persName>
 <lb/>étant longtems à <placeName key="Russisch-orthodoxe Kapelle (Weimar)" ref="https://d-nb.info/gnd/7544255-3">mon église</placeName>, mais ils vont bien et ne perdent pas leur tems.
 <lb/>Ils se mettent à Vos pieds chère Maman, moi de même et cela de tout coeur.
             </p>
@@ -1437,7 +1437,7 @@
 <lb/>par <persName key="Orlov, Grigorij Vladimirovič" ref="https://d-nb.info/gnd/121666298">le c[om]te Orloff</persName>, arrivé hier après-midi ici, et que j’ai eu plaisir à revoir
 <lb/>comme ancienne connoissance, mais n’ai-je pas dit chère Maman
 <lb/>que le passage ici ne discontinue pas? <persName key="Orlov, Grigorij Vladimirovič" ref="https://d-nb.info/gnd/121666298">Le c[om]te</persName> va d’abord à <placeName key="Warschau" ref="https://d-nb.info/gnd/4079048-4">Varsovie</placeName>
-<lb/>et de là à <placeName key="Moskau" ref="https://d-nb.info/gnd/4074987-3">Moscou</placeName>, ayant eu le malheur de perdre <persName>sa mère</persName>, <persName>sa femme</persName>
+<lb/>et de là à <placeName key="Moskau" ref="https://d-nb.info/gnd/4074987-3">Moscou</placeName>, ayant eu le malheur de perdre <persName ref="P_0135">sa mère</persName>, <persName ref="P_0136">sa femme</persName>
 <lb/>va mieux, et elle est restée à <placeName key="Neapel" ref="https://d-nb.info/gnd/4041476-0">Naples</placeName>. Je compte avoir le bonheur de
 <lb/>Vous écrire tantôt chère Maman avant ma confession, et me hâte de
 <lb/>faire partir ces lignes par la poste; j’embrasse frères et soeurs et <persName key="Lieven, Charlotte Karlowna de" ref="https://d-nb.info/gnd/115603972">notre
