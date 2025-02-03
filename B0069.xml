@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="null"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main"/>
+                <author>
+                    <persName ref="http://d-nb.info/gnd/">
+                        <surname>Sachsen-Weimar</surname>
+                        <forename>Maria</forename>
+                        <addName>Maria, Sachsen-Weimar, Großherzogin</addName>
+                    </persName>
+                </author>
+                <editor>
+                    <persName>
+                        <surname>Iwanov</surname>
+                        <forename>Iwan</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <orgName>
+                        Friedrich-Schiller-Universität Jena
+                    </orgName>
+                    
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeber</note>
+                        <persName>
+                            <!-- Heraugeberschaft klären -->
+                        </persName>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    ausgewählte Briefe
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName role="project">
+                        Friedrich-Schiller-Universität Jena
+                    </orgName>
+                    <orgName role="hostingInstitution" xml:lang="deu">Thüringer Universitäts- und Landesbibliothek Jena</orgName>
+                </publisher>
+                
+                <pubPlace>Jena</pubPlace>
+                <date type="publication">2025</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                        <p>Distributed under the Creative Commons License Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</p>
+                    </licence>
+                </availability>
+                <idno>
+                    <idno type="URLWeb"/>
+                    <idno type="URLXML"/>
+                    <idno type="URN"/>
+                </idno>
+            </publicationStmt>
+            
+            <sourceDesc>
+                <bibl type="MAN"> </bibl>
+                <biblFull>
+                    <titleStmt>
+                        <title level="m" type="main">Brief: 1818 März 16-18, Maria Pavlovna an Maria Fedorovna, Nr. 309</title>
+                        
+                    </titleStmt>
+                    <extent>
+                        <measure type="pages"><!-- Anzahl Seiten --></measure>
+                    </extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace>Weimar</pubPlace>
+                        <date type="creation">
+                            <note>start</note>
+                            1818-03-16
+                        </date>
+                        <date type="creation">
+                            <note>end</note>
+                            1818-03-18
+                        </date>
+                    </publicationStmt>
+                    
+                </biblFull>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Thüringisches Hauptstaatsarchiv Weimar</repository>
+                        <idno>
+                            <idno type="shelfmark">LATh – HStA Weimar, GHA A XXV, Korr. R 163, Bl. 54r-v</idno>
+                        </idno>
+                        <idno type="URLCatalogue">
+                            Link auf Digitalisat
+                        </idno>
+                        
+                    </msIdentifier>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- Maße --></p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><encodingDesc>
+            <editorialDecl>
+                <p>
+                    
+                    &amp;lt;p&amp;gt;Dieses Werk wurde in XML/TEI P5 nach &amp;lt;a href="http://www.deutschestextarchiv.de/doku/basisformat"&amp;gt;DTA-Basisformat&amp;lt;/a&amp;gt; kodiert.&amp;lt;/p&amp;gt;
+                    
+                </p>
+            </editorialDecl>
+            <tagsDecl/>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fre">French</language>
+            </langUsage>
+            <textClass>
+                <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1main">Gebrauchsliteratur</classCode>
+                <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Brief</classCode>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <lb/>No. 309 [1818 März 16-18]
+<lb/>fol. 54r
+<lb/>Weymar. Lundi, 4/16 mars 1818.
+<lb/>
+<lb/>Ma bonne et chère Maman!
+<lb/>
+<lb/>Voici un jour qui réveillera Vos douleurs, j’y ai bien pensé, en demandant à
+<lb/>Dieu qu’il Vous soulage;  j’avoue ne jamais me trouver dans cette époque de
+<lb/>l’année sans un saisissement inexplicable. Le tems est mauvais chère
+<lb/>Maman, je n’ai de ressource que dans la voiture, mais au reste ma chapelle
+<lb/>étant loin du château, et y allant 2 fois par jour, c’est déja ce que les
+<lb/>médecins appellent Motion machen. Je me porte à tout prendre assez bien,
+<lb/>et entre ces jours-ci dans mon 7me mois, ce que je sens au poids que je porte,
+<lb/>et dont j’ai réellement perdu l’habitude. Je Vous baise les mains de tout mon
+<lb/>coeur, chère et bonne Maman, en me mettant à Vos pieds.
+<lb/>
+<lb/>Mardi, le 5/17 mars.
+<lb/>
+<lb/>Chère Maman, voici une lettre de Kourakin que je viens de recevoir
+<lb/>et qu’il m’enjoint de Vous transmettre par la poste. Il nous arrive ici vers la
+<lb/>fin du mois de may, et je suis seulement fâchée de pouvoir aller si peu
+<lb/>contribuer à l’agrément de son séjour, mais il voudra bien être indulgent.
+<lb/>Je continue mes dévotions chère Maman, et compte communier après-demain
+<lb/>jeudi, jour où le prince communiera de son coté: cette semaine est grâces
+<lb/>
+<lb/>fol. 54v
+<lb/>à Dieu passée en retraite, ce qui est un grand avantage: je vois moins les enfans
+<lb/>étant longtems à mon église, mais ils vont bien et ne perdent pas leur tems.
+<lb/>Ils se mettent à Vos pieds chère Maman, moi de même et cela de tout coeur.
+<lb/>
+<lb/>Mécredi, le 6/18 mars.
+<lb/>
+<lb/>Chère et bonne Maman, j’aurais le bonheur de Vous écrire tantôt
+<lb/>par le c[om]te Orloff, arrivé hier après-midi ici, et que j’ai eu plaisir à revoir
+<lb/>comme ancienne connoissance, mais n’ai-je pas dit chère Maman
+<lb/>que le passage ici ne discontinue pas? Le c[om]te va d’abord à Varsovie
+<lb/>et de là à Moscou, ayant eu le malheur de perdre sa mère, sa femme
+<lb/>va mieux, et elle est restée à Naples. Je compte avoir le bonheur de
+<lb/>Vous écrire tantôt chère Maman avant ma confession, et me hâte de
+<lb/>faire partir ces lignes par la poste; j’embrasse frères et soeurs et notre
+<lb/>chère c[om]t[e]sse, et Vous baise les mains de tout mon coeur, étant à jamais
+<lb/>avec le plus éternel dévouement,
+<lb/>
+<lb/>de ma chère et bonne Maman,
+<lb/>la plus soumise et obéissante
+<lb/>fille, Marie.
+            </p>
+        </body>
+    </text>
+</TEI>
