@@ -639,7 +639,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0065.xml?person_annotation_20250203153734872#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p/persName[7]"
+			"rdf:value": "TEI/text/body/div[2]/p/persName[8]"
 		}
 	},
 	"oa:hasBody": {
@@ -1525,6 +1525,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0065.xml?person_annotation_20250203154449426",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-02-03T14:44:49.426Z",
+	"dcterms:modified": "2025-02-03T14:44:49.426Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/IIwanov",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Iwan Iwanov"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0065.xml?person_annotation_20250203154449426#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0065.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0065.xml?person_annotation_20250203154449426#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[2]/p/persName[7]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://d-nb.info/gnd/136421288",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
             <editorialDecl>
                 <p>
@@ -1587,8 +1666,8 @@
 <lb/>fait grand plaisir, je l’avoue, elle étoit plaisir d’amitié. J’ai lu dans la Gazette de
 <lb/>Francfort<seg type="keyword"><term>Zeitungswesen</term></seg> que <persName key="Wilhelm II., Niederlande, König" ref="https://d-nb.info/gnd/100718337">Guilleaume</persName> a demandé à quitter son poste de ministre de la guerre, et
 <lb/>que <persName key="Wilhelm I., Niederlande, König" ref="https://d-nb.info/gnd/119312700">le roi</persName> y a consenti: il conserve ses charges militaires. Je n’ai pas eu longtems
-<lb/>à m’inquiéter à ce sujet, venant de recevoir à l’instant même une lettre de la
-<lb/>Duch[esse] de Bronswick qui me dit que tout cela s’est passé en toute amitié et
+<lb/>à m’inquiéter à ce sujet, venant de recevoir à l’instant même une lettre de <persName key="Friederike Luise, Braunschweig-Lüneburg, Prinzessin" ref="https://d-nb.info/gnd/136421288">la
+<lb/>Duch[esse] de Bronswick</persName> qui me dit que tout cela s’est passé en toute amitié et
 <lb/>sans nouvelle scission, que Guilleaume ayant demandé à se démettre de ce poste, le roi
 <lb/>n’en avoit pas été fâché. Mr. de Goltz quitte aussi, et une toute autre organisation
 <lb/>va avoir lieu; Guilleaume garde son grade militaire et reste inspecteur de toutes
