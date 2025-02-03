@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="null"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main"/>
+                <author>
+                    <persName ref="http://d-nb.info/gnd/">
+                        <surname>Sachsen-Weimar</surname>
+                        <forename>Maria</forename>
+                        <addName>Maria, Sachsen-Weimar, Großherzogin</addName>
+                    </persName>
+                </author>
+                <editor>
+                    <persName>
+                        <surname>Iwanov</surname>
+                        <forename>Iwan</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <orgName>
+                        Friedrich-Schiller-Universität Jena
+                    </orgName>
+                    
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeber</note>
+                        <persName>
+                            <!-- Heraugeberschaft klären -->
+                        </persName>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    ausgewählte Briefe
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName role="project">
+                        Friedrich-Schiller-Universität Jena
+                    </orgName>
+                    <orgName role="hostingInstitution" xml:lang="deu">Thüringer Universitäts- und Landesbibliothek Jena</orgName>
+                </publisher>
+                
+                <pubPlace>Jena</pubPlace>
+                <date type="publication">2025</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                        <p>Distributed under the Creative Commons License Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</p>
+                    </licence>
+                </availability>
+                <idno>
+                    <idno type="URLWeb"/>
+                    <idno type="URLXML"/>
+                    <idno type="URN"/>
+                </idno>
+            </publicationStmt>
+            
+            <sourceDesc>
+                <bibl type="MAN"> </bibl>
+                <biblFull>
+                    <titleStmt>
+                        <title level="m" type="main">Brief: 1818 März 23-25, Maria Pavlovna an Maria Fedorovna, Nr. 314</title>
+                        
+                    </titleStmt>
+                    <extent>
+                        <measure type="pages"><!-- Anzahl Seiten --></measure>
+                    </extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace>Weimar</pubPlace>
+                        <date type="creation">
+                            <note>start</note>
+                            1818-03-23
+                        </date>
+                        <date type="creation">
+                            <note>end</note>
+                            1818-03-25
+                        </date>
+                    </publicationStmt>
+                    
+                </biblFull>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Thüringisches Hauptstaatsarchiv Weimar</repository>
+                        <idno>
+                            <idno type="shelfmark">LATh – HStA Weimar, GHA A XXV, Korr. R 163, Bl. 60r-61r</idno>
+                        </idno>
+                        <idno type="URLCatalogue">
+                            Link auf Digitalisat
+                        </idno>
+                        
+                    </msIdentifier>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- Maße --></p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><encodingDesc>
+            <editorialDecl>
+                <p>
+                    
+                    &amp;lt;p&amp;gt;Dieses Werk wurde in XML/TEI P5 nach &amp;lt;a href="http://www.deutschestextarchiv.de/doku/basisformat"&amp;gt;DTA-Basisformat&amp;lt;/a&amp;gt; kodiert.&amp;lt;/p&amp;gt;
+                    
+                </p>
+            </editorialDecl>
+            <tagsDecl/>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fre">French</language>
+            </langUsage>
+            <textClass>
+                <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1main">Gebrauchsliteratur</classCode>
+                <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Brief</classCode>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <lb/>No. 314 [1818 März 23-25]
+<lb/>fol. 60r
+<lb/>Weymar. Lundi 11/23 mars 1818.
+<lb/>
+<lb/>Ma bonne et chère Maman!
+<lb/>
+<lb/>Voici un bien triste jour chère Maman, et qui remplis le coeur de la plus vive
+<lb/>tristesse:  il est bien inutile de Vous dire je pense que Vous avez été ma première
+<lb/>pensée en ouvrant les yeux ce matin, et je m’affligeois de Votre peine, que je partage de tout
+<lb/>mon coeur, en regrettant vivement être si loin de Vous chère Maman à une époque
+<lb/>où je Vous sais triste et malheureuse. Plus je vis plus elle me fait réfléchir et
+<lb/>penser cette époque, et elle s’agrave(!) dans ma mémoire bien loin de s’effacer. J’ai
+<lb/>assisté à la messe funèbre, et ne bouge de chez moi chère Maman, j’y reste avec
+<lb/>mes prières et mes pensées qui se reportent toutes de Votre coté. Je Vous baise
+<lb/>les mains de tout mon coeur, et me mets mille fois à Vos pieds, avec tout le
+<lb/>dévouement que je Vous porte.
+<lb/>
+<lb/>Mardi, le 12/24 mars.
+<lb/>
+<lb/>Chère Maman, en tout premier lieu, permettez-moi de réunir mes voeux aux Vôtres
+<lb/>pour que le Ciel conserve et détourne à jamais tout mal de notre cher Empereur,
+<lb/>pour lequel j’ai prié de tout mon coeur à la messe tantôt;  du reste, cette journée
+<lb/>plus cruelle dans mes souvenirs que celle d’hier et que toutes celles que j’ai jamais
+<lb/>passées au monde, est pour moi aussi un jour de retraite complet(!), et je me
+<lb/>dérobe à tous les yeux. Je desire de tout mon coeur que Votre santé ait été bonne
+<lb/>chère Maman et point trop affectée de Vos peines. J’ai eu hier soir le bonheur de
+<lb/>
+<lb/>fol. 60v
+<lb/>recevoir Votre chère lettre du 15 au 18 février, No. 17, pour laquelle je dépose à Vos
+<lb/>pieds mes remercimens les plus sincères, cela m’a fait du bien de la recevoir
+<lb/>comme hier, et de me trouver ainsi plus rapprochée de Vous chère Maman que je
+<lb/>ne l’étois déja par mes pensées. Je conçois le vuide que Vous causera le départ
+<lb/>de l’Emp[ereur] et cette absence de trois mois qu’il entreprend, je ne sais rien encore de
+<lb/>Varsovie; notre tems est redevenu mauvais, aujourd’huy il a neigé, et plu
+<lb/>de sorte que la boue est à son comble: rien de nouveau chère Maman, que l’arrivée
+<lb/>du Pr[ince] de Mecklembourg pour après-demain, il se rend pour son mariage à
+<lb/>Hombourg. Les enfans et moi nous nous mettons à Vos pieds de tout notre coeur.
+<lb/>
+<lb/>Mécredi, le 13/25 mars.
+<lb/>
+<lb/>Chère Maman! Le consul de Russie à Bordeaux a passé ici hier après-
+<lb/>midi et m’a remis des lettres de mon long ami Nicolas et d’Alexandrine.
+<lb/>A mes questions très pressantes sur Votre santé chère Maman, il m’a
+<lb/>toujours assuré que Vous Vous portiez au mieux, et que les lettres qui lui
+<lb/>avoient été remises, venoient du Ministère des affaires étrangères, et effectivement
+<lb/>leur datte est du 5/17 et 8/20 février, de sorte qu’il est probable qu’elles auront reposé
+<lb/>sur le bureau: en attendant ces lettres m’ont fait grand plaisir, et je vais
+<lb/>m’empresser à y répondre par le premier courier: ce monsieur m’a dit avoir passé
+<lb/>à Varsovie, et que l’Emp[ereur] y étoit très heureusement arrivé, ce qui m’a charmée,
+<lb/>il me semble que nous voilà plus rapprochés. Le tems est toujours mauvais
+<lb/>
+<lb/>fol. 61r
+<lb/>chère Maman, puissions-nous avoir un beau mois d’avril et de may, et
+<lb/>les neiges être épuisées dès ce mois-ci? Je Vous baise les mains de tout
+<lb/>mon coeur, embrassant frères et soeurs, et notre chère c[om]t[e]sse; le pr[ince] et les
+<lb/>enfans se mettent à Vos pieds, et je suis éternellement avec le plus
+<lb/>parfait et respectueux attachement,
+<lb/>
+<lb/>de ma très chère Maman,
+<lb/>la plus soumise et dévouée
+<lb/>fille, Marie.
+            </p>
+        </body>
+    </text>
+</TEI>
