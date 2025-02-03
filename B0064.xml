@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="null"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main"/>
+                <author>
+                    <persName ref="http://d-nb.info/gnd/">
+                        <surname>Sachsen-Weimar</surname>
+                        <forename>Maria</forename>
+                        <addName>Maria, Sachsen-Weimar, Großherzogin</addName>
+                    </persName>
+                </author>
+                <editor>
+                    <persName>
+                        <surname>Iwanov</surname>
+                        <forename>Iwan</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <orgName>
+                        Friedrich-Schiller-Universität Jena
+                    </orgName>
+                    
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeber</note>
+                        <persName>
+                            <!-- Heraugeberschaft klären -->
+                        </persName>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    ausgewählte Briefe
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName role="project">
+                        Friedrich-Schiller-Universität Jena
+                    </orgName>
+                    <orgName role="hostingInstitution" xml:lang="deu">Thüringer Universitäts- und Landesbibliothek Jena</orgName>
+                </publisher>
+                
+                <pubPlace>Jena</pubPlace>
+                <date type="publication">2025</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                        <p>Distributed under the Creative Commons License Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</p>
+                    </licence>
+                </availability>
+                <idno>
+                    <idno type="URLWeb"/>
+                    <idno type="URLXML"/>
+                    <idno type="URN"/>
+                </idno>
+            </publicationStmt>
+            
+            <sourceDesc>
+                <bibl type="MAN"> </bibl>
+                <biblFull>
+                    <titleStmt>
+                        <title level="m" type="main">Brief: 1818 März 5, Maria Pavlovna an Maria Fedorovna, Nr. 304</title>
+                        
+                    </titleStmt>
+                    <extent>
+                        <measure type="pages"><!-- Anzahl Seiten --></measure>
+                    </extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace>Weimar</pubPlace>
+                        <date type="creation">
+                            <note>start</note>
+                            1818-03-05
+                        </date>
+                        <date type="creation">
+                            <note>end</note>
+                            
+                        </date>
+                    </publicationStmt>
+                    
+                </biblFull>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Thüringisches Hauptstaatsarchiv Weimar</repository>
+                        <idno>
+                            <idno type="shelfmark">LATh – HStA Weimar, GHA A XXV, Korr. R 163, Bl. 47r</idno>
+                        </idno>
+                        <idno type="URLCatalogue">
+                            Link auf Digitalisat
+                        </idno>
+                        
+                    </msIdentifier>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- Maße --></p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><encodingDesc>
+            <editorialDecl>
+                <p>
+                    
+                    &amp;lt;p&amp;gt;Dieses Werk wurde in XML/TEI P5 nach &amp;lt;a href="http://www.deutschestextarchiv.de/doku/basisformat"&amp;gt;DTA-Basisformat&amp;lt;/a&amp;gt; kodiert.&amp;lt;/p&amp;gt;
+                    
+                </p>
+            </editorialDecl>
+            <tagsDecl/>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fre">French</language>
+            </langUsage>
+            <textClass>
+                <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1main">Gebrauchsliteratur</classCode>
+                <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Brief</classCode>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <lb/>No. 304 [1818 März 5]
+<lb/>fol. 47r
+<lb/>Weymar. Le jeudi matin, 21 février/ 5 mars 1818.
+<lb/>
+<lb/>Ma bonne et chère Maman!
+<lb/>
+<lb/>Notre tems est toujours à l’ouragan, et bien que l’on dise habituellement
+<lb/>que les vents épurent l’air, il y a beaucoup de maladies, surtout inflamatoires pour
+<lb/>la poitrine: je ne sais toujours rien de rien du fait de nouvelles, et ne m’occupe
+<lb/>que de mon interrieure: Les petites sont fort bien portantes, fort gaies, et viennent
+<lb/>de me quitter: la cadette surtout étoit délicate et fort drôle: ma belle-mère est
+<lb/>venue chez moi lorsque cette petite personne y est descendue, elle l’aime excessivement
+<lb/>mais quoiqu’elle ait beaucoup de bontés pour toutes les deux, je crois être sûre
+<lb/>de sa prédilection pour Auguste, qui malgré ses boutades est vraiment fort
+<lb/>attachante. L’on disoit que notre Emp[ereur] quitteroit Moscou le 22 fév[rier] v.st. pour
+<lb/>se rendre à Varsovie, c’est donc déja demain; et donc voilà derechef chère
+<lb/>Maman à la veille d’en être séparée, ce qui doit Vous peiner toujours. Dieu veuille
+<lb/>lui accorder un bon voïage et une heureuse réussite dans ses affaires de
+<lb/>Pologne. J’embrasse frères, soeurs, et notre chère c[om]t[e]sse; le prince et
+<lb/>les enfans Vous baisent les mains chère Maman, et je suis à jamais
+<lb/>avec le plus éternel et le plus respectueux dévouement,
+<lb/>
+<lb/>de ma très chère Maman,
+<lb/>la plus soumise et obéissante
+<lb/>fille, Marie.
+            </p>
+        </body>
+    </text>
+</TEI>
