@@ -718,7 +718,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0080.xml?place_annotation_20250205170729122#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/placeName[2]"
+			"rdf:value": "TEI/text/body/div/p/placeName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -1762,6 +1762,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0080.xml?place_annotation_20250205173502129",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-02-05T16:35:02.129Z",
+	"dcterms:modified": "2025-02-05T16:35:02.129Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/IIwanov",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Iwan Iwanov"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0080.xml?place_annotation_20250205173502129#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0080.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0080.xml?place_annotation_20250205173502129#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/placeName[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "https://d-nb.info/gnd/4079048-4",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
             <editorialDecl>
                 <p>
@@ -1796,7 +1875,7 @@
 <lb/>Ma bonne et chère <persName key="Maria, Russland, Zarin" ref="https://d-nb.info/gnd/11933075X">Maman</persName>!
 <lb/>
 <lb/>J’ai eu hier le bonheur de Vous écrire par un courier<seg type="keyword"><term>B_0076</term></seg>, je reprends aujourd’huy pour
-<lb/>la poste du dimanche. Ce courier allant à Varsovie, je lui ai dit de remettre mes lettres au <persName key="Volkonskij, Petr M." ref="https://d-nb.info/gnd/117433012">pr[ince]
+<lb/>la poste du dimanche. Ce courier allant à <placeName key="Warschau" ref="https://d-nb.info/gnd/4079048-4">Varsovie</placeName>, je lui ai dit de remettre mes lettres au <persName key="Volkonskij, Petr M." ref="https://d-nb.info/gnd/117433012">pr[ince]
 <lb/>Wolchonsky</persName>, pour qu’il les expédie de suite à <placeName key="Moskau" ref="https://d-nb.info/gnd/4074987-3">Moscou</placeName>; en même tems j’ai écrit à notre
 <lb/>cher <persName key="Aleksandr I., Russland, Zar" ref="https://d-nb.info/gnd/118501852">Empereur</persName>, ce qui m’a occupée plusieurs jours, et je crois devoir Vous faire mille excuses
 <lb/>chère Maman pour le style et l’écriture de la lettre que je Vous ai adressée, mais il
