@@ -103,7 +103,86 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><encodingDesc>
+        <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0073.xml?place_annotation_20250205120119060",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-02-05T11:01:19.060Z",
+	"dcterms:modified": "2025-02-05T11:01:19.060Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/IIwanov",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Iwan Iwanov"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0073.xml?place_annotation_20250205120119060#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0073.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0073.xml?place_annotation_20250205120119060#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "https://d-nb.info/gnd/4065105-8",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      </rdf:RDF></xenoData><encodingDesc>
             <editorialDecl>
                 <p>
                     
@@ -126,9 +205,13 @@
     <text>
         <body>
             <p>
+            <pb facs="01"/>
                 <lb/>No. 313 [1818 März 20-22]
 <lb/>fol. 58r
-<lb/>Weymar. Vendredi de la Semaine s[ain]te ici, 8/20 mars 1818.
+            </p>
+            <div type="letter" n="01">
+            <p>
+<lb/><placeName key="Weimar" ref="https://d-nb.info/gnd/4065105-8">Weymar</placeName>. Vendredi de la Semaine s[ain]te ici, 8/20 mars 1818.
 <lb/>
 <lb/>Ma bonne et chère Maman!
 <lb/>
@@ -147,12 +230,16 @@
 <lb/>revu aujourd’huy le prince et la pr[ince]sse Barätinsky qui reviennent de Dresde, ce sont des
 <lb/>gens très comme il faut, et j’aime beaucoup leur société. Je Vous baise les mains
 <lb/>de tout mon coeur, chère chère Maman.
-<lb/>
+            </p>
+            </div>
+            <div type="letter" n="02">
+            <p>
 <lb/>Samedi, 9/20 mars.
 <lb/>
 <lb/>Chère Maman, Vos deux chères lettres du 8 au 14 février, Nos. 15 et 16, sont
 <lb/>entre mes mains, et j’en dépose à Vos pieds l’hommage de ma reconnoissance, elles sont
 <lb/>
+            <pb facs="02"/>
 <lb/>fol. 58v
 <lb/>remplies de détails bien intéressans pour moi, et j’ai suivi avec une grande attention ceux
 <lb/>de Votre soirée chez la bonne pr[ince]sse Prosorowsky qui aura été des plus heureuses de Vous
@@ -168,7 +255,10 @@
 <lb/>de bien des réflexions, auxquelles le tems où nous vivons prête beaucoup et de toutes
 <lb/>manières. Ma santé est bonne, et je me mets à Vos pieds chère Maman
 <lb/>en Vous baisant les mains.
-<lb/>
+            </p>
+            </div>
+            <div type="letter" n="03">
+            <p>
 <lb/>Dimanche, le jour de Pâques 10/22 mars.
 <lb/>
 <lb/>Chère Maman, permettez-moi de Vous dire un Христос воскресе quoique
@@ -179,6 +269,7 @@
 <lb/>quand bien même étrangère dans ce costume et me mets ainsi que mon monde
 <lb/>en blanc. Notre tems est toujours beau, aussi je vais en profiter pour me promener
 <lb/>
+            <pb facs="03"/>
 <lb/>fol. 59r
 <lb/>à pied, ce qui m’est très recomandé, et suis forcée chère Maman d’en rester là,
 <lb/>et de Vous baiser les mains de tout mon coeur, en embrassant la famille et la c[om]t[e]sse.
@@ -189,6 +280,7 @@
 <lb/>la plus soumise et obéissante
 <lb/>fille, Marie.
             </p>
+            </div>
         </body>
     </text>
 </TEI>
