@@ -481,7 +481,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0074.xml?person_annotation_20250205125306309#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[3]/p/persName[2]"
+			"rdf:value": "TEI/text/body/div[3]/p/persName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -1046,7 +1046,7 @@
             <p>
 <lb/>Mécredi, le 13/25 mars.
 <lb/>
-<lb/>Chère <persName key="Maria, Russland, Zarin" ref="https://d-nb.info/gnd/11933075X">Maman</persName>! Le consul de Russie à Bordeaux a passé ici hier après-
+<lb/>Chère <persName key="Maria, Russland, Zarin" ref="https://d-nb.info/gnd/11933075X">Maman</persName>! <persName>Le consul de Russie à Bordeaux</persName> a passé ici hier après-
 <lb/>midi et m’a remis des lettres de mon long ami Nicolas et d’Alexandrine.
 <lb/>A mes questions très pressantes sur Votre santé chère Maman, il m’a
 <lb/>toujours assuré que Vous Vous portiez au mieux, et que les lettres qui lui
