@@ -481,7 +481,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0080.xml?person_annotation_20250205170428107#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[3]/p/persName[7]"
+			"rdf:value": "TEI/text/body/div[3]/p/persName[8]"
 		}
 	},
 	"oa:hasBody": {
@@ -1192,7 +1192,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0080.xml?person_annotation_20250205171119933#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[3]/p/persName[6]"
+			"rdf:value": "TEI/text/body/div[3]/p/persName[7]"
 		}
 	},
 	"oa:hasBody": {
@@ -1683,6 +1683,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0080.xml?person_annotation_20250205173428483",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-02-05T16:34:28.483Z",
+	"dcterms:modified": "2025-02-05T16:34:28.483Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/IIwanov",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Iwan Iwanov"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0080.xml?person_annotation_20250205173428483#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0080.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0080.xml?person_annotation_20250205173428483#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[3]/p/persName[6]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://d-nb.info/gnd/115603972",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
             <editorialDecl>
                 <p>
@@ -1766,7 +1845,7 @@
 <lb/>partir, mais comme je ne prévois pas qu’il y ait de sitôt un courier, je pense
 <lb/>mieux faire de l’envoyer par la poste, et Vous supplie de la faire parvenir à
 <lb/><persName key="Luise, Sachsen-Coburg-Saalfeld, Herzogin" ref="https://d-nb.info/gnd/122607120">la Duchesse</persName><choice><sic>.</sic><corr>Unsichere Attribuierung</corr></choice> Je Vous baise les mains de tout mon coeur chère Maman, et
-<lb/>embrasse frères et soeurs et notre chère c[om]t[e]sse, <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">les petites</persName> se mettent à Vos pieds,
+<lb/>embrasse frères et soeurs et <persName key="Lieven, Charlotte Karlowna de" ref="https://d-nb.info/gnd/115603972">notre chère c[om]t[e]sse</persName>, <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">les petites</persName> se mettent à Vos pieds,
 <lb/>
             <pb facs="03"/>
 <lb/>fol. 74r
