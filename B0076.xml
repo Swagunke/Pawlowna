@@ -4270,7 +4270,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0076.xml?person_annotation_20250205152717834#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[5]/p/persName[8]"
+			"rdf:value": "TEI/text/body/div[5]/p/persName[9]"
 		}
 	},
 	"oa:hasBody": {
@@ -5733,7 +5733,7 @@
 <lb/>et se pourroit-il qu’un homme de tant d’expérience se fut laissé entrainer
 <lb/>dans un moment comme celui-ci? La suite fera voir ce qui en est.
 <lb/>Je viens de recevoir une lettre de <persName>mon cousin Eugène</persName> qui m’annonce la
-<lb/>naissance de sa fille, et a la bonté de m’en demander mareine(!) ainsi
+<lb/>naissance de <persName>sa fille</persName>, et a la bonté de m’en demander mareine(!) ainsi
 <lb/>que <persName key="Karl Friedrich, Sachsen-Weimar-Eisenach, Großherzog" ref="https://d-nb.info/gnd/102479844">le prince</persName>: J’en desire Vous féliciter chère Maman pour être devenue
 <lb/>grande-tante; cette année Vous procure grand nombre de petits parens de
 <lb/>plus: veuille Dieu les bénir tous. Quelle étrange affaire que celle de ce Duc
