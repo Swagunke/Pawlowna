@@ -5898,85 +5898,6 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0076.xml?person_annotation_20250205160216611",
-	"type": "oa:Annotation",
-	"dcterms:created": "2025-02-05T15:02:16.611Z",
-	"dcterms:modified": "2025-02-05T15:02:16.611Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/IIwanov",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Iwan Iwanov"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0076.xml?person_annotation_20250205160216611#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0076.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0076.xml?person_annotation_20250205160216611#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[5]/p/persName[16]"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
-		"@id": "https://d-nb.info/gnd/123774721",
-		"dc:format": "text/plain"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0076.xml?person_annotation_20250205160314469",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-02-05T15:03:14.469Z",
@@ -7271,12 +7192,12 @@
 <lb/>Maman. J’ai particulièrement des grâces à Vous rendre pour m’avoir écoutée comme
 <lb/>Vous l’avez fait, avec une bonté et une tendresse égales, comme aussi de ce que Vous ne perdez
 <lb/>pas patience de tout en détails: je suis charmée de ce que <persName key="Lieven, Charlotte Karlowna de" ref="https://d-nb.info/gnd/115603972">la c[om]t[e]sse</persName> soit dans le secret, lui
-<lb/>étant attachée comme je le suis. Vous avez daigné chère Maman envoyer un Schall
+<lb/>étant attachée comme je le suis. Vous avez daigné chère Maman envoyer un <hi rend="italic">Schall</hi>
 <lb/>à <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">Marie</persName>, qui la rend la plus heureuse du monde. Lui ayant dit qu’il y avoit un paquet
 <lb/>à son adresse d’arrivé, elle a insisté pour l’ouvrir elle-même, et plus elle trouvoit de
 <lb/>papiers à déployer, plus elle étoit enchantée, enfin elle a vu ce que ces papiers receloient
 <lb/>et sa joye n’a plus eu de bornes, elle m’a sauté au cou, m’a embrassé vingt fois, avec
-<lb/>des cris de joye, et a couru en bas chez <persName>Miss Dilon</persName> pour lui montrer son trésor; il a
+<lb/>des cris de joye, et a couru en bas chez <persName ref="P_0057">Miss Dilon</persName> pour lui montrer son trésor; il a
 <lb/>bien fallu lui permettre de le mettre [Einschub: aujourd’huy] pour sortir en voiture; du reste nous sommes
 <lb/>convenues qu’elle le laisseroit reposer jusqu’au moment où nous aurions le
 <lb/>bonheur de Vous posséder ici chère Maman, et elle avoit trouvée que j’avois raison
@@ -7285,7 +7206,7 @@
 <lb/>afin, dit-elle, que grand-maman ne me gronde pas, et elle questionne tout ce qu’il y a
 <lb/>de <placeName key="Russland" ref="https://d-nb.info/gnd/4076899-5">russe</placeName> ici pour savoir comment il faut être pour Vous plaire. <persName key="Augusta, Deutsches Reich, Kaiserin" ref="https://d-nb.info/gnd/118651102">La cadette</persName> est toute
 <lb/>aussi contente, mais dans son genre, elle se répend [gemeint: répand] moins au dehors; sur le tout, je
-<lb/>vois avec plaisir combien <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">ces enfans</persName> tiennent à leurs liens de parenté. Permettez-moi
+<lb/>vois avec plaisir combien <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721"><persName key="Augusta, Deutsches Reich, Kaiserin" ref="https://d-nb.info/gnd/118651102">ces enfans</persName></persName> tiennent à leurs liens de parenté. Permettez-moi
 <lb/>de Vous baiser les mains pour ce cadeau fait à <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">Marie</persName>, que n’ai-je pu Vous
 <lb/>montrer sa joie, chère Maman, elle Vous auroit fait plaisir. Permettez-moi
 <lb/>de plus d’en rester là, c’est hier tard que tout cela m’est parvenu, et je me sens encore
@@ -7381,8 +7302,7 @@
             <pb facs="06"/>
 <lb/>fol. 65v
 <lb/>occasion je ne m’en étonne pas, la famille est nombreuse, tant de gens dans ce monde
-<lb/>croyent qu’il n’y a rien de mieux à faire que de beaucoup dire, et d’ailleurs <persName key="Wilhelmine, Preußen, Prinzessin" ref="https://d-nb.info/gnd/122629825">les
-<lb/>princesses douairières</persName> tiennent fortement au <persName key="Wilhelm I., Niederlande, König" ref="https://d-nb.info/gnd/119312700">roi</persName>, et rattachent tout à lui
+<lb/>croyent qu’il n’y a rien de mieux à faire que de beaucoup dire, et d’ailleurs <persName key="Wilhelmine, Preußen, Prinzessin" ref="https://d-nb.info/gnd/122629825"><persName key="Friederike Luise, Braunschweig-Lüneburg, Prinzessin" ref="https://d-nb.info/gnd/136421288">princesses douairières</persName></persName> tiennent fortement au <persName key="Wilhelm I., Niederlande, König" ref="https://d-nb.info/gnd/119312700">roi</persName>, et rattachent tout à lui
 <lb/>par affection et par système, il n’en faut pas davantage pour expliquer leur
 <lb/>zèle, et pour ma part qui les connois certainement personnes de mérite incontestable,
 <lb/>j’aimerois que <persName key="Anna, Niederlande, Königin" ref="https://d-nb.info/gnd/119330857">ma soeur</persName> pût n’avoir qu’à jouir de ce mérite, sans
@@ -7432,7 +7352,7 @@
 <lb/>et de celui de <persName key="Sturtza, Rōxandra" ref="https://d-nb.info/gnd/1011179423">sa femme</persName>: c’est bien une preuve de l’honnêteté du c[om]te de revenir,
 <lb/>j’espère qu’il sera utile, et ce sera un grand bien, car de nos jours les gens de
 <lb/>bien sont infiniment précieux, et doivent servir de contrepoids à ceux qui professent
-<lb/>des théories d’idéologie. Je m’occupe infiniment de <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">mes enfans</persName>, et cela me
+<lb/>des théories d’idéologie. Je m’occupe infiniment de <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721"><persName key="Augusta, Deutsches Reich, Kaiserin" ref="https://d-nb.info/gnd/118651102">mes enfans</persName></persName>, et cela me
 <lb/>
             <pb facs="08"/>
 <lb/>fol. 66v
@@ -7451,7 +7371,7 @@
             <p>
 <lb/>Mardi, 19/31 mars.
 <lb/>
-<lb/>Chère et bonne <persName key="Maria, Russland, Zarin" ref="https://d-nb.info/gnd/11933075X">Maman</persName>, <persName key="Edling, Albert Cajetan" ref="https://d-nb.info/gnd/116356251">le c[om]te et la c[om]t[e]sse Edeling</persName> <persName key="Sturtza, Rōxandra" ref="https://d-nb.info/gnd/1011179423">s</persName>ont arrivés hier
+<lb/>Chère et bonne <persName key="Maria, Russland, Zarin" ref="https://d-nb.info/gnd/11933075X">Maman</persName>, <persName key="Edling, Albert Cajetan" ref="https://d-nb.info/gnd/116356251"><persName key="Sturtza, Rōxandra" ref="https://d-nb.info/gnd/1011179423">le c[om]te et la c[om]t[e]sse Edeling</persName></persName> sont arrivés hier
 <lb/>soir, et ce matin il est venu me voir, et m’a raconté beaucoup de choses
 <lb/>intéressantes et curieuses qui se rapportent à ce dont j’ai parlé: je suis à
 <lb/>présent fort desireuse de voir comment on se tirera ici du dilemme où l’on
@@ -7469,11 +7389,11 @@
 <lb/>fol. 67r
 <lb/>et se pourroit-il qu’un homme de tant d’expérience se fut laissé entrainer
 <lb/>dans un moment comme celui-ci? La suite fera voir ce qui en est.
-<lb/>Je viens de recevoir une lettre de <persName>mon cousin Eugène</persName> qui m’annonce la
-<lb/>naissance de <persName>sa fille</persName>, et a la bonté de m’en demander mareine(!) ainsi
+<lb/>Je viens de recevoir une lettre de <persName ref="P_0046">mon cousin Eugène</persName> qui m’annonce la
+<lb/>naissance de <persName ref="P_0147">sa fille</persName>, et a la bonté de m’en demander mareine(!) ainsi
 <lb/>que <persName key="Karl Friedrich, Sachsen-Weimar-Eisenach, Großherzog" ref="https://d-nb.info/gnd/102479844">le prince</persName>: J’en desire Vous féliciter chère Maman pour être devenue
 <lb/>grande-tante; cette année Vous procure grand nombre de petits parens de
-<lb/>plus: veuille Dieu les bénir tous. Quelle étrange affaire que celle de ce <persName>Duc
+<lb/>plus: veuille Dieu les bénir tous. Quelle étrange affaire que celle de ce <persName ref="P_0148">Duc
 <lb/>
 de Dévonchire</persName> et quelle découverte que celle de ne pas être ce que l’on est!
 <lb/>Oserai-je Vous demander chère Maman ce que je dois faire pour Mr.
@@ -7481,7 +7401,7 @@ de Dévonchire</persName> et quelle découverte que celle de ne pas être ce que
 <lb/>j’ai répondu moi-même à sa lettre et l’ai remise au ministre, mais
 <lb/>ne seroit-il pas convenable de lui faire un cadeau, et quel, une bague à
 <lb/>chiffre [Einschub: ou autre] peut-être, et n’auriez-Vous pas la bonté chère Maman d’en
-<lb/>décider, et de la faire faire chez <persName>Duval</persName>? Oserai-je de plus Vous prier
+<lb/>décider, et de la faire faire chez <persName ref="P_0150">Duval</persName>? Oserai-je de plus Vous prier
 <lb/>de vouloir bien me dire laquelle des deux lettres que j’avois soumises à
 <lb/>Votre jugement est allée chez <persName key="Ermolov, Aleksej Petrovič" ref="https://d-nb.info/gnd/121276775">le général Yermoloff</persName>, celle de main propre
 <lb/>ou celle par secrétaire? La chose m’intéresse comme un avertissement
@@ -7492,7 +7412,7 @@ de Dévonchire</persName> et quelle découverte que celle de ne pas être ce que
 <lb/>
             <pb facs="10"/>
 <lb/>fol. 67v
-<lb/>pas de très bien dormir. <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">Les petites</persName> et moi nous nous mettons à Vos pieds
+<lb/>pas de très bien dormir. <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721"><persName key="Augusta, Deutsches Reich, Kaiserin" ref="https://d-nb.info/gnd/118651102">Les petites</persName></persName> et moi nous nous mettons à Vos pieds
 <lb/>chère Maman, en Vous baisant les mains.
             </p>
             </div>
@@ -7531,7 +7451,7 @@ de Dévonchire</persName> et quelle découverte que celle de ne pas être ce que
 <lb/>la lettre qu’il avoit eu le bonheur de Vous adresser, et qui est prette dans
 <lb/>son bureau, et il ne [Einschub: me] l’a point remise! Daignez chère et bonne Maman
 <lb/>lui pardonner le trait d’étourderie, et le recevoir à Vos pieds de même que
-<lb/><persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">les enfans</persName> et moi; <persName key="Augusta, Deutsches Reich, Kaiserin" ref="https://d-nb.info/gnd/118651102">la petite</persName> continue à aller bien, le tems ayant été
+<lb/><persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721"><persName key="Augusta, Deutsches Reich, Kaiserin" ref="https://d-nb.info/gnd/118651102">les enfans</persName></persName> et moi; <persName key="Augusta, Deutsches Reich, Kaiserin" ref="https://d-nb.info/gnd/118651102">la petite</persName> continue à aller bien, le tems ayant été
 <lb/>superbe, elle a été dehors pendant quelque tems. Daignez me permettre
 <lb/>de Vous renouveller encore ici chère Maman mes actions de grâce pour
 <lb/>Vos bontés, et de m’y recomander comme à Votre bénédiction pour la
