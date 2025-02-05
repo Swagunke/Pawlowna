@@ -2473,6 +2473,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0076.xml?place_annotation_20250205150146478",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-02-05T14:01:46.478Z",
+	"dcterms:modified": "2025-02-05T14:01:46.478Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/IIwanov",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Iwan Iwanov"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0076.xml?place_annotation_20250205150146478#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0076.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0076.xml?place_annotation_20250205150146478#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[2]/p/placeName[5]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "https://d-nb.info/gnd/4021477-1",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
             <editorialDecl>
                 <p>
@@ -2601,7 +2680,7 @@
 <lb/>Maman, et voyant qu’il n’y auroit rien à faire, ne sachant pas d’ailleurs
 <lb/>jusqu’où il a raison car je ne connois pas assez l’ensemble des choses ni <persName key="Maria Louise Friderike, Sachsen-Altenburg, Herzogin" ref="https://d-nb.info/gnd/104177160">ma
 <lb/>nièce</persName> elle-même [Einschub: pour décider là-dessus], je me suis tue. Il attend <persName key="Paul Friedrich, Mecklenburg-Schwerin, Großherzog" ref="https://d-nb.info/gnd/10222112X">son fils</persName> vers l’automne,
-<lb/>qui ira étudier environ 2 ans à Göttingue. Je me réjouis de savoir les
+<lb/>qui ira étudier environ 2 ans à <placeName key="Göttingen" ref="https://d-nb.info/gnd/4021477-1">Göttingue</placeName>. Je me réjouis de savoir les
 <lb/>noms du fils ou de la fille de Don Nicolas, que j’aime d’avance: je pense
 <lb/>chère Maman que dans 6 semaines ce bambin sera déja entre Vos bras.
 <lb/>Veuille le Ciel protéger la mère et l’enfant, et nous réjouir tous avec Vous!
