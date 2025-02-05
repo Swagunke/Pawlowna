@@ -3456,7 +3456,6 @@
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0076.xml?person_annotation_20250205151107398",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-02-05T14:11:07.398Z",
-	"dcterms:modified": "2025-02-05T14:11:07.398Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -3483,12 +3482,12 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0076.xml?person_annotation_20250205151107398#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[3]/p/persName[9]"
+			"rdf:value": "TEI/text/body/div[3]/p/persName[10]"
 		}
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://d-nb.info/gnd/100718337",
+		"@id": "https://d-nb.info/gnd/119330857",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -3647,6 +3646,85 @@
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
 		"@id": "https://d-nb.info/gnd/136421288",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0076.xml?person_annotation_20250205151944955",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-02-05T14:19:44.955Z",
+	"dcterms:modified": "2025-02-05T14:19:44.955Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/IIwanov",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Iwan Iwanov"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0076.xml?person_annotation_20250205151944955#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0076.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0076.xml?person_annotation_20250205151944955#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[3]/p/persName[9]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://d-nb.info/gnd/119312700",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -3822,7 +3900,7 @@
 <lb/>déplaisirs que ma soeur m’a également dit avoir éprouvé de la part des <persName key="Wilhelmine, Preußen, Prinzessin" ref="https://d-nb.info/gnd/122629825"><persName key="Friederike Luise, Braunschweig-Lüneburg, Prinzessin" ref="https://d-nb.info/gnd/136421288">pr[ince]sses douairières</persName></persName>,
 <lb/>d’abord je ne sais pas assez au juste ce que c’est, ensuite je ne m’étonne pas qu’elles
 <lb/>de l’ancienne roche comme elles le sont, ayent vu la ruine de l’état dans
-<lb/>les procédés de <persName key="Wilhelm II., Niederlande, König" ref="https://d-nb.info/gnd/100718337">Guilleaume</persName> envers son père, et l’auront marqué à leur guise; on
+<lb/>les procédés de <persName key="Wilhelm II., Niederlande, König" ref="https://d-nb.info/gnd/100718337">Guilleaume</persName> envers <persName key="Wilhelm I., Niederlande, König" ref="https://d-nb.info/gnd/119312700">son père</persName>, et l’auront marqué à leur guise; on
 <lb/>ne peut les en blâmer je trouve, que pour autant qu’elles auroient agravé le
 <lb/>mal en y joignant l’amertume de leur déplaisir, mais voilà ce que je ne
 <lb/>sais pas, et n’en puis donc juger: s’il y a eu des tracasseries de famille à cette
