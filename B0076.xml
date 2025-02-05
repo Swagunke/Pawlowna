@@ -129,6 +129,9 @@
             <pb facs="01"/>
                 <lb/>No. 316 [1818 März 27 – April 2]
 <lb/>fol. 63r
+            </p>
+            <div type="letter" n="01">
+            <p>
 <lb/>Weymar. Vendredi 15/27 mars 1818.
 <lb/>
 <lb/>Ma bonne et chère Maman!
@@ -185,7 +188,10 @@
 <lb/>fol. 64r
 <lb/>toute émue, lisant et relisant Votre lettre: je dépose à Vos pieds encore une fois
 <lb/>l’hommage de ma reconnoissance, chère Maman, en Vous demandant Votre bénédiction.
-<lb/>
+            </p>
+            </div>
+            <div type="letter" n="02">
+            <p>
 <lb/>Samedi, le 16/28 mars.
 <lb/>
 <lb/>Chère Maman! La description que Vous avez daigné me faire de l’inauguration
@@ -231,7 +237,10 @@
 <lb/>Veuille le Ciel protéger la mère et l’enfant, et nous réjouir tous avec Vous!
 <lb/>Je Vous baise les mains de tout mon coeur chère Maman, et me mets à
 <lb/>Vos pieds mille fois.
-<lb/>
+            </p>
+            </div>
+            <div type="letter" n="03">
+            <p>
 <lb/>Dimanche, le 17/29 mars.
 <lb/>
 <lb/>Chère Maman, j’ai eu le bonheur de Vous écrire par la poste du jour: je
@@ -282,7 +291,10 @@
 <lb/>l’on ne peut pas prévoir, et son devoir rempli tout est dit, car on ne sauroit
 <lb/>forcer ni la conviction ni la tendresse. Permettez-moi de Vous baiser les mains
 <lb/>de tout mon coeur chère Maman.
-<lb/>
+            </p>
+            </div>
+            <div type="letter" n="04">
+            <p>
 <lb/>Lundi, 18/30 mars.
 <lb/>
 <lb/>Chère Maman, j’en viens actuellement à ce qui concerne ce païs-ci, et
@@ -327,7 +339,10 @@
 <lb/>une tache éternelle. Et après cela ne faut-il pas prier Dieu de nous préser{ver}
 <lb/>de toute exaltation! Je me mets de tout mon coeur à Vos pieds chère
 <lb/>Maman.
-<lb/>
+            </p>
+            </div>
+            <div type="letter" n="05">
+            <p>
 <lb/>Mardi, 19/31 mars.
 <lb/>
 <lb/>Chère et bonne Maman, le c[om]te et la c[om]t[e]sse Edeling sont arrivés hier
@@ -372,7 +387,10 @@
 <lb/>fol. 67v
 <lb/>pas de très bien dormir. Les petites et moi nous nous mettons à Vos pieds
 <lb/>chère Maman, en Vous baisant les mains.
-<lb/>
+            </p>
+            </div>
+            <div type="letter" n="06">
+            <p>
 <lb/>Mécredi, 20 mars/ 1 avril.
 <lb/>
 <lb/>Chère Maman, la poste m’a mise en possession de Votre chère
@@ -418,6 +436,7 @@
 <lb/>la plus soumise et obéissante
 <lb/>fille, Marie.
             </p>
+            </div>
         </body>
     </text>
 </TEI>
