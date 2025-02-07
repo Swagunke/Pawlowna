@@ -8213,7 +8213,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250105214912822#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/seg[22]"
+			"rdf:value": "TEI/text/body/p/seg[23]"
 		}
 	},
 	"oa:hasBody": {
@@ -8291,7 +8291,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250105214939768#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/seg[23]"
+			"rdf:value": "TEI/text/body/p/seg[24]"
 		}
 	},
 	"oa:hasBody": {
@@ -9238,7 +9238,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250106131835384#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/seg[24]"
+			"rdf:value": "TEI/text/body/p/seg[25]"
 		}
 	},
 	"oa:hasBody": {
@@ -9711,7 +9711,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250106132350985#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/seg[25]"
+			"rdf:value": "TEI/text/body/p/seg[26]"
 		}
 	},
 	"oa:hasBody": {
@@ -10184,7 +10184,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250106133053282#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/seg[26]"
+			"rdf:value": "TEI/text/body/p/seg[27]"
 		}
 	},
 	"oa:hasBody": {
@@ -10342,7 +10342,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250106133210748#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/seg[28]"
+			"rdf:value": "TEI/text/body/p/seg[29]"
 		}
 	},
 	"oa:hasBody": {
@@ -10579,7 +10579,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250106133824004#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/seg[30]"
+			"rdf:value": "TEI/text/body/p/seg[31]"
 		}
 	},
 	"oa:hasBody": {
@@ -10658,7 +10658,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250106133850193#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/seg[31]"
+			"rdf:value": "TEI/text/body/p/seg[32]"
 		}
 	},
 	"oa:hasBody": {
@@ -11764,7 +11764,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250106140013365#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/seg[34]"
+			"rdf:value": "TEI/text/body/p/seg[35]"
 		}
 	},
 	"oa:hasBody": {
@@ -12554,7 +12554,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250106142756759#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/seg[35]"
+			"rdf:value": "TEI/text/body/p/seg[36]"
 		}
 	},
 	"oa:hasBody": {
@@ -12870,7 +12870,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250106143241569#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/seg[36]"
+			"rdf:value": "TEI/text/body/p/seg[37]"
 		}
 	},
 	"oa:hasBody": {
@@ -14529,7 +14529,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250106145413069#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/seg[37]"
+			"rdf:value": "TEI/text/body/p/seg[38]"
 		}
 	},
 	"oa:hasBody": {
@@ -14686,7 +14686,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250106150601061#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/seg[27]"
+			"rdf:value": "TEI/text/body/p/seg[28]"
 		}
 	},
 	"oa:hasBody": {
@@ -14764,7 +14764,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250106150716281#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/seg[29]"
+			"rdf:value": "TEI/text/body/p/seg[30]"
 		}
 	},
 	"oa:hasBody": {
@@ -14842,7 +14842,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250106150738960#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/seg[38]"
+			"rdf:value": "TEI/text/body/p/seg[39]"
 		}
 	},
 	"oa:hasBody": {
@@ -15078,7 +15078,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250106151205238#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/seg[39]"
+			"rdf:value": "TEI/text/body/p/seg[40]"
 		}
 	},
 	"oa:hasBody": {
@@ -15709,7 +15709,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250106152056226#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/seg[40]"
+			"rdf:value": "TEI/text/body/p/seg[41]"
 		}
 	},
 	"oa:hasBody": {
@@ -17841,7 +17841,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250207195627876#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/seg[32]"
+			"rdf:value": "TEI/text/body/p/seg[33]"
 		}
 	},
 	"oa:hasBody": {
@@ -17919,7 +17919,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250207195645056#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/seg[33]"
+			"rdf:value": "TEI/text/body/p/seg[34]"
 		}
 	},
 	"oa:hasBody": {
@@ -18078,6 +18078,85 @@
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250207201240215#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/p/seg[15]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "fabio:UncontrolledVocabulary",
+		"dc:format": "text/xml",
+		"rdf:value": "Zeitungswesen"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250207201618475",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-02-07T19:16:18.475Z",
+	"dcterms:modified": "2025-02-07T19:16:18.475Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/IIwanov",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Iwan Iwanov"
+	},
+	"oa:motivatedBy": "oa:tagging",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250207201618475#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250207201618475#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p/seg[22]"
 		}
 	},
 	"oa:hasBody": {
@@ -18408,7 +18487,7 @@ d’eux</persName> même à ce que l’on assure étoit au fait des projets [Ein
 <lb/>Jeudi, 22 novembre/ 4 décembre.
 <lb/>
 <lb/>Chère Maman! J’ai également eu ce matin le bonheur de Vous écrire
-<lb/>par la poste du jour, et je ne sais pas grand-chose. Les gazettes sont remplies des
+<lb/>par la poste du jour, et je ne sais pas grand-chose. Les gazettes<seg type="keyword"><term>Zeitungswesen</term></seg> sont remplies des
 <lb/>regrets de <placeName key="England" ref="https://d-nb.info/gnd/4014770-8">la nation angloise</placeName> sur la mort de <persName key="Charlotte Augusta, Großbritannien, Prinzessin" ref="https://d-nb.info/gnd/121701573">la pr[ince]sse Charlotte</persName>, et on le témoigne
 <lb/>si vivement que l’on est forcé à la fois de croire que des 6 princes qui lui restent aucun
 <lb/>ne possède l’estime publique. J’ai été fort affectée hier soir par la nouvelle
