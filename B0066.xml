@@ -454,7 +454,6 @@
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0066.xml?person_annotation_20250203155917153",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-02-03T14:59:17.153Z",
-	"dcterms:modified": "2025-02-03T14:59:17.153Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -481,7 +480,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0066.xml?person_annotation_20250203155917153#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[3]/p/persName[8]"
+			"rdf:value": "TEI/text/body/div[3]/p/persName[7]"
 		}
 	},
 	"oa:hasBody": {
@@ -770,7 +769,6 @@
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0066.xml?person_annotation_20250203160525332",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-02-03T15:05:25.332Z",
-	"dcterms:modified": "2025-02-03T15:05:25.332Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -797,7 +795,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0066.xml?person_annotation_20250203160525332#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[3]/p/persName[6]"
+			"rdf:value": "TEI/text/body/div[3]/p/persName[5]"
 		}
 	},
 	"oa:hasBody": {
@@ -849,7 +847,6 @@
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0066.xml?person_annotation_20250203160548970",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-02-03T15:05:48.970Z",
-	"dcterms:modified": "2025-02-03T15:05:48.970Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -876,7 +873,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0066.xml?person_annotation_20250203160548970#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[3]/p/persName[7]"
+			"rdf:value": "TEI/text/body/div[3]/p/persName[6]"
 		}
 	},
 	"oa:hasBody": {
@@ -2653,7 +2650,7 @@
             <p>
 <lb/>Mécredi, 27 février/ 11 mars.
 <lb/>
-<lb/>Chère <persName key="Maria, Russland, Zarin" ref="https://d-nb.info/gnd/11933075X">Maman</persName>, j’arrive actuellement au No. 13, et je puis dire avoir pensé
+<lb/>Chère <persName key="Maria, Russland, Zarin" ref="https://d-nb.info/gnd/11933075X">Maman</persName>, j’arrive actuellement au No. 13B_0095, et je puis dire avoir pensé
 <lb/>comme j’y pense chaque année à l’impression que certaines dattes Vous font épreuve,
 <lb/>celle du 1 de février v.st. ne m’a pas échappé: et cette année-ci où Vous serez loin
 <lb/>des objets de réminiscence, ne sera peut-être pas un mal. Les visites de <persName key="Aleksandr I., Russland, Zar" ref="https://d-nb.info/gnd/118501852">mon frère</persName>
@@ -2664,7 +2661,7 @@
 <lb/>allées couvertes du parc, mais l’air étoit bien désagréable, enfin me voici sur
 <lb/>le point de devoir faire ma toilette, et je n’ai plus que le tems de me mettre à
 <lb/>Vos pieds chère Maman, en Vous baisant mille fois les mains, autant en fait(!)
-<lb/><persName ref="P_0012">le pr[ince]</persName> et <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721"><persName key="Augusta, Deutsches Reich, Kaiserin" ref="https://d-nb.info/gnd/118651102">les petites</persName></persName>; j’embrasse frères, soeurs et <persName key="Lieven, Charlotte Karlowna de" ref="https://d-nb.info/gnd/115603972">notre chère c[om]t[e]sse</persName>, et suis avec
+<lb/>le pr[ince] et <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721"><persName key="Augusta, Deutsches Reich, Kaiserin" ref="https://d-nb.info/gnd/118651102">les petites</persName></persName>; j’embrasse frères, soeurs et <persName key="Lieven, Charlotte Karlowna de" ref="https://d-nb.info/gnd/115603972">notre chère c[om]t[e]sse</persName>, et suis avec
 <lb/>le plus éternel dévouement,
 <lb/>
 <lb/>de ma bonne et chère Maman,
