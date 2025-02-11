@@ -1269,7 +1269,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0073.xml?keyword_annotation_20250205122541106#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p/seg[3]"
+			"rdf:value": "TEI/text/body/div[2]/p/seg[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -1950,10 +1950,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0073.xml?keyword_annotation_20250211204602925",
+	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0073.xml?person_annotation_20250211204657870",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-02-11T19:46:02.925Z",
-	"dcterms:modified": "2025-02-11T19:46:02.925Z",
+	"dcterms:created": "2025-02-11T19:46:57.870Z",
+	"dcterms:modified": "2025-02-11T19:46:57.870Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -1962,9 +1962,9 @@
 		],
 		"cwrc:hasName": "Iwan Iwanov"
 	},
-	"oa:motivatedBy": "oa:tagging",
+	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0073.xml?keyword_annotation_20250211204602925#Target",
+		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0073.xml?person_annotation_20250211204657870#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0073.xml",
@@ -1978,15 +1978,15 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0073.xml?keyword_annotation_20250211204602925#Selector",
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0073.xml?person_annotation_20250211204657870#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p/seg[2]"
+			"rdf:value": "TEI/text/body/div[3]/p/persName[6]"
 		}
 	},
 	"oa:hasBody": {
-		"@type": "fabio:UncontrolledVocabulary",
-		"dc:format": "text/xml",
-		"rdf:value": "B_0098"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://d-nb.info/gnd/102479844",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -2051,7 +2051,7 @@
             <p>
 <lb/>Samedi, 9/20 mars.
 <lb/>
-<lb/>Chère <persName key="Maria, Russland, Zarin" ref="https://d-nb.info/gnd/11933075X">Maman</persName>, Vos deux chères lettres du 8 au 14 février, Nos. 15<seg type="keyword"><term>B_0097</term></seg> et 16<seg type="keyword"><term>B_0098</term></seg>, sont
+<lb/>Chère <persName key="Maria, Russland, Zarin" ref="https://d-nb.info/gnd/11933075X">Maman</persName>, Vos deux chères lettres du 8 au 14 février, Nos. 15<seg type="keyword"><term>B_0097</term></seg> et 16B_0098, sont
 <lb/>entre mes mains, et j’en dépose à Vos pieds l’hommage de ma reconnoissance, elles sont
 <lb/>
             <pb facs="02"/>
@@ -2088,7 +2088,7 @@
 <lb/>fol. 59r
 <lb/>à pied, ce qui m’est très recomandé, et suis forcée chère Maman d’en rester là,
 <lb/>et de Vous baiser les mains de tout mon coeur, en embrassant la famille et <persName key="Lieven, Charlotte Karlowna de" ref="https://d-nb.info/gnd/115603972">la c[om]t[e]sse</persName>.
-<lb/><persName ref="P_0012">Le pr[ince]</persName> et <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721"><persName key="Augusta, Deutsches Reich, Kaiserin" ref="https://d-nb.info/gnd/118651102">les petites</persName></persName> sont à Vos pieds chère Maman, et je suis à jamais
+<lb/><persName key="Karl Friedrich, Sachsen-Weimar-Eisenach, Großherzog" ref="https://d-nb.info/gnd/102479844">Le pr[ince]</persName> et <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721"><persName key="Augusta, Deutsches Reich, Kaiserin" ref="https://d-nb.info/gnd/118651102">les petites</persName></persName> sont à Vos pieds chère Maman, et je suis à jamais
 <lb/>avec le plus éternel et respectueux dévouement,
 <lb/>
 <lb/>de ma très chère Maman,
