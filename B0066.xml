@@ -612,7 +612,6 @@
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0066.xml?person_annotation_20250203160141863",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-02-03T15:01:41.863Z",
-	"dcterms:modified": "2025-02-03T15:01:41.863Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -639,7 +638,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0066.xml?person_annotation_20250203160141863#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/persName[4]"
+			"rdf:value": "TEI/text/body/div/p/persName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -691,7 +690,6 @@
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0066.xml?person_annotation_20250203160342902",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-02-03T15:03:42.902Z",
-	"dcterms:modified": "2025-02-03T15:03:42.902Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -718,7 +716,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0066.xml?person_annotation_20250203160342902#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/persName[6]"
+			"rdf:value": "TEI/text/body/div/p/persName[5]"
 		}
 	},
 	"oa:hasBody": {
@@ -928,7 +926,6 @@
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0066.xml?person_annotation_20250203160655589",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-02-03T15:06:55.589Z",
-	"dcterms:modified": "2025-02-03T15:06:55.589Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -955,7 +952,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0066.xml?person_annotation_20250203160655589#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/persName[7]"
+			"rdf:value": "TEI/text/body/div/p/persName[6]"
 		}
 	},
 	"oa:hasBody": {
@@ -2394,6 +2391,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0066.xml?keyword_annotation_20250211203158544",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-02-11T19:31:58.544Z",
+	"dcterms:modified": "2025-02-11T19:31:58.544Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/IIwanov",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Iwan Iwanov"
+	},
+	"oa:motivatedBy": "oa:tagging",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0066.xml?keyword_annotation_20250211203158544#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0066.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0066.xml?keyword_annotation_20250211203158544#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/seg"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "fabio:UncontrolledVocabulary",
+		"dc:format": "text/xml",
+		"rdf:value": "B_0094"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
             <editorialDecl>
                 <p>
@@ -2427,7 +2503,7 @@
 <lb/>
 <lb/>Ma bonne et chère <persName key="Maria, Russland, Zarin" ref="https://d-nb.info/gnd/11933075X">Maman</persName>!
 <lb/>
-<lb/>Deux de Vos chères lettres Nos. 12 et 13, depuis le 29 janvier, jusqu’au 4 février
+<lb/>Deux de Vos chères lettres Nos. 12<seg type="keyword"><term>B_0094</term></seg> et 13<seg type="keyword">B_0095</seg>, depuis le 29 janvier, jusqu’au 4 février
 <lb/>viennent de me parvenir, et je ne crois pas devoir remettre d’un instant à Vous en
 <lb/>exprimer ma sincère reconnoissance. Tout ce que Vous avez daigné me dire à l’occasion de
 <lb/>ma fête, de si affectueux et de si tendre, a vivement retenti dans mon coeur, et j’ose
@@ -2440,7 +2516,7 @@
 <lb/>avez daigné le faire: il est vrai que la crainte d’être méconnue par Vous deux me
 <lb/>tourmentoit fort, et que je suis extrêmement aise de pouvoir me tranquiliser, en
 <lb/>ajoutant de nouvelles actions de grâces à celles que je Vous dois [Einschub: à tous deux] déja, à tant de titres.
-<lb/><persName ref="P_0012">Le prince</persName> est bien heureux de sa lettre et se propose de Vous l’exprimer lui-même,
+<lb/>Le prince est bien heureux de sa lettre et se propose de Vous l’exprimer lui-même,
 <lb/>chère Maman, je suis extrêmement touchée de la peinture que Vous lui avez
 <lb/>faite de mes intentions à son égard. J’ai lu à <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">Marie</persName> ce que Vous avez eu la
 <lb/>bonté de me marquer au sujet du compte rendu par <persName ref="P_0093">Mr. Ojarowsky</persName> sur son
