@@ -1557,10 +1557,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0055.xml?keyword_annotation_20250211195235105",
+	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0055.xml?person_annotation_20250211195359878",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-02-11T18:52:35.105Z",
-	"dcterms:modified": "2025-02-11T18:52:35.105Z",
+	"dcterms:created": "2025-02-11T18:53:59.878Z",
+	"dcterms:modified": "2025-02-11T18:53:59.878Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -1569,9 +1569,9 @@
 		],
 		"cwrc:hasName": "Iwan Iwanov"
 	},
-	"oa:motivatedBy": "oa:tagging",
+	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0055.xml?keyword_annotation_20250211195235105#Target",
+		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0055.xml?person_annotation_20250211195359878#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0055.xml",
@@ -1585,15 +1585,15 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0055.xml?keyword_annotation_20250211195235105#Selector",
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0055.xml?person_annotation_20250211195359878#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p/seg[2]"
+			"rdf:value": "TEI/text/body/div[3]/p/persName[2]"
 		}
 	},
 	"oa:hasBody": {
-		"@type": "fabio:UncontrolledVocabulary",
-		"dc:format": "text/xml",
-		"rdf:value": "B_0085"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://d-nb.info/gnd/102479844",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1652,7 +1652,7 @@
 <lb/>
 <lb/>La journée d’hier chère <persName key="Maria, Russland, Zarin" ref="https://d-nb.info/gnd/11933075X">Maman</persName>, où je n’ai pu ressaisir la plume, a
 <lb/>continué fort heureusement pour moi, j’ai eu le bonheur de recevoir Vos deux lettres
-<lb/>Nos. 2<seg type="keyword"><term>B_0084</term></seg> et 3<seg type="keyword"><term>B_0085</term></seg>, pour lesquelles je dépose mes remercimens à Vos pieds, ensuite j’ai reçu
+<lb/>Nos. 2<seg type="keyword"><term>B_0084</term></seg> et 3B_0085, pour lesquelles je dépose mes remercimens à Vos pieds, ensuite j’ai reçu
 <lb/>de la part de ma famille ici [Einschub: de mes ent---] et du nombre de personnes des témoignages bien grands
 <lb/>d’intéret et d’affection. Le soir, <persName key="Karl August, Sachsen-Weimar-Eisenach, Großherzog" ref="https://d-nb.info/gnd/11856014X">le GrDuc</persName> m’a donné une fête charmante, tant par
 <lb/>le mérite de l’invention qui lui appartient, que par celui de l’execution; j’aurai
@@ -1694,7 +1694,7 @@
 <lb/>
             <pb facs="03"/>
 <lb/>fol. 32r
-<lb/>sur ce sujet si intéressant pour moi, et que je ne puis traiter aujourd’huy. <persName ref="P_0012">Le
+<lb/>sur ce sujet si intéressant pour moi, et que je ne puis traiter aujourd’huy. <persName key="Karl Friedrich, Sachsen-Weimar-Eisenach, Großherzog" ref="https://d-nb.info/gnd/102479844">Le
 <lb/>
 prince</persName> se met à Vos pieds chère Maman; je m’apperçois qu’il se cer---
 <lb/>en russe, mais je ne fais semblant de rien, et ne Vous en parle que pour Vous
