@@ -691,6 +691,7 @@
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0063.xml?keyword_annotation_20250203132215913",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-02-03T12:22:15.913Z",
+	"dcterms:modified": "2025-02-03T12:22:15.913Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -717,7 +718,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0063.xml?keyword_annotation_20250203132215913#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/seg[2]"
+			"rdf:value": "TEI/text/body/div/p/seg"
 		}
 	},
 	"oa:hasBody": {
@@ -2188,10 +2189,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0063.xml?keyword_annotation_20250211202720920",
+	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0063.xml?person_annotation_20250211202825361",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-02-11T19:27:20.920Z",
-	"dcterms:modified": "2025-02-11T19:27:20.920Z",
+	"dcterms:created": "2025-02-11T19:28:25.361Z",
+	"dcterms:modified": "2025-02-11T19:28:25.361Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -2200,9 +2201,9 @@
 		],
 		"cwrc:hasName": "Iwan Iwanov"
 	},
-	"oa:motivatedBy": "oa:tagging",
+	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0063.xml?keyword_annotation_20250211202720920#Target",
+		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0063.xml?person_annotation_20250211202825361#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0063.xml",
@@ -2216,15 +2217,15 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0063.xml?keyword_annotation_20250211202720920#Selector",
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0063.xml?person_annotation_20250211202825361#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/seg"
+			"rdf:value": "TEI/text/body/div[3]/p/persName[3]"
 		}
 	},
 	"oa:hasBody": {
-		"@type": "fabio:UncontrolledVocabulary",
-		"dc:format": "text/xml",
-		"rdf:value": "B_0093"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://d-nb.info/gnd/102479844",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -2268,7 +2269,7 @@
 <lb/>
 <lb/>Ma bonne et chère <persName key="Maria, Russland, Zarin" ref="https://d-nb.info/gnd/11933075X">Maman</persName>!
 <lb/>
-<lb/>Votre No. 11, depuis le 25 jusqu’au 28 janvier exclusivement<seg type="keyword"><term>B_0093</term></seg>, est entre mes mains
+<lb/>Votre No. 11, depuis le 25 jusqu’au 28 janvier exclusivementB_0093, est entre mes mains
 <lb/>depuis peu d’instans chère Maman, et je me hâte d’en déposer à Vos pieds l’hommage
 <lb/>de ma reconnoissance, étant fort heureuse d’y avoir trouvée des détails d’un grand intéret
 <lb/>pour moi, entr’autres sur les occupations de notre chère <persName key="Aleksandr I., Russland, Zar" ref="https://d-nb.info/gnd/118501852">Emp[ereur]</persName> pendant son
@@ -2325,7 +2326,7 @@
 <lb/>fol. 46r
 <lb/>ignorance est complette, j’avoue n’en pas être fâchée, et me tiens tranquile dans mon
 <lb/>coin; <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721"><persName key="Augusta, Deutsches Reich, Kaiserin" ref="https://d-nb.info/gnd/118651102">mes enfans</persName></persName> se portent bien et Vous baisent les mains le plus tendrement
-<lb/>possible chère Maman. <persName ref="P_0012">Le prince</persName> se met à Vos pieds, fort heureux de Vortre lettre,
+<lb/>possible chère Maman. <persName key="Karl Friedrich, Sachsen-Weimar-Eisenach, Großherzog" ref="https://d-nb.info/gnd/102479844">Le prince</persName> se met à Vos pieds, fort heureux de Vortre lettre,
 <lb/>j’embrasse frères et soeurs et notre chère c[om]t[e]sse, et Vous baise les mains chère
 <lb/>Maman, étant avec le plus respectueux ainsi que le plus profond attachement,
 <lb/>
