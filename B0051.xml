@@ -1006,7 +1006,6 @@
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0051.xml?keyword_annotation_20250129181659342",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-29T17:16:59.342Z",
-	"dcterms:modified": "2025-01-29T17:16:59.342Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -1033,7 +1032,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0051.xml?keyword_annotation_20250129181659342#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p/seg"
+			"rdf:value": "TEI/text/body/div[2]/p/seg[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -1287,6 +1286,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0051.xml?keyword_annotation_20250211183914800",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-02-11T17:39:14.800Z",
+	"dcterms:modified": "2025-02-11T17:39:14.800Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/IIwanov",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Iwan Iwanov"
+	},
+	"oa:motivatedBy": "oa:tagging",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0051.xml?keyword_annotation_20250211183914800#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0051.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0051.xml?keyword_annotation_20250211183914800#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[2]/p/seg"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "fabio:UncontrolledVocabulary",
+		"dc:format": "text/xml",
+		"rdf:value": "B_0146"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
             <editorialDecl>
                 <p>
@@ -1344,7 +1422,7 @@
 <lb/>
             <pb facs="02"/>
 <lb/>fol. 25v
-<lb/>rien de Russie, vient de me mettre en possession de Vos deux Nos. 134, et 135, Vous
+<lb/>rien de Russie, vient de me mettre en possession de Vos deux Nos. 134<seg type="keyword"><term>B_0146</term></seg>, et 135, Vous
 <lb/>jugez ma joie chère Maman, et je me hâte de Vous l’exprimer, de même
 <lb/>que ma reconnoissance. Je suis bien heureuse de Vous savoir bien portante et
 <lb/>satisfaite de Votre séjour dans <placeName key="Moskau" ref="https://d-nb.info/gnd/4074987-3">la bonne ville</placeName>, et le bal du <persName key="Tormasov, Aleksandr Petrovič" ref="https://d-nb.info/gnd/1202172121">c[om]te Tormassoff</persName>
