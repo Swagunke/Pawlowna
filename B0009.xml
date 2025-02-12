@@ -250,7 +250,7 @@
 	"oa:hasBody": {
 		"@type": "fabio:UncontrolledVocabulary",
 		"dc:format": "text/xml",
-		"rdf:value": "ektüre/Bildungsinteressen"
+		"rdf:value": "Lektüre/Bildungsinteressen"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -489,7 +489,7 @@
 <lb/>sur moi m’ont fait fonder une messe en sa mémoire, mais je n’ai pu y assister
 <lb/>aujourd’huy, ne pouvant rester longtems debout. <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721"><persName key="Augusta, Deutsches Reich, Kaiserin" ref="https://d-nb.info/gnd/118651102">Mes enfans</persName></persName> se portent bien et
 <lb/>se mettent à Vos pieds chère Maman, ils sont d’une gaieté folle, et je continue
-<lb/>à être contente de <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">Marie</persName>. Vous me demandez ce que je lis<seg type="keyword"><term>Lektüre/Bildungsinteressen</term></seg>, j’achève le 4me vol[ume] de
+<lb/>à être contente de <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">Marie</persName>. Vous me demandez ce que je lis<seg><term>Lektüre/Bildungsinteressen</term></seg>, j’achève le 4me vol[ume] de
 <lb/><persName key="Thucydides" ref="https://d-nb.info/gnd/11862234X">Thucydide</persName> le 3[me] de l’ouvrage de <persName key="Storch, Heinrich Friedrich von" ref="https://d-nb.info/gnd/118897756">Storch</persName> sur l’économie politique, et j’ai lu ces jours-
 <lb/>ci un traité sur la littérature <placeName key="Spanien" ref="https://d-nb.info/gnd/4055964-6">espagnole</placeName> qui m’a fait plaisir. Le tems est affreux
 <lb/>et je ne puis sortir qu’en voiture, ce qui est furieusement ennuyeux, mais encore
@@ -512,8 +512,7 @@
 <lb/><persName key="Luther, Martin" ref="https://d-nb.info/gnd/118575449">Luther</persName> ni de la Réformation<seg type="keyword"><term>Reformation</term></seg>, et j’en suis aise car cela commençoit à devenir
 <lb/>synonime de mes maux de coeur. En attendant <persName key="Hardenberg, Karl August von" ref="https://d-nb.info/gnd/118545906">le pr[ince] Hardenberg</persName> arrive demain,
 <lb/>et <persName key="Heinrich XV, Fürst von Reuss-Greiz" ref="https://d-nb.info/gnd/1089499000">le pr[ince] Reuss</persName> ancien commandant général en <placeName key="Galicien" ref="https://d-nb.info/gnd/4019119-9">Gallicie</placeName> est ici et <persName key="Ida Karoline Luise, Prinzessin zu Waldeck-Pyrmont" ref="P_0037"><choice><sic>la c[om]t[e]sse de
-</sic><corr>Unsichere Attribuierung</corr></choice><lb/>
-la Lippe-Bückebourg</persName> aussi: <persName key="Heinrich XV, Fürst von Reuss-Greiz" ref="https://d-nb.info/gnd/1089499000">le pr[ince] Reuss</persName> est grand chasseur. J’embrasse
+<lb/>la Lippe-Bückebourg</sic><corr>Unsichere Attribuierung</corr></choice></persName> aussi: <persName key="Heinrich XV, Fürst von Reuss-Greiz" ref="https://d-nb.info/gnd/1089499000">le pr[ince] Reuss</persName> est grand chasseur. J’embrasse
 <lb/>frères et soeurs et <persName key="Lieven, Charlotte Karlowna de" ref="https://d-nb.info/gnd/115603972">notre chère c[om]t[e]sse</persName>, et Vous baise les mains de tout mon
 <lb/>coeur, <persName key="Karl Friedrich, Sachsen-Weimar-Eisenach, Großherzog" ref="https://d-nb.info/gnd/102479844">le pr[ince]</persName> et <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721"><persName key="Augusta, Deutsches Reich, Kaiserin" ref="https://d-nb.info/gnd/118651102">les petites</persName></persName> se mettent à Vos pieds chère Maman, et je suis
 <lb/>à jamais avec le plus respectueux et éternel dévouement,
