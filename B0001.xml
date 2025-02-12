@@ -481,7 +481,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0001.xml?person_annotation_20250212125808091#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[3]/p/persName[2]"
+			"rdf:value": "TEI/text/body/div[3]/p/persName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -1525,7 +1525,7 @@
             <p>
 <lb/>Mécredi, le 24 octobre/ 5 novembre 1817.
 <lb/>
-<lb/>Chère <persName key="Maria, Russland, Zarin" ref="https://d-nb.info/gnd/11933075X">Maman</persName>, l’on vient de me dire que Mad[ame] Tatischeff, épouse du
+<lb/>Chère <persName key="Maria, Russland, Zarin" ref="https://d-nb.info/gnd/11933075X">Maman</persName>, l’on vient de me dire que <persName>Mad[ame] Tatischeff</persName>, épouse du
 <lb/>ministre de Russie en Espagne étoit ici, et demandoit à me voir, je la
 <lb/>recevrai tantôt avant dinner, je suppose qu’elle va en Russie; notre tems s’est
 <lb/>changé et a tourné à la pluye; une lettre de l’Archiduc Joseph que j’ai
