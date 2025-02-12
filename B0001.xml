@@ -2429,7 +2429,6 @@
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0001.xml?person_annotation_20250212140424137",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-02-12T13:04:24.137Z",
-	"dcterms:modified": "2025-02-12T13:04:24.137Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -2456,7 +2455,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0001.xml?person_annotation_20250212140424137#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/persName[5]"
+			"rdf:value": "TEI/text/body/div[2]/p/persName[5]"
 		}
 	},
 	"oa:hasBody": {
@@ -2521,7 +2520,7 @@
 <lb/>Dieu, je considère de même cette circonstance de ma vie, et me répète, Seigneur que ta volonté
 <lb/>se fasse. Je ne sais où ni comment j’ai pris un torticolis qui me rend le cou si
 <lb/>roide qu’à peine je peux écrire, et qui joint à d’autres incommodités me force
-<lb/>à garder ma chambre. <persName key="Karl Friedrich, Sachsen-Weimar-Eisenach, Großherzog" ref="https://d-nb.info/gnd/102479844">Le prince</persName> et <persName key="Karl August, Sachsen-Weimar-Eisenach, Großherzog" ref="https://d-nb.info/gnd/11856014X">ses parens</persName> <persName key="Luise, Sachsen-Weimar-Eisenach, Großherzogin" ref="https://d-nb.info/gnd/115363688">se</persName> mettent à Vos pieds chère
+<lb/>à garder ma chambre. <persName key="Karl Friedrich, Sachsen-Weimar-Eisenach, Großherzog" ref="https://d-nb.info/gnd/102479844">Le prince</persName> et <persName key="Karl August, Sachsen-Weimar-Eisenach, Großherzog" ref="https://d-nb.info/gnd/11856014X"><persName key="Luise, Sachsen-Weimar-Eisenach, Großherzogin" ref="https://d-nb.info/gnd/115363688">ses parens</persName></persName> se mettent à Vos pieds chère
 <lb/>Maman, et me paroissent fort contens, je Vous baise les mains de tout mon coeur.
 <lb/>
             </p>
