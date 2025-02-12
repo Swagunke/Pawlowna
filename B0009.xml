@@ -1314,84 +1314,6 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0009.xml?place_annotation_20241217141315354",
-	"type": "oa:Annotation",
-	"dcterms:created": "2024-12-17T13:13:15.354Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/IIwanov",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Iwan Iwanov"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0009.xml?place_annotation_20241217141315354#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0009.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0009.xml?place_annotation_20241217141315354#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/placeName[8]"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:RealPlace",
-		"@id": "https://d-nb.info/gnd/4019119-9",
-		"dc:format": "text/plain"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0009.xml?person_annotation_20241217141454541",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-17T13:14:54.541Z",
@@ -2343,7 +2265,7 @@
 <lb/>jadis j’avois eu le bonheur de voir avec Vous: je me rappelle parfaitement de la bibliothèque
 <lb/>des partriarches, de l’église des 12 Apôtres, de la salle aux huiles, enfin de l’église du
 <lb/>couvent de Wosnésensky; j’aurais donné cher, chère Maman, pour être de la cérémonie
-<lb/>de la fondation de <placeName>l’église du Sauveur</placeName>, car je crois que c’est le nom qu’il est résolu
+<lb/>de la fondation de l’église du Sauveur, car je crois que c’est le nom qu’il est résolu
 <lb/>qu’elle porte, et Vous concevrez avec quel intéret pour cet édifice, je sens battre <placeName key="Russland" ref="https://d-nb.info/gnd/4076899-5">mon
 <lb/>coeur patriote</placeName>, enfin et amen, sur tout cela: j’attens avec impatience la description
 <lb/>de cette grande et belle cérémonie, qui m’émeut d’ici. Malheureusement la mort
