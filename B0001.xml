@@ -129,6 +129,9 @@
             <pb facs="01"/>
             <lb/>No. 241 [1817 Nov. 3-5]
 <lb/>fol. 250r
+            </p>
+            <div type="letter" n="01">
+            <p>
 <lb/>Weymar. Lundi, le 22 octobre/ 3 novembre 1817.
 <lb/>
 <lb/>Ma bonne et chère Maman!
@@ -151,7 +154,11 @@
 <lb/>à garder ma chambre. Le prince et ses parens se mettent à Vos pieds chère
 <lb/>Maman, et me paroissent fort contens, je Vous baise les mains de tout mon coeur.
 <lb/>
+            </p>
+            </div>
             <pb facs="02"/>
+            <div type="letter" n="02">
+            <p>
 <lb/>fol. 250v
 <lb/>Mardi, le 23 octobre/ 4 novembre 1817.
 <lb/>
@@ -169,7 +176,10 @@
 <lb/>fait plaisir, car elle soigne parfaitement. Elle m’a demandé de la mettre à Vos pieds.
 <lb/>Chère Maman comme Russe  et puis comme ancienne élève de l’Institut
 <lb/>je me mets de tout mon coeur à Vos pieds chère chère Maman.
-<lb/>
+            </p>
+            </div>
+            <div type="letter" n="03">
+            <p>
 <lb/>Mécredi, le 24 octobre/ 5 novembre 1817.
 <lb/>
 <lb/>Chère Maman, l’on vient de me dire que Mad[ame] Tatischeff, épouse du
@@ -193,7 +203,8 @@
 <lb/>de ma bonne et chère Maman,
 <lb/>la plus soumise et obéissante
 <lb/>fille, Marie.
-            </p>           
+            </p>
+            </div>         
         </body>
     </text>
 </TEI>
