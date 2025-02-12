@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="null"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -100,85 +103,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0001.xml?place_annotation_20250114134904876",
-	"type": "oa:Annotation",
-	"dcterms:created": "2025-01-14T12:49:04.876Z",
-	"dcterms:modified": "2025-01-14T12:49:04.876Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/Swagunke",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Swagunke"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0001.xml?place_annotation_20250114134904876#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0001.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0001.xml?place_annotation_20250114134904876#Selector",
-			"@type": "oa:XPathSelector"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:RealPlace",
-		"@id": "https://d-nb.info/gnd/4088540-9",
-		"dc:format": "text/plain"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
-	}
-}]]>
-        </rdf:Description>
-      </rdf:RDF></xenoData><encodingDesc>
+        <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><encodingDesc>
             <editorialDecl>
                 <p>
                     
@@ -201,96 +126,72 @@
     <text>
         <body>
             <pb facs="01"/>
-            <div>
-                <opener>
-                    <dateline>
-                        Weymar. Lundi, le 22 Octobre/3 Novembre 1817.
-                    </dateline>
-                    <salute>
-                        Ma bonne et chère Maman!
-                    </salute>
-                </opener>  
-                <p>
-               
-                    Je m’étois flattée de recevoir aujourd’huy la lettre attendue avec tant
-                    <lb/>d’impatience et contenant les détails de Votre arrivée à Moscou, mais mon espoir a
-                    <lb/>été desçu, et je crois que les postes n’étant peut-être pas bien établies directement
-                    <lb/>de <placeName ref="O_0001">Moscou</placeName> ici en sont causes; je me flatte que jeudi, je serai dédommagée
-                    <lb/>de mon attente, et m’en réjouis déjà; en attendant d’autres ordres de Votre
-                    <lb/>part chère <persName ref="P_0001">Maman</persName>, je continue à addresser mes lettres à <placeName ref="O_0001"/>Moscou par
-                    <lb/><placeName ref="O_0002">Pétersbourg</placeName>. Connoissant Vos bontés pour moi chère <persName ref="P_0001">Maman</persName>, je crois devoir Vous
-                    <lb/>faire part d’une chose qui me regarde et qui répond au desir que depuis longtems Vous
-                    <lb/>aviez formé pour moi, et sur laquelle il ne m’est plus possible de garder de doutes puisque
-                    <lb/>tout l’indique; j’en cependant jusqu’à nouvelles enseignes ne dépose cette confidence que
-                    <lb/>dans Votre sein et dans celui de <persName ref="P_0002">notre bonne c[om]tesse</persName>, qui sans doute y prendra part aussi.
-                    <lb/>Pouvant dire en toute vérité m’être entièrement remise de tout ce qui me concerne à
-                    <lb/>Dieu, je considère de même cette circonstance de ma vie, et me répète, Seigneur que ta volonté
-                    <lb/>se fasse. Je ne sais où ni comment j’ai pris un torticolis qui me rend le cou si
-                    <lb/>roide qu’à peine je peux écrire, et qui joint à d’autres incommodités me force
-                    <lb/>à garder ma chamber. Le prince et ses parens se mettent à Vos pieds chère
-                    <lb/>Maman, et me paroissent fort contens, 
-                    
-                </p>
-                <closer>
-                    <salute>
-                        je Vous baise les mains de tout mon coeur.
-                    </salute>
-                </closer>
-                
-            </div>
-            <div>
-                <opener>
-                    <dateline>Mardi, le 23 Octobre/4 Novembre 1817.</dateline>
-                    <lb/>
-                    <lb/><salute>Chère et bonne Maman,</salute>
-                </opener> 
-                <p>mon cou va mieux aujourd’huy, mais je
-                    <lb/>suis si mal à mon aise, que je préfère ne pas sortir de chez moi; nous avons
-                    <lb/>le plus beau tems du monde, et l’on croiroit au printems; les petites vont bien
-                    <lb/>excepté le nez malade d’Auguste, qui est couvert d’une vilaine croute; l’on voit clairement
-                    <lb/>qu’elles fait des dents. Marie en fait une aussi, mais son rhûme l’a quittée;
-                    <lb/>son attention et sa bonne volonté à ses leçons se continuent, de sorte que j’ai tout
-                    <lb/>lieu d’en être contente, elle a beaucoup changé au bien sous ce rapport. Je n’entends
-                    <lb/>plus que les échos de la fête de la Réformation, et j’en suis toute lassée, je crois que
-                    <lb/>cela tient à ma situation du moment, mais cela m’affadit le coeur, et je pense
-                    <lb/>que Vous rirez avec raison chère Maman de l’effet qui en résulte sur moi.
-                    <lb/>La Berg-Ziegesar me tient fidèle compagnie depuis quelques jours, ce qui me
-                    <lb/>fait plaisir, car elle soigne parfaitement. Elle m’a demandé de la mettre à Vos pieds.
-                    <lb/>Chère Maman comme Russe et puis comme ancienne élève de l’in---ilu
-                    <lb/>je me mets de tout mon Coeur à Vos pieds chère chère Maman.
-                    <lb/>
-                </p>
-            </div>
-            <div>   
-            
-             <opener>
-                <lb/><dateline>Mécredi, le 24 Octobre/5 Novembre 1817.</dateline>
-                    <lb/>
-                <lb/><salute>Chère Maman,</salute></opener><p> l’on vient de me dire que Mad[ame] Tatischeff, épouse du
-                    <lb/>ministre de Russie en Espagne étoit ici, et demandois à me voir, je la
-                    <lb/>recevrai tantôt avant dinner, je suppose qu’elle va en Russie; notre tems s’est
-                    <lb/>changé et a tourné à la pluye; une lettre de l’Archiduc Joseph que j’ai
-                    <lb/>
-                
-                <pb facs="02"/>
-                
-                <lb/>reçu hier, me certifie l’existence de ses deux enfans, quoique le petit garçon
-                <lb/>étoit de complexion foible, et qu’il ait déjà été à la mort d’une colique, il s’est
-                <lb/>remis, et le pauvre Archiduc me dit que ses deux enfans font toute sa consolation;
-                <lb/>la pr[ince]sse sa belle-mère reste avec lui cet hyver à Bude, et ira au
-                <lb/>printems avec lui à Schaumbourg; j’espère qu’alors je le vérai. Veuillez embrasser
-                <lb/>mon frère pour moi chère Maman, et lui dire que je lui suis comme toujours
-                <lb/>tendrement attaché; je ne sais pourquoi je crains qu’il ne se moque de moi, à
-                <lb/>présent, mais à Vous je puis dire que le voeu de mon coeur seroit de répéter
-                <lb/>son image. J’embrasse frères et soeurs et notre chère c[om]tesse, et Vous baise les mains,
-                <lb/>tout avec le plus respectueux dévouement,
-                <lb/>
-                <lb/>de ma bonne et chère Maman,
-                <lb/>la plus soumise et obéissante fille,
-                <lb/>Marie.
-                </p>
-            </div>
-            
+            <p>
+            <lb/>No. 241 [1817 Nov. 3-5]
+<lb/>fol. 250r
+<lb/>Weymar. Lundi, le 22 octobre/ 3 novembre 1817.
+<lb/>
+<lb/>Ma bonne et chère Maman!
+<lb/>
+<lb/>Je m’étois flattée de recevoir aujourd’huy la lettre attendue avec tant
+<lb/>d’impatience et contenant les détails de Votre arrivée à Moscou, mais mon espoir a
+<lb/>été desçu, et je crois que les postes n’étant peut-être pas bien établies directement
+<lb/>de Moscou ici en sont causes; je me flatte que jeudi, je serai dédommagée
+<lb/>de mon attente, et m’en réjouis déja; en attendant d’autres ordres de Votre
+<lb/>part chère Maman, je continue à addresser mes lettres à Moscou par
+<lb/>Pétersbourg. Connoissant Vos bontés pour moi chère Maman, je crois devoir Vous
+<lb/>faire part d’une chose qui me regarde et qui répond au desir que depuis longtems Vous
+<lb/>aviez formé pour moi, et sur laquelle il ne m’est plus possible de garder de doutes puisque
+<lb/>tout l’indique; j’en cependant jusqu’à nouvelles enseignes ne dépose cette confidence que
+<lb/>dans Votre sein et dans celui de notre bonne c[om]t[e]sse, qui sans doute y prendra part aussi.
+<lb/>Pouvant dire en toute vérité m’être entièrement remise de tout ce qui me concerne à
+<lb/>Dieu, je considère de même cette circonstance de ma vie, et me répète, Seigneur que ta volonté
+<lb/>se fasse. Je ne sais où ni comment j’ai pris un torticolis qui me rend le cou si
+<lb/>roide qu’à peine je peux écrire, et qui joint à d’autres incommodités me force
+<lb/>à garder ma chambre. Le prince et ses parens se mettent à Vos pieds chère
+<lb/>Maman, et me paroissent fort contens, je Vous baise les mains de tout mon coeur.
+<lb/>
+<lb/>fol. 250v
+<lb/>Mardi, le 23 octobre/ 4 novembre 1817.
+<lb/>
+<lb/>Chère et bonne Maman, mon cou va mieux aujourd’huy, mais je
+<lb/>suis si mal à mon aise, que je préfère ne pas sortir de chez moi; nous avons
+<lb/>le plus beau tems du monde, et l’on se croiroit au printems; les petites vont bien
+<lb/>excepté le nez malade d’Auguste, qui est couvert d’une vilaine croute; l’on voit clairement
+<lb/>qu’elle fait des dents. Marie en fait une aussi, mais son rhume l’a quittée;
+<lb/>son attention et sa bonne volonté à ses leçons se continuent, de sorte que j’ai tout
+<lb/>lieu d’en être contente, elle a beaucoup changé au bien sous ce rapport. Je n’entends
+<lb/>plus que les échos de la fête de la Réformation, et j’en suis toute lassée, je crois que
+<lb/>cela tient à ma situation du moment, mais cela m’affadit le coeur, et je pense
+<lb/>que Vous rirez avec raison chère Maman de l’effet qui en résulte sur moi.
+<lb/>La Berg-Ziegesar me tient fidèle compagnie depuis quelques jours, ce qui me
+<lb/>fait plaisir, car elle soigne parfaitement. Elle m’a demandé de la mettre à Vos pieds.
+<lb/>Chère Maman comme Russe  et puis comme ancienne élève de l’Institut
+<lb/>je me mets de tout mon coeur à Vos pieds chère chère Maman.
+<lb/>
+<lb/>Mécredi, le 24 octobre/ 5 novembre 1817.
+<lb/>
+<lb/>Chère Maman, l’on vient de me dire que Mad[ame] Tatischeff, épouse du
+<lb/>ministre de Russie en Espagne étoit ici, et demandoit à me voir, je la
+<lb/>recevrai tantôt avant dinner, je suppose qu’elle va en Russie; notre tems s’est
+<lb/>changé et a tourné à la pluye; une lettre de l’Archiduc Joseph que j’ai
+<lb/>
+<lb/>fol. 251r
+<lb/>reçue hier, me certifie l’existence de ses deux enfans, quoique le petit garçon
+<lb/>soit de complexion foible, et qu’il ait déja été à la mort d’une colique, il s’est
+<lb/>remis, et le pauvre Archiduc me dit que ses deux enfans font toute sa consolation;
+<lb/>la pr[ince]sse sa belle-mère reste avec lui cet hyver à Bude, et ira au
+<lb/>printems avec lui à Schaumbourg; j’espère qu’alors je le vérai. Veuillez embrasser
+<lb/>mon frère pour moi chère Maman, et lui dire que je lui suis comme toujours
+<lb/>tendrement attachée; je ne sais pourquoi je crains qu’il ne se moque de moi, à
+<lb/>présent, mais à Vous je puis dire que le voeu de mon coeur seroit de répéter
+<lb/>son image. J’embrasse frères et soeurs et notre chère c[om]t[e]sse, et Vous baise les mains,
+<lb/>étant avec le plus respectueux dévouement,
+<lb/>
+<lb/>de ma bonne et chère Maman,
+<lb/>la plus soumise et obéissante
+<lb/>fille, Marie.
+            </p>           
         </body>
     </text>
 </TEI>
