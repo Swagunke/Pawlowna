@@ -2533,7 +2533,7 @@
 <lb/>
 <lb/>Chère et bonne <persName key="Maria, Russland, Zarin" ref="https://d-nb.info/gnd/11933075X">Maman</persName>, mon cou va mieux aujourd’huy, mais je
 <lb/>suis si mal à mon aise, que je préfère ne pas sortir de chez moi; nous avons
-<lb/>le plus beau tems du monde, et l’on se croiroit au printems; <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">les petites</persName> vont bien
+<lb/>le plus beau tems du monde, et l’on se croiroit au printems; <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721"><persName key="Augusta, Deutsches Reich, Kaiserin" ref="https://d-nb.info/gnd/118651102">les petites</persName></persName> vont bien
 <lb/>excepté le nez malade d’<persName key="Augusta, Deutsches Reich, Kaiserin" ref="https://d-nb.info/gnd/118651102">Auguste</persName>, qui est couvert d’une vilaine croute; l’on voit clairement
 <lb/>qu’elle fait des dents. <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">Marie</persName> en fait une aussi, mais son rhume l’a quittée;
 <lb/>son attention et sa bonne volonté à ses leçons se continuent, de sorte que j’ai tout
@@ -2541,7 +2541,7 @@
 <lb/>plus que les échos de la fête de la Réformation<seg type="keyword"><term>Reformation</term></seg>, et j’en suis toute lassée, je crois que
 <lb/>cela tient à ma situation du moment, mais cela m’affadit le coeur, et je pense
 <lb/>que Vous rirez avec raison chère Maman de l’effet qui en résulte sur moi.
-<lb/><persName>La Berg-Ziegesar</persName> me tient fidèle compagnie depuis quelques jours, ce qui me
+<lb/><persName ref="P_0005">La Berg-Ziegesar</persName> me tient fidèle compagnie depuis quelques jours, ce qui me
 <lb/>fait plaisir, car elle soigne parfaitement. Elle m’a demandé de la mettre à Vos pieds.
 <lb/>Chère Maman comme Russe<seg type="keyword"><term>Russland</term></seg>  et puis comme ancienne élève de l’Institut
 <lb/>je me mets de tout mon coeur à Vos pieds chère chère Maman.
@@ -2551,7 +2551,7 @@
             <p>
 <lb/>Mécredi, le 24 octobre/ 5 novembre 1817.
 <lb/>
-<lb/>Chère <persName key="Maria, Russland, Zarin" ref="https://d-nb.info/gnd/11933075X">Maman</persName>, l’on vient de me dire que <persName>Mad[ame] Tatischeff</persName>, épouse du
+<lb/>Chère <persName key="Maria, Russland, Zarin" ref="https://d-nb.info/gnd/11933075X">Maman</persName>, l’on vient de me dire que <persName ref="P_0006">Mad[ame] Tatischeff</persName>, épouse du
 <lb/><persName key="Tatiščev, Dmitrij Pavlovič" ref="https://d-nb.info/gnd/1130813398">ministre de Russie en Espagne</persName> étoit ici, et demandoit à me voir, je la
 <lb/>recevrai tantôt avant dinner, je suppose qu’elle va en <placeName key="Russland" ref="https://d-nb.info/gnd/4076899-5">Russie</placeName>; notre tems s’est
 <lb/>changé et a tourné à la pluye; une lettre de <persName key="Joseph, Österreich, Erzherzog" ref="https://d-nb.info/gnd/118713132">l’Archiduc Joseph</persName> que j’ai
