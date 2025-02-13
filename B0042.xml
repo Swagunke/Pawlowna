@@ -296,6 +296,7 @@
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0042.xml?person_annotation_20250108215251970",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-08T20:52:51.970Z",
+	"dcterms:modified": "2025-01-08T20:52:51.970Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -322,7 +323,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0042.xml?person_annotation_20250108215251970#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[7]"
+			"rdf:value": "TEI/text/body/p/persName[8]"
 		}
 	},
 	"oa:hasBody": {
@@ -532,6 +533,7 @@
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0042.xml?person_annotation_20250108215632167",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-08T20:56:32.167Z",
+	"dcterms:modified": "2025-01-08T20:56:32.167Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -558,7 +560,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0042.xml?person_annotation_20250108215632167#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[3]"
+			"rdf:value": "TEI/text/body/p/persName[4]"
 		}
 	},
 	"oa:hasBody": {
@@ -610,6 +612,7 @@
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0042.xml?person_annotation_20250108215657018",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-08T20:56:57.018Z",
+	"dcterms:modified": "2025-01-08T20:56:57.018Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -636,7 +639,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0042.xml?person_annotation_20250108215657018#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[4]"
+			"rdf:value": "TEI/text/body/p/persName[5]"
 		}
 	},
 	"oa:hasBody": {
@@ -688,6 +691,7 @@
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0042.xml?person_annotation_20250108215732056",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-08T20:57:32.056Z",
+	"dcterms:modified": "2025-01-08T20:57:32.056Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -714,7 +718,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0042.xml?person_annotation_20250108215732056#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[6]"
+			"rdf:value": "TEI/text/body/p/persName[7]"
 		}
 	},
 	"oa:hasBody": {
@@ -793,7 +797,86 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0042.xml?person_annotation_20250213221237491#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[5]"
+			"rdf:value": "TEI/text/body/p/persName[6]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://d-nb.info/gnd/102479844",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0042.xml?person_annotation_20250213221256362",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-02-13T21:12:56.362Z",
+	"dcterms:modified": "2025-02-13T21:12:56.362Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/IIwanov",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Iwan Iwanov"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0042.xml?person_annotation_20250213221256362#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0042.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0042.xml?person_annotation_20250213221256362#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p/persName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -843,7 +926,7 @@
 <lb/>Notre tems a de nouveau changé, il dégèle, et pas moyen de sortir à pied.
 <lb/>En attendant <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">mes enfans</persName> verront cet après-midi une comédie de singes, à laquelle je
 <lb/>me dispenserai comme de raison d’assister, mais dont la perspective leur fait grand plaisir.
-<lb/>Nous aurons ce soir du monde chère Maman, et hier soir pendant que le prince
+<lb/>Nous aurons ce soir du monde chère Maman, et hier soir pendant que <persName key="Karl Friedrich, Sachsen-Weimar-Eisenach, Großherzog" ref="https://d-nb.info/gnd/102479844">le prince</persName>
 <lb/>étoit au spectacle<seg type="keyword"><term>Theater</term></seg>, je me suis occupée de la répétition d’une petite fête que je prépare
 <lb/>pour son jour de naissance, et qui, s’il en faut croire les augures réussira bien; je
 <lb/>crois même qu’elle lui sera une surprise complette. <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">Les petites</persName> sont à
