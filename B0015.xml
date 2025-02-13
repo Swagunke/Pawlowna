@@ -3962,84 +3962,6 @@
 	"oa:hasBody": {
 		"@type": "fabio:UncontrolledVocabulary",
 		"dc:format": "text/xml",
-		"rdf:value": "Versammlung der Landstände"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250213161047818",
-	"type": "oa:Annotation",
-	"dcterms:created": "2025-02-13T15:10:47.818Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/IIwanov",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Iwan Iwanov"
-	},
-	"oa:motivatedBy": "oa:tagging",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250213161047818#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250213161047818#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[15]/p/seg[4]"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "fabio:UncontrolledVocabulary",
-		"dc:format": "text/xml",
 		"rdf:value": "Lektüre: Literarische Werke/ Sachbücher"
 	},
 	"as:generator": {
@@ -5067,6 +4989,85 @@
 	"oa:hasBody": {
 		"@type": "fabio:UncontrolledVocabulary",
 		"dc:format": "text/xml",
+		"rdf:value": "Versammlung der Landstände"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?correction_annotation_20250213163042170",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-02-13T15:30:42.170Z",
+	"dcterms:modified": "2025-02-13T15:30:42.170Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/IIwanov",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Iwan Iwanov"
+	},
+	"oa:motivatedBy": "oa:editing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?correction_annotation_20250213163042170#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?correction_annotation_20250213163042170#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[15]/p/choice"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "fabio:Correction",
+		"dc:format": "text/xml",
 		"rdf:value": "Aleksandr Michajlovič?"
 	},
 	"as:generator": {
@@ -5662,7 +5663,7 @@ Narischkin</persName>, et je Vous avoue que j’ai eu une vraie joie à le revoi
 <lb/>cette même occasion. Je me rappelle très bien chère Maman du <persName ref="P_0074">pr[ince] <choice><sic>Feodor Galitzin</sic><corr>ODER: Голицын, Фёдор Николаевич (1751-1827)?</corr></choice></persName>
 <lb/>et du <persName ref="P_0075">pr[ince] <choice><sic>Massalsky</sic><corr>Fedor Danilovič?</corr></choice></persName>, mais je ne me souviens plus seulement de la charge que
 <lb/>ce dernier avoit occupée à la cour: quant à la lotterie que nous jouions avec <persName ref="P_0076">le c[om]te
-<lb/>Georges <choice><sic>Galowkin</sic><corr>Jurij Aleksandrovič?</corr></choice></persName> et feu le pr[ince] Bélosselsky<seg type="keyword"><term>Aleksandr Michajlovič?</term></seg> elle étoit divertissante, et ces hyvers-là
+<lb/>Georges <choice><sic>Galowkin</sic><corr>Jurij Aleksandrovič?</corr></choice></persName> et feu le pr[ince] <choice><sic>Bélosselsky</sic><corr>Aleksandr Michajlovič?</corr></choice> elle étoit divertissante, et ces hyvers-là
 <lb/>sont marqués en rose dans mes souvenirs: les détails des présentations m’ont
 <lb/>fait un plaisir infini chère Maman, et je Vous en remercie de tout mon coeur;
 <lb/>
