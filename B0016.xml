@@ -217,7 +217,6 @@
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0016.xml?person_annotation_20250106162354520",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-06T15:23:54.520Z",
-	"dcterms:modified": "2025-01-06T15:23:54.520Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -244,12 +243,12 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0016.xml?person_annotation_20250106162354520#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[6]"
+			"rdf:value": "TEI/text/body/p/persName[5]"
 		}
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://d-nb.info/gnd/104304219",
+		"@id": "https://d-nb.info/gnd/115603972",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -454,7 +453,6 @@
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0016.xml?person_annotation_20250106162933593",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-06T15:29:33.593Z",
-	"dcterms:modified": "2025-01-06T15:29:33.593Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -481,12 +479,12 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0016.xml?person_annotation_20250106162933593#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[4]"
+			"rdf:value": "TEI/text/body/p/persName[3]"
 		}
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://d-nb.info/gnd/118501852",
+		"@id": "P_0084",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -533,7 +531,6 @@
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0016.xml?person_annotation_20250106163041655",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-06T15:30:41.655Z",
-	"dcterms:modified": "2025-01-06T15:30:41.655Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -560,12 +557,12 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0016.xml?person_annotation_20250106163041655#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[5]"
+			"rdf:value": "TEI/text/body/p/persName[4]"
 		}
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://d-nb.info/gnd/115603972",
+		"@id": "https://d-nb.info/gnd/118501852",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -618,7 +615,7 @@
 <lb/>revoir chère Maman: ce sont des momens que l’on n’oublie pas, et auxquels
 <lb/>la pensée retourne avec le même intéret. Plut à Dieu qu’il en soit de même
 <lb/>à ce jour l’année prochaine! J’ai reçu chère Maman l’incluse de <persName ref="P_0158">la gouvernante</persName>
-<lb/>de <persName ref="P_0072">ma nièce Marie</persName>, qui ne sera sans doute pas sans quelqu’intéret pour Vous;
+<lb/>de ma nièce Marie, qui ne sera sans doute pas sans quelqu’intéret pour Vous;
 <lb/>de même je prens la liberté d’insérer ici une lettre de <persName ref="P_0084">Mme Boisséron</persName>, ancienne
 <lb/>élève de la comunauté(!); daignez me dire chère Maman ce que je lui dois répondre:
 <lb/>au fond je trouve que la résolution adoptée par <persName key="Aleksandr I., Russland, Zar" ref="https://d-nb.info/gnd/118501852">l’Emp[ereur]</persName> vis-à-vis des anciens émigrés
