@@ -293,85 +293,6 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?person_annotation_20250108182327444",
-	"type": "oa:Annotation",
-	"dcterms:created": "2025-01-08T17:23:27.444Z",
-	"dcterms:modified": "2025-01-08T17:23:27.444Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/IIwanov",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Iwan Iwanov"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?person_annotation_20250108182327444#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?person_annotation_20250108182327444#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[74]"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
-		"@id": "https://d-nb.info/gnd/104304219",
-		"dc:format": "text/plain"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?place_annotation_20250108182353064",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-08T17:23:53.064Z",
@@ -10039,7 +9960,7 @@
 <lb/>monde, ou le payer mieux, et de tous les objets de première nécessité il en est de
 <lb/>même; c’est pour éviter de contracter des dettes que je crois devoir faire les propositions
 <lb/>ci-dessus(!), quelque sensible que me soit l’idée de diminuer si fortement l’héri{tage}
-<lb/>que j’aurai à laisser un jour à <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">mes enfans</persName>, qui d’ici n’auront [Einschub: outre leurs épargnes] que bien peu
+<lb/>que j’aurai à laisser un jour à <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721"><persName key="Augusta, Deutsches Reich, Kaiserin" ref="https://d-nb.info/gnd/118651102">mes enfans</persName></persName>, qui d’ici n’auront [Einschub: outre leurs épargnes] que bien peu
 <lb/>et dont toute l’existence future ne repose que sur le bien que j’ai, qui si
 <lb/>la même difficulté contre laquelle j’ai eu à lutter jusqu’ici continue,
 <lb/>ne leur parviendra que par débris; les revenus obtenus enfin pour eux se consacrent
@@ -10059,14 +9980,14 @@
 <lb/>faire j’avois eu besoin de discuter l’objet en toute confiance avec Vous, comme
 <lb/>je l’ai fait et le ferai toujours pour toutes choses qui me seront personelles, et à plus
 <lb/>forte raison dans des circonstances qui pouvant apporter un changement à l’ordre
-<lb/>établi pour des revenus qui ont été repartis entre <persName key="Katharina, Württemberg, Königin" ref="https://d-nb.info/gnd/118560603">mes soeurs</persName> et moi, me font
+<lb/>établi pour des revenus qui ont été repartis entre <persName key="Katharina, Württemberg, Königin" ref="https://d-nb.info/gnd/118560603"><persName key="Anna, Niederlande, Königin" ref="https://d-nb.info/gnd/119330857">mes soeurs</persName></persName> et moi, me font
 <lb/>{u}ne loi d’éviter le reproche d’avidité ou bien de chercher à l’emporter sur elles. Si l’on
 <lb/>{v}eut se rapprocher de la vérité, il n’est pas difficile de voir que leur position est différente
 <lb/>{de} la mienne par fortune de leurs époux, si un jour <persName key="Karl Friedrich, Sachsen-Weimar-Eisenach, Großherzog" ref="https://d-nb.info/gnd/102479844">le prince</persName> vient à la régence,
 <lb/>je n’aurai plus sur les bras les dépenses qu’exige toute notre maison et serai
 <lb/>{n}on plus à l’aise, mais il est loin de moi de chercher à désigner un terme pareil
 <lb/>{c}omme celui où finiroit l’augmentation que pourroit m’accorder <persName key="Aleksandr I., Russland, Zar" ref="https://d-nb.info/gnd/118501852">l’Empereur</persName>; j’ai
-<lb/>{…} que je ne brigue pas d’avantage sur <persName key="Katharina, Württemberg, Königin" ref="https://d-nb.info/gnd/118560603">mes soeurs</persName> et que pour cela même comme
+<lb/>{…} que je ne brigue pas d’avantage sur <persName key="Katharina, Württemberg, Königin" ref="https://d-nb.info/gnd/118560603"><persName key="Anna, Niederlande, Königin" ref="https://d-nb.info/gnd/119330857">mes soeurs</persName></persName> et que pour cela même comme
 <lb/>surtout pour ne pas me tirer momentanément seulement d’embarras, une
 <lb/>augmentantion de mes revenus pour peu d’annés --- dont dont je ne me permettrai
 <lb/>{p}as la fixation, étoit desirable pour moi: ce langage est le seul conforme à la vérité,
@@ -10123,7 +10044,7 @@
 <lb/>jour, et je me hâte d’ajouter ce soir ces lignes. La journée s’est passée comme
 <lb/>toutes celles des dimanches, j’ai pu prendre part au dinner comme à la soirée,
 <lb/>et m’en sens très fière. <persName key="Chanykov, Vasilii Vasilʹevic̆" ref="https://d-nb.info/gnd/1256742538">Le général Hanykoff</persName> est des nôtres depuis tantôt, ce
-<lb/>qui nous fait plaisir à tous, il est généralement bien vu ici. <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">Mes petites</persName> se
+<lb/>qui nous fait plaisir à tous, il est généralement bien vu ici. <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721"><persName key="Augusta, Deutsches Reich, Kaiserin" ref="https://d-nb.info/gnd/118651102">Mes petites</persName></persName> se
 <lb/>portent bien, et se mettent avec moi à Vos pieds chère chère Maman.
 <lb/>
 <lb/>Lundi, 7/19 janvier.
@@ -10196,7 +10117,7 @@
 <lb/>
 <lb/>Chère <persName key="Maria, Russland, Zarin" ref="https://d-nb.info/gnd/11933075X">Maman</persName>, j’ai eu tantôt le bonheur de Vous écrire par la poste, et
 <lb/>n’ai pas grand-chose à ajouter, ayant passé une journée tranquile et m’étant occupée
-<lb/>de <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">mes enfans</persName>, qui me donnent de bien doux momens: je rens grâces à Dieu de
+<lb/>de <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721"><persName key="Augusta, Deutsches Reich, Kaiserin" ref="https://d-nb.info/gnd/118651102">mes enfans</persName></persName>, qui me donnent de bien doux momens: je rens grâces à Dieu de
 <lb/>ce que leur intelligence se développe si bien, ils avancent moralement et <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">mon
 <lb/>ainée</persName> est aussi enfant pour les goûts qu’il est possible de l’être, ce que je
 <lb/>regarde comme un avantage: je me suis occupée d’une répétition pour une espèce
@@ -10263,7 +10184,7 @@
 <lb/>dans les autres pièces tantôt il faisoit froid ou trop chaud, j’ai donc battu en
 <lb/>retraite, et pour ce soir j’ai assisté à la Clemenza di Tito<seg type="keyword"><term>Oper</term></seg> musique de <persName key="Mozart, Wolfgang Amadeus" ref="https://d-nb.info/gnd/118584596">Mozart</persName>
 <lb/>qui a été fort bien exécutée. Rien de nouveau chère Maman, et je ne cher{che}
-<lb/>pas à apprendre de nouveautés, je m’occupe de <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">mes enfans</persName>, avec qui je lis, je cause.
+<lb/>pas à apprendre de nouveautés, je m’occupe de <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721"><persName key="Augusta, Deutsches Reich, Kaiserin" ref="https://d-nb.info/gnd/118651102">mes enfans</persName></persName>, avec qui je lis, je cause.
 <lb/><persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">Marie</persName> commence à m’entendre sur bien des sujets, et m’a amusée dernièrement où il {a}
 <lb/>été question en sa présence d’une querelle de ménage devenue publique parce que la da{me}
 <lb/>
@@ -10275,7 +10196,7 @@
 <lb/>{d’}être ma fille et non pas celle de cette dame, ce qui lui est parti comme un
 <lb/>{é}clair, et nous a tous diverti: mais je suis bien aise de voir qu’elle a le mal profondément
 <lb/>{e}n horreur. Les études continuent à aller bien, elle lit avec plaisir et fruit, et
-<lb/>commence à faire des extraits: ce qui me plais chez <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">les deux petites</persName> c’est leur
+<lb/>commence à faire des extraits: ce qui me plais chez <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721"><persName key="Augusta, Deutsches Reich, Kaiserin" ref="https://d-nb.info/gnd/118651102">les deux petites</persName></persName> c’est leur
 <lb/>grand naturel, chacune dans son genre, <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">Marie</persName> me dit toujours de Vous faire ses
 <lb/>{re}spects chère Maman. Elle et moi nous mettons à Vos pieds mille fois.
 <lb/>
@@ -10359,9 +10280,9 @@
 <lb/>sera pour <persName ref="P_0093">Ojarowsky</persName> qui doit passer un de ces jours, elle me le pardonnera sûrement,
 <lb/>je l’embrasse de toute la tendresse de mon âme en me recomandant
 <lb/>à sa tendresse. Voici chère Maman de vieilles lettres pour
-<lb/><persName key="Nikolaj I., Russland, Zar" ref="https://d-nb.info/gnd/118588079">mes frères cadets</persName>, <persName key="Michael, Russland, Großfürst, 1798-1849" ref="https://d-nb.info/gnd/131883119">et</persName> pour <persName key="Villamov, Grigorij Ivanovic" ref="https://d-nb.info/gnd/1077870728">Mr. Willamoff</persName> pour affaires. J’embrasse
+<lb/><persName key="Nikolaj I., Russland, Zar" ref="https://d-nb.info/gnd/118588079"><persName key="Michael, Russland, Großfürst, 1798-1849" ref="https://d-nb.info/gnd/131883119">mes frères cadets</persName></persName>, et pour <persName key="Villamov, Grigorij Ivanovic" ref="https://d-nb.info/gnd/1077870728">Mr. Willamoff</persName> pour affaires. J’embrasse
 <lb/>toute la famille, et salue tout ce qui se rappelle de moi; <persName key="Karl Friedrich, Sachsen-Weimar-Eisenach, Großherzog" ref="https://d-nb.info/gnd/102479844">le pr[ince]</persName> et
-<lb/><persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">les petites</persName> Vous baisent les mains chère Maman, j’en fais autant,
+<lb/><persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721"><persName key="Augusta, Deutsches Reich, Kaiserin" ref="https://d-nb.info/gnd/118651102">les petites</persName></persName> Vous baisent les mains chère Maman, j’en fais autant,
 <lb/>étant avec le plus éternel et le plus respectueux dévouement,
 <lb/>
 <lb/>de ma bonne et chère Maman,
