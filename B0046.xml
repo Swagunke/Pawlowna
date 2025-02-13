@@ -296,7 +296,6 @@
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0046.xml?person_annotation_20250109134304228",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-09T12:43:04.228Z",
-	"dcterms:modified": "2025-01-09T12:43:04.228Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -323,7 +322,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0046.xml?person_annotation_20250109134304228#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[13]"
+			"rdf:value": "TEI/text/body/p/persName[14]"
 		}
 	},
 	"oa:hasBody": {
@@ -612,7 +611,6 @@
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0046.xml?person_annotation_20250109135928732",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-09T12:59:28.732Z",
-	"dcterms:modified": "2025-01-09T12:59:28.732Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -639,7 +637,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0046.xml?person_annotation_20250109135928732#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[7]"
+			"rdf:value": "TEI/text/body/p/persName[8]"
 		}
 	},
 	"oa:hasBody": {
@@ -691,7 +689,6 @@
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0046.xml?person_annotation_20250109140005452",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-09T13:00:05.452Z",
-	"dcterms:modified": "2025-01-09T13:00:05.452Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -718,7 +715,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0046.xml?person_annotation_20250109140005452#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[8]"
+			"rdf:value": "TEI/text/body/p/persName[9]"
 		}
 	},
 	"oa:hasBody": {
@@ -770,7 +767,6 @@
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0046.xml?person_annotation_20250109140104587",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-09T13:01:04.587Z",
-	"dcterms:modified": "2025-01-09T13:01:04.587Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -797,7 +793,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0046.xml?person_annotation_20250109140104587#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[10]"
+			"rdf:value": "TEI/text/body/p/persName[11]"
 		}
 	},
 	"oa:hasBody": {
@@ -849,7 +845,6 @@
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0046.xml?person_annotation_20250109142245171",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-09T13:22:45.171Z",
-	"dcterms:modified": "2025-01-09T13:22:45.171Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -876,7 +871,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0046.xml?person_annotation_20250109142245171#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[11]"
+			"rdf:value": "TEI/text/body/p/persName[12]"
 		}
 	},
 	"oa:hasBody": {
@@ -928,7 +923,6 @@
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0046.xml?person_annotation_20250109142802715",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-09T13:28:02.715Z",
-	"dcterms:modified": "2025-01-09T13:28:02.715Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -955,12 +949,91 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0046.xml?person_annotation_20250109142802715#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[12]"
+			"rdf:value": "TEI/text/body/p/persName[13]"
 		}
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
 		"@id": "https://d-nb.info/gnd/115603972",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0046.xml?person_annotation_20250213222017290",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-02-13T21:20:17.290Z",
+	"dcterms:modified": "2025-02-13T21:20:17.290Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/IIwanov",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Iwan Iwanov"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0046.xml?person_annotation_20250213222017290#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0046.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0046.xml?person_annotation_20250213222017290#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p/persName[6]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://d-nb.info/gnd/11933075X",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1017,7 +1090,7 @@
 <lb/>
 <lb/>Samedi, à 9 heures du matin.
 <lb/>
-<lb/>Chère Maman, <persName ref="P_0093">Mr. Ojarowsky</persName> a eu la politesse de me dire qu’il viendroit
+<lb/>Chère <persName key="Maria, Russland, Zarin" ref="https://d-nb.info/gnd/11933075X">Maman</persName>, <persName ref="P_0093">Mr. Ojarowsky</persName> a eu la politesse de me dire qu’il viendroit
 <lb/>prendre ma lettre ce matin, et j’en profite volontiers comme de raison pour tracer ces
 <lb/>lignes. Notre bal a été nombreux et animé: l’on a soupé vers minuit, et je ne
 <lb/>
