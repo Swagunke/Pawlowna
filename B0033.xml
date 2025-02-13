@@ -323,7 +323,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0033.xml?person_annotation_20250108151728644#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[14]"
+			"rdf:value": "TEI/text/body/p/persName[13]"
 		}
 	},
 	"oa:hasBody": {
@@ -849,7 +849,6 @@
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0033.xml?person_annotation_20250108152421029",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-08T14:24:21.029Z",
-	"dcterms:modified": "2025-01-08T14:24:21.029Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -876,7 +875,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0033.xml?person_annotation_20250108152421029#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[4]"
+			"rdf:value": "TEI/text/body/p/persName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -1007,6 +1006,7 @@
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0033.xml?person_annotation_20250108152510622",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-08T14:25:10.622Z",
+	"dcterms:modified": "2025-01-08T14:25:10.622Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -1033,7 +1033,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0033.xml?person_annotation_20250108152510622#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[6]"
+			"rdf:value": "TEI/text/body/p/persName[5]"
 		}
 	},
 	"oa:hasBody": {
@@ -1085,6 +1085,7 @@
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0033.xml?person_annotation_20250108152602903",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-08T14:26:02.903Z",
+	"dcterms:modified": "2025-01-08T14:26:02.903Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -1111,7 +1112,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0033.xml?person_annotation_20250108152602903#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[7]"
+			"rdf:value": "TEI/text/body/p/persName[6]"
 		}
 	},
 	"oa:hasBody": {
@@ -1163,6 +1164,7 @@
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0033.xml?person_annotation_20250108152713814",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-08T14:27:13.814Z",
+	"dcterms:modified": "2025-01-08T14:27:13.814Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -1189,7 +1191,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0033.xml?person_annotation_20250108152713814#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[8]"
+			"rdf:value": "TEI/text/body/p/persName[7]"
 		}
 	},
 	"oa:hasBody": {
@@ -1478,6 +1480,7 @@
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0033.xml?person_annotation_20250108153023776",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-08T14:30:23.776Z",
+	"dcterms:modified": "2025-01-08T14:30:23.776Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -1504,7 +1507,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0033.xml?person_annotation_20250108153023776#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[9]"
+			"rdf:value": "TEI/text/body/p/persName[8]"
 		}
 	},
 	"oa:hasBody": {
@@ -1898,7 +1901,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0033.xml?person_annotation_20250108153343051#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[11]"
+			"rdf:value": "TEI/text/body/p/persName[10]"
 		}
 	},
 	"oa:hasBody": {
@@ -1977,7 +1980,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0033.xml?person_annotation_20250108153409864#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[13]"
+			"rdf:value": "TEI/text/body/p/persName[12]"
 		}
 	},
 	"oa:hasBody": {
@@ -2055,7 +2058,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0033.xml?person_annotation_20250108153942506#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[12]"
+			"rdf:value": "TEI/text/body/p/persName[11]"
 		}
 	},
 	"oa:hasBody": {
@@ -2134,7 +2137,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0033.xml?person_annotation_20250213183404340#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[5]"
+			"rdf:value": "TEI/text/body/p/persName[4]"
 		}
 	},
 	"oa:hasBody": {
@@ -2213,7 +2216,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0033.xml?person_annotation_20250213183422056#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[10]"
+			"rdf:value": "TEI/text/body/p/persName[9]"
 		}
 	},
 	"oa:hasBody": {
@@ -2270,7 +2273,7 @@
 <lb/>nouveau chère Maman, sinon que je suis mieux que ces derniers jours, et recomence à
 <lb/>me promener bravement à pied sur la belle neige que nous avons, que j’aimerois
 <lb/>voir accompagnée d’un bon froid sec, mais on les ignore ici, car il y a toujours
-<lb/>quelque chose d’humide dans l’air. <persName key="Karl August, Sachsen-Weimar-Eisenach, Großherzog" ref="https://d-nb.info/gnd/11856014X">Le GrDuc</persName> et <persName ref="P_0012">le pr[ince]</persName> sont allés passer quelques
+<lb/>quelque chose d’humide dans l’air. <persName key="Karl August, Sachsen-Weimar-Eisenach, Großherzog" ref="https://d-nb.info/gnd/11856014X">Le GrDuc</persName> et le pr[ince] sont allés passer quelques
 <lb/>jours à <placeName key="Allstedt" ref="https://d-nb.info/gnd/4079709-0">Allstedt</placeName> pour la chasse au sanglier. <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">Les petites</persName> vont bien et tout
 <lb/>est rentré pour les leçons dans l’ordre habituel, ce que je regarde comme très essentiel.
 <lb/>Elles et moi nous nous mettons à Vos pieds, en Vous baisant les mains chère Maman.
