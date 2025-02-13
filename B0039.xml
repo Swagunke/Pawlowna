@@ -323,7 +323,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?person_annotation_20250108182327444#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[73]"
+			"rdf:value": "TEI/text/body/p/persName[72]"
 		}
 	},
 	"oa:hasBody": {
@@ -3709,7 +3709,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?person_annotation_20250109181332247#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[30]"
+			"rdf:value": "TEI/text/body/p/persName[29]"
 		}
 	},
 	"oa:hasBody": {
@@ -3866,7 +3866,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?person_annotation_20250109181906047#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[31]"
+			"rdf:value": "TEI/text/body/p/persName[30]"
 		}
 	},
 	"oa:hasBody": {
@@ -4102,7 +4102,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?person_annotation_20250109182924418#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[33]"
+			"rdf:value": "TEI/text/body/p/persName[32]"
 		}
 	},
 	"oa:hasBody": {
@@ -4180,7 +4180,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?person_annotation_20250109182951805#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[34]"
+			"rdf:value": "TEI/text/body/p/persName[33]"
 		}
 	},
 	"oa:hasBody": {
@@ -4337,7 +4337,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?person_annotation_20250109183031619#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[35]"
+			"rdf:value": "TEI/text/body/p/persName[34]"
 		}
 	},
 	"oa:hasBody": {
@@ -4494,7 +4494,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?person_annotation_20250109183131559#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[36]"
+			"rdf:value": "TEI/text/body/p/persName[35]"
 		}
 	},
 	"oa:hasBody": {
@@ -4572,7 +4572,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?person_annotation_20250109183152892#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[37]"
+			"rdf:value": "TEI/text/body/p/persName[36]"
 		}
 	},
 	"oa:hasBody": {
@@ -5124,7 +5124,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?person_annotation_20250109183539320#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[38]"
+			"rdf:value": "TEI/text/body/p/persName[37]"
 		}
 	},
 	"oa:hasBody": {
@@ -5202,7 +5202,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?person_annotation_20250109183633700#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[40]"
+			"rdf:value": "TEI/text/body/p/persName[39]"
 		}
 	},
 	"oa:hasBody": {
@@ -5280,7 +5280,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?person_annotation_20250109183655867#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[41]"
+			"rdf:value": "TEI/text/body/p/persName[40]"
 		}
 	},
 	"oa:hasBody": {
@@ -6065,7 +6065,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?person_annotation_20250109190418900#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[45]"
+			"rdf:value": "TEI/text/body/p/persName[44]"
 		}
 	},
 	"oa:hasBody": {
@@ -6221,7 +6221,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?person_annotation_20250109190559475#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[47]"
+			"rdf:value": "TEI/text/body/p/persName[46]"
 		}
 	},
 	"oa:hasBody": {
@@ -6299,7 +6299,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?person_annotation_20250109190646974#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[48]"
+			"rdf:value": "TEI/text/body/p/persName[47]"
 		}
 	},
 	"oa:hasBody": {
@@ -6377,7 +6377,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?person_annotation_20250109190723566#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[49]"
+			"rdf:value": "TEI/text/body/p/persName[48]"
 		}
 	},
 	"oa:hasBody": {
@@ -6455,7 +6455,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?person_annotation_20250109190745612#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[50]"
+			"rdf:value": "TEI/text/body/p/persName[49]"
 		}
 	},
 	"oa:hasBody": {
@@ -6533,7 +6533,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?person_annotation_20250109190840176#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[51]"
+			"rdf:value": "TEI/text/body/p/persName[50]"
 		}
 	},
 	"oa:hasBody": {
@@ -6611,7 +6611,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?person_annotation_20250109190859073#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[52]"
+			"rdf:value": "TEI/text/body/p/persName[51]"
 		}
 	},
 	"oa:hasBody": {
@@ -6847,7 +6847,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?person_annotation_20250109191009636#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[54]"
+			"rdf:value": "TEI/text/body/p/persName[53]"
 		}
 	},
 	"oa:hasBody": {
@@ -7161,7 +7161,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?person_annotation_20250109191221160#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[56]"
+			"rdf:value": "TEI/text/body/p/persName[55]"
 		}
 	},
 	"oa:hasBody": {
@@ -7239,7 +7239,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?person_annotation_20250109191325943#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[57]"
+			"rdf:value": "TEI/text/body/p/persName[56]"
 		}
 	},
 	"oa:hasBody": {
@@ -7317,7 +7317,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?person_annotation_20250109191411117#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[58]"
+			"rdf:value": "TEI/text/body/p/persName[57]"
 		}
 	},
 	"oa:hasBody": {
@@ -7474,7 +7474,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?person_annotation_20250109191529168#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[60]"
+			"rdf:value": "TEI/text/body/p/persName[59]"
 		}
 	},
 	"oa:hasBody": {
@@ -7789,7 +7789,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?person_annotation_20250109192519089#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[62]"
+			"rdf:value": "TEI/text/body/p/persName[61]"
 		}
 	},
 	"oa:hasBody": {
@@ -7867,7 +7867,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?person_annotation_20250109192549609#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[63]"
+			"rdf:value": "TEI/text/body/p/persName[62]"
 		}
 	},
 	"oa:hasBody": {
@@ -7945,7 +7945,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?person_annotation_20250109192616351#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[64]"
+			"rdf:value": "TEI/text/body/p/persName[63]"
 		}
 	},
 	"oa:hasBody": {
@@ -8023,7 +8023,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?person_annotation_20250109192649642#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[65]"
+			"rdf:value": "TEI/text/body/p/persName[64]"
 		}
 	},
 	"oa:hasBody": {
@@ -8101,7 +8101,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?person_annotation_20250109192723619#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[66]"
+			"rdf:value": "TEI/text/body/p/persName[65]"
 		}
 	},
 	"oa:hasBody": {
@@ -8179,7 +8179,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?person_annotation_20250109192747098#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[67]"
+			"rdf:value": "TEI/text/body/p/persName[66]"
 		}
 	},
 	"oa:hasBody": {
@@ -8257,7 +8257,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?person_annotation_20250109193158089#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[69]"
+			"rdf:value": "TEI/text/body/p/persName[68]"
 		}
 	},
 	"oa:hasBody": {
@@ -8335,7 +8335,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?person_annotation_20250109193233703#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[70]"
+			"rdf:value": "TEI/text/body/p/persName[69]"
 		}
 	},
 	"oa:hasBody": {
@@ -8413,7 +8413,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?person_annotation_20250109193349139#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[72]"
+			"rdf:value": "TEI/text/body/p/persName[71]"
 		}
 	},
 	"oa:hasBody": {
@@ -8808,7 +8808,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?person_annotation_20250213211024211#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[32]"
+			"rdf:value": "TEI/text/body/p/persName[31]"
 		}
 	},
 	"oa:hasBody": {
@@ -8887,7 +8887,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?person_annotation_20250213211120765#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[39]"
+			"rdf:value": "TEI/text/body/p/persName[38]"
 		}
 	},
 	"oa:hasBody": {
@@ -8966,7 +8966,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?person_annotation_20250213211139501#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[43]"
+			"rdf:value": "TEI/text/body/p/persName[42]"
 		}
 	},
 	"oa:hasBody": {
@@ -9045,7 +9045,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?person_annotation_20250213211153902#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[44]"
+			"rdf:value": "TEI/text/body/p/persName[43]"
 		}
 	},
 	"oa:hasBody": {
@@ -9124,7 +9124,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?person_annotation_20250213211216255#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[46]"
+			"rdf:value": "TEI/text/body/p/persName[45]"
 		}
 	},
 	"oa:hasBody": {
@@ -9203,7 +9203,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?person_annotation_20250213211232854#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[53]"
+			"rdf:value": "TEI/text/body/p/persName[52]"
 		}
 	},
 	"oa:hasBody": {
@@ -9282,7 +9282,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?person_annotation_20250213211250055#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[55]"
+			"rdf:value": "TEI/text/body/p/persName[54]"
 		}
 	},
 	"oa:hasBody": {
@@ -9361,7 +9361,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?person_annotation_20250213211324807#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[59]"
+			"rdf:value": "TEI/text/body/p/persName[58]"
 		}
 	},
 	"oa:hasBody": {
@@ -9440,7 +9440,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0039.xml?person_annotation_20250213211351320#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[61]"
+			"rdf:value": "TEI/text/body/p/persName[60]"
 		}
 	},
 	"oa:hasBody": {
@@ -9824,7 +9824,7 @@
 <lb/>venue par le dernier courier, je me trouve infiniment heureuse de l’avoir,
 <lb/>d’y trouver des détails qui m’étoient inconnus, et pour lesquels je Vous remerc{ie}
 <lb/>de tout mon coeur. Je penserai chère Maman à ce qu’il y a à faire pour faire
-<lb/>connoitre Votre opinion sur la confirmation de <persName ref="P_0072">ma nièce Marie</persName>, et je
+<lb/>connoitre Votre opinion sur la confirmation de ma nièce Marie, et je
 <lb/>crois devoir le marquer moi-même à <persName key="Friedrich Ludwig, Mecklenburg-Schwerin, Erbgroßherzog" ref="https://d-nb.info/gnd/120438712">son père</persName>, comme une observation
 <lb/>que Vous m’aviez faite, toutesfois(!) je me réserve de Vous en parler enco{re}
 <lb/>auparavent(!): il est très certain qu’à l’âge où elle est, si le --- dé{…}
