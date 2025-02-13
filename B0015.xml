@@ -3930,7 +3930,6 @@
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250213161030893",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-02-13T15:10:30.893Z",
-	"dcterms:modified": "2025-02-13T15:10:30.893Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -3957,7 +3956,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250213161030893#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[15]/p/seg[2]"
+			"rdf:value": "TEI/text/body/div[15]/p/seg[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -4009,7 +4008,6 @@
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250213161047818",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-02-13T15:10:47.818Z",
-	"dcterms:modified": "2025-02-13T15:10:47.818Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -4036,7 +4034,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250213161047818#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[15]/p/seg[3]"
+			"rdf:value": "TEI/text/body/div[15]/p/seg[4]"
 		}
 	},
 	"oa:hasBody": {
@@ -5033,10 +5031,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?correction_annotation_20250213162815621",
+	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250213162936474",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-02-13T15:28:15.621Z",
-	"dcterms:modified": "2025-02-13T15:28:15.621Z",
+	"dcterms:created": "2025-02-13T15:29:36.474Z",
+	"dcterms:modified": "2025-02-13T15:29:36.474Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -5045,9 +5043,9 @@
 		],
 		"cwrc:hasName": "Iwan Iwanov"
 	},
-	"oa:motivatedBy": "oa:editing",
+	"oa:motivatedBy": "oa:tagging",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?correction_annotation_20250213162815621#Target",
+		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250213162936474#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml",
@@ -5061,13 +5059,13 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?correction_annotation_20250213162815621#Selector",
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250213162936474#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[15]/p/corr"
+			"rdf:value": "TEI/text/body/div[15]/p/seg[2]"
 		}
 	},
 	"oa:hasBody": {
-		"@type": "fabio:Correction",
+		"@type": "fabio:UncontrolledVocabulary",
 		"dc:format": "text/xml",
 		"rdf:value": "Aleksandr Michajlovič?"
 	},
@@ -5664,7 +5662,7 @@ Narischkin</persName>, et je Vous avoue que j’ai eu une vraie joie à le revoi
 <lb/>cette même occasion. Je me rappelle très bien chère Maman du <persName ref="P_0074">pr[ince] <choice><sic>Feodor Galitzin</sic><corr>ODER: Голицын, Фёдор Николаевич (1751-1827)?</corr></choice></persName>
 <lb/>et du <persName ref="P_0075">pr[ince] <choice><sic>Massalsky</sic><corr>Fedor Danilovič?</corr></choice></persName>, mais je ne me souviens plus seulement de la charge que
 <lb/>ce dernier avoit occupée à la cour: quant à la lotterie que nous jouions avec <persName ref="P_0076">le c[om]te
-<lb/>Georges <choice><sic>Galowkin</sic><corr>Jurij Aleksandrovič?</corr></choice></persName> et feu le pr[ince] Bélos<corr/>selsky elle étoit divertissante, et ces hyvers-là
+<lb/>Georges <choice><sic>Galowkin</sic><corr>Jurij Aleksandrovič?</corr></choice></persName> et feu le pr[ince] Bélosselsky<seg type="keyword"><term>Aleksandr Michajlovič?</term></seg> elle étoit divertissante, et ces hyvers-là
 <lb/>sont marqués en rose dans mes souvenirs: les détails des présentations m’ont
 <lb/>fait un plaisir infini chère Maman, et je Vous en remercie de tout mon coeur;
 <lb/>
