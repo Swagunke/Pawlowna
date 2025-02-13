@@ -296,6 +296,7 @@
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0040.xml?person_annotation_20250108213932550",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-08T20:39:32.550Z",
+	"dcterms:modified": "2025-01-08T20:39:32.550Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -322,7 +323,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0040.xml?person_annotation_20250108213932550#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[7]"
+			"rdf:value": "TEI/text/body/p/persName[6]"
 		}
 	},
 	"oa:hasBody": {
@@ -453,7 +454,6 @@
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0040.xml?person_annotation_20250108214434221",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-08T20:44:34.221Z",
-	"dcterms:modified": "2025-01-08T20:44:34.221Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -480,7 +480,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0040.xml?person_annotation_20250108214434221#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[5]"
+			"rdf:value": "TEI/text/body/p/persName[4]"
 		}
 	},
 	"oa:hasBody": {
@@ -532,7 +532,6 @@
 	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0040.xml?person_annotation_20250108214510290",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-08T20:45:10.290Z",
-	"dcterms:modified": "2025-01-08T20:45:10.290Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/IIwanov",
 		"@type": [
@@ -559,12 +558,91 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0040.xml?person_annotation_20250108214510290#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName[6]"
+			"rdf:value": "TEI/text/body/p/persName[5]"
 		}
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
 		"@id": "https://d-nb.info/gnd/115603972",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0040.xml?person_annotation_20250213220715543",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-02-13T21:07:15.543Z",
+	"dcterms:modified": "2025-02-13T21:07:15.543Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/IIwanov",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Iwan Iwanov"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0040.xml?person_annotation_20250213220715543#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0040.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0040.xml?person_annotation_20250213220715543#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p/persName[3]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://d-nb.info/gnd/102479844",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -611,8 +689,8 @@
 <lb/>que moi, car d’être enfermée en chambre devient à la longue très pénible; je compte
 <lb/>après la messe m’en aller promener à pied, et cette seule perspective me fait déja du
 <lb/>bien. Du reste rien de nouveau chère Maman: la semaine qui suit celle
-<lb/>où nous entrons, est celle des jours de naissance de <persName key="Luise, Sachsen-Weimar-Eisenach, Großherzogin" ref="https://d-nb.info/gnd/115363688">la GrDuchesse</persName> et du <persName ref="P_0012">prince</persName>; je suis
-<lb/>dans les arrangemens y relatifs, et prépare une petite surprise au <persName ref="P_0012">prince</persName>, qui si
+<lb/>où nous entrons, est celle des jours de naissance de <persName key="Luise, Sachsen-Weimar-Eisenach, Großherzogin" ref="https://d-nb.info/gnd/115363688">la GrDuchesse</persName> et du <persName key="Karl Friedrich, Sachsen-Weimar-Eisenach, Großherzog" ref="https://d-nb.info/gnd/102479844">prince</persName>; je suis
+<lb/>dans les arrangemens y relatifs, et prépare une petite surprise au prince, qui si
 <lb/>elle réussit je l’espère ne lui déplaira pas. <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">Les enfans</persName> se portent bien, et se
 <lb/>mettent à Vos pieds chère Maman; j’en fais autant de tout mon coeur, et retourne
 <lb/>à mon poste, après avoir embrassé la famille et <persName key="Lieven, Charlotte Karlowna de" ref="https://d-nb.info/gnd/115603972">notre chère c[om]t[e]sse</persName>. Je Vous
