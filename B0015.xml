@@ -182,85 +182,6 @@
 	}
 }]]>
         </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250213154705657",
-	"type": "oa:Annotation",
-	"dcterms:created": "2025-02-13T14:47:05.657Z",
-	"dcterms:modified": "2025-02-13T14:47:05.657Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/IIwanov",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Iwan Iwanov"
-	},
-	"oa:motivatedBy": "oa:tagging",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250213154705657#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0015.xml?keyword_annotation_20250213154705657#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/seg[2]"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "fabio:UncontrolledVocabulary",
-		"dc:format": "text/xml",
-		"rdf:value": "B_0125"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
-	}
-}]]>
-        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
             <editorialDecl>
                 <p>
@@ -314,11 +235,11 @@
 <lb/>
 <pb facs="02"/>
 <lb/>fol. 269v
-<lb/>prépare ma lettre, me fournit la possibilité de répondre à Votre No. 113<seg type="keyword"><term>B_0125</term></seg>, chère
+<lb/>prépare ma lettre, me fournit la possibilité de répondre à Votre No. 113B_0125, chère
 <lb/>Maman, arrivé récement par le courier allant en <placeName key="England" ref="https://d-nb.info/gnd/4014770-8">Angleterre</placeName>, et il me semble
 <lb/>que c’est un devoir de le faire après des circonstances comme celles qui ont eu lieu,
 <lb/>et auxquelles l’attention générale a donné une importance majeure. Vous concevrez
-<lb/>bien, chère Maman que j’entens parler ici de la réunion de la <placeName key="Wartburg (Eisenach)" ref="https://d-nb.info/gnd/4122665-3">Wartbourg</placeName><seg type="keyword"><term>Wartburgfest</term></seg>, et
+<lb/>bien, chère Maman que j’entens parler ici de la réunion de la Wartbourg, et
 <lb/>qu’il me tient à coeur de m’expliquer sur un passage de Votre lettre No. 113, où
 <lb/>Vous me marquez qu’une conversation avec <persName key="Aleksandr I., Russland, Zar" ref="https://d-nb.info/gnd/118501852">l’Emp[ereur]</persName> Vous en avoit appris plus que
 <lb/>je n’avoit dit, et qu’il Vous avoit communiqué des particularités dont je ne parlois
