@@ -498,6 +498,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0035.xml?keyword_annotation_20250213185416527",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-02-13T17:54:16.527Z",
+	"dcterms:modified": "2025-02-13T17:54:16.527Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/IIwanov",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Iwan Iwanov"
+	},
+	"oa:motivatedBy": "oa:tagging",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0035.xml?keyword_annotation_20250213185416527#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0035.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Swagunke/Pawlowna/main/B0035.xml?keyword_annotation_20250213185416527#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/placeName[2]/seg"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "fabio:UncontrolledVocabulary",
+		"dc:format": "text/xml",
+		"rdf:value": "B_0135"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
             <editorialDecl>
                 <p>
@@ -538,7 +617,7 @@
 <lb/>Vous en baise les mains de tout mon coeur. J’ai été bien occupée de <persName key="Aleksandr I., Russland, Zar" ref="https://d-nb.info/gnd/118501852">mon
 <lb/>frère</persName> à sa fête, et Vous ai suivie pieusement dans tout ce qui Vous occupoit
 <lb/>à cette journée si intéressante, chère Maman, Vous savez si je l’aime
-<lb/>et si je Vous suis dévouée! La lettre qui avoit couru à <placeName key="Stuttgart" ref="https://d-nb.info/gnd/4058282-6">Stoutgard</placeName> est entre
+<lb/>et si je Vous suis dévouée! La lettre qui avoit couru à <placeName key="Stuttgart" ref="https://d-nb.info/gnd/4058282-6">Stoutgard<seg type="keyword"><term>B_0135</term></seg></placeName> est entre
 <lb/>mes mains comme Vous l’aurez vu, j’ai supposé une erreur involontaire
 <lb/>et n’ai par porté plainte en règle, je Vous suis bien reconnoissante pour
 <lb/>tout ce que Vous avez daigné me dire à ce sujet, et je griffone étant aujourd’huy
