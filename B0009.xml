@@ -2512,7 +2512,7 @@
 <lb/>jadis j’avois eu le bonheur de voir avec Vous: je me rappelle parfaitement de la bibliothèque
 <lb/>des partriarches, de l’église des 12 Apôtres, de la salle aux huiles, enfin de l’église du
 <lb/>couvent de Wosnésensky; j’aurais donné cher, chère Maman, pour être de la cérémonie
-<lb/>de la fondation de <placeName>l’église du Sauveur</placeName>, car je crois que c’est le nom qu’il est résolu
+<lb/>de la fondation de <placeName ref="O_0014">l’église du Sauveur</placeName>, car je crois que c’est le nom qu’il est résolu
 <lb/>qu’elle porte, et Vous concevrez avec quel intéret pour cet édifice, je sens battre <placeName key="Russland" ref="https://d-nb.info/gnd/4076899-5">mon
 <lb/>coeur patriote</placeName>, enfin et amen, sur tout cela: j’attens avec impatience la description
 <lb/>de cette grande et belle cérémonie, qui m’émeut d’ici. Malheureusement la mort
@@ -2521,7 +2521,7 @@
 <lb/>pendant le travail, il en est résulté de fâcheux incidens; ce n’est pas une consolation
 <lb/>que de se dire que c’est par l’ignorance ou la négligence des préposés qu’une personne
 <lb/>ait péri, il faut admettre que Dieu le vouloit ainsi, et adorer des décrets incompréhensibles.
-<lb/>Je regrette bien chère Maman, Votre pauvre <persName>Flaissières</persName> qui Vous servoit si fidèlement
+<lb/>Je regrette bien chère Maman, Votre pauvre <persName ref="P_0031">Flaissières</persName> qui Vous servoit si fidèlement
 <lb/>et je conçois toute la peine que sa mort Vous cause, puissiez-Vous trouver un bon
 <lb/>
             <pb facs="02"/>
@@ -2529,7 +2529,7 @@
 <lb/>remplaçant, et j’espère que Vous ne me taxerez pas d’indiscrétion si je desire savoir
 <lb/>qui ce sera, car toute personne autour de Vous m’intéresse à connoitre. Votre portrait
 <lb/>chère Maman passe de mains en mains, et j’entens dire qu’il est fort beau:
-<lb/>même <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">mes enfans</persName> me l’ont emporté pour le montrer à leur monde là-haut,
+<lb/>même <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721"><persName key="Augusta, Deutsches Reich, Kaiserin" ref="https://d-nb.info/gnd/118651102">mes enfans</persName></persName> me l’ont emporté pour le montrer à leur monde là-haut,
 <lb/>ce que j’ai permis de bon coeur. Je Vous baise mille fois les mains
 <lb/>chère et bonne Maman.
             </p>
@@ -2541,7 +2541,7 @@
 <lb/>Chère <persName key="Maria, Russland, Zarin" ref="https://d-nb.info/gnd/11933075X">Maman</persName>, voici une datte signifiante, et je crois que je ne pourrai jamais
 <lb/>m’y retrouver sans en être occupée. Les bontés que <persName key="Katharina II., Russland, Zarin" ref="https://d-nb.info/gnd/118560565">l’Imp[ératrice] Catherine</persName> avoit répandues
 <lb/>sur moi m’ont fait fonder une messe en sa mémoire, mais je n’ai pu y assister
-<lb/>aujourd’huy, ne pouvant rester longtems debout. <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">Mes enfans</persName> se portent bien et
+<lb/>aujourd’huy, ne pouvant rester longtems debout. <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721"><persName key="Augusta, Deutsches Reich, Kaiserin" ref="https://d-nb.info/gnd/118651102">Mes enfans</persName></persName> se portent bien et
 <lb/>se mettent à Vos pieds chère Maman, ils sont d’une gaieté folle, et je continue
 <lb/>à être contente de <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">Marie</persName>. Vous me demandez ce que je lis, j’achève le 4me vol[ume] de
 <lb/><persName key="Thucydides" ref="https://d-nb.info/gnd/11862234X">Thucydide</persName><seg type="keyword"><term>Lektüre: Literarische Werke/ Sachbücher</term></seg>, le 3[me] de l’ouvrage de <persName key="Storch, Heinrich Friedrich von" ref="https://d-nb.info/gnd/118897756">Storch</persName><seg type="keyword"><term>Lektüre: Literarische Werke/ Sachbücher</term></seg> sur l’économie politique, et j’ai lu ces jours-
@@ -2565,11 +2565,11 @@
 <lb/>Je ne sais rien de nouveau, et suis d’une bêtise rare, je n’entens plus parler de
 <lb/><persName key="Luther, Martin" ref="https://d-nb.info/gnd/118575449">Luther</persName> ni de la Réformation<seg type="keyword"><term>Reformation</term></seg>, et j’en suis aise car cela commençoit à devenir
 <lb/>synonime de mes maux de coeur. En attendant <persName key="Hardenberg, Karl August von" ref="https://d-nb.info/gnd/118545906">le pr[ince] Hardenberg</persName> arrive demain,
-<lb/>et <persName key="Heinrich XV, Fürst von Reuss-Greiz" ref="https://d-nb.info/gnd/1089499000">le pr[ince] Reuss</persName> ancien commandant général en <placeName key="Galicien" ref="https://d-nb.info/gnd/4019119-9">Gallicie</placeName> est ici et <persName>la c[om]t[e]sse de
+<lb/>et <persName key="Heinrich XV, Fürst von Reuss-Greiz" ref="https://d-nb.info/gnd/1089499000">le pr[ince] Reuss</persName> ancien commandant général en <placeName key="Galicien" ref="https://d-nb.info/gnd/4019119-9">Gallicie</placeName> est ici et ,<persName ref="P_0037">la c[om]t[e]sse de
 <lb/>
-la Lippe-Bückebourg</persName> aussi: <persName key="Heinrich XV, Fürst von Reuss-Greiz" ref="https://d-nb.info/gnd/1089499000">le pr[ince] Reuss</persName> est grand chasseur. J’embrasse
+la Lippe-Bückebourg</persName>, aussi: <persName key="Heinrich XV, Fürst von Reuss-Greiz" ref="https://d-nb.info/gnd/1089499000">le pr[ince] Reuss</persName> est grand chasseur. J’embrasse
 <lb/>frères et soeurs et <persName key="Lieven, Charlotte Karlowna de" ref="https://d-nb.info/gnd/115603972">notre chère c[om]t[e]sse</persName>, et Vous baise les mains de tout mon
-<lb/>coeur, <persName key="Karl Friedrich, Sachsen-Weimar-Eisenach, Großherzog" ref="https://d-nb.info/gnd/102479844">le pr[ince]</persName> et <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">les petites</persName> se mettent à Vos pieds chère Maman, et je suis
+<lb/>coeur, <persName key="Karl Friedrich, Sachsen-Weimar-Eisenach, Großherzog" ref="https://d-nb.info/gnd/102479844">le pr[ince]</persName> et <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721"><persName key="Augusta, Deutsches Reich, Kaiserin" ref="https://d-nb.info/gnd/118651102">les petites</persName></persName> se mettent à Vos pieds chère Maman, et je suis
 <lb/>à jamais avec le plus respectueux et éternel dévouement,
 <lb/>
 <lb/>de ma bonne et chère Maman,
