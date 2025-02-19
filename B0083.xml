@@ -126,8 +126,12 @@
     <text>
         <body>
             <p>
+            <pb facs="01"/>
                <lb/>Num. 1 [1818 Jan. 1-3/ Jan. 13-15]
 <lb/>fol. 2r
+            </p>
+            <div type="letter" n="01">
+            <p>
 <lb/>Ce 1/13 janvier 1818, mardi.
 <lb/>
 <lb/>Chère bonne Enfant, j’ai terminé mon année en t’écrivant hier au soir; je la
@@ -155,7 +159,10 @@
 <lb/>voir 4 fois grand-mère dans 1’année, j’en bénis Dieu et met[s] mes
 <lb/>enfans sous sa sainte garde: bonsoir chère Enfant bénédiction et
 <lb/>tendresse à mari, frère et enfans.
-<lb/>
+            </p>
+            </div>
+            <div type="letter" n="02">
+            <p>
 <lb/>Ce 2 janvier, mécredi.
 <lb/>
 <lb/>Je me sens un peu fatiguée de la journée d’hier chère et bonne Enfant
@@ -164,6 +171,7 @@
 <lb/>dit qu’il faisoit beaucoup de vent, cependant d’autres m’ont assuré
 <lb/>qu’il faisoit beau; la poste est arrivée mais je n’ai pas reçu de tes
 <lb/>
+            <pb facs="02"/>
 <lb/>fol. 2v
 <lb/>lettres mais en ayant reçu la poste passée trois à la fois, toutes d’un
 <lb/>jour, je m’attendois à la privation d’en recevoir aujourd’hui.
@@ -172,7 +180,10 @@
 <lb/>embellissant et se portant à merveille: elle engraisse beaucoup ce qui
 <lb/>lui va à merveille: notre bonne comtesse se porte très bien aussi:
 <lb/>bonsoir ma bonne amie tout à toi de coeur et d’âme!
-<lb/>
+            </p>
+            </div>
+            <div type="letter" n="03">
+            <p>
 <lb/>Ce 3 janvier, jeudi.
 <lb/>
 <lb/>Je suis sortie en traineau ce matin chère Enfant et j’ai diné avec du monde
@@ -188,6 +199,7 @@
 <lb/>
 <lb/>Frères et soeurs t’embrassent aussi que la comtesse.
             </p>
+            </div>
         </body>
     </text>
 </TEI>
