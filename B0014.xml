@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="null"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
@@ -840,7 +840,7 @@
             <p>
                 <lb/>No. 254 [1817 Nov. 27]
 <lb/>fol. 266r
-<lb/><placeName key="Weimar" ref="https://d-nb.info/gnd/4065105-8">Weymar</placeName>, le jeudi 15/27 novembre 1817.
+<lb/><placeName key="Weimar" ref="https://d-nb.info/gnd/4065105-8">Weymar</placeName>. Le jeudi, 15/27 novembre 1817.
 <lb/>
 <lb/>Ma bonne et chère <persName key="Maria, Russland, Zarin" ref="https://d-nb.info/gnd/11933075X">Maman</persName>!
 <lb/>
@@ -855,7 +855,7 @@
 <lb/>J’ai quelqu’espoir que l’hyver sera plus froid que les précédens, et que
 <lb/>nous pourrons avoir quelques courses de traineaux, car l’air est vif, et l’on
 <lb/>dit que les indications sont pour le froid. En attendant, depuis des années
-<lb/>il ne s’est vu chasse pareille à celle qui vient d’avoir lieu. <persName key="Karl August, Sachsen-Weimar-Eisenach, Großherzog" ref="https://d-nb.info/gnd/11856014X">Le GrDuc</persName>
+<lb/>il ne s’est vu chasse pareille à celle qui vient d’avoir lieu. <persName key="Karl August, Sachsen-Weimar-Eisenach, Großherzog" ref="https://d-nb.info/gnd/11856014X">Le gr[and-]ducGrDuc</persName>
 <lb/>et sa société ont tiré en l’espace d’une mattinée, c’est-à-dire depuis
 <lb/>onze heures jusqu’à vers 4 heures, plus de 800 lièvres, sans compter les
 <lb/>perdrix, les renards et blairaux: il en est tout fier. On dit que ce
