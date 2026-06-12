@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="null"?>
+<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <fileDesc>
@@ -382,7 +382,7 @@
 <lb/>et me fait un plaisir, mais un plaisir extrême: je Vous en remercie mille
 <lb/>mille fois chère Maman, comme du plus précieux cadeau que Vous ayez pu
 <lb/>me faire. Je l’ai montré de suite au <persName key="Karl Friedrich, Sachsen-Weimar-Eisenach, Großherzog" ref="https://d-nb.info/gnd/102479844">pr[ince]</persName> et à <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721">mes enfans</persName>, les petites ont une
-<lb/>grande joie d’avoir vu g<persName key="Maria, Russland, Zarin" ref="https://d-nb.info/gnd/11933075X">rand-maman de Russie</persName>, et m’ont beaucoup demandé
+<lb/>grande joie d’avoir vu <persName key="Maria, Russland, Zarin" ref="https://d-nb.info/gnd/11933075X">grand-maman de Russie</persName>, et m’ont beaucoup demandé
 <lb/>si ce portrait étoit bien, bien ressemblant? <persName key="Karl Friedrich, Sachsen-Weimar-Eisenach, Großherzog" ref="https://d-nb.info/gnd/102479844">Le pr[ince]</persName> et moi pensons de même à son
 <lb/>sujet, et sommes fort heureux de l’avoir dans notre maison: j’ose encore une
 <lb/>fois Vous en exprimer chère Maman mes plus sensibles remercimens, j’attens
