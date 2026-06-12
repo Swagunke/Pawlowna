@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="null"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
@@ -1477,12 +1477,12 @@
 <lb/><persName key="Alopeus, David" ref="https://d-nb.info/gnd/116288329">Le ministre de Russie à Berlin</persName> m’ayant fait savoir qu’il partiroit sous peu
 <lb/>un courier pour <placeName key="Moskau" ref="https://d-nb.info/gnd/4074987-3">Moscou</placeName>, j’en profite pour avoir le bonheur de Vous adresser ces lignes, et
 <lb/>pour Vous y remercier de Votre lettre du 7 et 8 oct[obre], No. 105<seg type="keyword"><term>B_0117</term></seg>, que j’ai eue le bonheur de
-<lb/>recevoir hier par la poste. Je regrette bien avec Vous chère Maman la mort de <persName ref="P_0019">Mad[ame] <choice><sic>Louky</sic><corr>unsichere Lesung </corr></choice></persName>
+<lb/>recevoir hier par la poste. Je regrette bien avec Vous chère Maman la mort de m<persName ref="P_0019">ad[ame] <choice><sic>Louky</sic><corr>unsichere Lesung </corr></choice></persName>
 <lb/>et l’accident du <persName ref="P_0020">vieux <choice><sic>Kyril</sic><corr>unsichere Lesung </corr></choice></persName>, et je conçois combien des nouvelles de ce genre peuvent affecter,
 <lb/>car comment ne pas s’attacher non seulement aux services, à la fidélité et à l’affection?
 <lb/>J’ai aussi eu une lettre de <persName ref="P_0021">mes anciennes femmes de chambre</persName> de <placeName key="Russland" ref="https://d-nb.info/gnd/4076899-5">Russie</placeName>, qui disent
 <lb/>m’avoir écrit au mois de juillet la mort de <persName ref="P_0022">leur vieille mère</persName>, qui aussi m’avoit 
-<lb/>servi jadis, mais quoiqu’elles eussent remis cette lettre dont elles me parlent à <persName key="Villamov, Grigorij Ivanovic" ref="https://d-nb.info/gnd/1077870728">Mr.
+<lb/>servi jadis, mais quoiqu’elles eussent remis cette lettre dont elles me parlent à <persName key="Villamov, Grigorij Ivanovic" ref="https://d-nb.info/gnd/1077870728">Mrm[onsieu]r.
 <lb/>Willamoff</persName>, je ne l’ai jamais reçue. Elles me répètent la nouvelle de la mort
 <lb/>de leur mère, et me demandent de rappeller aux bontés de <persName key="Aleksandr I., Russland, Zar" ref="https://d-nb.info/gnd/118501852">l’Emp[ereur]</persName> l’espoir qu’il
 <lb/>leur avoit donné par mon entremise, de leur accorder un logement dans <placeName ref="O_0010">la maison
