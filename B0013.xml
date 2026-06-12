@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="null"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
@@ -369,7 +369,7 @@
             </p>
             <div type="letter" n="01">
             <p>
-<lb/><placeName key="Weimar" ref="https://d-nb.info/gnd/4065105-8">Weymar</placeName>. Lundi 12/24 novembre 1817.
+<lb/><placeName key="Weimar" ref="https://d-nb.info/gnd/4065105-8">Weymar</placeName>. Lundi, 12/24 novembre 1817.
 <lb/>
 <lb/>Ma bonne et chère <persName key="Maria, Russland, Zarin" ref="https://d-nb.info/gnd/11933075X">Maman</persName>!
 <lb/>
@@ -379,8 +379,8 @@
 <lb/>est avec <persName ref="P_0037">sa jeune épouse qui est pr[ince]sse de Waldeck</persName> et soeur à <persName key="Mathilde, Württemberg, Prinzessin" ref="https://d-nb.info/gnd/1083833707">la femme</persName>
 <lb/>de <persName ref="P_0046">mon cousin Eugène</persName>. Sans être jolie, la pr[ince]sse de la Lippe a eu heureuse physionomie
 <lb/>ouverte et gaie, elle a l’air tout-à-fait bonne personne, et quelque chose de
-<lb/>fort simple. Je suis toute accablée de ma journée, ayant eu en visites
-<lb/>matin et soir; je n’ai pu sortir qu’en voiture tant il faisoit mauvois,
+<lb/>fort simple. Je suis toute accablée de ma journée, ayant eu les visites
+<lb/>matin et soir. Je n’ai pu sortir qu’en voiture tant il faisoit mauvois,
 <lb/>mais nous n’osons pas nous plaindre, car l’automne a été belle. Daignez
 <lb/>excuser ma brièveté forcée chère Maman, mais réellement je ne vaux rien
 <lb/>pour aucune occupation que ce soit actuellement. Je me mets de tout
