@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="null"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
@@ -1235,7 +1235,7 @@
 <lb/>
 <lb/>Ce matin à mon réveil, l’on m’a remis Votre chère lettre du 16/28 et 17/29
 <lb/>oct[obre], No. 108<seg type="keyword"><term>B_0120</term></seg>, qu’un courier allant à <placeName key="Madrid" ref="https://d-nb.info/gnd/4036862-2">Madrid</placeName> avoit laissée ici a son passage
-<lb/>cette nuit: je Vous laisse à juger chère Maman, si je me suis sentie heureuse,
+<lb/>cette nuit. Je Vous laisse à juger chère Maman, si je me suis sentie heureuse,
 <lb/>et si j’ai joui en y trouvant les expressions de Votre tendresse à laquelle
 <lb/>Vous avez daigné m’accoutumer; je Vous en remercie mille et mille fois, comme
 <lb/>pour les charmantes boucles d’oreilles pour <persName key="Marie, Preußen, Prinzessin, 1808-1877" ref="https://d-nb.info/gnd/123774721"><persName key="Augusta, Deutsches Reich, Kaiserin" ref="https://d-nb.info/gnd/118651102">les petites</persName></persName>, qui en ont été enchantées, et
@@ -1243,7 +1243,7 @@
 <lb/>et étant une turquoise, pierre en réputation sous ce rapport. Combien tous les
 <lb/>détails que Vous avez bien voulu me transmettre sur <placeName key="Moskau" ref="https://d-nb.info/gnd/4074987-3">Moscou</placeName>, ne me
 <lb/>sont-ils pas précieux, et que je suis aise de la disposition qui règne dans
-<lb/>cette respectable cité, que nos habitudes <placeName key="Russland" ref="https://d-nb.info/gnd/4076899-5">russes</placeName> ont surnommée <hi rend="italic">Матушка
+<lb/>cette respectable cité, que nos habitudes r<placeName key="Russland" ref="https://d-nb.info/gnd/4076899-5">usses</placeName> ont surnommée <hi rend="italic">Матушка
 <lb/>Москва</hi> à juste titre, et que cette grande et belle ville est loin d’être
 <lb/>une capitale ordinaire, sans autre intéret que celui d’une résidence et des
 <lb/>beautés que les arts ont fournies pour en parer le séjour! À <placeName key="Moskau" ref="https://d-nb.info/gnd/4074987-3">Moscou</placeName>,
