@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="null"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-    <teiHeader>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="main"/>
@@ -2491,8 +2490,7 @@
                 <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Brief</classCode>
             </textClass>
         </profileDesc>
-    </teiHeader>
-    <text>
+    </teiHeader><text>
         <body>
             <p>
             <pb facs="01"/>
@@ -2509,7 +2507,7 @@
 <lb/>d’impatience et contenant les détails de Votre arrivée à <placeName key="Moskau" ref="https://d-nb.info/gnd/4074987-3">Moscou</placeName>, mais mon espoir a
 <lb/>été desçu, et je crois que les postes n’étant peut-être pas bien établies directement
 <lb/>de <placeName key="Moskau" ref="https://d-nb.info/gnd/4074987-3">Moscou</placeName> ici en sont causes; je me flatte que jeudi, je serai dédommagée
-<lb/>de mon attente, et m’en réjouis déja; en attendant d’autres ordres de Votre
+<lb/>de mon attente, et m’en réjouis déja. En attendant d’autres ordres de Votre
 <lb/>part chère Maman, je continue à addresser mes lettres à <placeName key="Moskau" ref="https://d-nb.info/gnd/4074987-3">Moscou</placeName> par
 <lb/><placeName key="Sankt Petersburg" ref="https://d-nb.info/gnd/4267026-3">Pétersbourg</placeName>. Connoissant Vos bontés pour moi chère Maman, je crois devoir Vous
 <lb/>faire part d’une chose qui me regarde et qui répond au desir que depuis longtems Vous
@@ -2575,5 +2573,4 @@
             </p>
             </div>         
         </body>
-    </text>
-</TEI>
+    </text></TEI>
