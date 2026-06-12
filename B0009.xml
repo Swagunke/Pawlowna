@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="null"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
@@ -2430,7 +2430,7 @@
 <lb/>La poste m’a mise en possession de Votre chère lettre du 9, 10 et 11 octobre, No. 106<seg type="keyword"><term>B_0118</term></seg>,
 <lb/>pour laquelle je me hâte de déposer mes remercimens à Vos pieds, ayant lu avec un
 <lb/>extrême plaisir la description des lieux que Vous aviez parcourus dans <placeName key="Kreml Moskau (Moskau)" ref="https://d-nb.info/gnd/4074990-3">le Kreml</placeName>, et que
-<lb/>jadis j’avois eu le bonheur de voir avec Vous: je me rappelle parfaitement de la bibliothèque
+<lb/>jadis j’avois eu le bonheur de voir avec Vous. Je me rappelle parfaitement de la bibliothèque
 <lb/>des partriarches, de l’église des 12 Apôtres, de la salle aux huiles, enfin de l’église du
 <lb/>couvent de Wosnésensky; j’aurais donné cher, chère Maman, pour être de la cérémonie
 <lb/>de la fondation de <placeName ref="O_0014">l’église du Sauveur</placeName>, car je crois que c’est le nom qu’il est résolu
