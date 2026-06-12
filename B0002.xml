@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="null"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-    <teiHeader>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="main"/>
@@ -1228,8 +1227,7 @@
                 <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Brief</classCode>
             </textClass>
         </profileDesc>
-    </teiHeader>
-    <text>
+    </teiHeader><text>
         <body>
             <div>
             <p>
@@ -1250,7 +1248,7 @@
 <lb/>Vous formiez pour moi. Toutes les apparences y sont pour que l’on puisse les croire réalisés,
 <lb/>et quoique j’aurois desiré attendre plus longtems afin d’arriver jusqu’à nouvelle
 <lb/>confirmation pour Vous en parler décidément, cependant j’ai cru ne plus pouvoir tarder
-<lb/>à le faire parce que tout indique trop l’état où je me trouve; il y a déja longtems
+<lb/>à le faire parce que tout indique trop l’état où je me trouve. Il y a déja longtems
 <lb/>que j’ai remis ce qui me concerne à Dieu, je regarde donc ceci comme l’effet de sa
 <lb/>volonté, et me répète, que sa volonté soit faite, sans aller chercher plus. Veuillez me
 <lb/>continuer Vos bénédictions, chère Maman, et ne faire encore part de ceci qu’à <persName key="Aleksandr I., Russland, Zar" ref="https://d-nb.info/gnd/118501852">Alexandre</persName>
@@ -1275,5 +1273,4 @@
             </p>
             </div>        
 		</body>
-    </text>
-</TEI>
+    </text></TEI>
