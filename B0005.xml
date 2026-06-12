@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="null"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
@@ -298,7 +298,7 @@
 <lb/>No. 103<seg type="keyword"><term>B_0115</term></seg>, pour laquelle je dépose mes remercimens à Vos pieds, ayant lu avec
 <lb/>le plus vif intéret tout ce que Vous avez bien voulu me tracer au sujet
 <lb/>du lendemain de Votre arrivée à <placeName key="Moskau" ref="https://d-nb.info/gnd/4074987-3">Moscou</placeName>, ainsi que de l’entrée des gardes, de la
-<lb/>présentation des militaires et messieurs du lieu; il n’y a que l’article de
+<lb/>présentation des militaires et messieurs du lieu. Il n’y a que l’article de
 <lb/>Votre peau tondue chère Maman pour lequel à vue de païs, il me faut véritablement
 <lb/>une foi implicite, car il n’est pas concevable que Vous puissiez l’avoir
 <lb/>après une école de l’espèce de celles où Vous Vous êtes trouvée depuis tant d’années
