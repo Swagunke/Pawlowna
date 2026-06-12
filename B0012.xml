@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="null"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
@@ -1111,13 +1111,12 @@
 <lb/>Vos pieds, j’embrasse mes frères et soeurs et <persName key="Lieven, Charlotte Karlowna de" ref="https://d-nb.info/gnd/115603972">notre chère c[om]t[e]sse</persName>, en Vous
 <lb/>suppliant de m’accorder toujours Votre bénédiction et d’aimer toujours un peu
 <lb/>celle dont le dévouement sans bornes n’est égalé que par le profond et
-<lb/>respectueux attachement.
-<lb/>
-<lb/>De ma chère Maman,
+<lb/>respectueux attachement,<lb/>
+<lb/>de ma chère Maman,
 <lb/>la plus soumise et obéissante
 <lb/>fille, <persName key="Maria, Sachsen-Weimar, Großherzogin" ref="https://d-nb.info/gnd/104304219">Marie</persName>.
 <lb/>
-<lb/>[P. S.] <persName key="Karl Friedrich, Sachsen-Weimar-Eisenach, Großherzog" ref="https://d-nb.info/gnd/102479844">Le pr[ince]</persName> charge chère Maman de mettre à Vos pieds l’hommage de son respect.
+<lb/>[P. S.] <persName key="Karl Friedrich, Sachsen-Weimar-Eisenach, Großherzog" ref="https://d-nb.info/gnd/102479844">Le pr[ince]</persName> charge chère Maman de mettre à Vos pieds l’hommage de son</p><p> respect.
             </p>
         </body>
     </text>
