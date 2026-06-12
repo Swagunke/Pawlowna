@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="null"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
@@ -298,8 +298,8 @@
 <lb/>de celles que la poste m’a remises de Votre part, chère Maman! Je veux parler de
 <lb/>celle du 12, 13, 14 et 15 oct[obre], sans No.<seg type="keyword"><term>B_0119</term></seg>, et du 18 oct[obre], No. 109<seg type="keyword"><term>B_0120</term></seg>, que je viens de recevoir,
 <lb/>et pour lesquelles je Vous baise les mains mille et mille fois de toute la plénitude de
-<lb/>mon coeur: la lecture de ces lettres m’a causé la plus vive émotion, et chaque mot
-<lb/>chaqu’expression retentissoit dans mon coeur; que je Vous remercie ma bonne et chère
+<lb/>mon coeur. La lecture de ces lettres m’a causé la plus vive émotion, et chaque mot
+<lb/>chaqu’expression retentissoit dans mon coeur: que je Vous remercie ma bonne et chère
 <lb/>Maman de m’identifier ainsi à tout ce qui Vous touche et à toute action grande
 <lb/>et belle concernant <placeName key="Russland" ref="https://d-nb.info/gnd/4076899-5">la Russie</placeName>, dont Vous êtes témoin; c’est bien la jouissance la plus
 <lb/>pure que mon coeur puisse gouter, et si sentir vivement est une manière de mérite,
