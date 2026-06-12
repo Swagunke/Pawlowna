@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="null"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
@@ -375,7 +375,7 @@
 <lb/>
 <lb/>Ayant eu le bonheur de Vous écrire hier par <placeName key="Berlin" ref="https://d-nb.info/gnd/4005728-8">Berlin<seg type="keyword"><term>B_0007</term></seg></placeName>, celle-ci ne sera que de deux
 <lb/>jours. Quelle a été ma surprise de voir arriver ce matin chez moi <persName key="Vasil’čikov, Aleksej Vasil’evič" ref="P_0029">Mr. Wassiltschikoff</persName>,
-<lb/>frère de <persName key="Kočubej, Maria Vasil’evna (geb. Vasil’čikova)" ref="P_0027">la comtesse Kotschoubey</persName>; Vous juger chère Maman si je l’ai bien reçu
+<lb/>frère de <persName key="Kočubej, Maria Vasil’evna (geb. Vasil’čikova)" ref="P_0027">la comtesse Kotschoubey.</persName> Vous juger chère Maman si je l’ai bien reçu
 <lb/>et si je me suis empressée à ouvrir Votre chère lettre du 24 sept[embre], No. 98, ainsi que
 <lb/>la boite qui l’accompagnoit, et la vue de Votre portrait m’a réjouie d’une manière
 <lb/>indisible; sans le trouver parlant, ni parfait, il a pourtant de la ressemblance,
